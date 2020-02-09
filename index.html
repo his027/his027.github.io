@@ -5,22 +5,12 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="google-site-verification" content="xBT4GhYoi5qRD5tr338pgPM5OWHHIDR6mNg1a3euekI" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-    <meta name="description" content="关于程序与设计、黑客与画家 | py027，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @py027 的个人博客，与你一起发现更大的世界。">
-    <meta name="keywords"  content="py027, py027, py027, 鬼栈, py027pro, @py027pro, py027的博客, py027 Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Allen WANG | Big Data Developer">
+    <meta name="keywords"  content="Allen WANG, allenwhm, big data, 大数据">
     <meta name="theme-color" content="#000000">
     
-    <!-- Open Graph -->
-    <meta property="og:title" content="py027的博客 | py027 Blog">
-    
-    <meta property="og:type" content="website">
-    <meta property="og:description" content="我干了什么 究竟拿了时间换了什么">
-    
-    <meta property="og:image" content="https://huangxuan.me/img/avatar-py027-ny.jpg">
-    <meta property="og:url" content="https://huangxuan.me/">
-    <meta property="og:site_name" content="py027的博客 | py027 Blog">
-    
-    <title>py027的博客 | py027 Blog</title>
+    <title>py027</title>
 
     <!-- Web App Manifest -->
     <link rel="manifest" href="/pwa/manifest.json">
@@ -29,18 +19,28 @@
     <link rel="shortcut icon" href="/img/favicon.ico">
     
     <!-- Canonical URL -->
-    <link rel="canonical" href="https://huangxuan.me/">
+    <link rel="canonical" href="https://allenwhm.github.io/">
 
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/py027-blog.min.css">
+    <link rel="stylesheet" href="/css/allen-wang.min.css">
+
+    <!-- Pygments Github CSS -->
+    <link rel="stylesheet" href="/css/syntax.css">
 
     <!-- Custom Fonts -->
     <!-- <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"> -->
-    <!-- py027 change font-awesome CDN to qiniu -->
+    <!-- Hux change font-awesome CDN to qiniu -->
     <link href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+
+    <!-- Hux Delete, sad but pending in China
+    <link href='http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/
+    css'>
+    -->
 
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -59,9 +59,7 @@
 <body ontouchstart="">
 
     <!-- Navigation -->
-
 <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
-
     <div class="container-fluid">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header page-scroll">
@@ -71,44 +69,24 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="/">py027 Blog</a>
+            <a class="navbar-brand" href="/">py027</a>
         </div>
 
         <!-- Collect the nav links, forms, and other content for toggling -->
-        <div id="py027blog_navbar">
+        <div id="huxblog_navbar">
             <div class="navbar-collapse">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
                         <a href="/">Home</a>
                     </li>
                     
-                    
-                    
-                    
                     <li>
                         <a href="/about/">About</a>
                     </li>
                     
-                    
-                    
                     <li>
-                        <a href="/archive/">Archive</a>
+                        <a href="/tags/">Tags</a>
                     </li>
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    
                     
                 </ul>
             </div>
@@ -123,10 +101,10 @@
     // in high-perf jank-free CSS3 implementation
     var $body   = document.body;
     var $toggle = document.querySelector('.navbar-toggle');
-    var $navbar = document.querySelector('#py027blog_navbar');
+    var $navbar = document.querySelector('#huxblog_navbar');
     var $collapse = document.querySelector('.navbar-collapse');
 
-    var __py027Nav__ = {
+    var __HuxNav__ = {
         close: function(){
             $navbar.className = " ";
             // wait until animation end.
@@ -146,9 +124,9 @@
     // Bind Event
     $toggle.addEventListener('click', function(e){
         if ($navbar.className.indexOf('in') > 0) {
-            __py027Nav__.close()
+            __HuxNav__.close()
         }else{
-            __py027Nav__.open()
+            __HuxNav__.open()
         }
     })
 
@@ -159,41 +137,32 @@
      * $toggle/$collapse will break global delegation.
      * 
      * Instead, we use a 'e.target' filter to prevent handler
-     * added to document close py027Nav.  
+     * added to document close HuxNav.  
      *
      * Also, we use 'click' instead of 'touchstart' as compromise
      */
     document.addEventListener('click', function(e){
         if(e.target == $toggle) return;
         if(e.target.className == 'icon-bar') return;
-        __py027Nav__.close();
+        __HuxNav__.close();
     })
 </script>
 
 
     <!-- Page Header -->
-
-
-
-
-
-
-
-<header class="intro-header" style="background-image: url('/img/home-bg.jpg')">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        
-        <div class="site-heading">
-        
-          <h1>py027 Blog</h1>
-          <span class="subheading">我干了什么 究竟拿了时间换了什么</span>
+<header class="intro-header" style="background-image: url('/img/home.jpg')">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1 ">
+                <div class="site-heading">
+                    <h1>py027</h1>
+                    <!--<hr class="small">-->
+                    <span class="subheading">好奇心，探索广阔世界</span>
+                </div>
+            </div>
         </div>
-      </div>
     </div>
-  </div>
 </header>
-
 
 <!-- Main Content -->
 <div class="container">
@@ -211,306 +180,124 @@
             ">
     			
 <div class="post-preview">
-    <a href="/2019/09/13/peter-john-landin/">
+    <a href="/2019/03/16/build-personal-blog/">
         <h2 class="post-title">
-            Peter John Landin
+            30分钟，搭建你的个人网站 | github.io
         </h2>
         
-        <h3 class="post-subtitle">
-            「计算机科学偶像」- 彼得·约翰·兰丁
-        </h3>
-        
         <div class="post-content-preview">
-            
-                
-  
-    
-      
-        wiki
-        维基
-      
-    
-  
+            不管懂不懂网页技术，搭建一个属于自己的个人网站总是极具诱惑力的。
 
+这是一个完全由你自己掌控的地方，在这里，你是你自己的国王/王后。
 
-I was long curious about how does λ calculus become the foundation of formalizaing programming languages. It’s strange that I haven’t look u...
-            
+也许这事以前做起来还有些麻烦，但是现在却十分简单，零基础，零投入，即刻拥有！
+
+为了让你有一个直观的感受，可以先看我快速创建的 主页。
+
+搭建个人网站的方式有很多种，最近发现最简单快捷的是用 github.io 。
+
+根据 github pages 的提示，...
         </div>
     </a>
     <p class="post-meta">
-        Posted by py027 on September 13, 2019
+        Posted by Allen on March 16, 2019
     </p>
 </div>
 <hr>
 
 <div class="post-preview">
-    <a href="/2019/09/08/spacemacs-workflow/">
+    <a href="/2018/08/25/make-the-right-decision/">
         <h2 class="post-title">
-            My Spacemacs Workflow
+            做正确的决定
         </h2>
-        
-        <h3 class="post-subtitle">
-            From Vim to Spacemacs
-        </h3>
         
         <div class="post-content-preview">
             
-                Emacs tend to provide a good support for functional programming languages. Indeed, many FP language community exclusively use Emacs and give only first-party IDE supports to Emacs, such as Coq, Agd...
-            
+  重新启程
+
+
+最近发生的种种，无时不刻不在提醒自己，是时候选择一个新的地方重新开始了。
+
+饼，画的再大再诱人，如果不能成为实物，只会饿死。
+
+
+  目标明确，行动迅速
+
+
+团队已经发生了巨变，自己也应该另寻去处。
+
+既然已经决定离开，那么就应该全力以赴，全面提升自己各方面的实力。
+
+之前还在看内部的机会，也收到了最终的offer。
+
+不过深知，那不是自己想要的能让自己为之振奋的工作。
+...
         </div>
     </a>
     <p class="post-meta">
-        Posted by py027 on September 8, 2019
+        Posted by Allen on August 25, 2018
     </p>
 </div>
 <hr>
 
 <div class="post-preview">
-    <a href="/2019/09/03/vim-from-finder/">
+    <a href="/2018/05/03/imporve-professional-competence/">
         <h2 class="post-title">
-            把「终端下的 Vim」作为 macOS Finder 的打开方式
+            坚持不懈，提升专业能力
         </h2>
-        
-        <h3 class="post-subtitle">
-            Open file with terminal Vim from the macOS Finder
-        </h3>
         
         <div class="post-content-preview">
             
-                我的日常主力编辑器主要是：
+  闻道有先后，术业有专攻。
 
 
-  (Neo)Vim
-  Spacemacs (via Emacs-plus)
-  Visual Studio Code
-  IntelliJ IDEA
+专业能力或者是我们每一个人的安身立命之本。
 
+可是毕业快两年的时间，觉得自己仍然是个小白。
 
-这里面只有 (Neo)Vim 是存活在终端中的（我并不在终端内使用 Emacs），而由于我日常主要是从终端（via iTerm）来使用电脑，所以会把他们都加入到 $PATH 里以方便从终端中唤起，VSCo...
-            
+虽说学无止境，自己还是没有达到一个专业的水准。
+
+不应该有任何的借口，缓慢的前行只能是因为自己的懒惰：行动上的迟缓，以及思维的惰性。
+
+自己的技术能力现在处于一个什么样的水平，也许自己很难有一个全面客观的认识和评价。
+
+是骡子是马，拉出去遛遛。
+
+只有经过市场的检...
         </div>
     </a>
     <p class="post-meta">
-        Posted by py027 on September 3, 2019
+        Posted by Allen on May 3, 2018
     </p>
 </div>
 <hr>
 
 <div class="post-preview">
-    <a href="/2018/10/06/vim-cn-im/">
+    <a href="/2018/04/25/build-blog-based-on-jekull-theme/">
         <h2 class="post-title">
-            Vim 与中文输入法
+            根据Jekyll模板创建个人博客
         </h2>
         
-        <h3 class="post-subtitle">
-            Using Vim with non-english input method
-        </h3>
-        
         <div class="post-content-preview">
-            
-                Update: 我最后还是放弃把 Vim 作为主要编辑器来输入中文了，整体使用下来 mental model 的 cost 太重了。记笔记时用用中文呀或者改改博客时偶尔用一下还蛮去，这个时候这个功能至少能帮助你 Esc 之后不煞笔，所以也不算完全没有价值吧……
+            首先，仰慕 [Hux] 大神。
 
+经过一番折腾，也终于搭建好了自己的博客。从最开始接触Github Pages到现在基于Jekyll搭建博客，中间也进行了一些探索。
 
+最后发现自己需要的，只不过是一个可以很方便地记录和分享技术的地方。它不需要去编写那些网页元素和样式，只需要去关注内容本身。
 
-我相信很多中文世界的 Vimer 都遇到过这个烦恼，在 vim 的 insert 模式时可能突然想输个中文，输完之后会本能的...
-            
+而基于Markdown的Jekyll恰好满足了自己的需求，所以也如很多人对它一样一见钟情。
+
+由于被...
         </div>
     </a>
     <p class="post-meta">
-        Posted by py027 on October 6, 2018
-    </p>
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="/2018/09/27/avoiding-success-at-all-cost/">
-        <h2 class="post-title">
-            Avoiding success at all cost
-        </h2>
-        
-        <h3 class="post-subtitle">
-            Watching "Escape from the Ivory Tower: The Haskell Journey"
-        </h3>
-        
-        <div class="post-content-preview">
-            
-                “Avoiding success at all cost” is the informal motto behinds Haskell. It could be parenthesized in two ways, either “Avoiding (success at all cost)” or “(Avoiding sucess) (at all cost)”.
-
-I’m not going to interpret them directly but rather to share some thoughts on “the success vs. costs” basing ...
-            
-        </div>
-    </a>
-    <p class="post-meta">
-        Posted by py027 on September 27, 2018
-    </p>
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="/2018/06/30/dreamer/">
-        <h2 class="post-title">
-            程序员中的梦想家
-        </h2>
-        
-        <h3 class="post-subtitle">
-            Dreamers among programmers
-        </h3>
-        
-        <div class="post-content-preview">
-            
-                
-  本文首发于我的知乎专栏 The Little Programmer，转载请保留链接 ;)
-
-
-有一类程序员是 visionary 型的，为了实现一些超前的 idea，绕过某些技术的限制，他们写的 code 晦涩高深得只有他们自己能懂，做出来的 tool 看上去很美好结果处处是坑出了 bug 根本没法查，但正是这类人不断创造出新的东西，在洗礼之后成为一个个 big thing。
-
-我每周...
-            
-        </div>
-    </a>
-    <p class="post-meta">
-        Posted by py027 on June 30, 2018
-    </p>
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="/2017/12/12/uncomputable-funcs/">
-        <h2 class="post-title">
-            「知乎」如何证明不可计算的函数比可计算的函数多？
-        </h2>
-        
-        <h3 class="post-subtitle">
-            Why is there more uncomputable functions?
-        </h3>
-        
-        <div class="post-content-preview">
-            
-                
-  这篇文章转载自我在知乎上的回答
-
-
-严谨的证明的话，可以使用「形式语言」（Formal language）来证明：
-
-在可计算理论和计算复杂度理论中，每个「计算问题」都被描述为一个一个「形式语言」，即字符串的集合。比如对于判断一个图是否是无向连通图这个问题：我们可以写为一个描述所有无向连通图的集合：
-
-
-
-由于图灵机只能接受字符串，所以这里的尖括号表示对图的「编码」。出于简单，我们全部...
-            
-        </div>
-    </a>
-    <p class="post-meta">
-        Posted by py027 on December 12, 2017
-    </p>
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="/2017/12/12/halting-problem/">
-        <h2 class="post-title">
-            「知乎」如何通俗地解释停机问题？
-        </h2>
-        
-        <h3 class="post-subtitle">
-            How to explain the Halting Problem?
-        </h3>
-        
-        <div class="post-content-preview">
-            
-                
-  这篇文章转载自我在知乎上的回答
-
-
-我用 Python 伪代码来解释下，我觉得对这个问题有兴趣的应该都是有点编程基础的，所以直接上 code 应该是最容易的。
-
-背景知识
-
-「停机问题」研究的是：是否存在一个「程序」，能够判断另外一个「程序」在特定的「输入」下，是会给出结果（停机），还是会无限执行下去（不停机）。
-
-在下文中，我们用「函数」来表示「程序」，「函数返回」即表示给出了结果。...
-            
-        </div>
-    </a>
-    <p class="post-meta">
-        Posted by py027 on December 12, 2017
-    </p>
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="/2017/10/06/css-complaints/">
-        <h2 class="post-title">
-            「知乎」为什么 CSS 这么难学？
-        </h2>
-        
-        <h3 class="post-subtitle">
-            Why I dislike CSS as a programming language
-        </h3>
-        
-        <div class="post-content-preview">
-            
-                
-  这篇文章转载自我在知乎上的回答
-
-
-对我来说，CSS 难学以及烦人是因为它「出乎我意料之外的复杂」且让我觉得「定位矛盾」。
-
-@方应杭 老师的答案我赞了：CSS 的属性互不正交，大量的依赖与耦合难以记忆。
-
-@顾轶灵 @王成 说得也没错：CSS 的很多规则是贯彻整个体系的，而且都记在规范里了，是有规律的，你应该好好读文档而不是去瞎试。
-
-「CSS是一门正儿八经的编程语言，请拿出你学C+...
-            
-        </div>
-    </a>
-    <p class="post-meta">
-        Posted by py027 on October 6, 2017
-    </p>
-</div>
-<hr>
-
-<div class="post-preview">
-    <a href="/2017/07/26/farewell-flash/">
-        <h2 class="post-title">
-            Farewell, Flash. 感谢你，但这一次是真正的永别。
-        </h2>
-        
-        <h3 class="post-subtitle">
-            So long, and thanks for all the Flash
-        </h3>
-        
-        <div class="post-content-preview">
-            
-                
-  本文首发于我的知乎专栏 The Little Programmer，转载请保留链接 ;)
-
-
-一年半前，我曾和 Flash 作过一次告别。那一次，Adobe Flash Professional CC 被重新命名为了 Adobe Animate CC，宣告着 Flash 作为一个创作工具走到了尽头。
-
-
-
-而今天，通过 Chromium 博客 So long, and thanks f...
-            
-        </div>
-    </a>
-    <p class="post-meta">
-        Posted by py027 on July 26, 2017
+        Posted by Allen on April 25, 2018
     </p>
 </div>
 <hr>
 
 
 <!-- Pager -->
-
-<ul class="pager">
-    
-    
-    <li class="next">
-        <a href="/page2">Older Posts &rarr;</a>
-    </li>
-    
-</ul>
 
 
     		</div>
@@ -524,227 +311,89 @@ I’m not going to interpret them directly but rather to share some thoughts on 
             ">
                 <!-- Featured Tags -->
                 
-
-
-<section>
-    
-    <h5><a href="/archive/">FEATURED TAGS</a></h5>
-    <div class="tags">
-        
-        
-        
-        </a>
-        
-        
-                <a data-sort="0065" 
-                    href="/archive/?tag=%E7%9F%A5%E4%B9%8E"
-                    title="知乎"
-                    rel="10">知乎</a>
-        
-                <a data-sort="0036" 
-                    href="/archive/?tag=%E7%AC%94%E8%AE%B0"
-                    title="笔记"
-                    rel="39">笔记</a>
-        
-                <a data-sort="0039" 
-                    href="/archive/?tag=Coq"
-                    title="Coq"
-                    rel="36">Coq</a>
-        
-                <a data-sort="0039" 
-                    href="/archive/?tag=SF+%28%E8%BD%AF%E4%BB%B6%E5%9F%BA%E7%A1%80%29"
-                    title="SF (软件基础)"
-                    rel="36">SF (软件基础)</a>
-        
-                <a data-sort="0056" 
-                    href="/archive/?tag=PLF+%28%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80%29"
-                    title="PLF (编程语言基础)"
-                    rel="19">PLF (编程语言基础)</a>
-        
-                <a data-sort="0056" 
-                    href="/archive/?tag=Web"
-                    title="Web"
-                    rel="19">Web</a>
-        
-                <a data-sort="0059" 
-                    href="/archive/?tag=LF+%28%E9%80%BB%E8%BE%91%E5%9F%BA%E7%A1%80%29"
-                    title="LF (逻辑基础)"
-                    rel="16">LF (逻辑基础)</a>
-        
-                <a data-sort="0068" 
-                    href="/archive/?tag=UX%2FUI"
-                    title="UX/UI"
-                    rel="7">UX/UI</a>
-        
-                <a data-sort="0069" 
-                    href="/archive/?tag=%E4%BA%A7%E5%93%81"
-                    title="产品"
-                    rel="6">产品</a>
-        
-                <a data-sort="0069" 
-                    href="/archive/?tag=PWA"
-                    title="PWA"
-                    rel="6">PWA</a>
-        
-                <a data-sort="0071" 
-                    href="/archive/?tag=JavaScript"
-                    title="JavaScript"
-                    rel="4">JavaScript</a>
-        
-                <a data-sort="0071" 
-                    href="/archive/?tag=Slides"
-                    title="Slides"
-                    rel="4">Slides</a>
-        
-                <a data-sort="0072" 
-                    href="/archive/?tag=%E7%94%9F%E6%B4%BB"
-                    title="生活"
-                    rel="3">生活</a>
-        
-                <a data-sort="0072" 
-                    href="/archive/?tag=%E8%AF%91"
-                    title="译"
-                    rel="3">译</a>
-        
-                <a data-sort="0072" 
-                    href="/archive/?tag=%E9%98%BF%E9%87%8C"
-                    title="阿里"
-                    rel="3">阿里</a>
-        
-                <a data-sort="0072" 
-                    href="/archive/?tag=%F0%9F%87%AC%F0%9F%87%A7"
-                    title="🇬🇧"
-                    rel="3">🇬🇧</a>
-        
-                <a data-sort="0072" 
-                    href="/archive/?tag=Vim"
-                    title="Vim"
-                    rel="3">Vim</a>
-        
-                <a data-sort="0073" 
-                    href="/archive/?tag=%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6"
-                    title="计算机科学"
-                    rel="2">计算机科学</a>
-        
-                <a data-sort="0073" 
-                    href="/archive/?tag=%E8%AE%A1%E7%AE%97%E7%90%86%E8%AE%BA"
-                    title="计算理论"
-                    rel="2">计算理论</a>
-        
-                <a data-sort="0073" 
-                    href="/archive/?tag=CSS"
-                    title="CSS"
-                    rel="2">CSS</a>
-        
-                <a data-sort="0073" 
-                    href="/archive/?tag=Wechat"
-                    title="Wechat"
-                    rel="2">Wechat</a>
-        
-                <a data-sort="0073" 
-                    href="/archive/?tag=py027+%E9%9A%8F%E6%83%B3%E5%BD%95"
-                    title="py027 随想录"
-                    rel="2">py027 随想录
-    </div>
-</section>
-
+                <section>
+                    <hr class="hidden-sm hidden-xs">
+                    <h5><a href="/tags/">FEATURED TAGS</a></h5>
+                    <div class="tags">
+                        
+                            
+                        
+                            
+                                <a href="/tags/#Blog" title="Blog" rel="4">
+                                    Blog
+                                </a>
+                            
+                        
+                            
+                        
+                    </div>
+                </section>
+                
 
                 <!-- Short About -->
                 <section class="visible-md visible-lg">
-  <hr>
-  <h5><a href="/about/">ABOUT ME</a></h5>
-  <div class="short-about">
-    
-    <img src="/img/avatar-py027-ny.jpg" />
-    
-    
-    <p>For the next quantum leap<br>离开世界之前，一切都是过程</p>
-    
-    <!-- SNS Link -->
-    
-
-
-<ul class="list-inline">
-
-
-  
-  
-  <li>
-    <a href="https://twitter.com/py027pro">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  
-  
-  <li>
-    <a target="_blank" href="https://www.zhihu.com/people/py027pro">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa  fa-stack-1x fa-inverse">知</i>
-      </span>
-    </a>
-  </li>
-  
-  
-  <li>
-    <a target="_blank" href="https://weibo.com/py027pro">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  
-  
-  
-  <li>
-    <a target="_blank" href="https://github.com/py027pro">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  
-  
-</ul>
-  </div>
-</section>
-
+                    <hr><h5><a href="/about/">ABOUT ME</a></h5>
+                    <div class="short-about">
+                        
+                            <img src="/img/avatar.jpg" />
+                        
+                        
+                            <p>以好奇之心，探索广阔世界</p>
+                        
+                        <!-- SNS Link -->
+                        <ul class="list-inline">
+                            
+                            
+                            
+                            <li>
+                                <a target="_blank" href="https://www.zhihu.com/people/allenwhm">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa  fa-stack-1x fa-inverse">知</i>
+                                    </span>
+                                </a>
+                            </li>
+                            
+                            
+                            <li>
+                                <a target="_blank" href="http://weibo.com/wanghuoming">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            
+                            
+                            
+                            <li>
+                                <a target="_blank" href="https://github.com/allenwhm">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            
+                            
+                            <li>
+                                <a target="_blank" href="https://www.linkedin.com/in/allen-wang-王火明-85650ba9">
+                                    <span class="fa-stack fa-lg">
+                                        <i class="fa fa-circle fa-stack-2x"></i>
+                                        <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                </section>
                 <!-- Friends Blog -->
                 
-<hr>
-<h5>FRIENDS</h5>
-<ul class="list-inline">
-  
-  <li><a href="http://mida.re/">乱序</a></li>
-  
-  <li><a href="https://xuechundesign.github.io">Sherry Wu</a></li>
-  
-  <li><a href="https://hmqk1995.github.io">Luke 的自留地</a></li>
-  
-  <li><a href="http://ebnbin.com/">Ebn's Blog</a></li>
-  
-  <li><a href="https://blog.smdcn.net">SmdCn's Blog</a></li>
-  
-  <li><a href="http://tiye.me/">JiyinYiyong</a></li>
-  
-  <li><a href="https://www.ruoyaowu.com/">David's Game</a></li>
-  
-  <li><a href="http://dhong.co">DHong Say</a></li>
-  
-  <li><a href="https://ingf.github.io/">尹峰以为</a></li>
-  
-</ul>
-
     		</div>
         
 	</div>
 </div>
-
 
 
     <!-- Footer -->
@@ -752,67 +401,64 @@ I’m not going to interpret them directly but rather to share some thoughts on 
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-                <!-- SNS Link -->
-                
+                <ul class="list-inline text-center">
+                    
+                    
+
+                    <!-- add Weibo, Zhihu by Hux, add target = "_blank" to <a> by Hux -->
+                    
+                    <li>
+                        <a target="_blank" href="https://www.zhihu.com/people/allenwhm">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa  fa-stack-1x fa-inverse">知</i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a target="_blank" href="http://weibo.com/wanghuoming">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
 
 
-<ul class="list-inline text-center">
-
-
-  
-  
-  <li>
-    <a href="https://twitter.com/py027pro">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  
-  
-  <li>
-    <a target="_blank" href="https://www.zhihu.com/people/py027pro">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa  fa-stack-1x fa-inverse">知</i>
-      </span>
-    </a>
-  </li>
-  
-  
-  <li>
-    <a target="_blank" href="https://weibo.com/py027pro">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-weibo fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  
-  
-  
-  <li>
-    <a target="_blank" href="https://github.com/py027pro">
-      <span class="fa-stack fa-lg">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  
-  
-</ul>
-
+                    
+                    
+                    <li>
+                        <a target="_blank" href="https://github.com/allenwhm">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                    
+                    <li>
+                        <a target="_blank" href="https://www.linkedin.com/in/allen-wang-王火明-85650ba9">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+                    
+                </ul>
                 <p class="copyright text-muted">
-                    Copyright &copy; py027 Blog 2019
-                    <br>
-                    Powered by <a href="http://huangxuan.me">py027 Blog</a> |
+                    Copyright &copy; py027 2019 | Theme from <a href="http://huangxuan.me">Hux</a>
+                    <!--<br>
+                    Theme by  |
                     <iframe
                         style="margin-left: 2px; margin-bottom:-5px;"
                         frameborder="0" scrolling="0" width="100px" height="20px"
-                        src="https://ghbtns.com/github-btn.html?user=py027pro&repo=py027pro.github.io&type=star&count=true" >
-                    </iframe>
+                        src="https://ghbtns.com/github-btn.html?user=huxpro&repo=huxpro.github.io&type=star&count=true" >
+                    </iframe>-->
                 </p>
             </div>
         </div>
@@ -827,7 +473,7 @@ I’m not going to interpret them directly but rather to share some thoughts on 
 <script src="/js/bootstrap.min.js "></script>
 
 <!-- Custom Theme JavaScript -->
-<script src="/js/py027-blog.min.js "></script>
+<script src="/js/allen-wang.min.js "></script>
 
 <!-- Service Worker -->
 
@@ -851,7 +497,7 @@ I’m not going to interpret them directly but rather to share some thoughts on 
      Because of the native support for backtick-style fenced code blocks
      right within the Markdown is landed in Github Pages,
      From V1.6, There is no need for Highlight.js,
-     so py027blog drops it officially.
+     so Huxblog drops it officially.
 
      - https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0
      - https://help.github.com/articles/creating-and-highlighting-code-blocks/
@@ -867,8 +513,19 @@ I’m not going to interpret them directly but rather to share some thoughts on 
 -->
 
 
-
-
+<!-- jquery.tagcloud.js -->
+<script>
+    // only load tagcloud.js in tag.html
+    if($('#tag_cloud').length !== 0){
+        async('/js/jquery.tagcloud.js',function(){
+            $.fn.tagcloud.defaults = {
+                //size: {start: 1, end: 1, unit: 'em'},
+                color: {start: '#bbbbee', end: '#0085a1'},
+            };
+            $('#tag_cloud a').tagcloud();
+        })
+    }
+</script>
 
 <!--fastClick.js -->
 <script>
@@ -882,9 +539,9 @@ I’m not going to interpret them directly but rather to share some thoughts on 
 <!-- Google Analytics -->
 
 <script>
-    // dynamic User by py027
-    var _gaId = 'UA-49627206-1';
-    var _gaDomain = 'huangxuan.me';
+    // dynamic User by Hux
+    var _gaId = '';
+    var _gaDomain = 'allenwang.tech';
 
     // Originial
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -912,7 +569,7 @@ I’m not going to interpret them directly but rather to share some thoughts on 
 
 
 <!-- Image to hack wechat -->
-<img src="/img/icon_wechat.png" width="0" height="0" />
+<!--<img src="/img/icon_wechat.png" width="0" height="0" />-->
 <!-- Migrate from head to bottom, no longer block render and still work -->
 
 </body>
