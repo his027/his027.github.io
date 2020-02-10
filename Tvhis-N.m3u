@@ -13,8 +13,14 @@ http://livecdn1.news.cn/cnccn/manifest.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="①📺广东★电视台",CCTV4K
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 group-title="①📺广东★电视台",第一财经
+http://183.207.255.190/live/program/live/dycj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="①📺广东★电视台",翡翠台
+http://hls.ws.anyrtc.io/live/2ryZCh5qSGd8hJgtfXVNhWOX5u9SYz8u/playlist.m3u8
+#EXTINF:-1 group-title="①📺广东★电视台",无线新闻
+http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd/playlist.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",BesTV4K
 http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",BesTV4K
