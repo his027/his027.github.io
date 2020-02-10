@@ -21,6 +21,8 @@ http://cclive.aniu.tv/live/anzb.m3u8
 http://hls.ws.anyrtc.io/live/2ryZCh5qSGd8hJgtfXVNhWOX5u9SYz8u/playlist.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",无线新闻
 http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd/playlist.m3u8
+#EXTINF:-1 group-title="①📺广东★电视台",有线新闻台
+http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",BesTV4K
 http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",BesTV4K
