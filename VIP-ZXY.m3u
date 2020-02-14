@@ -83,6 +83,10 @@ https://api.adinisp.com/data/youku/42f9a159cc3de1ffeb2371a157c33443.m3u8
 https://api.adinisp.com/data/youku/70bc859d546b22604193a948326039e0.m3u8
 #EXTINF:-1 group-title="文夫王景",文夫王景-3
 https://api.adinisp.com/data/youku/7fbb719d9440363849192b5bd40e0609.m3u8
+#EXTINF:-1 group-title="文夫王景",《中国影像方志》赤壁篇
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5116ac473bab453395e1d36fc26c76ac/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="文夫王景",《中国影像方志》赤壁篇
+https://vdeptold.bdstatic.com/5851496d6b544a4856514e4c65475765/7964495670573162/a3a8c458751075644634d500b564c36c0000057419e889c8abee4546956978fc4e00c5b8fe841f02a8e0ebc3125f1b87.mp4?auth_key=1581723136-0-0-4326b5664e6037dae308c89bb2261d0c
 #EXTINF:-1 group-title="筱妤巴马",A+B Paridise Affection
 https://vvv.yaohuaxuan.com/data/youku/XNDU0NjM3NTcxNg==.m3u8
 #EXTINF:-1 group-title="筱妤巴马",   备份A+B Paridise Affection
