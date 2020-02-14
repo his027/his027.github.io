@@ -1,10 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="筱妤巴马",C婚礼纪（share） -Picture 20190101婚礼
-https://api.adinisp.com/data/youku/fc49464ebda23fe9f6a8973ef642fa13.m3u8
-#EXTINF:-1 group-title="筱妤巴马",C婚礼纪 -Picture 20190101
-https://api.adinisp.com/data/youku/9b7bfac7ed12e427f37923a756444d12.m3u8
-#EXTINF:-1 group-title="筱妤巴马",A+B Paridise Affection
-https://vvv.yaohuaxuan.com/data/youku/XNDU0NjM3NTcxNg==.m3u8
 #EXTINF:-1 group-title="婚礼风俗",云南农村小伙结婚，新娘刚下车，新郎就如此做，第一次见
 https://api.adinisp.com/data/youku/c1fbb97e93d2e3f45c21c7e939a3828a.m3u8
 #EXTINF:-1 group-title="婚礼风俗",江西农村一姑娘出嫁，妈妈哭得好伤心，这样出门的习俗第一次见
@@ -83,3 +77,25 @@ https://api.adinisp.com/data/youku/323cc08cb42a88dcab218193d5321d83.m3u8
 https://api.adinisp.com/data/youku/9c111e79d927a3e596e7b0bd97682dc6.m3u8
 #EXTINF:-1 group-title="婚礼风俗",湖南一村花出嫁，被一男子，花2块腊肉娶走了
 https://api.adinisp.com/data/youku/3b254a2b9e0c0864dad7e686a975cf59.m3u8
+#EXTINF:-1 group-title="文夫王景",文夫王景-1
+https://api.adinisp.com/data/youku/42f9a159cc3de1ffeb2371a157c33443.m3u8
+#EXTINF:-1 group-title="文夫王景",文夫王景-2
+https://api.adinisp.com/data/youku/70bc859d546b22604193a948326039e0.m3u8
+#EXTINF:-1 group-title="文夫王景",文夫王景-3
+https://api.adinisp.com/data/youku/7fbb719d9440363849192b5bd40e0609.m3u8
+#EXTINF:-1 group-title="筱妤巴马",A+B Paridise Affection
+https://vvv.yaohuaxuan.com/data/youku/XNDU0NjM3NTcxNg==.m3u8
+#EXTINF:-1 group-title="筱妤巴马",   备份A+B Paridise Affection
+https://api.adinisp.com/data/youku/3196f47670fbcde6679b96a2eada000e.m3u8
+#EXTINF:-1 group-title="筱妤巴马",C婚礼纪（share） -Picture 20190101婚礼
+https://api.adinisp.com/data/youku/fc49464ebda23fe9f6a8973ef642fa13.m3u8
+#EXTINF:-1 group-title="筱妤巴马",C婚礼纪 -Picture 20190101
+https://api.adinisp.com/data/youku/9b7bfac7ed12e427f37923a756444d12.m3u8
+#EXTINF:-1 group-title="筱妤巴马",D婚礼纪-movie  20190101 H.264
+https://api.adinisp.com/data/youku/71d315bc63f9eaedfb7d9bb411ce09d3.m3u8
+#EXTINF:-1 group-title="筱妤巴马",E瑞雪丰年20181231
+https://api.adinisp.com/data/youku/7c34ee94573ff421be4daad202fa3611.m3u8
+#EXTINF:-1 group-title="筱妤巴马",    备份-D1婚礼纪-movie
+https://api.adinisp.com/data/youku/67f2c1c9ce814b2edbb677b94b279a8d.m3u8
+#EXTINF:-1 group-title="筱妤巴马",    备份-D2婚礼纪-movie
+https://api.adinisp.com/data/youku/2e66a6894695dcf9ecf9985d9d483878.m3u8
