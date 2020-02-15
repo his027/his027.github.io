@@ -1,4 +1,22 @@
 ﻿#EXTM3U
+#EXTINF:-1 group-title="筱妤巴马",A+B Paridise Affection
+https://vvv.yaohuaxuan.com/data/youku/XNDU0NjM3NTcxNg==.m3u8
+#EXTINF:-1 group-title="筱妤巴马",C婚礼纪（share） -Picture 20190101婚礼
+http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D961&root=/mnt/wfs64&pt=/3ba/8d&fileid=KA3ba8d9deb30c783371bed525ecd34654.mp4&type=5&ui=13544423686&ci=1711UA0FX25O05720200215202056v0v&cn=C%E5%A9%9A%E7%A4%BC%E7%BA%AA%EF%BC%88share%EF%BC%89+-Picture...&ct=3&time=1581769464&exp=12&code=A490EFA6237C5999D84197EF9A508F4FE7382D29E9C1A94FDDFB36CED973A56E&ec=0
+#EXTINF:-1 group-title="筱妤巴马",C婚礼纪 -Picture 20190101
+http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/876/73&fileid=K787673a4a30cea23bb0ed912552c18ef4.mp4&type=5&ci=1711UA0FX25O05720200215202044uyr&cn=C%E5%A9%9A%E7%A4%BC%E7%BA%AA+-Picture+201901...&ct=3&time=1581773748&exp=12&code=D9F79EF27ADA9C4A1A8839FC4A66A6EA9F57489A97ECD02D27BCB4AC3785C7EA&ec=0
+#EXTINF:-1 group-title="筱妤巴马",D1婚礼纪-movie
+http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/03f/57&fileid=K803f57214d96a50c676beb5d965c89d22.mp4&type=5&ci=1711UA0FX25O05620200215202107r4r&cn=D1%E5%A9%9A%E7%A4%BC%E7%BA%AA-movie++2019010...&ct=3&time=1581773748&exp=12&code=F217DAE28C0A6E895AFFF66D5C678F60C3CE8182A5B9EDDF69BDA52E3C2F3DCC&ec=0
+#EXTINF:-1 group-title="筱妤巴马",D2婚礼纪-movie
+http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/cab/55&fileid=K8cab559c0079e9fdc04c562d9abaff8aa.mp4&type=51&ci=1711UA0FX25O05720200215202116v36&cn=D2%E5%A9%9A%E7%A4%BC%E7%BA%AA-movie++2019010...&ct=3&time=1581773748&exp=12&code=AC9788162F30C399ED2FFD98089B5CAE6665EA37A32699FF6E6F3577417D8034&ec=0
+#EXTINF:-1 group-title="筱妤巴马",E瑞雪丰年20181231
+https://api.adinisp.com/data/youku/7c34ee94573ff421be4daad202fa3611.m3u8
+#EXTINF:-1 group-title="文夫王景",文夫王景-1
+http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/9e3/45&fileid=K79e345dc2d65bf88f32878614935e70ea.VOB&type=51&ui=13544423686&ci=1711UA0FX25O056202002152111535a9&cn=%E6%96%87%E5%A4%AB%E7%8E%8B%E6%99%AF%E6%96%B0%E5%A9%9A-1&ct=3&time=1581774650&exp=12&code=C64C8CB881845F7D5A6EF43A93E4048A09D4E44173DD7F7B57BD946236D88503&ec=0
+#EXTINF:-1 group-title="文夫王景",文夫王景-2
+http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/231/16&fileid=K723116db6b8fe508591b26fe0d554a790.VOB&type=51&ui=13544423686&ci=1711UA0FX25O056202002152113335pg&cn=%E6%96%87%E5%A4%AB%E7%8E%8B%E6%99%AF%E6%96%B0%E5%A9%9A-2&ct=3&time=1581774002&exp=12&code=F1D1E3C5EA7778CE6F3118D3CC18DCF85F94FB68E36C07813E934B4AA35C8F07&ec=0
+#EXTINF:-1 group-title="文夫王景",文夫王景-3
+https://api.adinisp.com/data/youku/7fbb719d9440363849192b5bd40e0609.m3u8
 #EXTINF:-1 group-title="婚礼风俗",云南农村小伙结婚，新娘刚下车，新郎就如此做，第一次见
 https://api.adinisp.com/data/youku/c1fbb97e93d2e3f45c21c7e939a3828a.m3u8
 #EXTINF:-1 group-title="婚礼风俗",江西农村一姑娘出嫁，妈妈哭得好伤心，这样出门的习俗第一次见
@@ -77,29 +95,3 @@ https://api.adinisp.com/data/youku/323cc08cb42a88dcab218193d5321d83.m3u8
 https://api.adinisp.com/data/youku/9c111e79d927a3e596e7b0bd97682dc6.m3u8
 #EXTINF:-1 group-title="婚礼风俗",湖南一村花出嫁，被一男子，花2块腊肉娶走了
 https://api.adinisp.com/data/youku/3b254a2b9e0c0864dad7e686a975cf59.m3u8
-#EXTINF:-1 group-title="文夫王景",文夫王景-1
-https://api.adinisp.com/data/youku/42f9a159cc3de1ffeb2371a157c33443.m3u8
-#EXTINF:-1 group-title="文夫王景",文夫王景-2
-https://api.adinisp.com/data/youku/70bc859d546b22604193a948326039e0.m3u8
-#EXTINF:-1 group-title="文夫王景",文夫王景-3
-https://api.adinisp.com/data/youku/7fbb719d9440363849192b5bd40e0609.m3u8
-#EXTINF:-1 group-title="文夫王景",《中国影像方志》赤壁篇
-https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5116ac473bab453395e1d36fc26c76ac/main.m3u8?maxbr=2048&minbr=400
-#EXTINF:-1 group-title="文夫王景",《中国影像方志》赤壁篇
-https://vdeptold.bdstatic.com/5851496d6b544a4856514e4c65475765/7964495670573162/a3a8c458751075644634d500b564c36c0000057419e889c8abee4546956978fc4e00c5b8fe841f02a8e0ebc3125f1b87.mp4?auth_key=1581723136-0-0-4326b5664e6037dae308c89bb2261d0c
-#EXTINF:-1 group-title="筱妤巴马",A+B Paridise Affection
-https://vvv.yaohuaxuan.com/data/youku/XNDU0NjM3NTcxNg==.m3u8
-#EXTINF:-1 group-title="筱妤巴马",   备份A+B Paridise Affection
-https://api.adinisp.com/data/youku/3196f47670fbcde6679b96a2eada000e.m3u8
-#EXTINF:-1 group-title="筱妤巴马",C婚礼纪（share） -Picture 20190101婚礼
-https://api.adinisp.com/data/youku/fc49464ebda23fe9f6a8973ef642fa13.m3u8
-#EXTINF:-1 group-title="筱妤巴马",C婚礼纪 -Picture 20190101
-https://api.adinisp.com/data/youku/9b7bfac7ed12e427f37923a756444d12.m3u8
-#EXTINF:-1 group-title="筱妤巴马",D婚礼纪-movie  20190101 H.264
-https://api.adinisp.com/data/youku/71d315bc63f9eaedfb7d9bb411ce09d3.m3u8
-#EXTINF:-1 group-title="筱妤巴马",E瑞雪丰年20181231
-https://api.adinisp.com/data/youku/7c34ee94573ff421be4daad202fa3611.m3u8
-#EXTINF:-1 group-title="筱妤巴马",    备份-D1婚礼纪-movie
-https://api.adinisp.com/data/youku/67f2c1c9ce814b2edbb677b94b279a8d.m3u8
-#EXTINF:-1 group-title="筱妤巴马",    备份-D2婚礼纪-movie
-https://api.adinisp.com/data/youku/2e66a6894695dcf9ecf9985d9d483878.m3u8

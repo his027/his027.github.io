@@ -1641,10 +1641,12 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="㉓🌴[全国景区-A]🌄",景区|精编直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001&_res_tag_=video
-#EXTINF:-1 group-title="㉓🌴[全国景区-A]🌄",江边古城-赤壁
-https://flv2.bn.netease.com/01e30c1c8235c9aacae6c931653ab90aaf09ecba2c01d8f677d511e2285e8fcc2897db538000ef87260797d119b023dd3cc52b7e0a15d0d9f179bb7fb9b9fa36027b97021a8a0cb9c8994ec324165cd78598501221ab969918c67db890890da14ffae567943a4eb92662ddef6b141d224a60437032cf6654.mp4
 #EXTINF:-1 group-title="㉓🌴[全国景区-A]🌄",广州40年时代巨变
 http://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/b41b61822aac47c1b9cd2dc6352648c7/main.m3u8?maxbr=2048
+#EXTINF:-1 group-title="㉓🌴[全国景区-A]🌄",江边古城-赤壁
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5116ac473bab453395e1d36fc26c76ac/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="㉓🌴[全国景区-A]🌄",江边古城-赤壁
+http://zyb020.cn-gd.ufileos.com/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%83%8F%E6%96%B9%E5%BF%97%E3%80%8B%20%E7%AC%AC5%E9%9B%86%20%E6%B9%96%E5%8C%97%E8%B5%A4%E5%A3%81%E7%AF%87.mp4
 #EXTINF:-1 group-title="㉓🌴[全国景区-A]🌄",乌镇-乌镇全景
 http://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
 #EXTINF:-1 group-title="㉓🌴[全国景区-A]🌄",乌镇-蓝印花布
