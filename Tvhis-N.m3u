@@ -87,11 +87,11 @@ http://cntv.hls.cdn.myqcloud.com/asp/hls/1200/0303000a/3/default/21823340cc0997f
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",广州40年时代巨变
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="①📺广东★电视台",广州40年时代巨变
 http://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/b41b61822aac47c1b9cd2dc6352648c7/main.m3u8?maxbr=2048
-#EXTINF:-1 group-title="①📺广东★电视台",江边古城-赤壁
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="①📺广东★电视台",江边古城-赤壁
 https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5116ac473bab453395e1d36fc26c76ac/main.m3u8?maxbr=2048&minbr=400
-#EXTINF:-1 group-title="①📺广东★电视台",江边古城-赤壁
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="①📺广东★电视台",江边古城-赤壁
 http://zyb020.cn-gd.ufileos.com/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%83%8F%E6%96%B9%E5%BF%97%E3%80%8B%20%E7%AC%AC5%E9%9B%86%20%E6%B9%96%E5%8C%97%E8%B5%A4%E5%A3%81%E7%AF%87.mp4
 #EXTINF:-1 group-title="①📺广东★电视台",赤壁一套
 http://hbcb.chinashadt.com:1936/live/tv1.stream/playlist.m3u8#http://chibi.live.tempsource.cjyun.org/videotmp/s10138-CBTV1.m3u8
