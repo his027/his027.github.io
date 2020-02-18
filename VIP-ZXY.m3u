@@ -1,23 +1,23 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="筱妤巴马",A+B Paridise Affection
+#EXTINF:-1 tvg-id="210001" tvg-logo="https://i.loli.net/2020/02/18/rhVGjIwE7XxsN4z.jpg" group-title="筱妤巴马",A+B Paridise Affection
 http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/7ed/a0&fileid=K87eda06ce1b82a019dd7e7ffd80b65866.mp4&type=52&ci=1711UA0FX25O05820200215202032v3b&cn=A%2BB+Paridise+Affecti...&ct=3&time=1581858594&exp=12&code=F2D49FAAD5056246991D7B3243957A1FC1FBCDF6FEBCD8B964D84DE7211288F8&ec=0&start=1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="筱妤巴马",C婚礼纪（share） -Picture 20190101婚礼
+#EXTINF:-1 tvg-id="210002" tvg-logo="https://i.loli.net/2020/02/18/Qdtz9T5Av4pRmVZ.jpg" group-title="筱妤巴马",C婚礼纪（share） -Picture 20190101婚礼
 http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D961&root=/mnt/wfs64&pt=/3ba/8d&fileid=KA3ba8d9deb30c783371bed525ecd34654.mp4&type=52&ui=13544423686&ci=1711UA0FX25O05720200215202056v0v&cn=C%E5%A9%9A%E7%A4%BC%E7%BA%AA%EF%BC%88share%EF%BC%89+-Picture...&ct=3&time=1581858497&exp=12&code=461211649A6D89463E9897BD1D1F355FD33A00967964FF0E2BEF6C24D2AE3449&ec=0&start=15
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="筱妤巴马",C婚礼纪 -Picture 20190101
+#EXTINF:-1 tvg-id="210003" tvg-logo="https://i.loli.net/2020/02/18/H1PxKGYepfwC7gX.jpg" group-title="筱妤巴马",C婚礼纪 -Picture 20190101
 http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/876/73&fileid=K787673a4a30cea23bb0ed912552c18ef4.mp4&type=52&ci=1711UA0FX25O05720200215202044uyr&cn=C%E5%A9%9A%E7%A4%BC%E7%BA%AA+-Picture+201901...&ct=3&time=1581858594&exp=12&code=D4B5E949ED83507F6D620184622E001521F5BB1C4E1DBEEEE31BD38F56AAF4E4&ec=0&start=0
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="筱妤巴马",D1婚礼纪-movie
+#EXTINF:-1 tvg-id="210004" tvg-logo="https://i.loli.net/2020/02/18/k2DUvgoht9QsrHT.jpg" group-title="筱妤巴马",D1婚礼纪-movie
 http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/03f/57&fileid=K803f57214d96a50c676beb5d965c89d22.mp4&type=52&ci=1711UA0FX25O05620200215202107r4r&cn=D1%E5%A9%9A%E7%A4%BC%E7%BA%AA-movie++2019010...&ct=3&time=1581858594&exp=12&code=B85AAC32F2F25C0F76CB012BD9F1CC6AC61D287E34CD0FEB82427F85DD8B5B36&ec=0&start=0
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="筱妤巴马",D2婚礼纪-movie
+#EXTINF:-1 tvg-id="210005" tvg-logo="https://i.loli.net/2020/02/18/6gtMQdOhXCRqxLD.png" group-title="筱妤巴马",D2婚礼纪-movie
 http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/cab/55&fileid=K8cab559c0079e9fdc04c562d9abaff8aa.mp4&type=52&ui=13544423686&ci=1711UA0FX25O05720200215202116v36&cn=D2%E5%A9%9A%E7%A4%BC%E7%BA%AA-movie++2019010...&ct=3&time=1581858565&exp=12&code=D679AB0844CC184A1594E9569CFC84023AC44F90DA70A4264A1EC95B2FB2A20D&ec=0&start=1
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="筱妤巴马",E瑞雪丰年20181231
+#EXTINF:-1 tvg-id="210006" tvg-logo="https://i.loli.net/2020/02/18/lwPF45LnMbyxova.jpg" group-title="筱妤巴马",E瑞雪丰年20181231
 http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/c81/be&fileid=K7c81be018f24b216e065aab483fac9999.mp4&type=52&ci=1711UA0FX25O05520200215202016p71&cn=E%E7%91%9E%E9%9B%AA%E4%B8%B0%E5%B9%B420181231&ct=3&time=1581858594&exp=12&code=BC013BDC8F88EBD3F5A73F203984B542FE7056F6A2EA58407659BEBA97A172D6&ec=0&start=0
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="晓博巴马",文夫王景-1
+#EXTINF:-1 tvg-id="210051" tvg-logo="https://i.loli.net/2020/02/18/iPlExYvHk6Tc8Zu.jpg" group-title="晓博巴马",文夫王景-1
 http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/9e3/45&fileid=K79e345dc2d65bf88f32878614935e70ea.VOB&type=52&ui=13544423686&ci=1711UA0FX25O056202002152111535a9&cn=%E6%96%87%E5%A4%AB%E7%8E%8B%E6%99%AF%E6%96%B0%E5%A9%9A-1&ct=3&time=1581858736&exp=12&code=9C1BC1B2FF21C7A68D943BEC4AE90B0A3E5D33C8983C1F895FC6B88BA9839880&ec=0&start=0
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="晓博巴马",文夫王景-2
+#EXTINF:-1 tvg-id="210052" tvg-logo="https://i.loli.net/2020/02/18/s2IfMkQzLtZoHGd.jpg" group-title="晓博巴马",文夫王景-2
 http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/231/16&fileid=K723116db6b8fe508591b26fe0d554a790.VOB&type=52&ui=13544423686&ci=1711UA0FX25O056202002152113335pg&cn=%E6%96%87%E5%A4%AB%E7%8E%8B%E6%99%AF%E6%96%B0%E5%A9%9A-2&ct=3&time=1581858736&exp=12&code=8EEFC7A339992B6C884C294DC0914ECB0EC74DC0D1DAECAFD360D896642BE67F&ec=0&start=0
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="晓博巴马",文夫王景-3
+#EXTINF:-1 tvg-id="210053" tvg-logo="https://i.loli.net/2020/02/18/VMYacoIXCzmHb3r.jpg" group-title="晓博巴马",文夫王景-3
 http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/4aa/e0&fileid=K74aae03b3e4ec5745af4b0daa8134e2be.VOB&type=52&ui=13544423686&ci=1711UA0FX25O058202002152113419ro&cn=%E6%96%87%E5%A4%AB%E7%8E%8B%E6%99%AF%E6%96%B0%E5%A9%9A-3&ct=3&time=1581858736&exp=12&code=56BF381F95B39C8D5AF1223C284284C63B17E41CEC788FF0D204ADB3AE8AE780&ec=0&start=0
-#EXTINF:-1 group-title="婚礼风俗",河南农村一帅哥结婚，新娘是巴基斯坦的，正在举行婚礼，好热闹_超清
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="婚礼风俗",河南农村一帅哥结婚，新娘是巴基斯坦的，正在举行婚礼，好热闹_超清
 http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/f28/f5&fileid=K8f28f555ebaf689f4153c0a476f6fc601.mp4&type=52&ui=13544423686&ci=1711UA0FX25O05820200216192256uzp&cn=%E6%B2%B3%E5%8D%97%E5%86%9C%E6%9D%91%E4%B8%80%E5%B8%85%E5%93%A5%E7%BB%93%E5%A9%9A%EF%BC%8C%E6%96%B0%E5%A8%98%E6%98%AF%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E7%9A%84%EF%BC%8C%E6%AD%A3...&ct=3&time=1581856857&exp=12&code=FD9C0C8DE00308B690DE6B0B94110CAA99B83B73BF2C80F9AD66E214AD630BDB&ec=0&start=0
 #EXTINF:-1 group-title="婚礼风俗",云南农村小伙结婚，新娘刚下车，新郎就如此做，第一次见
 http://media.caiyun.feixin.10086.cn/StorageWeb/servlet/GetFileByURLServlet?dm=D960&root=/mnt/wfs65&pt=/438/1c&fileid=K74381c8ae9058ae28eaae48b0af2f7569.mp4&type=52&ui=13544423686&ci=1711UA0FX25O05720200216191713uem&cn=%E4%BA%91%E5%8D%97%E5%86%9C%E6%9D%91%E5%B0%8F%E4%BC%99%E7%BB%93%E5%A9%9A%EF%BC%8C%E6%96%B0%E5%A8%98%E5%88%9A%E4%B8%8B%E8%BD%A6%EF%BC%8C%E6%96%B0%E9%83%8E%E5%B0%B1%E5%A6%82%E6%AD%A4...&ct=3&time=1581856857&exp=12&code=73053D6D27A13BBD087C8A79B9D1847A15FF74B5019647525950B6009A4B557D&ec=0&start=1

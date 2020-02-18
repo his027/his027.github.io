@@ -31,7 +31,10 @@
  <channel id="100009">
         <display-name lang="zh">婚姻故事</display-name>
     </channel>
- 
+  <channel id="20001">
+        <display-name lang="zh">A+B Paridise Affection</display-name>
+		<desc lang="zh"> 相爱一生</desc>
+    </channel>
 <programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100001">
 <title lang="zh">我和我的祖国</title>
 <desc lang="zh">  直连流量有限，如无法播放，请设置tivimate用第三方播放器播放，推荐使用nplayer，走翻墙流量。七位导演分别取材新中国成立70周年以来，祖国经历的无数个历史性经典瞬间。讲述普通人与国家之间息息相关密不可分的动人故事。聚焦大时代大事件下，小人物和国家之间，看似遥远实则密切的关联，唤醒全球华人共同回忆。</desc> </programme>
