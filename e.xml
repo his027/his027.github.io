@@ -64,11 +64,68 @@
 <title lang="zh">婚姻故事</title>
 <desc lang="zh">  以一起离婚事件探讨婚姻和爱情，诺亚·鲍姆巴赫执导， 亚当·德赖弗扮演一个剧作家，斯嘉丽·约翰逊扮演一个女明星，两人因各自工作分居纽约和洛杉矶而不得不走向离婚，主演另有劳拉·邓恩、格蕾塔·葛韦格。 Netflix参与制作。</desc> </programme>
 
-   <channel id="210001">
-        <display-name lang="zh">210001</display-name>
+  <channel id="210001">
+    <display-name lang="zh">210001</display-name>
     </channel>
 <programme start="20200101013000 +0800" stop="20301210013000 +0800" channel="210001">
 <title lang="zh">Paridise and Affection 20190101</title>
-<desc lang="zh">  以一起离婚事件探讨婚姻和爱情，诺亚·鲍姆巴赫执导， 亚当·德赖弗扮演一个剧作家，斯嘉丽·约翰逊扮演一个女明星，两人因各自工作分居纽约和洛杉矶而不得不走向离婚，主演另有劳拉·邓恩、格蕾塔·葛韦格。 Netflix参与制作。</desc> </programme>
+<desc lang="zh">  婚前拍婚纱照和照结婚照的精彩片段</desc> </programme>
+
+  <channel id="210002">
+    <display-name lang="zh">210002</display-name>
+    </channel>
+<programme start="20200101013000 +0800" stop="20301210013000 +0800" channel="210002">
+<title lang="zh">婚礼纪（share） -Picture</title>
+<desc lang="zh"> 婚礼故事及婚纱拍照 </desc> </programme>
+
+<channel id="210003">
+    <display-name lang="zh">210003</display-name>
+    </channel>
+<programme start="20200101013000 +0800" stop="20301210013000 +0800" channel="210003">
+<title lang="zh">婚礼纪 -Picture </title>
+<desc lang="zh">婚礼当天的照片集锦  拍摄者：文华+蓉+佳丽，鸣谢！ </desc> </programme>
+
+  <channel id="210004">
+    <display-name lang="zh">210004</display-name>
+    </channel>
+<programme start="20200101013000 +0800" stop="20301210013000 +0800" channel="210004">
+<title lang="zh">婚礼纪 视频第一段（共两段）</title>
+<desc lang="zh"> 婚礼当天的视频集锦  拍摄者：文华+蓉，鸣谢！ </desc> </programme>
+
+<channel id="210005">
+    <display-name lang="zh">210005</display-name>
+    </channel>
+<programme start="20200101013000 +0800" stop="20301210013000 +0800" channel="210005">
+<title lang="zh">婚礼纪 视频第二段（共两段）</title>
+<desc lang="zh"> 婚礼当天的视频集锦  拍摄者：文华+蓉，鸣谢！ </desc> </programme>
+
+<channel id="210006">
+    <display-name lang="zh">210006</display-name>
+    </channel>
+<programme start="20200101013000 +0800" stop="20301210013000 +0800" channel="210006">
+<title lang="zh">瑞雪丰年</title>
+<desc lang="zh"> 拍摄于婚礼前一天，白雪皑皑，瑞雪丰年  拍摄者：大侠建军，鸣谢！ </desc> </programme>
+
+<channel id="210051">
+    <display-name lang="zh">210051</display-name>
+    </channel>
+<programme start="20200101013000 +0800" stop="20301210013000 +0800" channel="210051">
+<title lang="zh">文夫王景 婚礼第一段（共三段）</title>
+<desc lang="zh"> 拍摄于婚礼当天，寒冬不敌人情暖意  拍摄者：婚庆公司 </desc> </programme>
+
+<channel id="210052">
+    <display-name lang="zh">210052</display-name>
+    </channel>
+<programme start="20200101013000 +0800" stop="20301210013000 +0800" channel="210052">
+<title lang="zh">文夫王景 婚礼第二段（共三段）</title>
+<desc lang="zh"> 拍摄于婚礼当天，寒冬不敌人情暖意  拍摄者：婚庆公司 </desc> </programme>
+
+<channel id="210053">
+    <display-name lang="zh">210053</display-name>
+    </channel>
+<programme start="20200101013000 +0800" stop="20301210013000 +0800" channel="210053">
+<title lang="zh">文夫王景 婚礼第三段（共三段）</title>
+<desc lang="zh"> 拍摄于婚礼当天，寒冬不敌人情暖意  拍摄者：婚庆公司 </desc> </programme>
+
 
 </tv>
