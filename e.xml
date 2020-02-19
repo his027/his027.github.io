@@ -4,36 +4,8 @@
     <channel id="100001">
         <display-name lang="zh">我和我的祖国</display-name>
     </channel>
-    <channel id="100002">
-        <display-name lang="zh">唐顿庄园</display-name>
-    </channel>
-    <channel id="100003">
-        <display-name lang="zh">鬼影特工</display-name>
-    </channel>
-    <channel id="100004">
-        <display-name lang="zh">续命之徒</display-name>
-    </channel>
-    <channel id="100005">
-        <display-name lang="zh">爱尔兰人</display-name>
-    </channel>
-   <channel id="100006">
-        <display-name lang="zh">JOKER</display-name>
-    </channel>
-   <channel id="100007">
-        <display-name lang="zh">热气球飞行家</display-name>
-    </channel>
- <channel id="100008">
-        <display-name lang="zh">宗教的传承</display-name>
-    </channel>
-<channel id="100100">
-        <display-name lang="zh">反馈交流群</display-name>
-    </channel>
- <channel id="100009">
-        <display-name lang="zh">婚姻故事</display-name>
-    </channel>
-  <channel id="210001">
+    <channel id="210001">
         <display-name lang="zh">A+B Paridise Affection</display-name>
-		<desc lang="zh"> 相爱一生</desc>
     </channel>
 <programme start="20191231033000 +0800" stop="20221218043000 +0800" channel="100001">
 <title lang="zh">我和我的祖国</title>
