@@ -2,8 +2,14 @@
 <!DOCTYPE tv SYSTEM "https://bbsok.cf">
  <tv generator-info-name="bbsok.cf" generator-info-url="tg@homenet6">
     <channel id="100001">
-        <display-name lang="zh">的祖国</display-name>
+        <display-name lang="zh">100001</display-name>
     </channel>
+	-<channel id="100003">
+    <display-name lang="zh">鬼影特工</display-name>
+     </channel>
+	 -<channel id="100002">
+     <display-name lang="zh">唐顿庄园</display-name>
+     </channel>
     <channel id="210001">
         <display-name lang="zh">A+B Paridise Affection</display-name>
     </channel>
