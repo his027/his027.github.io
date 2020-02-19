@@ -4,11 +4,11 @@
     <channel id="100001">
         <display-name lang="zh">100001</display-name>
     </channel>
-	-<channel id="100003">
-    <display-name lang="zh">鬼影特工</display-name>
+	<channel id="100003">
+        <display-name lang="zh">鬼影特工</display-name>
      </channel>
-	 -<channel id="100002">
-     <display-name lang="zh">唐顿庄园</display-name>
+	 <channel id="100002">
+         <display-name lang="zh">唐顿庄园</display-name>
      </channel>
     <channel id="210001">
         <display-name lang="zh">A+B Paridise Affection</display-name>
