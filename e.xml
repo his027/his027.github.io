@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE tv SYSTEM "https://bbsok.cf">
- <tv generator-info-name="bbsok.cf" generator-info-url="tg@homenet6">
-  <channel id="100001">
+ <tv generator-info-name="py" generator-info-url="py">
+ 
+ <channel id="100001">
         <display-name lang="zh">100001</display-name>
     </channel>
 <programme start="20200101013000 +0800" stop="20301210013000 +0800" channel="100001">
