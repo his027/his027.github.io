@@ -2,186 +2,243 @@
 <!DOCTYPE tv SYSTEM "http://api.torrent-tv.ru/xmltv.dtd">
  <tv generator-info-name="py" generator-info-url="py">
   
- <channel id="100001"><display-name lang="zh">100001</display-name></channel><channel id="100002"><display-name lang="zh">100002</display-name></channel><channel id="100003"><display-name lang="zh">100003</display-name></channel><channel id="100005"><display-name lang="zh">100005</display-name></channel><channel id="100004"><display-name lang="zh">100004</display-name></channel><channel id="100006"><display-name lang="zh">100006</display-name></channel>
- <channel id="100007"><display-name lang="zh">100007</display-name></channel><channel id="100008"><display-name lang="zh">100008</display-name></channel><channel id="100009"><display-name lang="zh">100009</display-name></channel><channel id="210001"><display-name lang="zh">210001</display-name></channel><channel id="210002"><display-name lang="zh">210002</display-name></channel><channel id="210003"><display-name lang="zh">210003</display-name></channel>
- <channel id="210004"><display-name lang="zh">210004</display-name></channel><channel id="210005"><display-name lang="zh">210005</display-name></channel><channel id="210006"><display-name lang="zh">210006</display-name></channel><channel id="210051"><display-name lang="zh">210051</display-name></channel><channel id="210052"><display-name lang="zh">210052</display-name></channel><channel id="210053"><display-name lang="zh">210053</display-name></channel>	
- <channel id="220001"><display-name lang="zh">220001</display-name></channel><channel id="220002"><display-name lang="zh">220002</display-name></channel><channel id="220003"><display-name lang="zh">220003</display-name></channel><channel id="220004"><display-name lang="zh">220004</display-name></channel><channel id="220005"><display-name lang="zh">220005</display-name></channel><channel id="220006"><display-name lang="zh">220006</display-name></channel><channel id="220007"><display-name lang="zh">220007</display-name></channel><channel id="220008"><display-name lang="zh">220008</display-name></channel><channel id="220009"><display-name lang="zh">220009</display-name></channel><channel id="220010"><display-name lang="zh">220010</display-name></channel><channel id="220011"><display-name lang="zh">220011</display-name></channel><channel id="220012"><display-name lang="zh">220012</display-name></channel><channel id="220013"><display-name lang="zh">220013</display-name></channel><channel id="220014"><display-name lang="zh">220014</display-name></channel><channel id="220015"><display-name lang="zh">220015</display-name></channel><channel id="220016"><display-name lang="zh">220016</display-name></channel><channel id="220017"><display-name lang="zh">220017</display-name></channel><channel id="220018"><display-name lang="zh">220018</display-name></channel><channel id="220019"><display-name lang="zh">220019</display-name></channel><channel id="220020"><display-name lang="zh">220020</display-name></channel><channel id="220021"><display-name lang="zh">220021</display-name></channel><channel id="220022"><display-name lang="zh">220022</display-name></channel><channel id="220023"><display-name lang="zh">220023</display-name></channel><channel id="220024"><display-name lang="zh">220024</display-name></channel><channel id="220025"><display-name lang="zh">220025</display-name></channel><channel id="220026"><display-name lang="zh">220026</display-name></channel><channel id="220027"><display-name lang="zh">220027</display-name></channel><channel id="220028"><display-name lang="zh">220028</display-name></channel><channel id="220029"><display-name lang="zh">220029</display-name></channel><channel id="220030"><display-name lang="zh">220030</display-name></channel><channel id="220031"><display-name lang="zh">220031</display-name></channel><channel id="220032"><display-name lang="zh">220032</display-name></channel><channel id="220033"><display-name lang="zh">220033</display-name></channel><channel id="220034"><display-name lang="zh">220034</display-name></channel><channel id="220034"><display-name lang="zh">220034</display-name></channel><channel id="220035"><display-name lang="zh">220035</display-name></channel><channel id="220036"><display-name lang="zh">220036</display-name></channel><channel id="220037"><display-name lang="zh">220037</display-name></channel><channel id="220038"><display-name lang="zh">220038</display-name></channel><channel id="220039"><display-name lang="zh">220039</display-name></channel><channel id="220040"><display-name lang="zh">220040</display-name></channel> 
+ <channel id="100001">   <display-name lang="zh">100001</display-name>   </channel>   <channel id="100002">   <display-name lang="zh">100002</display-name>   </channel>   <channel id="100003">   <display-name lang="zh">100003</display-name>   </channel>   <channel id="100005">   <display-name lang="zh">100005</display-name>   </channel>   <channel id="100004">   <display-name lang="zh">100004</display-name>   </channel>   <channel id="100006">   <display-name lang="zh">100006</display-name>   </channel>
+ <channel id="100007">   <display-name lang="zh">100007</display-name>   </channel>   <channel id="100008">   <display-name lang="zh">100008</display-name>   </channel>   <channel id="100009">   <display-name lang="zh">100009</display-name>   </channel>   <channel id="210001">   <display-name lang="zh">210001</display-name>   </channel>   <channel id="210002">   <display-name lang="zh">210002</display-name>   </channel>   <channel id="210003">   <display-name lang="zh">210003</display-name>   </channel>
+ <channel id="210004">   <display-name lang="zh">210004</display-name>   </channel>   <channel id="210005">   <display-name lang="zh">210005</display-name>   </channel>   <channel id="210006">   <display-name lang="zh">210006</display-name>   </channel>   <channel id="210051">   <display-name lang="zh">210051</display-name>   </channel>   <channel id="210052">   <display-name lang="zh">210052</display-name>   </channel>   <channel id="210053">   <display-name lang="zh">210053</display-name>   </channel>	
+ <channel id="220001">   <display-name lang="zh">220001</display-name>   </channel>   <channel id="220002">   <display-name lang="zh">220002</display-name>   </channel>   <channel id="220003">   <display-name lang="zh">220003</display-name>   </channel>   <channel id="220004">   <display-name lang="zh">220004</display-name>   </channel>   <channel id="220005">   <display-name lang="zh">220005</display-name>   </channel>   <channel id="220006">   <display-name lang="zh">220006</display-name>   </channel>   <channel id="220007">   <display-name lang="zh">220007</display-name>   </channel>   <channel id="220008">   <display-name lang="zh">220008</display-name>   </channel>   <channel id="220009">   <display-name lang="zh">220009</display-name>   </channel>   <channel id="220010">   <display-name lang="zh">220010</display-name>   </channel>   <channel id="220011">   <display-name lang="zh">220011</display-name>   </channel>   <channel id="220012">   <display-name lang="zh">220012</display-name>   </channel>   <channel id="220013">   <display-name lang="zh">220013</display-name>   </channel>   <channel id="220014">   <display-name lang="zh">220014</display-name>   </channel>   <channel id="220015">   <display-name lang="zh">220015</display-name>   </channel>   <channel id="220016">   <display-name lang="zh">220016</display-name>   </channel>   <channel id="220017">   <display-name lang="zh">220017</display-name>   </channel>   <channel id="220018">   <display-name lang="zh">220018</display-name>   </channel>   <channel id="220019">   <display-name lang="zh">220019</display-name>   </channel>   <channel id="220020">   <display-name lang="zh">220020</display-name>   </channel>   <channel id="220021">   <display-name lang="zh">220021</display-name>   </channel>   <channel id="220022">   <display-name lang="zh">220022</display-name>   </channel>   <channel id="220023">   <display-name lang="zh">220023</display-name>   </channel>   <channel id="220024">   <display-name lang="zh">220024</display-name>   </channel>   <channel id="220025">   <display-name lang="zh">220025</display-name>   </channel>   <channel id="220026">   <display-name lang="zh">220026</display-name>   </channel>   <channel id="220027">   <display-name lang="zh">220027</display-name>   </channel>   <channel id="220028">   <display-name lang="zh">220028</display-name>   </channel>   <channel id="220029">   <display-name lang="zh">220029</display-name>   </channel>   <channel id="220030">   <display-name lang="zh">220030</display-name>   </channel>   <channel id="220031">   <display-name lang="zh">220031</display-name>   </channel>   <channel id="220032">   <display-name lang="zh">220032</display-name>   </channel>   <channel id="220033">   <display-name lang="zh">220033</display-name>   </channel>   <channel id="220034">   <display-name lang="zh">220034</display-name>   </channel>   <channel id="220034">   <display-name lang="zh">220034</display-name>   </channel>   <channel id="220035">   <display-name lang="zh">220035</display-name>   </channel>   <channel id="220036">   <display-name lang="zh">220036</display-name>   </channel>   <channel id="220037">   <display-name lang="zh">220037</display-name>   </channel>   <channel id="220038">   <display-name lang="zh">220038</display-name>   </channel>   <channel id="220039">   <display-name lang="zh">220039</display-name>   </channel>   <channel id="220040">   <display-name lang="zh">220040</display-name>   </channel> 
+  
  
- 
- 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100001"><title lang="zh">我和我的祖国</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100001">  
+ <title lang="zh">我和我的祖国</title>
 <desc lang="zh"> 七位导演分别取材新中国成立70周年以来，祖国经历的无数个历史性经典瞬间。讲述普通人与国家之间息息相关密不可分的动人故事。聚焦大时代大事件下，小人物和国家之间，看似遥远实则密切的关联，唤醒全球华人共同回忆。</desc> </programme>
   
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100002"><title lang="zh">唐顿庄园</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100002">   
+<title lang="zh">唐顿庄园</title>
 <desc lang="zh">电影版《唐顿庄园》讲述了新的故事：一向暗流涌动的唐顿庄园突然接到一封意外信件，英国皇室即将造访。当象征着大不列颠最高权力的国王夫妇来到这座偏安一隅的乡间宅邸，等待唐顿庄园主人们的将会是怎样的挑战；当两种都以高冷优雅、荣誉体面为毕生追求的人群相遇，又将发生怎样意想不到的碰撞？《唐顿庄园》携经典演员阵容回归，首度通过大银幕演绎一段镌刻着浓郁英伦气息的全新贵族篇章。</desc> </programme>
  
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100003"><title lang="zh">鬼影特工</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100003"> 
+  <title lang="zh">鬼影特工</title>
 <desc lang="zh"> 来自世界各地的六人，个个都是各自领域的佼佼者。他们之所以被选中，不单是因为能力出众，还在于其独特的志向：他们想抹杀自己的过去以改变未来。一位神秘的领袖（瑞恩·雷诺兹饰）将他们召集到一起组成了这个团队，他毕生唯一的使命就是确保即使他和自己的同伴会被遗忘，但也要让人们永远铭记他们所做的一切。</desc> </programme>
  
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100005"><title lang="zh">爱尔兰人</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100005"> 
+  <title lang="zh">爱尔兰人</title>
 <desc lang="zh"> 爱尔兰人》为马丁·斯科塞斯执导的传奇巨制，罗伯特·德尼罗、阿尔·帕西诺和乔·佩西主演。通过二战老兵弗兰克·希兰的视角，讲述了战后美国有组织犯罪的故事。弗兰克·希兰是一名骗子和杀手，曾经在 20 世纪最恶名昭彰的人物身边工作。该电影跨越数十年，记录了美国历史上最大的悬案之一，即传奇工会领袖吉米·霍法失踪案，以宏大的故事之旅，展现有组织犯罪的隐秘通道：其内部运作、仇敌以及与主流政治的瓜葛。</desc> </programme>
   
- <programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100004"><title lang="zh">续命之徒</title>
+ <programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100004">  
+ <title lang="zh">续命之徒</title>
 <desc lang="zh"> Netflix 电视内容《续命之徒：绝命毒师电影》回归，主角杰西·平克曼（艾美奖得主亚伦·保尔饰演）再次与粉丝见面。杰西戏剧性地逃出囚禁后，他必须接受自己的过去，才有可能创造未来。这部扣人心弦的惊悚片由《绝命毒师》的创剧人文斯·吉里根编写和执导。该电影由马克·约翰逊、梅利莎·伯恩斯坦、查尔斯·纽沃斯、黛安娜·默瑟和亚伦·保尔以及 Sony Pictures Television 联合制作。</desc> </programme>
  
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100006"><title lang="zh">JOKER</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100006">  
+ <title lang="zh">JOKER</title>
 <desc lang="zh"> 电影《小丑》以同名DC漫画角色为基础，由华纳兄弟影业公司发行，计划于2019年10月4日上映。本片的故事将独立于DCEU之外，故事背景设置在20世纪80年代，讲述了一位生活陷入困境的脱口秀喜剧演员渐渐走向精神的崩溃，在哥谭市开始了疯狂的犯罪生涯，最终成为了蝙蝠侠的宿敌“小丑”的故事。</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100007"><title lang="zh">热气球飞行家</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100007">  
+ <title lang="zh">热气球飞行家</title>
 <desc lang="zh">讲述在1862年，热气球驾驶员Amelia Wren和科学家James Glaisher踏上了一段非凡的旅程，去寻找天堂的奥秘。在飞行过程中，他们的飞行高度突破了世界纪录，也有了令人惊叹的发现。然而当他们即将达到大气层时，被迫为了生存而展开史诗般的斗争。</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100008"><title lang="zh">教宗的承继</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100008"> 
+  <title lang="zh">教宗的承继</title>
 <desc lang="zh"> 这是一个真实的故事，讲述了近 2000 年来最戏剧性的权力交接事件之一。主教贝尔格利奥（乔纳森·普雷斯饰演）对教会的发展方向感到十分失望，因此向教皇本笃（安东尼·霍普金斯饰演）申请在 2012 年退休。然而，面对丑闻和自我怀疑，善于内省的教皇本笃召见对他最严厉的批判者和未来的继任者来到罗马，在梵蒂冈的围墙之内，展开了一场传统与进步、罪恶与宽恕之间的斗争，这两位截然不同的人直面各自的过去，以图寻找共同点，以及为全世界十亿信徒开创未来。</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100009"><title lang="zh">婚姻故事</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="100009">  
+ <title lang="zh">婚姻故事</title>
 <desc lang="zh">  以一起离婚事件探讨婚姻和爱情，诺亚·鲍姆巴赫执导， 亚当·德赖弗扮演一个剧作家，斯嘉丽·约翰逊扮演一个女明星，两人因各自工作分居纽约和洛杉矶而不得不走向离婚，主演另有劳拉·邓恩、格蕾塔·葛韦格。 Netflix参与制作。</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210001"><title lang="zh">Paridise and Affection 20190101</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210001">  
+ <title lang="zh">Paridise and Affection 20190101</title>
 <desc lang="zh">  婚前生活照和婚纱照的集锦片段</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210002"><title lang="zh">婚礼纪（share） -Picture</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210002"> 
+  <title lang="zh">婚礼纪（share） -Picture</title>
 <desc lang="zh"> 婚礼故事及婚纱拍照 </desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210003"><title lang="zh">婚礼纪 -Picture </title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210003">  
+ <title lang="zh">婚礼纪 -Picture </title>
 <desc lang="zh">婚礼进行时照片集锦  拍摄者：文华+蓉+佳丽，鸣谢！ </desc> </programme>
   
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210004"><title lang="zh">婚礼纪 视频第一段（共两段）</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210004">  
+ <title lang="zh">婚礼纪 视频第一段（共两段）</title>
 <desc lang="zh"> 婚礼当天视频集锦  万亩茶园     拍摄者：文华+蓉，鸣谢！ </desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210005"><title lang="zh">婚礼纪 视频第二段（共两段）</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210005">  
+ <title lang="zh">婚礼纪 视频第二段（共两段）</title>
 <desc lang="zh"> 婚礼当天视频集锦  今年第一场雪 拍摄者：文华+蓉，鸣谢！ </desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210006"><title lang="zh">2019瑞雪丰年</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210006"> 
+  <title lang="zh">2019瑞雪丰年</title>
 <desc lang="zh"> 拍摄于婚礼前一天，白雪皑皑，瑞雪丰年  拍摄者：大侠建军，鸣谢！ </desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210051"><title lang="zh">文夫王景 婚礼第一段（共三段）</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210051"> 
+  <title lang="zh">文夫王景 婚礼第一段（共三段）</title>
 <desc lang="zh"> 拍摄于婚礼当天，寒冬不敌人情暖意   拍摄者：婚庆公司 </desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210052"><title lang="zh">文夫王景 婚礼第二段（共三段）</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210052">  
+ <title lang="zh">文夫王景 婚礼第二段（共三段）</title>
 <desc lang="zh"> 拍摄于婚礼当  入乡随俗，人情世故    拍摄者：婚庆公司 </desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210053"><title lang="zh">文夫王景 婚礼第三段（共三段）</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="210053">  
+ <title lang="zh">文夫王景 婚礼第三段（共三段）</title>
 <desc lang="zh"> 拍摄于婚礼当天，娶妻嫁女，难舍难分  拍摄者：婚庆公司 </desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220001"><title lang="zh">河南农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220001">  
+ <title lang="zh">河南农村</title>
 <desc lang="zh"> 河南农村一帅哥结婚，新娘是巴基斯坦的，正在举行婚礼，好热闹_超清</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220002"><title lang="zh">云南农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220002"> 
+  <title lang="zh">云南农村</title>
 <desc lang="zh"> 云南农村小伙结婚，新娘刚下车，新郎就如此做，第一次</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220003"><title lang="zh">四川农村彝族</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220003">  
+ <title lang="zh">四川农村彝族</title>
 <desc lang="zh"> 四川农村彝族一姑娘下雪天出嫁，正在穿衣打扮，看看漂亮吗</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220004"><title lang="zh">四川彝族</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220004"> 
+  <title lang="zh">四川彝族</title>
 <desc lang="zh"> 四川彝族一小伙去迎亲，这样热闹的场面看着好刺激，好想去感受下</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220005"><title lang="zh">安徽农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220005"> 
+  <title lang="zh">安徽农村</title>
 <desc lang="zh"> 安徽农村，正在迎接漂亮新娘子进门，新郎魂都被勾走了</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220006"><title lang="zh">农村婚礼</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220006">  
+ <title lang="zh">农村婚礼</title>
 <desc lang="zh">农村婚礼现场实拍，新娘抱只大公鸡进门，这风俗有没有见过？_超清</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220007"><title lang="zh">山东婚礼</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220007"> 
+  <title lang="zh">山东婚礼</title>
 <desc lang="zh">山东小伙结婚，新娘刚进门，就学包饺子给大家吃，新郎好幸福</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220008"><title lang="zh">山西婚礼</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220008">  
+ <title lang="zh">山西婚礼</title>
 <desc lang="zh">山西小伙，正月十五结婚，没有婚车，全家人用人力车把新娘接回家</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220009"><title lang="zh">山西运城婚礼</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220009">  
+ <title lang="zh">山西运城婚礼</title>
 <desc lang="zh">山西运城农村新娘进门前的一段单口相声，几乎没听懂</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220010"><title lang="zh">广东婚礼</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220010"> 
+  <title lang="zh">广东婚礼</title>
 <desc lang="zh">广东一小伙迎亲，新娘半路下车走路进家，肯定是个贤惠的好媳妇</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220011"><title lang="zh">广东农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220011"> 
+  <title lang="zh">广东农村</title>
 <desc lang="zh">广东农村一姑娘出嫁，新郎来迎亲，正在求婚，出门时没打伞</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220012"><title lang="zh">广西农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220012"> 
+  <title lang="zh">广西农村</title>
 <desc lang="zh">广西一姑娘出嫁，出门时配的这首歌曲，循环听了无数遍</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220013"><title lang="zh">广西农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220013"> 
+  <title lang="zh">广西农村</title>
 <desc lang="zh">广西一帅哥迎亲，新娘到家了，配的这首《婚礼誓言》太好听了</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220014"><title lang="zh">广西农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220014"> 
+  <title lang="zh">广西农村</title>
 <desc lang="zh">广西一穷小子，正月十五娶媳妇，没几个人帮忙，猜猜新娘多漂亮</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220015"><title lang="zh">广西农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220015"> 
+  <title lang="zh">广西农村</title>
 <desc lang="zh">广西农村一小伙结婚，带着新娘去拜祖屋，让老祖宗也高兴高兴</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220016"><title lang="zh">广西农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220016"> 
+  <title lang="zh">广西农村</title>
 <desc lang="zh">广西农村一帅哥结婚，新娘到家了，配的这首歌曲太好听了</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220017"><title lang="zh">江西农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220017">
+   <title lang="zh">江西农村</title>
 <desc lang="zh">江西农村一姑娘出嫁，妈妈哭得好伤心，这样出门的习俗第一次见</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220018"><title lang="zh">江西农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220018"> 
+  <title lang="zh">江西农村</title>
 <desc lang="zh">江西农村一小伙迎亲，两个小哥哥扛两棵竹子开路，这是什么习俗</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220019"><title lang="zh">湖北农村</title>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220019"> 
+  <title lang="zh">湖北农村</title>
 <desc lang="zh">湖北农村姑娘，嫁了位英俊潇洒的帅哥，魂都被他勾走了</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220020"><title lang="zh">湖北农村</title>
-<desc lang="zh">湖北小伙接亲，彩礼带了几十万，丈母娘家很满意，看看新娘漂亮不</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220020">  
+ <title lang="zh">湖北农村</title>
+<desc lang="zh">湖北小伙接亲，彩礼带了几十万，丈母娘家很满意，看看新娘漂亮不</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220021"><title lang="zh">湖北农村</title>
-<desc lang="zh">湖北一农家儿子娶到一村花，村里的光棍们好羡慕，新娘太漂亮了_标清</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220021">  
+ <title lang="zh">湖北农村</title>
+<desc lang="zh">湖北一农家儿子娶到一村花，村里的光棍们好羡慕，新娘太漂亮了_标清</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220022"><title lang="zh">湖南农村</title>
-<desc lang="zh">湖南一村花出嫁，被一男子，花2块腊肉娶走了</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220022">  
+ <title lang="zh">湖南农村</title>
+<desc lang="zh">湖南一村花出嫁，被一男子，花2块腊肉娶走了</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220023"><title lang="zh">湖南农村</title>
-<desc lang="zh">湖南农村一小伙去迎亲，新娘拜别家人出门了，配的这首歌曲真好听</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220023"> 
+  <title lang="zh">湖南农村</title>
+<desc lang="zh">湖南农村一小伙去迎亲，新娘拜别家人出门了，配的这首歌曲真好听</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220024"><title lang="zh">湖南农村</title>
-<desc lang="zh">湖南农村结婚，这位姑娘有点大方，猜猜上了多少礼金</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220024"> 
+  <title lang="zh">湖南农村</title>
+<desc lang="zh">湖南农村结婚，这位姑娘有点大方，猜猜上了多少礼金</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220025"><title lang="zh">福建</title>
-<desc lang="zh">福建一老板娶老婆，新娘年龄虽大了点，但女人味十足，风韵犹存</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220025">   
+<title lang="zh">福建</title>
+<desc lang="zh">福建一老板娶老婆，新娘年龄虽大了点，但女人味十足，风韵犹存</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220026"><title lang="zh">福建农村</title>
-<desc lang="zh">福建农村嫁女，新娘红毛巾蒙面出家门，还带二根甘庶</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220026">  
+ <title lang="zh">福建农村</title>
+<desc lang="zh">福建农村嫁女，新娘红毛巾蒙面出家门，还带二根甘庶</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220027"><title lang="zh">福建农村</title>
-<desc lang="zh">福建姑娘出嫁，出门时，一家人好不舍，新娘哭了</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220027">  
+ <title lang="zh">福建农村</title>
+<desc lang="zh">福建姑娘出嫁，出门时，一家人好不舍，新娘哭了</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220028"><title lang="zh">贵州农村</title>
-<desc lang="zh">贵州一大哥，38岁才娶到媳妇，高高兴兴娶回家，新娘这么好满足</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220028"> 
+  <title lang="zh">贵州农村</title>
+<desc lang="zh">贵州一大哥，38岁才娶到媳妇，高高兴兴娶回家，新娘这么好满足</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220029"><title lang="zh">贵州农村</title>
-<desc lang="zh">贵州一小伙结婚，背着新娘进家，家里有点穷，木房子几十年了</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220029">  
+ <title lang="zh">贵州农村</title>
+<desc lang="zh">贵州一小伙结婚，背着新娘进家，家里有点穷，木房子几十年了</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220030"><title lang="zh">贵州农村</title>
-<desc lang="zh">贵州一小伙，正月初五结婚，婚礼办得隆重，新娘家有点穷啊</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220030">  
+ <title lang="zh">贵州农村</title>
+<desc lang="zh">贵州一小伙，正月初五结婚，婚礼办得隆重，新娘家有点穷啊</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220031"><title lang="zh">贵州农村</title>
-<desc lang="zh">贵州农村一姑娘出嫁，舍不得离开爸妈，出门时嚎啕大哭</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220031"> 
+  <title lang="zh">贵州农村</title>
+<desc lang="zh">贵州农村一姑娘出嫁，舍不得离开爸妈，出门时嚎啕大哭</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220032"><title lang="zh">贵州农村</title>
-<desc lang="zh">贵州农村一小伙结婚，村子里的木房子几十年了，好有年代感</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220032">  
+ <title lang="zh">贵州农村</title>
+<desc lang="zh">贵州农村一小伙结婚，村子里的木房子几十年了，好有年代感</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220033"><title lang="zh">贵州农村</title>
-<desc lang="zh">贵州农村姑娘出嫁，新娘出门前弟弟好不舍，这场面看着好揪心</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220033">  
+ <title lang="zh">贵州农村</title>
+<desc lang="zh">贵州农村姑娘出嫁，新娘出门前弟弟好不舍，这场面看着好揪心</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220034"><title lang="zh">贵州农村</title>
-<desc lang="zh">贵州小伙接亲，装聘礼马上出发了，看这些聘礼，是谁家姑娘好幸福</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220034">  
+ <title lang="zh">贵州农村</title>
+<desc lang="zh">贵州小伙接亲，装聘礼马上出发了，看这些聘礼，是谁家姑娘好幸福</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220035"><title lang="zh">贵州农村</title>
-<desc lang="zh">贵州小伙接亲，这样喝拦门酒的场面好霸气，我第一次见</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220035"> 
+  <title lang="zh">贵州农村</title>
+<desc lang="zh">贵州小伙接亲，这样喝拦门酒的场面好霸气，我第一次见</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220036"><title lang="zh">重庆农村</title>
-<desc lang="zh">重庆农村一姑娘出嫁，和新郎一起拜别亲人出门了，陪嫁好霸气</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220036">  
+ <title lang="zh">重庆农村</title>
+<desc lang="zh">重庆农村一姑娘出嫁，和新郎一起拜别亲人出门了，陪嫁好霸气</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220037"><title lang="zh">重庆农村</title>
-<desc lang="zh">重庆农村一帅哥结婚，新娘到家了，听说丈母娘在城里陪嫁一套房子</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220037">   
+<title lang="zh">重庆农村</title>
+<desc lang="zh">重庆农村一帅哥结婚，新娘到家了，听说丈母娘在城里陪嫁一套房子</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220038"><title lang="zh">重庆</title>
-<desc lang="zh">重庆农村一帅哥结婚，新娘子有点胖，一脸旺夫相</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220038"> 
+  <title lang="zh">重庆</title>
+<desc lang="zh">重庆农村一帅哥结婚，新娘子有点胖，一脸旺夫相</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220039"><title lang="zh">重庆</title>
-<desc lang="zh">重庆小伙迎亲，新娘是在外打工带回来的，美发店出嫁，身边没亲人</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220039">  
+ <title lang="zh">重庆</title>
+<desc lang="zh">重庆小伙迎亲，新娘是在外打工带回来的，美发店出嫁，身边没亲人</desc> </programme>
 
-<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220040"><title lang="zh">重庆</title>
-<desc lang="zh">陕西小伙结婚，新娘是一位漂亮的护士，新郎亲自抱她进家，辛苦了</programme>
+<programme start="20200101013000 +0800" stop="20251210013000 +0800" channel="220040"> 
+  <title lang="zh">重庆</title>
+<desc lang="zh">陕西小伙结婚，新娘是一位漂亮的护士，新郎亲自抱她进家，辛苦了</desc> </programme>
 
 
 
