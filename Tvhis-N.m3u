@@ -3,13 +3,13 @@
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",火神山医院
 http://gctxyc.liveplay.myqcloud.com/gc/jyg02_1_md.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",中国气象
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgqx.jpg" group-title="①📺广东★电视台",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",广东新闻
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdxw.png" group-title="①📺广东★电视台",广东新闻
 http://nclive.grtn.cn/xwpd/sd/live.m3u8#@www.chengbo.org/proxy/gdds2.m3u8?id=gdxwjiema1#@gdlt://18#7#@www.chengbo.org/proxy/pptv.m3u8?id=gdxw#@www.chengbo.org/proxy/gdwx.m3u8?id=gdxw
-#EXTINF:-1 group-title="①📺广东★电视台",广东新闻
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdxw.png" group-title="①📺广东★电视台",广东新闻
 http://nclive.grtn.cn/xwpd/sd/live.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",新华中文
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/xhzw.png" group-title="①📺广东★电视台",新华中文
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="①📺广东★电视台",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
@@ -35,18 +35,18 @@ http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",BesTV4K
 http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",广东综艺4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺4K
 http://nclive.grtn.cn/4K/sd/live.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",广东综艺4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺4K
 http://nclive.grtn.cn:80/4K/sd/live.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",广东综艺4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺4K
 http://nclive.grtn.cn:80/4K/sd/live.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",广东国际
-http://nclive.grtn.cn/gjpd/sd/live.m3u8#@www.chengbo.org/proxy/gdds2.m3u8?id=gdgjjiema1#@http://103.38.144.30:6060/01000001/2/01000000000000000000000000000112/index.m3u8?&amp;virtualDomain=01000001.live_hls.zte.com#@gdlt://117
-#EXTINF:-1 group-title="①📺广东★电视台",广东公共
-http://nclive.grtn.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",广东国际
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdgj.png" group-title="①📺广东★电视台",广东国际
 http://nclive.grtn.cn/gjpd/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdgj.png" group-title="①📺广东★电视台",广东国际
+http://nclive.grtn.cn/gjpd/sd/live.m3u8#@www.chengbo.org/proxy/gdds2.m3u8?id=gdgjjiema1#@http://103.38.144.30:6060/01000001/2/01000000000000000000000000000112/index.m3u8?&amp;virtualDomain=01000001.live_hls.zte.com#@gdlt://117
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdgg.png" group-title="①📺广东★电视台",广东公共
+http://nclive.grtn.cn/ggpd/sd/live.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",广东房产
 http://nclive.grtn.cn/fcpd/sd/live.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",广东科教
@@ -93,41 +93,41 @@ http://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/b41b61822aac47c1b
 https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5116ac473bab453395e1d36fc26c76ac/main.m3u8?maxbr=2048&minbr=400
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="①📺广东★电视台",江边古城-赤壁
 http://zyb020.cn-gd.ufileos.com/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%BD%B1%E5%83%8F%E6%96%B9%E5%BF%97%E3%80%8B%20%E7%AC%AC5%E9%9B%86%20%E6%B9%96%E5%8C%97%E8%B5%A4%E5%A3%81%E7%AF%87.mp4
-#EXTINF:-1 group-title="①📺广东★电视台",赤壁一套
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/cbdst.jpg" group-title="①📺广东★电视台",赤壁一套
 http://hbcb.chinashadt.com:1936/live/tv1.stream/playlist.m3u8#http://chibi.live.tempsource.cjyun.org/videotmp/s10138-CBTV1.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",赤壁一套
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/cbdst.jpg" group-title="①📺广东★电视台",赤壁一套
 http://hbcb.chinashadt.com:1936/live/tv1.stream/playlist.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",赤壁一套
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/cbdst.jpg" group-title="①📺广东★电视台",赤壁一套
 http://hbcb.chinashadt.com:1936/live/tv1.stream/chunklist_w746065373.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",赤壁二套
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/cbdst.jpg" group-title="①📺广东★电视台",赤壁二套
 http://hbcb.chinashadt.com:1936/live/tv2.stream/playlist.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",赤壁二套
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/cbdst.jpg" group-title="①📺广东★电视台",赤壁二套
 http://hbcb.chinashadt.com:1936/live/tv2.stream/playlist.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",赤壁二套
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/cbdst.jpg" group-title="①📺广东★电视台",赤壁二套
 http://hbcb.chinashadt.com:1936/live/tv2.stream/chunklist_w68703164.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="①📺广东★电视台",湖北卫视
 http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hubei_2_hd.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="①📺广东★电视台",湖北卫视HD
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",儿歌大全
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",儿歌大全
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_ergedaquan&ostype=android&hwtype=nubia&tm=1579958333&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",兔小贝儿歌
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",兔小贝儿歌
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_tuxiaobeierge&ostype=android&hwtype=nubia&tm=1580035282&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",贝瓦儿歌
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",贝瓦儿歌
 http://baiducdncmn.inter.iqiyi.com/tslive/c15_lb_beiwaerge_1080p_t10/c15_lb_beiwaerge_1080p_t10.m3u8?key=0ec66d4accf166693268e2eedd188901c&dis_k=ae4c20827e47b9e9ef285a93dc15c38d&dis_t=1580036259&dis_dz=CMNET-GuangDong&dis_st=26&pv=0.2&qd_tvid=2842440223&qd_vipres=0&qd_scc=ea1b548e0881e6318b0b93fd220f974a&qd_sc=9d189f6d989b745fa1198aba78d1c926&qd_src=01010031010000000000&qd_ip=78e675fa&qd_uid=&qd_tm=1580036259109&qd_vip=1
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",宝宝巴士
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",宝宝巴士
 http://baiducdncmn.inter.ptqy.gitv.tv/tslive/c19_lb_baobaobashi_720p_t10/c19_lb_baobaobashi_720p_t10.m3u8?key=066bf46abcdea4df8cebe4358f7b5225e&dis_k=88c34a91514046e455fb9f7d9a5a8ca8&dis_t=1580996180&dis_dz=CMNET-GuangDong&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1580996180131&qd_ip=120.230.117.244&qd_sc=416863ed8744585dd0f96cf3fb21056e
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",英文儿歌
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",英文儿歌
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_yingwenerge&ostype=android&hwtype=nubia&tm=1580995822&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",亲子启蒙
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",亲子启蒙
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_qinziqimeng&ostype=android&hwtype=nubia&tm=1579960467&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",华数_睡前故事
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",华数_睡前故事
 http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",玩具乐园
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",玩具乐园
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_wanjuleyuan&ostype=android&hwtype=nubia&tm=1579960476&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",宝宝课堂
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",宝宝课堂
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_baobaoketang&ostype=android&hwtype=nubia&tm=1579960483&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",星学堂
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",星学堂
 http://aldirect.hls.huya.com/huyalive/1199514198973-1199514198973-5232659111706886144-2399028521402-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",动物兄弟
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_dongwuxiongdi&ostype=android&hwtype=nubia&tm=1579952733&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
@@ -143,26 +143,120 @@ http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_donghuadianying&ostype=an
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_maohelaoshu&ostype=android&hwtype=nubia&tm=1579952722&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",喜洋洋和灰太郎
 http://hlslive.video.ptqy.gitv.tv/tslive/c20_lb_xiyangyang_high_t10/c20_lb_xiyangyang_high_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1580035748450&qd_ip=223.104.1.243&qd_sc=37250e9fcce70f4b51f2c97e65b6c3dd
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",CIBN童学世界
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",CIBN童学世界
 http://stream.guihet.com/tv/cibn.php?id=12
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",国教台CEC TV-1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",国教台CEC TV-1
 http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",国教台CEC TV-2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",国教台CEC TV-2
 http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",国教台CEC TV-3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",国教台CEC TV-3
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",国教台CEC TV-4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",国教台CEC TV-4
 http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台",中教台CETV-1
 http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台",中教台CETV-2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",北京教学广播 FM99.4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",北京教学广播 FM99.4
 http://123.56.16.201:1935/live/fm994/96K/tzwj_video.m3u8
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",北京教学广播 FM99.4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",北京教学广播 FM99.4
 http://live.xmcdn.com/live/104/64.m3u8
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",北京教学广播 FM99.4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",北京教学广播 FM99.4
 http://ls.qingting.fm/live/338.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学一年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752589-1099531752589-86435413673115648-2199063628634-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学二年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752590-1099531752590-86435417968082944-2199063628636-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学三年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752591-1099531752591-86435422263050240-2199063628638-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学四年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752592-1099531752592-86435426558017536-2199063628640-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学五年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752593-1099531752593-86435430852984832-2199063628642-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学六年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752594-1099531752594-86435435147952128-2199063628644-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中一年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中二年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752596-1099531752596-86435443737886720-2199063628648-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中三年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752597-1099531752597-86435448032854016-2199063628650-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中一年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752598-1099531752598-86435452327821312-2199063628652-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中二年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752599-1099531752599-86435456622788608-2199063628654-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中三年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752600-1099531752600-86435460917755904-2199063628656-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学一年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752601-1099531752601-86435465212723200-2199063628658-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学二年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752602-1099531752602-86435469507690496-2199063628660-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学三年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752603-1099531752603-86435473802657792-2199063628662-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学四年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752604-1099531752604-86435478097625088-2199063628664-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学五年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752605-1099531752605-86435482392592384-2199063628666-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学六年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752606-1099531752606-86435486687559680-2199063628668-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中一年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752607-1099531752607-86435490982526976-2199063628670-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中二年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中三年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752609-1099531752609-86435499572461568-2199063628674-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中一年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752610-1099531752610-86435503867428864-2199063628676-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中二年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752611-1099531752611-86435508162396160-2199063628678-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中三年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752612-1099531752612-86435512457363456-2199063628680-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学二年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752590-1099531752590-86435417968082944-2199063628636-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学三年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752591-1099531752591-86435422263050240-2199063628638-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学四年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752592-1099531752592-86435426558017536-2199063628640-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学五年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752593-1099531752593-86435430852984832-2199063628642-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学六年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752594-1099531752594-86435435147952128-2199063628644-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中一年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752595-1099531752595-86435439442919424-2199063628646-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中二年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752596-1099531752596-86435443737886720-2199063628648-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中三年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752597-1099531752597-86435448032854016-2199063628650-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中一年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752598-1099531752598-86435452327821312-2199063628652-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中二年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752599-1099531752599-86435456622788608-2199063628654-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中三年级(新)
+http://aldirect.hls.huya.com/huyalive/1099531752600-1099531752600-86435460917755904-2199063628656-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学一年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752601-1099531752601-86435465212723200-2199063628658-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学二年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752602-1099531752602-86435469507690496-2199063628660-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学三年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752603-1099531752603-86435473802657792-2199063628662-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学四年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752604-1099531752604-86435478097625088-2199063628664-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学五年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752605-1099531752605-86435482392592384-2199063628666-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",小学六年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752606-1099531752606-86435486687559680-2199063628668-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中一年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752607-1099531752607-86435490982526976-2199063628670-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中二年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752608-1099531752608-86435495277494272-2199063628672-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",初中三年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752609-1099531752609-86435499572461568-2199063628674-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中一年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752610-1099531752610-86435503867428864-2199063628676-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中二年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752611-1099531752611-86435508162396160-2199063628678-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台",高中三年级(思)
+http://aldirect.hls.huya.com/huyalive/1099531752612-1099531752612-86435512457363456-2199063628680-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-id="6188" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/225px-Boomerang_2014_logo.svg.png" group-title="②📺少儿益智💯‍‍教育台",Boomerang
 http://pili-live-hdl.qhmywl.com:80/dsdtv/65796ce70deacc164cf2eb854ad43994.m3u8
 #EXTINF:-1 tvg-id="6113" tvg-name="NHK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NHKWorld.png" group-title="②📺少儿益智💯‍‍教育台",NHK
