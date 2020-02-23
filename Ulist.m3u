@@ -1,6 +1,4 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="007",色戒
-https://qqc1107.phpdaniu.com/japan/20190829/5fjOUM6C/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
@@ -37,6 +35,50 @@ http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4k
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 group-title="CGTN",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+#EXTINF:-1 group-title="CGTN",CGNTV-KR
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN
+http://112.50.243.7/PLTV/88888888/224/3221226509/index.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN
+http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN Arabic
+http://live.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN Arabic
+http://live.cgtn.com/1000a/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN Arabic
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN Documentary
+http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN Documentary
+http://bit.ly/2D1FvME
+#EXTINF:-1 group-title="CGTN",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN Espa
+http://bit.ly/2F0ODBz
+#EXTINF:-1 group-title="CGTN",CGTN Espa
+http://live.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN Espa
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN Franais
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN Franais
+http://live.cgtn.com/cctv-f.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN Franais
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN2
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="CGTN",CGTN2
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:-1 group-title="CGTN",CNN Live Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
@@ -115,6 +157,102 @@ https://url.cn/5HB5JUU
 http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
 #EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="电影",好莱坞电影（解码HW+）
 http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="电影",色戒
+https://qqc1107.phpdaniu.com/japan/20190829/5fjOUM6C/index.m3u8
+#EXTINF:-1 tvg-id="141" group-title="港澳",凤凰中文
+http://125.210.152.18:9090/live/FHZW_1200.m3u8
+#EXTINF:-1 tvg-id="141" group-title="港澳",凤凰中文
+http://liveali.ifeng.com/live/FHZW.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳",凤凰中文
+http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+#EXTINF:-1 tvg-id="141" group-title="港澳",凤凰中文
+http://liveali.ifeng.com/live/FHZW.flv
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳",香港卫视台
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文台
+#EXTINF:-1 tvg-id="142" group-title="港澳",凤凰资讥
+http://liveali.ifeng.com/live/FHZX.flv
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳",凤凰资讯台
+http://liveali.ifeng.com/live/FHZX.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳",凤凰资讯台
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8#http://125.210.152.18:9090/live/FHZX_1200.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="港澳",凤凰香港
+http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+#EXTINF:-1 group-title="港澳",阳光卫视
+https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港澳",HKSTV
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv:80/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港澳",HKSTV
+http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+#EXTINF:-1 group-title="港澳",星空卫视
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 group-title="港澳",澳亚卫视
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 group-title="港澳",澳视
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳",澳视 澳门
+http://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 group-title="港澳",澳视 资讯
+http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="港澳",C+
+https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+#EXTINF:-1 group-title="港澳",亚旅卫视
+http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+#EXTINF:-1 group-title="港澳",有线 新闻
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港澳",有线新闻台
+http://testalicdn2.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港澳",无线新闻
+http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd/playlist.m3u8
+#EXTINF:-1 group-title="港澳",nhk华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 group-title="港澳",nhk英语新闻
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+#EXTINF:-1 group-title="港澳",Tvb   韓劇台
+http://tvbilive17-i.akamaihd.net/hls/live/573853/CKDrama5/CKDrama5-01.m3u8
+#EXTINF:-1 group-title="港澳",Tvb 星河
+http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
+#EXTINF:-1 group-title="港澳",加美東
+http://tvbilive9-i.akamaihd.net/hls/live/494661/CJCA5E/CJCA5E-04.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台
+http://hls.ws.anyrtc.io/live/2ryZCh5qSGd8hJgtfXVNhWOX5u9SYz8u/playlist.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳",翡翠台（软解）
+http://live.ergt4rt.wang/gangaotai.php?id=1
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳",TVB 明珠台（备用）
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="港澳",香港电影频道
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:-1 group-title="港澳",香港老电影
+http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台湾",中视（解码HW+）
+http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾",华视（解码HW+）
+http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾",中天综合（解码HW+）
+http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="台湾",好莱坞电影（解码HW+）
+http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台湾",动物星球（解码HW+）
+http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台湾",CTV中视HD（解码HW+）
+http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 group-title="台湾",华视CTS（解码HW+）
+http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台湾",年代新闻（解码HW+）
+http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台湾",CTI中天新闻（解码HW+）
+http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+#EXTINF:-1 group-title="台湾",CTI中天亚洲台（解码HW+）
+http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾",CTI中天综合（解码HW+）
+http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾",CTI中天娱乐（解码HW+）
+http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾",EBC东森新闻（解码HW+）
+http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾",EBC东森电影（解码HW+）
+http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾",EBC东森洋片（解码HW+）
+http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 #EXTINF:-1 tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN综合
 http://cibn.peoplevideo.cn/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?wsSecret=24dfaaac2d26b0cc0ff33bf8a5099384
 #EXTINF:-1 tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN好莱坞
@@ -167,51 +305,1831 @@ http://cibn.peoplevideo.cn/hls/vCIBNJKPD/1800/vCIBNJKPD.m3u8?wsSecret=6bf1094344
 http://cibn.peoplevideo.cn/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?wsSecret=5f38811d672214110f110816440adbdb
 #EXTINF:-1 tvg-logo="https://pic2.superbed.cn/item/5dfda6ef76085c3289a17646.jpg" group-title="CIBN",CIBN真人秀
 http://cibn.peoplevideo.cn/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?wsSecret=b58297c2170067d9164da6f2f86d3059
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯台
-http://liveali.ifeng.com/live/FHZX.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="香港",翡翠台（软解）
-http://live.ergt4rt.wang/gangaotai.php?id=1
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="香港",TVB 明珠台（备用）
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文
-http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",凤凰香港
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="香港",香港卫视台
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="香港",凤凰中文台
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="香港",凤凰资讯台
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8#http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8#http://125.210.152.18:9090/live/FHZX_1200.m3u8
-#EXTINF:-1 group-title="香港",香港电影频道
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1 group-title="香港",香港老电影
-http://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台湾",中视（解码HW+）
-http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台湾",华视（解码HW+）
-http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
-#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾",中天综合（解码HW+）
-http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="台湾",好莱坞电影（解码HW+）
-http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="台湾",动物星球（解码HW+）
-http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="台湾",CTV中视HD（解码HW+）
-http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 group-title="台湾",华视CTS（解码HW+）
-http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
-#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台湾",年代新闻（解码HW+）
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台湾",CTI中天新闻（解码HW+）
-http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 group-title="台湾",CTI中天亚洲台（解码HW+）
-http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台湾",CTI中天综合（解码HW+）
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台湾",CTI中天娱乐（解码HW+）
-http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台湾",EBC东森新闻（解码HW+）
-http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="台湾",EBC东森电影（解码HW+）
-http://192.154.103.74:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
-#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="台湾",EBC东森洋片（解码HW+）
-http://192.154.103.74:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 group-title="MOVIE",《千局1》
+https://135zyv6.xw0371.com/2019/03/19/K9W3TbRk4Ge0oiF7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《齐天大圣之火焰山》
+https://135zyv6.xw0371.com/2019/03/19/gEcr5SMaaxgqwk0E/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《比悲伤更悲伤的故事》
+https://135zyv6.xw0371.com/2019/03/16/iIRY3Co55kHC4xgi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《次长在恋爱中》
+https://135zyv6.xw0371.com/2019/03/19/5vyqBX7IwMxJhtzh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《丹青小姐》
+https://135zyv6.xw0371.com/2019/03/16/KknQme7VJ5OrUrGG/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《独家记忆番外之再见爱》
+https://135zyv6.xw0371.com/2019/03/02/JHfzRKkHPFx81MVR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《不要说对不起》
+https://135zyv6.xw0371.com/2019/03/19/4RAclGHxKVf0N0LU/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《七剑下天山之封神骨》
+https://135zyv6.xw0371.com/2019/03/16/EoQ5MLu0a10D36z5/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《独家记忆番外之勇敢爱》
+https://135zyv6.xw0371.com/2019/03/02/HGpVXvh5xU8jkstc/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《蓝色生死恋》
+https://135zyv6.xw0371.com/2019/03/18/X9irBdI7z0mJLM83/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《未来的你》
+https://135zyv6.xw0371.com/2019/03/16/uyfkDW93drRaJmot/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《独家记忆番外之相信爱》
+https://135zyv6.xw0371.com/2019/03/02/6yBU5arnqSuOh9Rh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《明明就是喜欢我》
+https://135zyv6.xw0371.com/2019/03/18/bUwCcNH4gJcM49oC/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《比悲伤更悲伤的故事》
+https://135zyv6.xw0371.com/2019/03/16/WbO8aIWmImPHc6ob/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《真爱攻略》
+https://135zyv6.xw0371.com/2019/03/02/diAkQZIH5Pdnu1Mj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的同居小仙》
+https://135zyv6.xw0371.com/2019/03/18/rs6ZqaZ1LJsM8mli/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一个明星的诞生》
+https://135zyv6.xw0371.com/2019/03/16/ceHnDRZoDoY0rGaO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《摘金奇缘 国语》
+https://135zyv6.xw0371.com/2019/03/02/3ejvpFfx8OWB1tqE/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《纽约纽约》
+https://135zyv6.xw0371.com/2019/03/17/2yDNoMLhEtk7iWIJ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《仙游记》
+https://135zyv6.xw0371.com/2019/03/16/SQHKrkWx9GzWXeVt/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的南宫大人》
+https://135zyv6.xw0371.com/2019/02/23/0UcvAHmWMGGoJHFq/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《最佳前男友之月老下凡来爱你》
+https://135zyv6.xw0371.com/2019/03/17/RAGx7wyQH1iDGOyk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《今夜在浪漫剧场》
+https://135zyv6.xw0371.com/2019/03/16/QkKCGgHs66egjVbk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《莱卡》
+https://135zyv6.xw0371.com/2019/02/21/ru9C2CAWvkPdNSeT/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《爱情故事》
+https://135zyv6.xw0371.com/2019/03/17/cUYUJ4U72DyKOPey/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一吻定情》
+https://135zyv6.xw0371.com/2019/03/14/kndJG8cv0yatst9V/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《欲望你好》
+https://135zyv6.xw0371.com/2019/02/19/HnHAM4dD9n6K2vWP/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《谁偷了我的宝贝》
+https://135zyv6.xw0371.com/2019/03/14/1xw7ADMUm2vaJe7o/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《明明是我的人生》
+https://135zyv6.xw0371.com/2019/02/19/B0ttPGBXndcYonqY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《娇宠画家恋上我》
+https://135zyv6.xw0371.com/2019/02/08/Hzsw3vbhoOX6l0qH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《乔纳斯》
+https://135zyv6.xw0371.com/2019/02/06/PLQ03IMkzsgmGWcM/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《假若比尔街能说话》
+https://135zyv6.xw0371.com/2019/02/16/2jgF7IP1FGxg8AgY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《替嫁新娘》
+https://135zyv6.xw0371.com/2019/01/11/rJ6r2A72f8cev9Ip/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《婚礼》
+https://135zyv6.xw0371.com/2019/02/06/nMMWQ1vBUkeDvhkb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《忠诚/忠贞》
+https://135zyv6.xw0371.com/2019/01/09/E0xsRH7203nJ90EG/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《青夏 与你相恋的30天》
+https://135zyv6.xw0371.com/2019/02/02/XvloZnc5k5OA0Tfu/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《爱不可及》
+https://135zyv6.xw0371.com/2019/01/08/tA2VA4RL64dEgI4z/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《烧腊》
+https://135zyv6.xw0371.com/2019/02/01/RX5QaBCxAeqJ5b7e/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《敦煌不了情》
+https://135zyv6.xw0371.com/2019/01/01/ljk3BU5fa7OgGhAH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《演讲风云》
+https://135zyv6.xw0371.com/2019/01/23/7ocqHTcMIEo39JrK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《战大理之罗马假日》
+https://135zyv6.xw0371.com/2018/12/26/sdHcnqK3ZF7BNUWQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《魅途》
+https://135zyv6.xw0371.com/2019/01/22/Ai2TQPy4CfbXXlCf/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《现在去见你》
+https://135zyv6.xw0371.com/2018/12/17/pJIbh9CKByHPneX5/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《欲爱金婚》
+https://135zyv6.xw0371.com/2019/01/14/dew0gLCIJ4MPPIJ1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《在天堂等我》
+https://135zyv6.xw0371.com/2018/12/13/VOxXkHEHJdSkJSq5/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《来不及再见》
+https://135zyv6.xw0371.com/2019/01/12/Gh2DeKzlbhsGjVGm/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《你好，之华》
+https://135zyv6.xw0371.com/2018/12/08/mGEwL2EY0CaSDZxU/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《兴风作浪》
+https://135zyv6.xw0371.com/2019/01/12/T7cZ3AfhoTqSfxbj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《再爱的机会》
+https://135zyv6.xw0371.com/2018/12/03/CFZPg31aQt4or8DY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《圣诞王子：皇室婚礼》
+https://135zyv6.xw0371.com/2018/12/02/bjP8CI5DPI8bpp7b/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《恋如雨止》
+https://135zyv6.xw0371.com/2018/12/03/HEbtVqN0RpXDI5bB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《忠犬大营救》
+https://135zyv6.xw0371.com/2018/12/02/eD3BulkAKgwIix2P/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《红楼梦/同志版红楼梦》
+https://135zyv6.xw0371.com/2018/11/21/Knz716LMYclDNCOO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《礼尚吻来》
+https://135zyv6.xw0371.com/2018/12/01/d43qnJ2LXbf4JIQG/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大西山小村官》
+https://135zyv6.xw0371.com/2018/11/21/86Ziu3IJHuWrVCmk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《暮光·巴黎》
+https://135zyv6.xw0371.com/2018/12/01/R1dG9hVfGBTc8KqB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《恋爱关系》
+https://135zyv6.xw0371.com/2018/11/15/Oshko9nf0ZBiffdc/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《雨中的秋城》
+https://135zyv6.xw0371.com/2018/11/30/E3yrbeezlGTrN8XB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《货架之间》
+https://135zyv6.xw0371.com/2018/11/12/ALnVN5fmU2BT8w86/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《蝶变计划》
+https://135zyv6.xw0371.com/2018/11/29/7LDgHJZ0cGg2iZBj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《热恋女校》
+https://135zyv6.xw0371.com/2018/11/11/g13ySWoTSRfQLfCW/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《暮光·巴黎》
+https://135zyv6.xw0371.com/2018/11/29/Owk5XqFe4o9Y62OC/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《脱单告急》
+https://135zyv6.xw0371.com/2018/11/10/xIdMQ0PfU4LNJazv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《德里三人行》
+https://135zyv6.xw0371.com/2018/11/29/6fAvbLaIoDguwKBR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《黎明前的两个夜晚》
+https://135zyv6.xw0371.com/2018/11/05/Ij93f2Q7d4phxqE8/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《根西岛文学与土豆皮馅饼俱乐部》
+https://135zyv6.xw0371.com/2018/11/25/M733CnvkHK3SKpEA/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《为你写诗》
+https://135zyv6.xw0371.com/2018/11/06/osYGfVoRIXHjm9FA/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《笙笙入我心》
+https://135zyv6.xw0371.com/2018/11/24/If5gyDFHkQ6tWFK2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《请爱我的女朋友》
+https://v.xw0371.com/20171216/fz7tP34O/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《相爱相亲》
+https://v.xw0371.com/20171206/8llogfmo/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《当哈利遇到莎迦》
+https://v.xw0371.com/20171206/ecbYzplD/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《恋爱合约》
+https://v.xw0371.com/20171128/e1YnJvoH/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《狂热郁金香》
+https://v.xw0371.com/20171129/vxSFr4Fw/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《昼行闪耀的流星》
+https://v.xw0371.com/20171123/k8c9y9Ya/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《迷情N小时》
+https://v.xw0371.com/20171122/UcXjxm5j/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《初恋日记》
+https://v.xw0371.com/20171123/wFVwcR5d/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《因为爱情》
+https://v.xw0371.com/20171122/9NjSVBgc/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《昔日恋人》
+https://v.xw0371.com/20171123/LGrVSdwn/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《会痛的十七岁》
+https://v.xw0371.com/20171123/EDTzC2oJ/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《情遇曼哈顿》
+https://v.xw0371.com/20171122/K7k1piup/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的魔法仙妻》
+https://v.xw0371.com/20171122/5Bn5CcNy/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《新奇》
+http://v.xw0371.com:80/20171122/6t4xchz3/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《入铁笼》
+https://135zyv6.xw0371.com/2019/03/19/SII5wJORBduiKR68/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《王牌霸王花》
+https://135zyv6.xw0371.com/2019/03/19/IpFGRRMGS1O5l5nf/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《命之途》
+https://135zyv6.xw0371.com/2019/03/16/f3Ed7o9QFyjFzjsL/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大蛇》
+https://135zyv6.xw0371.com/2019/03/19/M1lrYPagaV1mctpr/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《硬核风暴》
+https://135zyv6.xw0371.com/2019/03/16/En13ru82k2UpTyij/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《唐砖下之灵域双生》
+https://135zyv6.xw0371.com/2019/02/28/DNOQ0JmS2kpLNbCg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《东海龙棺》
+https://135zyv6.xw0371.com/2019/03/19/9PBHYTuHF11WeDqv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《三方国界》
+https://135zyv6.xw0371.com/2019/03/14/lf2U5SH9TZlUXfww/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《竞速传奇》
+https://135zyv6.xw0371.com/2019/02/28/SsDjSlEuTnW0Kcqf/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《恶棍成长记》
+https://135zyv6.xw0371.com/2019/03/18/r5rAZ2AKhPjqbmyx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《弯刀杀戮》
+https://135zyv6.xw0371.com/2019/03/12/iGyzOKz4728Hpqt3/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《封魔传》
+https://135zyv6.xw0371.com/2019/02/26/ZFNFjOuqNG10nekP/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《热血高校》
+https://135zyv6.xw0371.com/2019/03/18/x4xNTF7XS9R3cEyB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《尸控警戒》
+https://135zyv6.xw0371.com/2019/03/09/mO8OCNzPKmbTFJVz/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《诡门十三针》
+https://135zyv6.xw0371.com/2019/02/26/nfjhDHspOdHI8yYV/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《绝地营救》
+https://135zyv6.xw0371.com/2019/03/07/IKrlTskhhXXhUvHH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《无敌破坏王2：大闹互联网 》
+https://135zyv6.xw0371.com/2019/02/26/gYQYP05xPZ5mrpGq/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超级保镖》
+https://135zyv6.xw0371.com/2019/03/17/UAtu8K4kHzbyqeQg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超能英雄锦衣侠》
+https://135zyv6.xw0371.com/2019/03/05/Bz26ISm9dmFWo2eW/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《逃组》
+https://135zyv6.xw0371.com/2019/02/26/6lJ05LfGiWdhMcoy/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《猎杀活死人》
+https://135zyv6.xw0371.com/2019/03/17/WAn9LE6ySWQBoGSo/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《海王》
+https://135zyv6.xw0371.com/2019/03/05/3DoIIo5UNCwKCfUk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《维京战争》
+https://135zyv6.xw0371.com/2019/02/25/Uj8sdzFG6rJjAaSx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《迷途之人》
+https://135zyv6.xw0371.com/2019/03/16/BmcK7U7lm6wpj0s0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《赎罪2019》
+https://135zyv6.xw0371.com/2019/03/03/KuRBdgtpCHCidHXg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《竞速传奇》
+https://135zyv6.xw0371.com/2019/02/25/5YpstrCLo5yKZeam/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《“大”人物》
+https://135zyv6.xw0371.com/2019/03/01/f1y4lKvfY1xEgJK2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《麻辣女孩》
+https://135zyv6.xw0371.com/2019/02/24/jRvxC2mibSgU94by/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《阿丽塔：战斗天使》
+https://135zyv6.xw0371.com/2019/02/23/oO8lSGte3fkvuWVH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《云南虫谷》
+https://135zyv6.xw0371.com/2019/02/22/DFYIIzqkbCWvkbHQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《天乩之天帝传说》
+https://135zyv6.xw0371.com/2019/02/23/YnblmwOPfOZGFcXi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《狂徒》
+https://135zyv6.xw0371.com/2019/02/11/WaNxkhezC9bbmmZI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《黄飞鸿之狮魂觉醒》
+https://135zyv6.xw0371.com/2019/02/21/Gp0PfUgvKkAU4qCl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《断片之险途夺宝》
+https://135zyv6.xw0371.com/2019/02/09/6PUNY2AdFlDCjaYC/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《盗窃战》
+https://135zyv6.xw0371.com/2019/02/21/ToBvzyqFqV3kfseX/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《叶问外传：张天志(国语版)》
+https://135zyv6.xw0371.com/2019/02/07/xOnYwMvoKjT6jpeh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《古法泰拳》
+https://135zyv6.xw0371.com/2019/02/17/IrwXUwp1jCQPHDjk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《叶问外传：张天志(粤语版)》
+https://135zyv6.xw0371.com/2019/02/07/dTihDVrpdEigdi6c/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《龙珠超：布罗利》
+https://135zyv6.xw0371.com/2019/02/16/TTb8VnnlS8Ih6upu/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《济公之降龙有悔》
+https://135zyv6.xw0371.com/2019/02/05/DyUSYsRW7yi8PTYz/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神奇动物：格林德沃之罪 国语》
+https://135zyv6.xw0371.com/2019/02/16/l7odmmtUDo8oZK4s/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《少侠好功夫》
+https://135zyv6.xw0371.com/2019/02/02/LlHf6Xwpav7Y9ePU/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《六扇门之御前盗圣》
+https://135zyv6.xw0371.com/2019/02/15/VbkT3aE7F0IpxTCh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《齐天大圣之大闹龙宫》
+https://135zyv6.xw0371.com/2019/02/01/wZdHNQz9ReWaI8Px/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《密林诡影》
+https://135zyv6.xw0371.com/2019/02/13/6j5zshCCZ0gFgcMh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《绝地隧战》
+https://135zyv6.xw0371.com/2019/01/31/SAu8UogBfbFqcAlZ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《丫山情》
+https://135zyv6.xw0371.com/2019/02/11/xky0rDZsjCRToYd7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《武林怪兽 粤语》
+https://135zyv6.xw0371.com/2019/01/31/0KnPUy9CXZFcDBHf/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《武林怪兽 国语》
+https://135zyv6.xw0371.com/2019/01/31/2h98xoBXcrPhSR22/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神龙诀之千年灵狐》
+https://135zyv6.xw0371.com/2019/01/29/cRSI956IVwNjWBj9/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《印度暴徒 国语》
+https://135zyv6.xw0371.com/2019/01/28/pwRrG9UUXGPUSNjM/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《宝塔镇河妖2绝世妖龙》
+https://135zyv6.xw0371.com/2019/01/22/W8Ryi2K1cHv3QCu6/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《镇魔大师》
+https://135zyv6.xw0371.com/2019/01/27/aSCnqd0WOwfyQVkm/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《姐姐》
+https://135zyv6.xw0371.com/2019/01/21/hEx6XQkXGfA4EAwT/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《亡命救赎》
+https://135zyv6.xw0371.com/2019/01/13/kQo8xHX0y2XueB8o/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《贼王》
+https://135zyv6.xw0371.com/2019/01/27/k7WoysIdb61QNA7j/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《刺杀风云》
+https://135zyv6.xw0371.com/2019/01/19/dyDLy4PnLGuNLPjc/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大黄蜂》
+https://135zyv6.xw0371.com/2019/01/10/h3KV9l57DiE0LHAg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《剑归何处》
+https://135zyv6.xw0371.com/2019/01/26/fKi8DD4YcH7Vh05v/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大黄蜂》
+https://135zyv6.xw0371.com/2019/01/19/vw1P8BS5wgz0PbEC/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《毒液：致命守护者 国语》
+https://135zyv6.xw0371.com/2019/01/10/GcNgLOSsAqEsfM8a/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大侦探霍桑》
+https://135zyv6.xw0371.com/2019/01/25/6f3qIefyA9bXAC9n/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《特殊保镖》
+https://135zyv6.xw0371.com/2019/01/18/ZuKNV4xyJBDm0XW7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《猛龙行动之绝密代码》
+https://135zyv6.xw0371.com/2019/01/07/4TYeG5VRCXtKDRqp/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《罗宾汉（韩版）》
+https://135zyv6.xw0371.com/2019/01/25/OaHACsx0lJGQcLdX/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超级队长》
+https://135zyv6.xw0371.com/2019/01/18/C8TC5frI5Jns7L6F/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《印度暴徒》
+https://135zyv6.xw0371.com/2019/01/06/ecEl8hF4S0PR7jOO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《中国蓝盔》
+https://135zyv6.xw0371.com/2019/01/24/1vmUXBDLkuAtaMrx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《掠食城市》
+https://135zyv6.xw0371.com/2019/01/18/lMzmL9RRqmgOUfqI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《功夫营救》
+https://135zyv6.xw0371.com/2019/01/05/QLl8NY9WQLQr3CJd/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《宝塔镇河妖2绝世妖龙》
+https://135zyv6.xw0371.com/2019/01/24/6kg2B9WJ15Pk8Bkm/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《开封降魔记》
+https://135zyv6.xw0371.com/2019/01/15/Snnv0BAIUz2ylThF/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《印度暴徒》
+https://135zyv6.xw0371.com/2019/01/02/9Zma5OoXgNe1uQ7p/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《掠食城市》
+https://135zyv6.xw0371.com/2019/01/23/n8pxER5BX7NWdlqN/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《拳拳有爱》
+https://135zyv6.xw0371.com/2019/01/15/BoeQZA1FtOUUGQJP/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《拳职妈妈》
+https://135zyv6.xw0371.com/2019/01/02/nICizOr0HhdK2QfW/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《麻药王》
+https://135zyv6.xw0371.com/2019/01/13/hRD2rialKJaKG6lD/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《增速驱动》
+https://135zyv6.xw0371.com/2019/01/01/mGaG6i8lctkulxE8/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《冰封侠：时空行者 粤语》
+https://135zyv6.xw0371.com/2018/12/30/tKiU596D286ag0PD/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《三界寻龙记》
+https://135zyv6.xw0371.com/2018/12/31/n7tEyRbZk8LrxDyJ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《冰封侠：时空行者 国语》
+https://135zyv6.xw0371.com/2018/12/30/0JNeZ0xmvfPFs25f/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超级电网》
+https://135zyv6.xw0371.com/2018/12/22/TEEgU81JTi3mHGsS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《铁血战士 国语版》
+https://135zyv6.xw0371.com/2018/12/29/NhWN9XemKLyjpM90/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《所有邪佞之人》
+https://135zyv6.xw0371.com/2018/12/23/ujF4x9IHNDS4nU9Q/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《犹太士师参孙》
+https://135zyv6.xw0371.com/2018/12/28/WHBsaooxoXnlQdAh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《愤怒的黄牛》
+https://135zyv6.xw0371.com/2018/12/23/a3iCDI09CrHr7N1r/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《失控之枪林弹雨》
+https://135zyv6.xw0371.com/2018/12/27/e0LHOsos9rYSWfsb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《刀剑道》
+https://135zyv6.xw0371.com/2018/12/22/r6iT6cHNC3dJaSmW/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《冰海陷落》
+https://135zyv6.xw0371.com/2018/12/27/4bZvt8WkAsxiBuj3/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《克隆人》
+https://135zyv6.xw0371.com/2018/12/23/adRKjbEcexsBIp3e/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《暗杀国度》
+https://135zyv6.xw0371.com/2018/12/25/KZonta7qNsVoQdsr/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《特种保镖2》
+https://135zyv6.xw0371.com/2018/12/22/ttLlAa1R5pplSvim/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《京武火龙》
+https://135zyv6.xw0371.com/2018/12/25/zV50994ibezO4LF5/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的间谍前男友》
+https://135zyv6.xw0371.com/2018/12/22/cWYvMFHxXSaIwowy/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《克隆人 国语版》
+https://135zyv6.xw0371.com/2018/12/23/Q0VAPFKXvgbzYgvz/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《叶问外传：张天志》
+https://135zyv6.xw0371.com/2018/12/21/7zHTjjrTrMpxZBwU/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《蜘蛛侠：平行宇宙》
+https://135zyv6.xw0371.com/2018/12/23/vXY8h7P4f1RBonsN/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《龙珠超：布罗利》
+https://135zyv6.xw0371.com/2018/12/21/8eUqlfyiraNoCth9/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《黑暗迷宫》
+https://135zyv6.xw0371.com/2018/12/21/mOziMKOu4Kujf9fY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《无双》
+https://135zyv6.xw0371.com/2018/12/20/B2N2SUcOof0kaJqd/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《特种兵归来1：血狼之怒》
+https://135zyv6.xw0371.com/2018/12/20/F5Er7Hwr5Oh4juEh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《飓风奇劫 国语版》
+https://135zyv6.xw0371.com/2018/12/11/xYaF2WheKxmvsyBl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《特种兵归来2：黑色罂粟》
+https://135zyv6.xw0371.com/2018/12/20/19S69zAKAxAyj4A2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《陈真传奇》
+https://135zyv6.xw0371.com/2018/12/10/nZwpzj4D9aTFZWop/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《功夫联盟 粤语版》
+https://135zyv6.xw0371.com/2018/11/28/LIpjCKFJQQuEfmAJ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《特种兵归来3：绝密战场》
+https://135zyv6.xw0371.com/2018/12/20/h1nnGNZcyGsBszWr/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《特种兵归来1：血狼之怒》
+https://135zyv6.xw0371.com/2018/12/07/PeCEhsLL2Z54EfjA/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《功夫联盟 国语版》
+https://135zyv6.xw0371.com/2018/11/28/XgKvOt3TrqcjjsSs/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《黄飞鸿之怒海雄风》
+https://135zyv6.xw0371.com/2018/12/18/UxFpDJ6ZXSOb6bEL/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《胖子行动队》
+https://135zyv6.xw0371.com/2018/12/06/yM5Z3vTMAFq9hoxr/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《铁血战士》
+https://135zyv6.xw0371.com/2018/11/28/P33t6HOEex44uV8V/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《回溯者》
+https://135zyv6.xw0371.com/2018/12/17/gQZDlt6XoinBoN0b/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《邻里的人们》
+https://135zyv6.xw0371.com/2018/12/02/0fySZSpupk3NKi3b/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《东陵盗宝之徐公馆诡事》
+https://135zyv6.xw0371.com/2018/11/27/dAjDsj8STEjLp1Uw/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《战士》
+https://135zyv6.xw0371.com/2018/12/15/BCkDCnCtVRhQgEGy/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《河盗》
+https://135zyv6.xw0371.com/2018/12/03/nEMNcgOK40iwRsA3/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《唐门龙棺凤胆》
+https://135zyv6.xw0371.com/2018/11/27/Ox1Hr4uKw8Ovnozt/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《飓风奇劫》
+https://135zyv6.xw0371.com/2018/12/13/hgrFVe0qBZ7qAmw7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《美国动物》
+https://135zyv6.xw0371.com/2018/12/01/RKQtH4BJTK041Gns/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《马尼拉摊牌》
+https://135zyv6.xw0371.com/2018/11/26/v9rZLiLisbzsjxNy/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《无敌原始人 英语版》
+https://135zyv6.xw0371.com/2018/12/12/wRwTnnnYUQdq8JkR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《影》
+https://135zyv6.xw0371.com/2018/11/30/H46A4DfeOPv2NoDZ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《偷芯攻略》
+https://135zyv6.xw0371.com/2018/11/25/hi32BUFYUcyCBQQj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《无敌原始人 国语版》
+https://135zyv6.xw0371.com/2018/12/12/sPljmPZd6nnlIwGX/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《毒液：致命守护者》
+https://135zyv6.xw0371.com/2018/11/29/OekwVJr9sEMGzkBs/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《坏蛋先生4》
+https://135zyv6.xw0371.com/2018/11/24/2BkQlwNYxbbWS4mS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《欢乐时光谋杀案》
+https://135zyv6.xw0371.com/2018/11/24/Id4PihzviLUQXA41/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《失落帝国之七星诡镜》
+https://135zyv6.xw0371.com/2018/11/23/l7Z5JbtU2zPluzNf/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《邪不压正》
+https://135zyv6.xw0371.com/2018/11/23/BRQ9RRgMeAi1bCPj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《猖獗》
+https://135zyv6.xw0371.com/2018/11/24/7x5UJR7SBUoO8yPu/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《犬舍 真人版》
+https://135zyv6.xw0371.com/2018/11/13/DnmzOL2xC19VakxS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《极速杀机》
+https://135zyv6.xw0371.com/2018/11/21/tVM7qcw2lZSj9OQn/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《罪人》
+https://135zyv6.xw0371.com/2018/11/11/nhOctDWVB5kPizbq/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《浪客擎苍》
+https://135zyv6.xw0371.com/2018/11/20/0jBM0Rva9tMQamq7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《三国杀·幻》
+https://135zyv6.xw0371.com/2018/11/10/cN1ZwUp7e38K1ab7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《海军陆战队员6：近距离击杀》
+https://135zyv6.xw0371.com/2018/11/20/IrVyYqnb57cMQTIF/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《盖世英雄》
+https://135zyv6.xw0371.com/2018/11/10/q1ou4snGQCxuzuXN/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《险物一号》
+https://135zyv6.xw0371.com/2018/11/18/JNWWsmzw5vNFeDWi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《同族》
+https://135zyv6.xw0371.com/2018/11/08/fIY97BgLdxjybw5S/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《拳霸英雄》
+https://135zyv6.xw0371.com/2018/11/18/mh6xaC1FcuC6QJn2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《巴比龙》
+https://135zyv6.xw0371.com/2018/11/06/m4xwp147FEg5jT1v/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《鬼拳3》
+https://135zyv6.xw0371.com/2018/11/17/b8r3XUSubrYqiQVl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《守墓人之海昏侯迷踪》
+https://135zyv6.xw0371.com/2018/11/05/JOgM2Oqg4KBh0nmx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大明平妖传》
+https://135zyv6.xw0371.com/2018/11/17/vcxTbYWOWQI1KEks/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《迫日营救》
+https://135zyv6.xw0371.com/2018/11/05/XD8qsvfYNhVuFGwR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《赤火追缉》
+https://135zyv6.xw0371.com/2018/11/15/Ou5XTTAhodLzi34B/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《虎胆追凶 国语版》
+https://135zyv6.xw0371.com/2018/11/06/pcpUfhCHYVyBGtqs/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神秘感染：第二阶段》
+https://135zyv6.xw0371.com/2018/11/04/Swu32tF5UzQVXymf/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神秘感染》
+https://135zyv6.xw0371.com/2018/11/04/Z3FuvI2Hbtz03oHO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《天蓬归来》
+https://135zyv6.xw0371.com/2018/11/04/lj31vxnnJIKu4koI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《你给的仇恨》
+https://135zyv6.xw0371.com/2018/11/04/Qs2kJ4hmKnu42S00/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《魔幻西游2之伏魔篇》
+https://v.xw0371.com/20171218/WJaD7IBQ/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《捉妖战记》
+https://v.xw0371.com/20171218/UPHrgRVA/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《密战》
+https://v.xw0371.com/20171215/u6OiRQHH/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《星灵之末日异能》
+https://v.xw0371.com/20171214/YgQkLdla/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《神秘暗堡》
+https://v.xw0371.com/20171210/9uzw0x8X/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《巨额来电》
+https://v.xw0371.com/20171211/AeMzO64t/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《最终正义》
+https://v.xw0371.com/20171206/rDqmkle0/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《最后的警察 版》
+https://v.xw0371.com/20171122/ZaZwanhX/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《大明锦衣卫2》
+https://v.xw0371.com/20171206/w590t3ux/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《逆谋 - 叛乱的时代》
+https://v.xw0371.com/20171205/ltp4kOBc/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《三界传说之浮屠秘术》
+https://v.xw0371.com/20171122/mf6gshzi/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《英伦对决》
+https://v.xw0371.com/20171129/rif87EfR/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《复仇之火》
+https://v.xw0371.com/20171122/DsOynLVb/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《追击》
+https://v.xw0371.com/20171122/Kp0ZbkkF/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《银魂》
+https://v.xw0371.com/20171122/CameI1Kr/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《武曲 MUKOKU》
+https://v.xw0371.com/20171123/fBF96aQb/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《空天猎》
+https://v.xw0371.com/20171123/UOG1REJV/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《好警察坏警察2》
+https://v.xw0371.com/20171123/yVUB854h/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《空天猎》
+https://v.xw0371.com/20171122/aVeiDBqc/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《钢铁拳》
+https://v.xw0371.com/20171123/zricTROM/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《破里拳Polimar》
+https://v.xw0371.com/20171121/vac0KKuQ/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《美国行动》
+https://v.xw0371.com/20171123/wkmlgjOj/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《左滩》
+https://135zyv6.xw0371.com/2019/03/19/F5H2FTPHAHaP7DJ3/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《长岛》
+https://135zyv6.xw0371.com/2019/03/19/2HhSjjpgm1EQvUGv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《驭风男孩》
+https://135zyv6.xw0371.com/2019/03/19/DfQA51hq3Kll3fOe/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《唐人街之罪》
+https://135zyv6.xw0371.com/2019/03/19/VLu1a8G3VlAFST9h/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《迷途》
+https://135zyv6.xw0371.com/2019/03/19/rhPmqCYu0xqXE9nJ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《最后一击》
+https://135zyv6.xw0371.com/2019/03/18/KtLqq0HbckTbrF7L/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《狮女传说》
+https://135zyv6.xw0371.com/2019/03/19/vCWyxArSxSVL1Oxg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《欲后》
+https://135zyv6.xw0371.com/2019/03/19/3O3jxKUQdTmflD3H/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《幻想的色彩》
+https://135zyv6.xw0371.com/2019/03/18/qkyXEKGYnikOvFkL/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《擒贼先擒王》
+https://135zyv6.xw0371.com/2019/03/19/fMgIlqtrGVrHPpch/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《晚开的盛花》
+https://135zyv6.xw0371.com/2019/03/19/Kw5q7yNh9wqq8b6t/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《雷德怒潮》
+https://135zyv6.xw0371.com/2019/03/17/ORUg3sIkiaKZqouj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《快闪猎人暗黑正义》
+https://135zyv6.xw0371.com/2019/03/19/EKlKzYtAkEePTrOr/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《华尔街之狼》
+https://135zyv6.xw0371.com/2019/03/19/7Ui9Rn7d6K87bsRK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《混乱信息》
+https://135zyv6.xw0371.com/2019/03/17/J7zIbKPkKQLv2Hgd/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大汉十三将之血战疏勒城》
+https://135zyv6.xw0371.com/2019/03/19/KIZKbRoDTSKK7uBx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《青春的牙》
+https://135zyv6.xw0371.com/2019/03/18/P90edPMJLIc6AJwG/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《啊，男孩》
+https://135zyv6.xw0371.com/2019/03/17/16Jm5AxCZ2OjAHx1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《后会无期》
+https://135zyv6.xw0371.com/2019/03/19/Y0TXlMHCwWeJlC6O/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《月亮之光》
+https://135zyv6.xw0371.com/2019/03/18/vlGZODMRmGJ6DomI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《库尔斯克》
+https://135zyv6.xw0371.com/2019/03/16/yqjIUFtcgE0IEkAu/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《高手过招》
+https://135zyv6.xw0371.com/2019/03/19/nbPyMRiJ4t6heEAQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《命运》
+https://135zyv6.xw0371.com/2019/03/18/3q9joQVU2oUwvD5y/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《毛利男孩》
+https://135zyv6.xw0371.com/2019/03/16/NbasY4SNFPhFPhid/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《坚守希望》
+https://135zyv6.xw0371.com/2019/03/19/xgcL1T4LT4WsBD81/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《浓情酒乡》
+https://135zyv6.xw0371.com/2019/03/18/7nbcmSkWxZlvDc8F/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《李学生》
+https://135zyv6.xw0371.com/2019/03/16/HmXOQJJ7PP1gMcTM/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《書包里的秘密》
+https://135zyv6.xw0371.com/2019/03/18/ryN2Xvd60lYsi6DY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《奔跑吧，少年》
+https://135zyv6.xw0371.com/2019/03/16/qL58C8L7tiqKSHSQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《因为爱你》
+https://135zyv6.xw0371.com/2019/03/16/k0f9buATD5aA4sfZ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《龙先生》
+https://135zyv6.xw0371.com/2019/03/16/iiRSHHjdJewLit0O/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《指挥家》
+https://135zyv6.xw0371.com/2019/03/16/xKKVr0s6ZvQyBVu1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《天渠》
+https://135zyv6.xw0371.com/2019/03/14/F9YJDUUX6IdqusXU/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《因为爱你》
+https://135zyv6.xw0371.com/2019/03/16/ZGxqhPhpuPIUPCnZ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《忙人日记》
+https://135zyv6.xw0371.com/2019/03/14/2MCoAFXiyO62oA6N/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《涂样人生》
+https://135zyv6.xw0371.com/2019/03/15/6ZnZT6Y1sWghkBSj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《良好的执行力：替代妻子》
+https://135zyv6.xw0371.com/2019/03/12/mhINUCAl0FAQzB0s/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《她那边的床》
+https://135zyv6.xw0371.com/2019/03/15/w2uxpNRoIPHeixgg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神犬出击》
+https://135zyv6.xw0371.com/2019/03/09/xexHHJYKmD6vDB2u/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《无间炼狱》
+https://135zyv6.xw0371.com/2019/03/15/U5HKSBvzrr7nUL0z/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《完全陌生/神秘女郎爱丽丝》
+https://135zyv6.xw0371.com/2019/03/09/647Etol65IYncOpW/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《被炉、蜜桔和小猫》
+https://135zyv6.xw0371.com/2019/03/15/jhwRWgFQR2qRhRes/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《伦敦战场》
+https://135zyv6.xw0371.com/2019/03/09/MISdjsIoEwpY1wKB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《梅西女孩》
+https://135zyv6.xw0371.com/2019/03/15/vQv90IaZeTzikfcU/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一塌糊涂》
+https://135zyv6.xw0371.com/2019/03/09/A3p2q0khUAH0EJ7Y/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《咖啡未冷前》
+https://135zyv6.xw0371.com/2019/03/14/jq0LHciOT66FHg09/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《谜一样的双眼》
+https://135zyv6.xw0371.com/2019/03/09/g9VNvLMoGUzfZ5Cq/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《她的气味》
+https://135zyv6.xw0371.com/2019/03/14/syEMERmtkQsk1Vfk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我是官兵你是贼》
+https://135zyv6.xw0371.com/2019/03/08/HFVbrA8NJfvc5ije/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《非法记忆》
+https://135zyv6.xw0371.com/2019/03/07/ZLJJgM7JssTsZKqH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《怪咖双雄》
+https://135zyv6.xw0371.com/2019/03/06/FxP7HAVJTzttr6Gv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《沉默的雪》
+https://135zyv6.xw0371.com/2019/03/06/VwPl4rV9PV2IBoGS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《美人到之不素之客》
+https://135zyv6.xw0371.com/2019/02/28/Ot0g3MB3B8CL1yFI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《错位囧途》
+https://135zyv6.xw0371.com/2019/03/06/TTy04bEqgmoclm0c/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《古着商店之天启大爆炸》
+https://135zyv6.xw0371.com/2019/02/28/vIX1l7gRN6gywvcA/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《山姆·克莱默克的时间机器》
+https://135zyv6.xw0371.com/2019/02/25/vOyMuVp0Qgfm8n8x/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《光之声》
+https://135zyv6.xw0371.com/2019/03/05/QetSIYdCTpskhtQi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《死亡天使》
+https://135zyv6.xw0371.com/2019/02/28/ib0xwxSicPqM8Pmv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《本回家了》
+https://135zyv6.xw0371.com/2019/02/25/wlJHZ9DhaNnRM9fD/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《办公室女郎2》
+https://135zyv6.xw0371.com/2019/03/04/6ytizfns1faYWy4U/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《肯尼亚式友谊》
+https://135zyv6.xw0371.com/2019/02/28/zIRKQ4Zsxz2r7geE/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《末世长安》
+https://135zyv6.xw0371.com/2019/02/24/rop2HKsVbDnNu6HH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《你的美丽》
+https://135zyv6.xw0371.com/2019/03/03/V8Hf6hnIvmbemorh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《东京偶像》
+https://135zyv6.xw0371.com/2019/02/28/R9ZrOlJ6ZWPaEquw/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的公园好友》
+https://135zyv6.xw0371.com/2019/02/24/JOczf3Iogb7aaGPI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神魔契约之如意厨房》
+https://135zyv6.xw0371.com/2019/03/01/FTCegPmmTyaJibSO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《谎言》
+https://135zyv6.xw0371.com/2019/02/27/cCyGQC4PBvNVQ4eE/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《爱的缘由》
+https://135zyv6.xw0371.com/2019/02/23/S2bwMhsEvH3OkrXl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《放下手机》
+https://135zyv6.xw0371.com/2019/03/02/5IWoylbvaiH378Hb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《传控》
+https://135zyv6.xw0371.com/2019/02/26/RwXHLFZvfmTDqSN5/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《猎魂》
+https://135zyv6.xw0371.com/2019/02/23/UlOe7BIbn7P0CbZq/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《徒手攀岩》
+https://135zyv6.xw0371.com/2019/02/28/ME5kGolYFF5HD5yR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《患难兄弟情》
+https://135zyv6.xw0371.com/2019/02/26/M9JDOPqKSt7ygdDp/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《那些面孔》
+https://135zyv6.xw0371.com/2019/02/23/6h9uFXlqrcaLq2LE/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《宁静》
+https://135zyv6.xw0371.com/2019/02/28/awgSvgJ0RZ0tmHTO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《巴黎惊梦》
+https://135zyv6.xw0371.com/2019/02/26/xUxNe1W8Z2Jqi92c/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《月老传之幽冥绝》
+https://135zyv6.xw0371.com/2019/02/22/etoUsYictkw41kd8/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《小偷家族 国语》
+https://135zyv6.xw0371.com/2019/02/25/MPR3ZfZt1JSMbDf7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《廉政风云》
+https://135zyv6.xw0371.com/2019/02/07/tY7tGJKij6736neY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《复仇/复仇战姬》
+https://135zyv6.xw0371.com/2019/02/22/kHHbXapSDLQVkYgA/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《朝花夕誓》
+https://135zyv6.xw0371.com/2019/02/23/Z9PGG4mvTxmnQy9f/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《那些名字那些年》
+https://135zyv6.xw0371.com/2019/02/20/4xIZNO3tBn3DAo7o/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《伴侣》
+https://135zyv6.xw0371.com/2019/02/18/PBLKF01X1uKhBm6I/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《逆流前进》
+https://135zyv6.xw0371.com/2019/02/21/5ugxv9nJqxXayYNX/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《死于明日》
+https://135zyv6.xw0371.com/2019/02/18/xSlANTojenQvo5rc/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《库伯里克机长》
+https://135zyv6.xw0371.com/2019/02/21/djcgG0kY8J8JVH9F/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《非我族类》
+https://135zyv6.xw0371.com/2019/02/16/kMWZ0W1BZlSxJDxM/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《沉重的心》
+https://135zyv6.xw0371.com/2019/02/21/7Af3Gq7ty5dzkvHI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《64号病历》
+https://135zyv6.xw0371.com/2019/02/16/r5GVDSu6H94qd6s6/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《背面》
+https://135zyv6.xw0371.com/2019/02/20/NIibUmp19I2P8G9y/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《上海月亮》
+https://135zyv6.xw0371.com/2019/02/16/jfiUL2iriSr4dzXn/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《真诚的布伦达》
+https://135zyv6.xw0371.com/2019/02/19/kX6VhGI9VsQNHsBZ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《江湖情未了》
+https://135zyv6.xw0371.com/2019/02/15/9YKcD0AqPQJrRWFe/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《米拉》
+https://135zyv6.xw0371.com/2019/02/19/dm7tcrrDZgQxlFHL/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《山姆和猫王》
+https://135zyv6.xw0371.com/2019/02/15/o3iUjUbH6P7zy9zf/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《乱世英雄》
+https://135zyv6.xw0371.com/2019/02/18/m3k8UkxwmFjRn2IL/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《诀恋》
+https://135zyv6.xw0371.com/2019/02/15/5hxJMgz6cqfcaBwP/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《边境》
+https://135zyv6.xw0371.com/2019/02/18/dpK5uuuBLSp6Knhn/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《地球最后的夜晚》
+https://135zyv6.xw0371.com/2019/02/14/1Pwx0iQzqc7l0Oyy/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《小鸡仔》
+https://135zyv6.xw0371.com/2019/02/14/f41UoSaJku0gGZqB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《奎迪：英雄再起》
+https://135zyv6.xw0371.com/2019/02/13/bV9vX31xkLmgtGKv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《药瘾》
+https://135zyv6.xw0371.com/2019/02/13/i8a5BOJAy0B66Myx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《三兄弟》
+https://135zyv6.xw0371.com/2019/02/10/Da6vakWbgqsQZJun/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《幻想游戏》
+https://135zyv6.xw0371.com/2019/02/13/ZvnrW67ytueOGeNZ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《最长一梦》
+https://135zyv6.xw0371.com/2019/02/07/8rB3AYU9kli2eHGd/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《空中轮胎》
+https://135zyv6.xw0371.com/2019/02/03/w2LiMBtJ2yQnblhB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《罗尼库尔曼 - 健美之王》
+https://135zyv6.xw0371.com/2019/02/13/iF2iDPO1yMTRFwVt/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《滴答屋 国语》
+https://135zyv6.xw0371.com/2019/02/05/Z7uDjpE01O5AYVoB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《碧海逃生》
+https://135zyv6.xw0371.com/2019/02/02/9Fqauf6jlsVw1Qkf/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的方式：贝卢斯科尼的自白》
+https://135zyv6.xw0371.com/2019/02/13/TLTCCdwXFgaIuDix/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《德云社戊戌年封箱庆典2019》
+https://135zyv6.xw0371.com/2019/02/05/KvJkYX2QuCSYkL5G/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《企鹅高速公路》
+https://135zyv6.xw0371.com/2019/02/02/a8KyEKxxs9p3Rnm3/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《无敌破坏王2：大闹互联网》
+https://135zyv6.xw0371.com/2019/02/12/BaSyUVp9oFbpI2MZ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《美国绝地武士》
+https://135zyv6.xw0371.com/2019/02/04/w2ix8IomD6gcJc8s/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《地表最烂：FRYE豪华音乐节》
+https://135zyv6.xw0371.com/2019/02/01/Dp5VgHPkAGxh3RZY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《胡桃夹子和四个王国 国语》
+https://135zyv6.xw0371.com/2019/02/12/TCsrw9fCO8i6YIVS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《爱之舞》
+https://135zyv6.xw0371.com/2019/02/04/T48qA1oT9HjE22lk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《那一个转身》
+https://135zyv6.xw0371.com/2019/02/01/w8TwxGGyNKaFpwcv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《高飞鸟》
+https://135zyv6.xw0371.com/2019/02/12/z1R3zsFliOl2PBcP/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《荒野女人》
+https://135zyv6.xw0371.com/2019/02/03/eWQ3AH1ojPMXKbrP/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《追随者》
+https://135zyv6.xw0371.com/2019/01/31/UMXAOPk7bKzdyECg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《瑞秋的鸿沟》
+https://135zyv6.xw0371.com/2019/02/12/BRqIB7WlnrmrGXzN/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《中国合伙人2》
+https://135zyv6.xw0371.com/2019/02/03/j2oYyk5MpazV2DVy/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《咏叹岛谋杀案》
+https://135zyv6.xw0371.com/2019/01/31/2HQ7ONTfI0ct1f4F/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《未曾确认》
+https://135zyv6.xw0371.com/2019/02/12/WKJlxOfQ76rBovfc/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《腊月》
+https://135zyv6.xw0371.com/2019/02/02/cmQzT49Ca3wPcBUT/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《等到烟暖雨收版》
+https://135zyv6.xw0371.com/2019/01/31/yCwpVvTl9u5A3EE2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《夺命杀机》
+https://135zyv6.xw0371.com/2019/02/03/yOFWqenjfTSE0EL1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《胡桃夹子和四个王国》
+https://135zyv6.xw0371.com/2019/01/30/ngUjnxa8g5gO7gYK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《寡妇联盟》
+https://135zyv6.xw0371.com/2019/01/29/gTk4VduSvnKQii7e/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《王者少年》
+https://135zyv6.xw0371.com/2019/01/28/MDRTRtDWkoeH1oX9/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《他们有什么》
+https://135zyv6.xw0371.com/2019/01/29/y3L8RiaQsnOnQyhX/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《何仙姑修仙记》
+https://135zyv6.xw0371.com/2019/01/25/ALdeXihWnfWGrsDv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《章西女王》
+https://135zyv6.xw0371.com/2019/01/28/7bi8HwPy37Y4f0UQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《不如跳舞》
+https://135zyv6.xw0371.com/2019/01/25/Hpkv5qg7ePh6bJav/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《波西米亚狂想曲》
+https://135zyv6.xw0371.com/2019/01/28/KSAzhSYlssNbnfJB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《被抹去的男孩》
+https://135zyv6.xw0371.com/2019/01/24/kEknBPqzukZbRIx9/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《玛德琳的玛德琳》
+https://135zyv6.xw0371.com/2019/01/28/OFKslCfaKunUBZSp/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《台仙魔咒》
+https://135zyv6.xw0371.com/2019/01/24/z5FsPRIcxmo56m6N/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《外遇》
+https://135zyv6.xw0371.com/2019/01/28/KBnXG8V8XFvosZPr/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《索妮》
+https://135zyv6.xw0371.com/2019/01/23/MpZ327ALgUTTukPE/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《周末生日游》
+https://135zyv6.xw0371.com/2019/01/28/j2PCvIg0CQI5nCVi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《猫是要抱着的》
+https://135zyv6.xw0371.com/2019/01/23/VQr77KldsH1F0Ude/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《蜘蛛网中的女孩》
+https://135zyv6.xw0371.com/2019/01/27/pWdbNMB1I7KM7Lxj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《绝对恋爱命令》
+https://135zyv6.xw0371.com/2019/01/23/op8Yz7cD9UllWEAl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《浪漫七夕之疯狂搅局》
+https://135zyv6.xw0371.com/2019/01/26/7xOBXl055vYwDL90/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《相思鸟之恋》
+https://135zyv6.xw0371.com/2019/01/22/dad3yuFWqHZWoISj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神奇动物：格林德沃之罪》
+https://135zyv6.xw0371.com/2019/01/26/sEteG8nF5MtqA3fr/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超级老爸》
+https://135zyv6.xw0371.com/2019/01/21/vjZNxQFO2BOTedml/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《就位确认》
+https://135zyv6.xw0371.com/2019/01/21/FcI6gdU1BugKInxp/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《龙转乾坤》
+https://135zyv6.xw0371.com/2019/01/20/aUKSD4AntbJ8mqrQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《情何以归》
+https://135zyv6.xw0371.com/2019/01/20/uEeoYPVvfO4Rvbvp/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的超级老师》
+https://135zyv6.xw0371.com/2019/01/16/M5bMJKqBcgZ239Vc/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《战狼犬》
+https://135zyv6.xw0371.com/2019/01/19/W0YwEtUHhh4s2L9W/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《恋爱宝典》
+https://135zyv6.xw0371.com/2019/01/16/VdQCO1bl4xnHNGEe/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《怪物与人》
+https://135zyv6.xw0371.com/2019/01/14/uZ1mAQAp6T6ka8w7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大路朝天》
+https://135zyv6.xw0371.com/2019/01/19/vgI3Td4udl000Yms/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超人王朝》
+https://135zyv6.xw0371.com/2019/01/15/Eni4qujE976EY2pC/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《家有长嫂》
+https://135zyv6.xw0371.com/2019/01/19/YEEtJbSqcHzccIoD/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《1985年》
+https://135zyv6.xw0371.com/2019/01/15/PBCGDcz1Aao7eGKF/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《第三人称》
+https://135zyv6.xw0371.com/2019/01/20/eJNys0zyhlQXyKr2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《商战街》
+https://135zyv6.xw0371.com/2019/01/16/msE7WriQBXBIZ7Wa/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《印度合伙人 印度语》
+https://135zyv6.xw0371.com/2019/01/14/o7W4WXLnUQgRU2kB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《黑色1847》
+https://135zyv6.xw0371.com/2019/01/20/DhoQsNULbHy3tDDx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《欢迎回家》
+https://135zyv6.xw0371.com/2019/01/15/ilh5ieeDxT2h2DH0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《印度合伙人 国语》
+https://135zyv6.xw0371.com/2019/01/14/fJ3tDxDWUoK8FRCl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《雪怪大冒险》
+https://135zyv6.xw0371.com/2019/01/19/lMKoq8LkxBdZ31kt/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《弗朗西斯·培根：暴力画笔》
+https://135zyv6.xw0371.com/2019/01/16/EFU32vJCAeLh7uyt/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《罗姆男孩》
+https://135zyv6.xw0371.com/2019/01/13/ZQALyzzkiY422d20/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《四个春天》
+https://135zyv6.xw0371.com/2019/01/19/9CHn2hT2ZphlBrnZ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《雪中灰》
+https://135zyv6.xw0371.com/2019/01/16/S8ac3dtEIHUG9Rk3/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《信笺故事》
+https://135zyv6.xw0371.com/2019/01/13/tFDL9RmM4rerSb0q/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《密室逃生》
+https://135zyv6.xw0371.com/2019/01/18/8N4TMoM8FdRasLC0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《恋爱宝典》
+https://135zyv6.xw0371.com/2019/01/15/3STPHdjKV6OLJEnk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《南茜》
+https://135zyv6.xw0371.com/2019/01/13/jNQRx9jTRDieUtod/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《幸福的拉扎罗》
+https://135zyv6.xw0371.com/2019/01/15/UpXR69SJ8uimV6lF/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《汝海风云》
+https://135zyv6.xw0371.com/2019/01/11/CM2gulKCMhSph8vv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《囧探双雄》
+https://135zyv6.xw0371.com/2019/01/10/IQQTkAYT3ONVFroS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《荒岛168小时》
+https://135zyv6.xw0371.com/2019/01/08/4WHjqXBWMdsSJbwt/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《恶魔大师》
+https://135zyv6.xw0371.com/2019/01/09/wdu8UMHjFiZbgDxx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《锈溪惊魂》
+https://135zyv6.xw0371.com/2019/01/11/h2mUhekjTQSSQFzH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《公寓管理员》
+https://135zyv6.xw0371.com/2019/01/08/9jWAukYXjo8H0yLj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《疯狂的契约》
+https://135zyv6.xw0371.com/2019/01/10/a51mrb04fNXYeeUm/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《冥王星时刻》
+https://135zyv6.xw0371.com/2019/01/07/bjosfxOdpxXBkClm/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《重庆崽》
+https://135zyv6.xw0371.com/2019/01/09/YR9SL0RlrtkVbTwb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《狗十三》
+https://135zyv6.xw0371.com/2019/01/06/BA7H7FCTsitn3Qc5/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《惊涛飓浪 国语》
+https://135zyv6.xw0371.com/2019/01/09/My7bwSW8YcWI8z4e/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《身体守护者》
+https://135zyv6.xw0371.com/2019/01/02/SQvntvvnuaVhaDSa/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《狂野生活》
+https://135zyv6.xw0371.com/2019/01/09/5MjEIr7RfZSDaO3Y/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《人间，空间，时间和人》
+https://135zyv6.xw0371.com/2019/01/01/3lb6X1mb65bHu4hM/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《少女的世界》
+https://135zyv6.xw0371.com/2019/01/09/Ma4JWew4j7bBSh78/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《山的那一边》
+https://135zyv6.xw0371.com/2019/01/01/roU3yMDFkhDzpF2N/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《守塔人》
+https://135zyv6.xw0371.com/2019/01/09/V6lmnGJF8wJf8ZqO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《地牢回忆》
+https://135zyv6.xw0371.com/2019/01/01/PknE9HIj477JZDrq/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我拿什么拯救你》
+https://135zyv6.xw0371.com/2019/01/08/EcYWyIyUZjySoJOs/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《当天使沉睡》
+https://135zyv6.xw0371.com/2019/01/01/SqNEm7oC2LhZ9ME1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《狮心女孩》
+https://135zyv6.xw0371.com/2019/01/08/cNgK68sHutddlYb7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《后生》
+https://135zyv6.xw0371.com/2019/01/01/ssHVCgdxdbGDRGVf/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《美女驾到2018》
+https://135zyv6.xw0371.com/2018/12/31/m5uHjdCif3nMhKfl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《发如血》
+https://135zyv6.xw0371.com/2018/12/30/t1w1l6u9mzQtfrNy/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《人偶试镜》
+https://135zyv6.xw0371.com/2018/12/26/hZk6WV4apydP3GHi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一善心光》
+https://135zyv6.xw0371.com/2018/12/29/U16far1cvz4txUFt/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《食魂》
+https://135zyv6.xw0371.com/2018/12/26/ZsR8AbIIrv8D5Tbb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《听说爷爷去世了》
+https://135zyv6.xw0371.com/2018/12/23/eBqLqDAGg6I6dlOZ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《暗剑》
+https://135zyv6.xw0371.com/2018/12/29/ztOaB4tDAUIHsCNl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《开战》
+https://135zyv6.xw0371.com/2018/12/26/va1GegA3arkENekS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《天外飞妖》
+https://135zyv6.xw0371.com/2018/12/22/PlYzqR9aWbWG9ix8/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《奔向大海》
+https://135zyv6.xw0371.com/2018/12/29/nSXhnmHvzFdf6EYy/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《挚恋棠花》
+https://135zyv6.xw0371.com/2018/12/24/iBY960PnvrTny1RO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《匹夫江湖之困斗》
+https://135zyv6.xw0371.com/2018/12/22/tAUuIXT8krl1jwEk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一辈子的姐弟》
+https://135zyv6.xw0371.com/2018/12/27/FDLIyFgb8Rqlxc08/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《恐怖快递》
+https://135zyv6.xw0371.com/2018/12/24/qsfY1Ji0nXYBoW7k/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超级学霸》
+https://135zyv6.xw0371.com/2018/12/21/GmESw9ELtFiG6qxs/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《淡蓝琥珀》
+https://135zyv6.xw0371.com/2018/12/28/p4QjZfFeteNoy3G9/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《同颜小姐》
+https://135zyv6.xw0371.com/2018/12/23/Vdpv1e8QzCPHLeD2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《黑暗迷宫》
+https://135zyv6.xw0371.com/2018/12/21/dCTaDYFOxIA107Wa/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《天赐麒麟》
+https://135zyv6.xw0371.com/2018/12/27/VkQKfDetK3na7LwO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《笑神穷不怕》
+https://135zyv6.xw0371.com/2018/12/22/vUhQFE3TNNYD7Wsb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《离恨歌》
+https://135zyv6.xw0371.com/2018/12/21/fXK5CAddrbj7m653/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《门锁》
+https://135zyv6.xw0371.com/2018/12/26/w9yEW7x32RmHCRgY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《皇家酒店谋杀案》
+https://135zyv6.xw0371.com/2018/12/23/U0FohinxqUYDiVBw/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《破天荒》
+https://135zyv6.xw0371.com/2018/12/21/owK9UMe6RTersbc1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《上传》
+https://135zyv6.xw0371.com/2018/12/26/JjepULRvsoA0W6xO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《希斯特斯兄弟》
+https://135zyv6.xw0371.com/2018/12/23/g7KgmTTLbBRzpqxi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《龙泉路237号青春轶事》
+https://135zyv6.xw0371.com/2018/12/20/08Ivy4FhIYfCNLZY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《两个艾琳》
+https://135zyv6.xw0371.com/2018/12/23/XJYnHozaGXup61oV/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《盲魇》
+https://135zyv6.xw0371.com/2018/12/20/KX18DS13NuBzMjHb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《女神本色》
+https://135zyv6.xw0371.com/2018/12/19/Po29cwoUC5Bq53qg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《此房是我造》
+https://135zyv6.xw0371.com/2018/12/20/KUBKcRtJnI5po2Qw/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《拉萨23天》
+https://135zyv6.xw0371.com/2018/12/18/JqlJhL043ylLKyYK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《曾经的我们》
+https://135zyv6.xw0371.com/2018/12/16/TuH1uZtalEMbezpo/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《服从》
+https://135zyv6.xw0371.com/2018/12/17/eyL6APWJ9IDPelGQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《拳霸少年》
+https://135zyv6.xw0371.com/2018/12/15/AVC1nJ2ojPbVP9aH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《美丽的日子》
+https://135zyv6.xw0371.com/2018/12/17/J7I2vyNCfxAOy0NQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《末日危机：绝境求生》
+https://135zyv6.xw0371.com/2018/12/13/e4241WExztRbTTN3/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《少年英雄斯托姆》
+https://135zyv6.xw0371.com/2018/12/17/LTkAquXKuYD35vxL/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一百年很长吗》
+https://135zyv6.xw0371.com/2018/12/13/CaZFCNEy4Dl91uiX/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《奔跑的动物》
+https://135zyv6.xw0371.com/2018/12/17/eZvyMU5QREL0SukS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《8遗骸》
+https://135zyv6.xw0371.com/2018/12/13/SNnGRjwBomtYiOGU/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《你美丽了我的人生》
+https://135zyv6.xw0371.com/2018/12/18/lIUna6jD8sLb6RYv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《孩子在那我在这》
+https://135zyv6.xw0371.com/2018/12/12/5SBmV2n2ulLqbSLu/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《登月第一人》
+https://135zyv6.xw0371.com/2018/12/17/Zvo0iuiRT074zS19/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《宝贝儿》
+https://135zyv6.xw0371.com/2018/12/12/MO68NCMcDjR6fqnp/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《异能觉醒》
+https://135zyv6.xw0371.com/2018/12/17/3ziFpkv3YEEAhdFR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神笔录》
+https://135zyv6.xw0371.com/2018/12/11/OzLkO16G7VRHnmAd/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《天啊，我的太子殿下》
+https://135zyv6.xw0371.com/2018/12/16/XFfNC1FeYB9xMqjL/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《绿毛怪格林奇》
+https://135zyv6.xw0371.com/2018/12/10/lYfGFjXXImY2Ja2U/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《于特岛7月22日》
+https://135zyv6.xw0371.com/2018/12/10/4oODQe9gg4sArb1D/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的老兵爷爷》
+https://135zyv6.xw0371.com/2018/12/10/gBBnV8rHTxrRPK4V/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《南京，今夜请将我遗忘》
+https://135zyv6.xw0371.com/2018/12/09/4d2SNh52cOst21OB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《四合院里的孙大圣》
+https://135zyv6.xw0371.com/2018/12/06/8FABAWkpI1l5mw41/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《阿拉姜色》
+https://135zyv6.xw0371.com/2018/12/08/anoRURpVbvJbdZ1i/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《摄影机不要停！》
+https://135zyv6.xw0371.com/2018/12/05/SFg7EMQGyiml5pJS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《重返高校之风云再起》
+https://135zyv6.xw0371.com/2018/12/03/r10OrxwJTdmfAVsg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《烟波浩渺之相识》
+https://135zyv6.xw0371.com/2018/12/08/d60cDLbaspMBGA6y/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《极速之龙》
+https://135zyv6.xw0371.com/2018/12/05/54LOrVUiDp3nYB7D/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《查无此人》
+https://135zyv6.xw0371.com/2018/12/02/AmAcE58B5NSL5bpp/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《贴身女保镖》
+https://135zyv6.xw0371.com/2018/12/07/UhJ1ruaikjEykWfi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《夺宝乌龙院》
+https://135zyv6.xw0371.com/2018/12/05/VRXsW8C5UK7g2cm4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《渔者》
+https://135zyv6.xw0371.com/2018/12/02/lIY3ToRsBNW4yc0g/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超能右手》
+https://135zyv6.xw0371.com/2018/12/06/vEUvNdtI0RzMOauK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《找到你》
+https://135zyv6.xw0371.com/2018/12/05/dZei8V9MNOTlm289/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《城迷》
+https://135zyv6.xw0371.com/2018/12/02/FxklfrxPrHSrirfx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《交换记忆》
+https://135zyv6.xw0371.com/2018/12/06/oqfyrt6LMUyz4X4b/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《慈爱的心3》
+https://135zyv6.xw0371.com/2018/12/05/UYjVeOB3Cl12hWqc/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《灵运当铺》
+https://135zyv6.xw0371.com/2018/12/02/Ddj20LjL50RB5t1a/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《二十岁》
+https://135zyv6.xw0371.com/2018/12/06/t9ps7InopvQ17AsH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《昨日青空》
+https://135zyv6.xw0371.com/2018/12/05/aUvFGb4lbpChWsk9/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我儿子去了外星球》
+https://135zyv6.xw0371.com/2018/12/02/9wwZZ1D3SP1Fi66N/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《爸爸回家》
+https://135zyv6.xw0371.com/2018/12/06/szliLW9QgPkURJkl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《找到你》
+https://135zyv6.xw0371.com/2018/12/05/AJwOei5wE8ejxICb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《女人之名》
+https://135zyv6.xw0371.com/2018/12/02/Y7sa8qtxfmbSzNSP/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《坚不可摧：救赎之路》
+https://135zyv6.xw0371.com/2018/12/06/owR6kenr0AzB6mnx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《冰淇淋与雨声》
+https://135zyv6.xw0371.com/2018/12/04/eMZeq6Jiuv3LOKUC/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《太阳帆》
+https://135zyv6.xw0371.com/2018/12/01/FaDdziEenJw6KdJl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《阿凡提之奇缘历险》
+https://135zyv6.xw0371.com/2018/12/04/ZslB4BpxuPof0fWM/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《江城故事之局中局》
+https://135zyv6.xw0371.com/2018/12/01/S3jeF03gDQXjIqy6/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《浴火新娘》
+https://135zyv6.xw0371.com/2018/11/29/h2KPDdIMWmjUs4jo/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《空手道》
+https://135zyv6.xw0371.com/2018/11/29/22Pc1yJvBsFFqmU7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《完美基因》
+https://135zyv6.xw0371.com/2018/11/26/bK2fs7bZKU5C04fk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《禁入直播》
+https://135zyv6.xw0371.com/2018/11/22/nkF7iBXV71S4PXbG/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《传奇的诞生》
+https://135zyv6.xw0371.com/2018/11/26/kW7GgzDUqifrcl0c/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《犬舍惊魂》
+https://135zyv6.xw0371.com/2018/11/21/kj5OZnr272iDHPqK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《火星追击》
+https://135zyv6.xw0371.com/2018/11/25/s9iW5zgtrCt7ylIo/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《水西之恋》
+https://135zyv6.xw0371.com/2018/11/21/inxsNQqWoyS7rQZt/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《迷罪之古镇怨情》
+https://135zyv6.xw0371.com/2018/11/25/J1Ic1hwc4nhJ5EdI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《双面人生》
+https://135zyv6.xw0371.com/2018/11/21/17BOHqLDM6PLnDWz/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《以爱之名》
+https://135zyv6.xw0371.com/2018/11/24/ElQxEYydlEEYpP2T/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《妖狐苏妲己》
+https://135zyv6.xw0371.com/2018/11/21/rhAdRwIMxjolYVhM/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《血琥珀》
+https://135zyv6.xw0371.com/2018/11/24/bl82h1oGf2urwkpk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《云雾与岛》
+https://135zyv6.xw0371.com/2018/11/20/3U0NXMSfEyZvPlcS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《朦胧的青春》
+https://135zyv6.xw0371.com/2018/11/23/LuR2dgvaqggl3iWY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《那些年，我们的青春岁月》
+https://135zyv6.xw0371.com/2018/11/19/bmz08KxVRBUoWmeY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《沿海出发》
+https://135zyv6.xw0371.com/2018/11/22/TWWA2bt0c7oGo8Kp/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《被偷走的人生》
+https://135zyv6.xw0371.com/2018/11/18/uEQbDYu2fIT9hWIB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《逃跑》
+https://135zyv6.xw0371.com/2018/11/22/f946kZBOjwto3JhM/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《小小陌生人》
+https://135zyv6.xw0371.com/2018/11/18/NKzDWu8T9YUKAZGH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《隔墙有眼》
+https://135zyv6.xw0371.com/2018/11/18/buQsonZbabe1gJkZ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一条叫招财的鱼》
+https://135zyv6.xw0371.com/2018/11/18/xQCRXdBzv9FCWA3P/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《梨花梦》
+https://135zyv6.xw0371.com/2018/11/17/UaCYWGe699uWjPf8/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神龙之战》
+https://135zyv6.xw0371.com/2018/11/13/J2dCI9CLv4tZ4sMJ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神秘使者：魔画疑云》
+https://135zyv6.xw0371.com/2018/11/17/hD8cvyyYpNR9NTm1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《错爱谎言》
+https://135zyv6.xw0371.com/2018/11/13/etSkcjDz8ar7Hoj6/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《舞力崛起》
+https://135zyv6.xw0371.com/2018/11/09/uwPBji6Dhz687Lrr/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《夜班司机》
+https://135zyv6.xw0371.com/2018/11/16/8MRv26x6pSaJTTdk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《错误教育》
+https://135zyv6.xw0371.com/2018/11/12/GOu1sBr1lwHZZ9Xn/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我不是药神》
+https://135zyv6.xw0371.com/2018/11/08/yERsihNHErwOzHs5/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《御医风云》
+https://135zyv6.xw0371.com/2018/11/16/aN3EWa7fIiSU4d5x/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《刺心》
+https://135zyv6.xw0371.com/2018/11/12/Qg3gmklGaq35C5j1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《阿尔法：狼伴归途 国语版》
+https://135zyv6.xw0371.com/2018/11/16/xFs7dKUvpwAAb6zw/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《赎罪旅行》
+https://135zyv6.xw0371.com/2018/11/12/NgIMgEG2V15TZ1Y3/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《傲娇总裁的贴身保镖》
+https://135zyv6.xw0371.com/2018/11/08/ZdrlmnasV5TESZ9j/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《铁血义士》
+https://135zyv6.xw0371.com/2018/11/14/HooprHP1scedKXa0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《悲伤逆流成河》
+https://135zyv6.xw0371.com/2018/11/12/PsIQxxoH8aBMGWNH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《沉睡蝴蝶》
+https://135zyv6.xw0371.com/2018/11/07/k4UGBOk5k6sZSrJl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《诡探奇幻旅程》
+https://135zyv6.xw0371.com/2018/11/14/oABcDIipYwKF5dyB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《名侦探柯南：零的执行人 国语版》
+https://135zyv6.xw0371.com/2018/11/11/OvGC6Kehba08rPot/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的名字叫陈怼怼》
+https://135zyv6.xw0371.com/2018/11/07/udJqJEqB6sm9EcrW/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《向阳的日子》
+https://135zyv6.xw0371.com/2018/11/13/XWRsKtoRnupRPAn6/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《同学会之心魔》
+https://135zyv6.xw0371.com/2018/11/11/93JjUZsZamii2iXQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《法律的阴影》
+https://135zyv6.xw0371.com/2018/11/06/ui78ruXtayMPZoTw/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《狄仁杰之西域妖姬》
+https://135zyv6.xw0371.com/2018/11/13/UjgTKXqX1qc6kaL4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《猪光宝气》
+https://135zyv6.xw0371.com/2018/11/10/poR97nzIolQB6156/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《唐人街1871》
+https://135zyv6.xw0371.com/2018/11/06/jFVJXMjuEUrdW5eO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《爱的使命》
+https://135zyv6.xw0371.com/2018/11/10/degmgGikvDMc2HOs/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一恋之差》
+https://135zyv6.xw0371.com/2018/11/05/BY26wfaCgSOitMli/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《三角草的春天》
+https://135zyv6.xw0371.com/2018/11/05/fMWa3DRuuY2Mw8D0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《妖宴》
+https://135zyv6.xw0371.com/2018/11/05/CAFQ0NZevQmf0r99/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《玛琳娜的杀戮四段式》
+https://135zyv6.xw0371.com/2018/11/05/m07VKzO1GpI2CAdh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《说唱门徒》
+https://135zyv6.xw0371.com/2018/11/05/3nUlhAxHNmJVefEx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《幼儿怨》
+https://135zyv6.xw0371.com/2018/11/05/5khXF1QORYc4ongo/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《VR推理战记》
+https://135zyv6.xw0371.com/2018/11/06/zTBj6zKrLKUX8SRn/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《第十四号情侣》
+https://135zyv6.xw0371.com/2018/11/05/uLJ1x27iX2CZkWWv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《嘉年华》
+https://v.xw0371.com/20171221/VBNwBmm9/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《一定要抓住》
+https://v.xw0371.com/20171218/jcBYS9UA/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《的士神探之削肾客的救赎》
+https://v.xw0371.com/20171214/ktfJK7aB/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《巨额来电》
+https://v.xw0371.com/20171211/0ODIgrov/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《吊人游戏》
+https://v.xw0371.com/20171217/szFtLq04/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《玛雅达德尔》
+https://v.xw0371.com/20171214/Uk7FiFLt/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《帕蒂蛋糕$》
+https://v.xw0371.com/20171209/jzkYjIS1/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《芒刺》
+https://v.xw0371.com/20171217/RxrZqDVB/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《韩国佬》
+https://v.xw0371.com/20171213/chqyIEcv/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《雪人》
+https://v.xw0371.com/20171212/d1X1WQ1U/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《天才枪手》
+https://v.xw0371.com/20171202/XQGzJe9e/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《昼颜 版》
+https://v.xw0371.com/20171202/8RUn8QEM/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《了不起的小家伙们》
+https://v.xw0371.com/20171128/4gxlzYBu/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《我们是X》
+https://v.xw0371.com/20171125/70lCT7rW/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《泥土之界》
+https://v.xw0371.com/20171125/7ZRVtIoU/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的妈呀》
+https://v.xw0371.com/20171129/pCQMagnJ/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《蔓延的黑暗》
+https://v.xw0371.com/20171124/MVjffuVg/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《亲切的弗吉尼亚》
+https://v.xw0371.com/20171122/WaLhqyB4/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《疯狂的旅馆》
+https://v.xw0371.com/20171122/5A0BxBHZ/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《猫忍》
+https://v.xw0371.com/20171122/jySXjNjF/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《昆仑道经》
+https://v.xw0371.com/20171122/MpcwX9Q3/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《母狗》
+https://v.xw0371.com/20171122/8Bge9DBu/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《梦中小径》
+https://v.xw0371.com/20171122/sA9y61ZE/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《谜证》
+https://v.xw0371.com/20171122/VdkxdfIc/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《迈耶罗维茨的故事》
+https://v.xw0371.com/20171122/BKJMDZY0/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《好时光》
+https://v.xw0371.com/20171122/RlHKTYPz/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《读心师》
+https://v.xw0371.com/20171122/YkqZxjhj/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《永生的海拉》
+https://v.xw0371.com/20171122/h7vf4RKc/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《闺蜜之“涩”女郎》
+https://v.xw0371.com/20171122/COdP3Yhr/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《无法生活》
+https://v.xw0371.com/20171122/tiAtZPb5/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《喜禾》
+https://v.xw0371.com/20171122/aew9qjOJ/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《杜丽娘》
+https://v.xw0371.com/20171123/8xSDaOtV/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《宣告黎明的露之歌》
+https://v.xw0371.com/20171122/Rm015N99/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《汉普斯特德公园》
+https://v.xw0371.com/20171122/E3e6F0rQ/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《母亲湖》
+https://v.xw0371.com/20171123/bgiDG6gO/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《冯梦龙传奇》
+https://v.xw0371.com/20171123/1xc63xVV/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《这一刻，我要世界看见》
+https://v.xw0371.com/20171122/W8hmzmlu/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《奇迹之味》
+https://v.xw0371.com/20171123/8fjTZelX/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《模特》
+https://v.xw0371.com/20171123/WsrQ2teW/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《冷月》
+https://v.xw0371.com/20171123/OCJPYlHZ/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《超级黑暗时代》
+https://v.xw0371.com/20171123/0z7Py1BL/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《雌猫们》
+https://v.xw0371.com/20171123/YvFSOumX/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《惊奇队长》
+https://135zyv6.xw0371.com/2019/03/17/YfP7aRyeuKjqLLwU/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《吃鸡战场》
+https://135zyv6.xw0371.com/2019/03/16/By2rqSwTwmvmOf1q/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《蜘蛛侠：平行宇宙》
+https://135zyv6.xw0371.com/2019/02/22/0pjhnZEuKhJ3hIuq/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《海王 国语》
+https://135zyv6.xw0371.com/2019/03/07/txvOlnSNryXcsQVi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《冰龙传说》
+https://135zyv6.xw0371.com/2019/02/15/M6E0f57DRU44KMrN/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《拯救阿塔里亚外星球》
+https://135zyv6.xw0371.com/2018/12/28/knZhQ4mAyyj0BbTc/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《致命勘探》
+https://135zyv6.xw0371.com/2019/03/05/HFWUEimqtGbeBw84/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《霸主》
+https://135zyv6.xw0371.com/2019/02/07/q7KL7jVJdzYCh2Qn/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《飞向蓝天》
+https://135zyv6.xw0371.com/2018/12/26/a61qGUHEPW4ExWC8/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《另一个时间》
+https://135zyv6.xw0371.com/2019/02/28/jQvBI9tYUiKfziCJ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《外星人狙击战》
+https://135zyv6.xw0371.com/2019/01/20/nEzcnSDdnXSB4fp9/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《克隆人》
+https://135zyv6.xw0371.com/2018/12/25/ByDAajXBpZhuNHxk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《朝花夕誓》
+https://135zyv6.xw0371.com/2019/02/26/ITGQnJF3n1zV58aS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《少女地球守护者》
+https://135zyv6.xw0371.com/2019/01/20/ngmao18OGcTEusjJ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大黄蜂》
+https://135zyv6.xw0371.com/2018/12/25/qeek7yj8tSIFjCIE/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《皇牌机师-重装甲高校》
+https://135zyv6.xw0371.com/2019/02/24/K9fO3ehtZ3jeviV4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《第一缕曙光》
+https://135zyv6.xw0371.com/2019/01/18/eoyHn01lZtClEfly/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《精灵宝可梦：大家的故事》
+https://135zyv6.xw0371.com/2018/12/25/anQSpimYj3QLIdBC/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《流浪地球》
+https://135zyv6.xw0371.com/2019/02/07/Fat6MQ8YeWsiCzt8/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《恶魔承办人》
+https://135zyv6.xw0371.com/2019/01/18/DOxmKmSAFkiNor8m/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大黄蜂》
+https://135zyv6.xw0371.com/2018/12/16/bXBsnQhCZDWm3mLm/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《正义联盟 国语》
+https://135zyv6.xw0371.com/2019/02/23/6GsIczWwgLRj3CAQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《零八三七》
+https://135zyv6.xw0371.com/2019/01/10/wZPDupjfSrISPtED/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《小美人鱼》
+https://135zyv6.xw0371.com/2018/12/04/Xr1WO8gxwcz2Xuhj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《正义联盟》
+https://135zyv6.xw0371.com/2019/02/23/ySrKxdhl7z1liNez/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《时间怪客》
+https://135zyv6.xw0371.com/2019/01/09/8h34JPNAb3Tyuv1O/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超能泰坦》
+https://135zyv6.xw0371.com/2018/12/04/HBaQZhJqSUahwx6P/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《蒙上你的眼》
+https://135zyv6.xw0371.com/2018/12/29/5p60sINav3vsXXas/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《废柴联盟》
+https://135zyv6.xw0371.com/2018/11/23/Zh4fOLri4UKdcIqc/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《情商黑科技》
+https://135zyv6.xw0371.com/2018/11/11/t1xKELCnvLQU1nSe/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《意识强殖》
+https://135zyv6.xw0371.com/2018/11/06/1nYKVrKWFdBkplxB/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《哥斯拉：怪兽行星》
+https://135zyv6.xw0371.com/2018/11/15/TAtAh30PFTE1PA1b/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《天际浩劫2》
+https://v.xw0371.com/20171124/kCmVthfR/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《钢铁飞龙之再见奥特曼》
+https://v.xw0371.com/20171214/3HUY9J8K/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《全球风暴》
+http://v.xw0371.com:80/20171121/cHNKnFMh/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《生存回圈》
+https://v.xw0371.com/20171214/KrGVJ3Pe/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《奇点》
+https://v.xw0371.com/20171122/IjhmnH41/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《人类办事处》
+http://v.xw0371.com:80/20171121/Dt0qVczC/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《地质灾难》
+https://v.xw0371.com/20171122/wZKeA1Q6/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《星际特工：千星之城》
+https://v.xw0371.com/20171122/GBGJYsJ6/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《嗜血将军2白皮少女》
+https://135zyv6.xw0371.com/2019/03/19/TbiTjHpcRRz4VdJ0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《寻找斯蒂夫·麦昆》
+https://135zyv6.xw0371.com/2019/03/19/FKahvozvycd7OI1K/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《灵魂生死线》
+https://135zyv6.xw0371.com/2019/01/29/4V22UhSRpAgwKqZF/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《鲨滩》
+https://135zyv6.xw0371.com/2019/03/17/RJDKuex85H4EElf1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《姑获鸟》
+https://135zyv6.xw0371.com/2019/01/24/xTdGTJafgqsyhKwI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《幻实浑沌》
+https://135zyv6.xw0371.com/2018/12/18/7s6hTLvM8VHKoRo2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《古井凶灵》
+https://135zyv6.xw0371.com/2019/03/03/QX9nHnYR4le1qubW/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《阴风阵阵》
+https://135zyv6.xw0371.com/2019/01/21/7pgXgeTI2p5fKRjH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《最黑暗的一天》
+https://135zyv6.xw0371.com/2018/12/18/QomnlVHLM2BjLLU0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《高潮/舞·极乐》
+https://135zyv6.xw0371.com/2019/02/28/iE0amD1WR8WA3T2S/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《救僵清道夫》
+https://135zyv6.xw0371.com/2019/01/18/ZFOerFAYAEWqARds/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《午夜整容室》
+https://135zyv6.xw0371.com/2018/12/15/sMQbmgNMwueBEK07/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《粽邪》
+https://135zyv6.xw0371.com/2019/02/24/07Ly2UbpYfUMHO5r/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《午夜整容室》
+https://135zyv6.xw0371.com/2019/01/16/ZQJalLlzyDoCBo2E/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《东瀛鬼咒》
+https://135zyv6.xw0371.com/2018/12/14/8slkHUjXw8GB1a8M/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《汉娜格蕾丝的着魔》
+https://135zyv6.xw0371.com/2019/02/20/o5VZQ0Gbk5w6dcr2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《家庭主妇》
+https://135zyv6.xw0371.com/2019/01/13/03EdwWd2gQUg4fsI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《阿博恶魔》
+https://135zyv6.xw0371.com/2018/12/10/cWA9H6e0GUFx9WfU/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《表象之下》
+https://135zyv6.xw0371.com/2019/02/19/qT2K3V95k6hE7ymY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《地狱游乐园》
+https://135zyv6.xw0371.com/2019/01/08/Lv3H7wD2O8uOTwjh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《阴阳眼之瞳灵公馆》
+https://135zyv6.xw0371.com/2018/12/10/AdioJmMbhLxqzF64/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《恐怖小屋》
+https://135zyv6.xw0371.com/2019/02/19/S5OgLyX0wDzaHXXh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《美人鱼之死亡湖》
+https://135zyv6.xw0371.com/2018/12/26/vwfOm2UdFUrerESW/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《诡怪疑云》
+https://135zyv6.xw0371.com/2018/12/08/i0LnXMMFQKsrd5Db/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《地狱传说》
+https://135zyv6.xw0371.com/2019/02/17/oRHrqqTVj8VoMHx4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《月光光心慌慌（美版）》
+https://135zyv6.xw0371.com/2018/12/24/S8RmFimwomXEeGqz/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《快门》
+https://135zyv6.xw0371.com/2018/12/06/aD0UGlQCNF2k7XaM/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《开学悸》
+https://135zyv6.xw0371.com/2018/12/21/iGliFeUIPmnp6AlR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《月光光心慌慌(韩版)》
+https://135zyv6.xw0371.com/2018/12/02/2DgJRDK1tX9pINDx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《盲点》
+https://135zyv6.xw0371.com/2018/11/28/p9A7Xzx0IUzokAQR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大地震》
+https://135zyv6.xw0371.com/2018/11/28/1r9JjdNriUHeaRGs/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《双套结杀手》
+https://135zyv6.xw0371.com/2018/12/01/lNXRXIop7tOhkV5O/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《午夜幽灵》
+https://135zyv6.xw0371.com/2018/11/12/Se2nJf4nTGHRTLC5/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《17岁的僵尸》
+https://135zyv6.xw0371.com/2018/11/26/38EXhMwkMVWhFY7h/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《白兰》
+https://135zyv6.xw0371.com/2018/11/06/PRX4MJlH18bQMR1d/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《女哭声》
+https://135zyv6.xw0371.com/2018/11/24/bp4uvETjL7zAKlfP/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《退水之后》
+https://135zyv6.xw0371.com/2018/11/06/zIG1a2JoaT84b6Oc/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《鬼娃萨布丽娜》
+https://135zyv6.xw0371.com/2018/11/24/RNtERXClNppDOO5c/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《幽冥之家》
+https://135zyv6.xw0371.com/2018/11/05/s4JY6xXs9Zw76DgG/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《致命妄想》
+https://135zyv6.xw0371.com/2018/11/22/HKVH6os5Zo0eSibf/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《鸡皮疙瘩2：闹鬼万圣节》
+https://135zyv6.xw0371.com/2018/11/04/Gg4i9El050QYU67d/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《黑暗深处之惊魂夜》
+https://135zyv6.xw0371.com/2018/11/21/IzYKZKBu5WFD9jjW/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《拍完就杀人》
+https://135zyv6.xw0371.com/2018/11/21/GqBMDqhopU5dvrDo/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《坤蒂拉娜》
+https://135zyv6.xw0371.com/2018/11/15/yWedYEMJHnlgAXTw/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《午夜幽灵》
+https://135zyv6.xw0371.com/2018/11/13/YsGkifJcAWHDoISk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《俘获》
+https://v.xw0371.com/20171128/StvAcUXf/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《湖边的房子》
+https://v.xw0371.com/20171128/iGvPkvDM/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《冥界》
+https://v.xw0371.com/20171125/HEtyZqaw/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《笔仙大战贞子2》
+https://v.xw0371.com/20171122/lzhpHufZ/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《鬼居人》
+https://v.xw0371.com/20171122/66UXDIHK/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《蜜月旅行》
+https://v.xw0371.com/20171123/ds6mJaua/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《凯恩马戏团》
+https://v.xw0371.com/20171122/a3VYxvWJ/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《梦游者》
+https://v.xw0371.com/20171123/9UcOza7z/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《抹黑》
+https://v.xw0371.com/20171122/d30FXEtF/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《唐伯虎点秋香2019》
+https://135zyv6.xw0371.com/2019/03/19/M0efAo6W8d5jhuTS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《开心家族》
+https://135zyv6.xw0371.com/2019/03/19/5jEs4uxyfZjfstpw/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大导归来》
+https://135zyv6.xw0371.com/2019/03/16/BVDIPm86aABeOqb5/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《邻家女孩》
+https://135zyv6.xw0371.com/2019/03/19/4VEONDYbGI6rQ46d/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《极品闺蜜2019》
+https://135zyv6.xw0371.com/2019/03/03/9aqzlBkTpRggNHXS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《魔法老师》
+https://135zyv6.xw0371.com/2019/03/18/tagLzI58N10tSDna/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《萌妹特攻队》
+https://135zyv6.xw0371.com/2019/03/09/RY6Z43RQUJff7VLh/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《不知怎么说再见》
+https://135zyv6.xw0371.com/2019/03/02/6z9W1oMPDTAkC3ZN/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《天使不爱人间》
+https://135zyv6.xw0371.com/2019/03/18/HHVwWYaZeOtA7PG0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《难道不浪漫》
+https://135zyv6.xw0371.com/2019/03/09/Rq9wKsEzitT3ahBb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《最强壮的人》
+https://135zyv6.xw0371.com/2019/03/02/ihwsXRvsiLfulJn1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《魔法奇缘》
+https://135zyv6.xw0371.com/2019/03/18/dWErBldOnaoRiY9R/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《合并》
+https://135zyv6.xw0371.com/2019/03/09/4Pba8C1koGGtyrgI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《莫滕船长与蜘蛛女王》
+https://135zyv6.xw0371.com/2019/02/27/CWxDrWkIPiVUo8hz/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《反转人生》
+https://135zyv6.xw0371.com/2019/03/17/ilngFRd3vWSMR2qH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《新喜剧之王》
+https://135zyv6.xw0371.com/2019/03/09/9Yl7gQUoQ8pLDumA/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《出乎意料》
+https://135zyv6.xw0371.com/2019/02/24/cgHeEkP9RyzD8OTl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《爱丽舍宫的女大厨》
+https://135zyv6.xw0371.com/2019/03/17/6n0py87FxJniHbYR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《疯狂的外星人》
+https://135zyv6.xw0371.com/2019/03/07/32KMhU2P8TtFsHik/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《飞驰人生》
+https://135zyv6.xw0371.com/2019/02/07/qipv7klNe4OSBuzQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《极限职业》
+https://135zyv6.xw0371.com/2019/03/16/YYtumjrYQv3MkeaH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《三次元女友真人版》
+https://135zyv6.xw0371.com/2019/03/05/czkIFmsvky9mRVwT/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神探蒲松龄》
+https://135zyv6.xw0371.com/2019/02/07/3qKjeGBJJyIr265b/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《骗徒奇遇记》
+https://135zyv6.xw0371.com/2019/03/16/CqmG56VoTTxojUzy/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《速成家庭》
+https://135zyv6.xw0371.com/2019/03/04/J8szsx0wkXfixFzb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《疯狂的外星人》
+https://135zyv6.xw0371.com/2019/02/07/cTJrO8R0uALqvMCD/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《牛奶配送员的奇幻人生》
+https://135zyv6.xw0371.com/2019/03/03/jsa9HUtYE0AJoLPd/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《战中女人》
+https://135zyv6.xw0371.com/2019/02/22/XZXFTQh8YhQZlZOR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《年度最佳学生》
+https://135zyv6.xw0371.com/2019/02/22/RsSuwkun5So1pgHs/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《绿皮书》
+https://135zyv6.xw0371.com/2019/02/21/vYC2Etv7GoZsVlxt/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《怦然星动》
+https://135zyv6.xw0371.com/2019/02/22/s16sEwSOy1RsevVl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《无敌镖客》
+https://135zyv6.xw0371.com/2019/02/12/XceaRyw0XR2an5NG/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一品爵爷》
+https://135zyv6.xw0371.com/2019/02/20/4T4qs9wAAu4fkhxv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《凯文·哈特：黑人历史指南》
+https://135zyv6.xw0371.com/2019/02/12/6cmV1ROUrzO6KVld/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《愤怒的印度女神》
+https://135zyv6.xw0371.com/2019/02/19/Ic7m0t9RESJ1azM3/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《阿里巴巴三根金发》
+https://135zyv6.xw0371.com/2019/02/11/PbhIOXZLbwFbHF3P/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《滚动的钢蛋》
+https://135zyv6.xw0371.com/2019/02/17/5EFGk9WovMo7AoYi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《最萌警探》
+https://135zyv6.xw0371.com/2019/02/10/JBksmaflZSTeyCGJ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《郑肯：因为有你，生命才完整》
+https://135zyv6.xw0371.com/2019/02/17/eE9IDC62RvlMLCy3/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《暴走财神》
+https://135zyv6.xw0371.com/2019/02/08/tpVSlw97jaamAuTj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《最佳好友2》
+https://135zyv6.xw0371.com/2019/02/15/U7OJ5hNvaAQBq9i8/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《不干了，我开除了黑心公司》
+https://135zyv6.xw0371.com/2019/02/08/TEoc65QerWmZWTEg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《欢喜邻居霸道爱》
+https://135zyv6.xw0371.com/2019/02/15/fkiOzPTk2Y4gdkU8/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《新罗曼蒂克》
+https://135zyv6.xw0371.com/2019/02/07/0eMb7ZSGw9hk0ER7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《宠儿》
+https://135zyv6.xw0371.com/2019/02/14/ecULNYhzIdrsFBjV/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《简爱之约》
+https://135zyv6.xw0371.com/2019/02/06/SxnaWBoDbkxvYjug/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我要上头条》
+https://135zyv6.xw0371.com/2019/02/14/tXoAcUbnmlOhdzU6/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《来电狂响》
+https://135zyv6.xw0371.com/2019/02/06/MZ2KpmROOLGaBz7L/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我身体里的那个家伙》
+https://135zyv6.xw0371.com/2019/02/04/d8mCcvHAm5Hmsqpf/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《两只小猪之勇闯神秘岛》
+https://135zyv6.xw0371.com/2019/02/01/mtONawbmbdHkzALV/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《天上的星星》
+https://135zyv6.xw0371.com/2019/02/01/K3HSXtKsBEgeWIrO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《天气预爆》
+https://135zyv6.xw0371.com/2019/01/24/161kw2QpGO9z9AAi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《家和万事惊》
+https://135zyv6.xw0371.com/2019/02/01/yWX127utT4rHK9xH/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《北极熊诺姆：王国之匙》
+https://135zyv6.xw0371.com/2019/01/24/iHkZIbxYvJMqziCR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超时空大冒险》
+https://135zyv6.xw0371.com/2019/01/14/vO8NW1dGOyHYzlUC/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《分手工作室2》
+https://135zyv6.xw0371.com/2019/01/31/LcQMOmv52sBkbAGj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《白马在左，王子在右》
+https://135zyv6.xw0371.com/2019/01/23/FdVKc599TXhlDqLN/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《笑到最后》
+https://135zyv6.xw0371.com/2019/01/13/Vf5dnT71732OFP8t/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《命囧》
+https://135zyv6.xw0371.com/2019/01/31/c6OxogpvOCZ2zB39/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《差等生乔曦》
+https://135zyv6.xw0371.com/2019/01/22/43tUXby8xnjhLYix/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《唐砖之地狱花谷》
+https://135zyv6.xw0371.com/2019/01/12/IrzT7Hdj4j0Ocfxn/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《安娜和世界末日》
+https://135zyv6.xw0371.com/2019/01/30/aPpMa8V8Fr0M4fcn/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《羞答答的铁男》
+https://135zyv6.xw0371.com/2019/01/20/2IBGUbvYF6pc447V/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《药神皇太子：龙之刺》
+https://135zyv6.xw0371.com/2019/01/11/QNIDwi0aCyk2Btkq/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《勒索/致命勒索》
+https://135zyv6.xw0371.com/2019/01/27/PGioE0Ru8VRhJKv4/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大唐风云2》
+https://135zyv6.xw0371.com/2019/01/20/OPUIiknI9JQ9O52v/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《夜校》
+https://135zyv6.xw0371.com/2019/01/11/FjLi6rfszbcxDKiV/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《中毒练歌房》
+https://135zyv6.xw0371.com/2019/01/20/TzvMylYM8AasLBvF/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《久久戒酒》
+https://135zyv6.xw0371.com/2019/01/11/Wqn1YiUvUDgNbbOM/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《龟兔大作战》
+https://135zyv6.xw0371.com/2019/01/25/O6Yxab8nhwgqaicD/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一酷到底》
+https://135zyv6.xw0371.com/2019/01/10/tcjYf9zMGVSxZqBX/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《乌龙疯人传》
+https://135zyv6.xw0371.com/2019/01/24/1lXGGuPRomiBAC2r/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《极限速递》
+https://135zyv6.xw0371.com/2019/01/18/UZYhNIDm0cA3Hzfl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《高手高手高高手》
+https://135zyv6.xw0371.com/2019/01/08/XORUXxc18yIW1p6l/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《来日方长》
+https://135zyv6.xw0371.com/2019/01/18/6qeNDtE7Wgnad85a/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《酒店风云之冒牌大总裁》
+https://135zyv6.xw0371.com/2019/01/08/S4s3Rrgf4Bj4biXo/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的冤家是条狗 英语》
+https://135zyv6.xw0371.com/2019/01/02/FRx5US0jA7mOHYPR/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《无名之辈》
+https://135zyv6.xw0371.com/2019/01/03/V5trOMfzfnUW6DpQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的冤家是条狗 国语》
+https://135zyv6.xw0371.com/2019/01/02/zKqCq0320Sfa0ynj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《昨日之花》
+https://135zyv6.xw0371.com/2018/12/26/kC1Ru7rcEARATt9r/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《好汉三条半》
+https://135zyv6.xw0371.com/2019/01/02/fmay24XxAHRuZvwd/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《银魂2》
+https://135zyv6.xw0371.com/2018/12/26/HWXk4O9oaUXFJT2R/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《先下手为强》
+https://135zyv6.xw0371.com/2019/01/02/rb8prZUAiJz2g4HS/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《荒野旅社》
+https://135zyv6.xw0371.com/2018/12/25/pR053w6u99Pyw7Nu/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《最佳好友》
+https://135zyv6.xw0371.com/2019/01/01/lPytlxpIfSj3rCxj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《洗漱睡觉吧， 宝贝！》
+https://135zyv6.xw0371.com/2018/12/24/T5JiHnyDwi5rwnQs/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《分手工作室》
+https://135zyv6.xw0371.com/2018/12/30/5QVOMhIdiRZ7ZcYj/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《派对才刚开始》
+https://135zyv6.xw0371.com/2018/12/24/dHl8LmfDpkcT5P1O/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《深宫碟影》
+https://135zyv6.xw0371.com/2018/12/29/oohwcBznkT8miTeq/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《地狱高中生活》
+https://135zyv6.xw0371.com/2018/12/23/3PkwWxYsnTgYgdj6/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的老婆是女神》
+https://135zyv6.xw0371.com/2018/12/29/ZJ2UylexV1BFum1o/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《憨豆特工3》
+https://135zyv6.xw0371.com/2018/12/21/HPxJFstQbFjTNLVt/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《甜蜜香草》
+https://135zyv6.xw0371.com/2018/12/29/jbhCHu1YojbjXaR1/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《有5个姐姐的我就注定要单身了啊！！》
+https://135zyv6.xw0371.com/2018/12/21/z3LMYssisMCIseGv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《噢，它是，圣诞驯鹿》
+https://135zyv6.xw0371.com/2018/12/28/GrD5UR3lkyUqL5fw/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《兄弟·最后一聚》
+https://135zyv6.xw0371.com/2018/12/20/ZEpMhHqQyptrqeD2/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一周不死，全额退款》
+https://135zyv6.xw0371.com/2018/12/20/STAG8h73PbjcDTki/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《冤家姐妹》
+https://135zyv6.xw0371.com/2018/12/18/768blsVF3PuBt2xQ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《二胎来了》
+https://135zyv6.xw0371.com/2018/12/17/JXOnSxqEAFDaZF3h/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《长江七号》
+https://135zyv6.xw0371.com/2018/12/09/CVQSpaQDBtloyRGI/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《寻宝囧途》
+https://135zyv6.xw0371.com/2018/12/17/1kQuU5Uca6EC9Ubi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《雪怪大冒险》
+https://135zyv6.xw0371.com/2018/12/08/sBcLQb1sQuMPqCmO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《宠物情圣》
+https://135zyv6.xw0371.com/2018/11/30/iXDm55Ks2WWxPtws/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《天才室友》
+https://135zyv6.xw0371.com/2018/12/15/MRHe3gvn7iVJ5tzL/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《33号公路》
+https://135zyv6.xw0371.com/2018/12/06/cyXRidutEQLyRZss/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《亲爱的陌生人》
+https://135zyv6.xw0371.com/2018/11/30/EmJmn3S8bjDc7qja/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《李茶的姑妈》
+https://135zyv6.xw0371.com/2018/12/14/SRUqJb44r4v5R72y/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《阿凡提之奇缘历险》
+https://135zyv6.xw0371.com/2018/12/06/4NmFoxTpmRq6J14X/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《英雄归来》
+https://135zyv6.xw0371.com/2018/11/29/juAjNXkNNnLvHV8q/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《我的小马驹：2018圣诞特辑》
+https://135zyv6.xw0371.com/2018/12/13/0Yh75b4WDI53vacl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《冒牌搭档 粤语版》
+https://135zyv6.xw0371.com/2018/12/04/hRxeamfBUcQBmr67/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《寻父之旅》
+https://135zyv6.xw0371.com/2018/11/29/BMF73SuNkL6JcTre/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《冒牌搭档》
+https://135zyv6.xw0371.com/2018/12/04/5CgxUQ8bC35v7bQ0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《黑洞来的那一夜》
+https://135zyv6.xw0371.com/2018/11/29/SNTQ9iq3761J4F56/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《神马风云》
+https://135zyv6.xw0371.com/2018/12/12/NLE4BvBEWgYKXIeD/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《雪怪大冒险》
+https://135zyv6.xw0371.com/2018/12/03/caCcQtGpveDxtOSo/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《半魔法》
+https://135zyv6.xw0371.com/2018/11/29/K4BtqMtqS8a4VipJ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《兵荒马乱的爱情》
+https://135zyv6.xw0371.com/2018/12/11/1nc8jO5GezegHlXG/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《无敌小胖》
+https://135zyv6.xw0371.com/2018/12/02/bhA3pspwRMwSTlSw/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《滴答屋》
+https://135zyv6.xw0371.com/2018/11/28/R9ys8mRTPAt9bV2N/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《捣婚计划》
+https://135zyv6.xw0371.com/2018/12/10/DjeTHNPvuHENHvrk/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《奇幻梦之旅》
+https://135zyv6.xw0371.com/2018/12/02/lp7M0sdFADO6v1Fb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《拯救圣诞记》
+https://135zyv6.xw0371.com/2018/11/28/GoUSob4E6ZEM5PJi/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超萌特攻》
+https://135zyv6.xw0371.com/2018/12/02/vnIdvStRWeP0JwSg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《遗忘尼克》
+https://135zyv6.xw0371.com/2018/11/28/qUhRBoXCbIQAYsj0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《嗝嗝老师国语版》
+https://135zyv6.xw0371.com/2018/11/26/sPBEhZ6YU3ioJzEb/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《猴子》
+https://135zyv6.xw0371.com/2018/11/25/3dL1ztdX3wya6g2t/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《 狂鼠》
+https://135zyv6.xw0371.com/2018/11/28/Jf4Rv5Aj9DrPpfWm/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《奇遇真爱》
+https://135zyv6.xw0371.com/2018/11/16/epoXF5lxhc6UxOcT/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《校花驾到之极品佳人》
+https://135zyv6.xw0371.com/2018/11/24/poKJx58InMfdbYQs/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《新灰姑娘》
+https://135zyv6.xw0371.com/2018/11/16/kBIw5TtOCcgp37h0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《棒打鸳鸯》
+https://135zyv6.xw0371.com/2018/11/24/eIWVvQ4AgxxPxf07/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《脑洞少女》
+https://135zyv6.xw0371.com/2018/11/15/UlharfBhBbW79h8B/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《美女与怪物》
+https://135zyv6.xw0371.com/2018/11/22/Vz5DDdZP2S6gmt11/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《鸡毛爱情》
+https://135zyv6.xw0371.com/2018/11/15/hnkUTQ4Ic1UBe4aT/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《盲少爷恋上我》
+https://135zyv6.xw0371.com/2018/11/20/hDa3ITBTknEL2wJz/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《蕾丝炸弹》
+https://135zyv6.xw0371.com/2018/11/13/hbCunydcNnycD78R/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《萌犬好声音4 英语版》
+https://135zyv6.xw0371.com/2018/11/20/OvFqFO5t5HKeZvq7/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《初吻50次》
+https://135zyv6.xw0371.com/2018/11/12/GkJcjbvOB1s0mnnK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《萌犬好声音4 国语版》
+https://135zyv6.xw0371.com/2018/11/20/Esh1xbqcK7jQ5TVL/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《悦来悦乐之醉爱之城》
+https://135zyv6.xw0371.com/2018/11/11/Zfx7lJX8Jnd5JEee/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《胎记》
+https://135zyv6.xw0371.com/2018/11/18/In0BJHii8ixCMNJm/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《排球少女》
+https://135zyv6.xw0371.com/2018/11/10/1qSCHuTEs3w1SCCt/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《小狗当家》
+https://135zyv6.xw0371.com/2018/11/17/IZPtJnQ4wmt79c9N/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《石狮之超能记者》
+https://135zyv6.xw0371.com/2018/11/09/PqwUNYpVJpTsh7Se/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《一夜成名》
+https://135zyv6.xw0371.com/2018/11/09/79arK9ugnc3KCyGv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《超人总动员2 国语版》
+https://135zyv6.xw0371.com/2018/11/08/p0Tz1wu3bLwO1d3b/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《马路与天使》
+https://135zyv6.xw0371.com/2018/11/07/rEQHAJ7HDINIbUpK/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《背叛的玫瑰》
+https://135zyv6.xw0371.com/2018/11/07/tTvntujVBhIve1ng/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《每天回家都会看到老婆在装死》
+https://135zyv6.xw0371.com/2018/11/07/2ZOWZROlGRYsPTA5/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《摘金奇缘》
+https://135zyv6.xw0371.com/2018/11/07/OAc1bGG9qwRPK40a/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《大闹西游》
+https://135zyv6.xw0371.com/2018/11/07/93ccF09VvHDVIVUc/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《假装不正经》
+https://135zyv6.xw0371.com/2018/11/06/y5or6utJ3SOoyrQl/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《只羡鸳鸯不羡仙》
+https://135zyv6.xw0371.com/2018/11/06/4q3VSMCNJTEhg9bJ/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《热血三人行》
+https://135zyv6.xw0371.com/2018/11/06/5bMVNDoec42omAYV/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《流浪猫鲍勃》
+https://135zyv6.xw0371.com/2018/11/04/GAISoYL5VPrfYOH0/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《将军在上之时空恋人》
+https://v.xw0371.com/20171218/nXjozr7d/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《德云社师恩天大专场演出北展站》
+https://v.xw0371.com/20171216/gYNjvTlS/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《酒会》
+https://v.xw0371.com/20171211/tzIRf6xL/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《兄弟，别闹！》
+https://v.xw0371.com/20171210/C4tp99Tw/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《这就是命》
+https://v.xw0371.com/20171214/ogY1X9rr/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《蜜月计划》
+https://v.xw0371.com/20171208/Ua55MrDX/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《卧底爷爷》
+https://v.xw0371.com/20171207/WMj5B0Tn/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《牧野诡事之金豹子》
+https://v.xw0371.com/20171206/qrhumWn8/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《差不多的朋友》
+https://v.xw0371.com/20171204/KsADfolN/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《直到我不愿意》
+https://v.xw0371.com/20171203/1rFzSLmh/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《寻宝行动》
+https://v.xw0371.com/20171125/uKnRgmAz/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《疯狂特警队》
+https://v.xw0371.com/20171123/2AzO9oJ6/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《德云社相声：郭德纲 于谦暨德云社相声专场 重庆站整场》
+https://v.xw0371.com/20171122/QpdJuh6J/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《疯狂修道院》
+https://v.xw0371.com/20171123/xgrGVEyy/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《迈克尔·杰克逊的万圣节》
+https://v.xw0371.com/20171122/QHpErIEz/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《疯狂之家》
+https://v.xw0371.com/20171123/xpoYMLNQ/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《嗨翻姐妹行》
+https://v.xw0371.com/20171123/4BTyv3iA/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《镜片超人兄弟》
+https://v.xw0371.com/20171123/ZPpT6CUA/index.m3u8
+#EXTINF:-1 group-title="MOVIE",《青年将军高约》
+https://135zyv6.xw0371.com/2019/03/16/gJH63z5OcMjKbwCe/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《拒绝再战》
+https://135zyv6.xw0371.com/2019/03/11/yb9tNHhNdCATg3Ei/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《烽火芳菲》
+https://135zyv6.xw0371.com/2018/11/06/jJ0ZjmAqkxTC4IGs/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《集中营里的摄影师》
+https://135zyv6.xw0371.com/2019/02/26/Hp1nDh0JylzdeFDO/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《欢乐之城》
+https://135zyv6.xw0371.com/2019/02/20/oRjba8KPnOatSyzx/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《他们已不再变老》
+https://135zyv6.xw0371.com/2019/01/31/S9bCG6gghdU2188B/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《私人战争》
+https://135zyv6.xw0371.com/2019/01/30/DLmXdrTWN0V5YnSY/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《摇摆狂潮》
+https://135zyv6.xw0371.com/2019/01/25/B8wOt8QA3wOGMkke/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《抗日奇侠之鬼六子》
+https://135zyv6.xw0371.com/2019/01/24/gZHV0K6FjsxPpdZg/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《仙境》
+https://135zyv6.xw0371.com/2019/01/15/XRkr5AxpgU6FSwlU/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",《安市城》
+https://135zyv6.xw0371.com/2019/01/07/VlnSRFX3taJTGuMz/playlist.m3u8
+#EXTINF:-1 group-title="MOVIE",Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/03.m3u8
+#EXTINF:-1 group-title="MOVIE",Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+#EXTINF:-1 group-title="MOVIE",Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
+#EXTINF:-1 group-title="MOVIE",Cinema 1
+http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8
+#EXTINF:-1 group-title="MOVIE",Cinema TV
+https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
