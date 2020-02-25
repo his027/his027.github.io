@@ -101,8 +101,6 @@ http://hbcb.chinashadt.com:1936/live/tv2.stream/chunklist_w68703164.m3u8
 http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hubei_2_hd.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="①📺广东★电视台",湖北卫视HD
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",儿歌大全
-http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_ergedaquan&ostype=android&hwtype=nubia&tm=1579958333&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",兔小贝儿歌
 http://hlslive.video.iqiyi.com/tslive/c16_lb_tuxiaobeierge_1080p_t10/c16_lb_tuxiaobeierge_1080p_t10.m3u8?pv=0.2&qd_tvid=2904111923&qd_vipres=0&qd_scc=63b33ee6326cc32f5bb91ae5ab29b179&qd_sc=39d909bb9865e83cda0f51d4ff4638e3&qd_src=01010031010000000000&qd_ip=7588205c&qd_uid=&qd_tm=1582601735887&qd_vip=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",贝瓦儿歌
@@ -124,17 +122,21 @@ http://hlslive.video.iqiyi.com/tslive/c16_lb_baobaoketang_1080p_t10/c16_lb_baoba
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",星学堂
 http://aldirect.hls.huya.com/huyalive/1199514198973-1199514198973-5232659111706886144-2399028521402-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",动物兄弟
-http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_dongwuxiongdi&ostype=android&hwtype=nubia&tm=1579952733&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
+http://hlslive.video.iqiyi.com/tslive/c15_lb_dishine_1080p_t10/c15_lb_dishine_1080p_t10.m3u8?pv=0.2&qd_tvid=2904648123&qd_vipres=0&qd_scc=1b9ace8f7e1bfbb260ddcc3d94c6b85e&qd_sc=b5d36dc5121d3fd7b3ab39aee0bafad5&qd_src=01010031010000000000&qd_ip=7588205c&qd_uid=&qd_tm=1582634480340&qd_vip=1
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",动画小天地
+http://hlslive.video.iqiyi.com/tslive/c15_lb_dishine_1080p_t10/c15_lb_dishine_1080p_t10.m3u8?pv=0.2&qd_tvid=2904648123&qd_vipres=0&qd_scc=1b9ace8f7e1bfbb260ddcc3d94c6b85e&qd_sc=b5d36dc5121d3fd7b3ab39aee0bafad5&qd_src=01010031010000000000&qd_ip=7588205c&qd_uid=&qd_tm=1582634480340&qd_vip=1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",儿歌大全
+http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_ergedaquan&ostype=android&hwtype=nubia&tm=1579958333&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",动漫乐园
 http://hlslive.video.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8?pv=0.2&qd_tvid=2904644423&qd_vipres=0&qd_scc=e20b274b471d429a9e27853f4f94ccb4&qd_sc=c36300b3ea59b0156da31034e338e179&qd_src=01010031010000000000&qd_ip=7588205c&qd_uid=&qd_tm=1582602866935&qd_vip=1
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",倒霉熊
-http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_daomeixiong&ostype=android&hwtype=nubia&tm=1579955249&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",爆笑虫子
 http://hlslive.video.iqiyi.com/tslive/c16_lb_baoxiaochongzi_1080p_t10/c16_lb_baoxiaochongzi_1080p_t10.m3u8?pv=0.2&qd_tvid=2904444623&qd_vipres=0&qd_scc=8ddb9f34fcd71c86576beacb28cdc4fa&qd_sc=468e48d3ad791ae6fd281699fbe630b8&qd_src=01010031010000000000&qd_ip=7588205c&qd_uid=&qd_tm=1582602956309&qd_vip=1
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",倒霉熊
+http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_daomeixiong&ostype=android&hwtype=nubia&tm=1579955249&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",动画电影
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_donghuadianying&ostype=android&hwtype=nubia&tm=1579959820&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",猫和老鼠
-http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_maohelaoshu&ostype=android&hwtype=nubia&tm=1579952722&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
+http://hlslive.video.iqiyi.com/tslive/c15_lb_maohelaoshu_1080p_t10/c15_lb_maohelaoshu_1080p_t10.m3u8?pv=0.2&qd_tvid=2903607523&qd_vipres=0&qd_scc=a60a092fca6fd358799f982f1aacef3d&qd_sc=292bc7ea1a600157f5d1436f2a9f1308&qd_src=01010031010000000000&qd_ip=7588205c&qd_uid=&qd_tm=1582634512179&qd_vip=1
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台",喜洋洋和灰太郎
 http://hlslive.video.iqiyi.com/tslive/c15_lb_xiyangyang_1080p_t10/c15_lb_xiyangyang_1080p_t10.m3u8?pv=0.2&qd_tvid=2904787523&qd_vipres=0&qd_scc=72addeed073b4bed49a20e7995952a71&qd_sc=37ed62549f942ad7e9e7293458e1ea8e&qd_src=01010031010000000000&qd_ip=7588205c&qd_uid=&qd_tm=1582600787757&qd_vip=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台",CIBN童学世界
