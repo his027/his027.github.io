@@ -35,49 +35,89 @@ http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺央视",CCTV4k
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGNTV
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGNTV-KR
-http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN
-http://112.50.243.7/PLTV/88888888/224/3221226509/index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN
-http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN
-http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN Arabic
-http://live.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN Arabic
-http://live.cgtn.com/1000a/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN Arabic
+#EXTINF:-1 group-title="②📺CGTN&数字频道",法治天地
+http://111.20.33.69/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",法治天地
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226036/index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CCTV兵器科技频道
+http://live.hcs.cmvideo.cn/ws_v/2018/gfjs/gfjs450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200019526&pid=2028597799&timestamp=20200111203805&Channel_ID=H5_&ProgramID=623338073&ParentNodeID=-99&assertID=2200019526&client_ip=61.160.247.210&SecurityKey=20200111203805&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=09a16a1329ad547d89379c174f449635&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3ae3cc41a717d53fce3ca8e9ff591d15
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CCTV央视文化精品频道
+http://live.hcs.cmvideo.cn/ws_v/2018/ysjp/ysjp450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200019507&pid=2028597799&timestamp=20200111192808&Channel_ID=H5_&ProgramID=623338084&ParentNodeID=-99&assertID=2200019507&client_ip=61.160.247.210&SecurityKey=20200111192808&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=1efa2d35771eff342f5c1a00c0f1e816&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=0ef3987581ea2297ffb85161ed5b26e1
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CCTV怀旧剧场频道
+http://live.hcs.cmvideo.cn/ws_v/2018/hjjc/hjjc450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200019453&pid=2028597799&timestamp=20200111202604&Channel_ID=H5_&ProgramID=623364608&ParentNodeID=-99&assertID=2200019453&client_ip=61.160.247.210&SecurityKey=20200111202604&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=946d20e865806ed983186c2d70870f4f&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=286b915427661039b2e81c8929e4db5b
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CCTV风云足球
+http://live.hcs.cmvideo.cn/ws_v/2018/fyzq/fyzq450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2202124618&pid=2028597799&timestamp=20200111205813&Channel_ID=H5_&ProgramID=621984939&ParentNodeID=-99&assertID=2202124618&client_ip=61.160.247.210&SecurityKey=20200111205813&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=96b9aeee807d4a6719042d2f9faf3068&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=a2ccd690bc282b41714e4770f57247a0
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CCTV网球
+http://112.17.40.140/PLTV/88888888/224/3221226402/index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CCTV风云音乐频道
+http://live.hcs.cmvideo.cn/ws_v/2018/fyyy/fyyy450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200019225&pid=2028597799&timestamp=20200111221508&Channel_ID=H5_&ProgramID=623338072&ParentNodeID=-99&assertID=2200019225&client_ip=61.160.247.210&SecurityKey=20200111221508&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=778adfea73731da8e4d1f6d9a6dbe1f5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ae8d3371954fd6ea1cab3c46003464de
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CCTV风云剧场频道
+http://live.hcs.cmvideo.cn/ws_v/2018/fyjc/fyjc450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200019164&pid=2028597799&timestamp=20200111203328&Channel_ID=H5_&ProgramID=623338051&ParentNodeID=-99&assertID=2200019164&client_ip=61.160.247.210&SecurityKey=20200111203328&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=3fcdef1b2f983a0b356884eafde6477e&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2a1212e482a06da47615b4a3a83ee192
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CCTV发现之旅频道
+http://live.hcs.cmvideo.cn/wd_r3/cnr/faxianzhilv/1000/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20200111212831&Channel_ID=H5_&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=61.160.247.210&SecurityKey=20200111212831&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=0d38388ccc0948ccaa9b8f9268ac69b5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e4fd3cd285dc6e0aefac86dd0ad01ac5
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CCTV世界地理频道
+http://live.hcs.cmvideo.cn/ws_v/2018/sjdl/sjdl450/350/01.m3u8?msisdn=E86F61904DF815A5CC1B31921C362BD6&mdspid=&spid=699004&netType=0&sid=2200018840&pid=2028597799&timestamp=20200111215634&Channel_ID=H5_&ProgramID=623338083&ParentNodeID=-99&assertID=2200018840&client_ip=61.160.247.210&SecurityKey=20200111215634&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&mtv_session=41fb004b9250bf26c957e56c51585441&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=815c666f00198bbbc2d742be93656710
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CCTV新科动漫
+http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN阿拉伯语
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN Documentary
-http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN Documentary
-http://bit.ly/2D1FvME
-#EXTINF:-1 group-title="②📺CGTN",CGTN Documentary
-http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN Espa
-http://bit.ly/2F0ODBz
-#EXTINF:-1 group-title="②📺CGTN",CGTN Espa
-http://live.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN Espa
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN Franais
-http://live.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN Franais
-http://live.cgtn.com/cctv-f.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN Franais
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN2
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN西班牙语
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTNNEWS
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CGTN2
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN法语频道
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN西语频道
+http://live.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN阿语频道
+http://live.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN俄语频道
+http://live.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN纪录频道
+http://live.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGNTV-KR
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/playlist.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN
+http://112.50.243.7/PLTV/88888888/224/3221226509/index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN
+http://121.31.30.90:8085/ysten-business/live/cctv-9/yst.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN
+http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225917/index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Arabic
+http://live.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Arabic
+http://live.cgtn.com/1000a/prog_index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Arabic
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Documentary
+http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Documentary
+http://bit.ly/2D1FvME
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Documentary
+http://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Espa
+http://bit.ly/2F0ODBz
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Espa
+http://live.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Espa
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Franais
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Franais
+http://live.cgtn.com/cctv-f.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN Franais
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN2
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CGTN2
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-#EXTINF:-1 group-title="②📺CGTN",CNN Live Indonesia
+#EXTINF:-1 group-title="②📺CGTN&数字频道",CNN Live Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="③📺地方卫视",湖南卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
@@ -881,6 +921,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="⑤📺港澳",KHS香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv:80/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑤📺港澳",凤凰中文HD
+http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑤📺港澳",凤凰中文
 http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑤📺港澳",凤凰中文
@@ -897,6 +939,8 @@ http://liveali.ifeng.com/live/FHZW.flv
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑤📺港澳",凤凰卫视
 http://liveali.ifeng.com/live/FHZX.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="⑤📺港澳",凤凰资讯
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="⑤📺港澳",凤凰资讯
 http://liveali.ifeng.com/live/FHZX.flv
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="⑤📺港澳",凤凰资讯
