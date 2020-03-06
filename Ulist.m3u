@@ -937,8 +937,12 @@ http://223.82.250.72/ysten-
 http://liveali.ifeng.com/live/FHZW.flv
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑤📺港澳",凤凰中文
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
+#EXTINF:-1 tvg-id="141" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑤📺港澳",凤凰中文
+http://liveali.ifeng.com/live/FHZW.flv
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑤📺港澳",凤凰卫视
 http://liveali.ifeng.com/live/FHZX.m3u8
+#EXTINF:-1 tvg-id="142" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="⑤📺港澳",凤凰资讯
+http://liveali.ifeng.com/live/FHZX.flv
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="⑤📺港澳",凤凰资讯
 http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="⑤📺港澳",凤凰资讯
@@ -3579,3 +3583,725 @@ http://livecdnh1.tvanywhere.ae/hls/cin1/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/cin1/01.m3u8
 #EXTINF:-1 group-title="📀MOVIE📀",Cinema TV
 https://acv.asianetmobiletvplus.com/channels/cinematv_ptiwautekttzxckrgphaarueatccfiaz/playlist.m3u8
+#EXTINF:-1 group-title="YY直播",科幻 动作 怪兽 经典
+http://47.240.60.73/163cc.php?id=352848230
+#EXTINF:-1 group-title="YY直播",音像世界频道
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000126
+#EXTINF:-1 group-title="YY直播",靓妆
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000127
+#EXTINF:-1 group-title="YY直播",四海钓鱼
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000129
+#EXTINF:-1 group-title="YY直播",陶瓷FHD
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000136
+#EXTINF:-1 group-title="YY直播",生活时尚
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000141
+#EXTINF:-1 group-title="YY直播",东方纪实
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000143
+#EXTINF:-1 group-title="YY直播",求索纪录
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000144
+#EXTINF:-1 group-title="YY直播",北京纪实
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000145
+#EXTINF:-1 group-title="YY直播",极速汽车
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000146
+#EXTINF:-1 group-title="YY直播",游戏风云
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000148
+#EXTINF:-1 group-title="YY直播",精彩影视
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000149
+#EXTINF:-1 group-title="YY直播",足球频道
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000130
+#EXTINF:-1 group-title="YY直播",快乐垂钓
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000080
+#EXTINF:-1 group-title="YY直播",江西-7新闻
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000217
+#EXTINF:-1 group-title="YY直播",一鸣惊人村口
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/45b4b18e87ea499282dc3b1f4bae49ec/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",花房姑娘
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/80f3d66cdd774b14b7fcf7feadf7b995/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",人在囧车
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/2f57f96b564544a5bcda78009cbb3e27/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",甲方乙方
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/7543daa4c4c84ae882cf76140a5113fa/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",健忘村
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/4b5892f7a7ba497a9345205a83abb21c/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",一定要找到你
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/5c79d1143ed3479bbbd643751dae4d27/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",见岳父
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/b131ee90458342eb9e4bf5b556a9d008/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",男友的秘密
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/e099a4a87ac54ea0b8a99faf8a9d3c9d/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",天网恢恢
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/bc4799e775cf4040b4c2f983abbe50f3/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",吵闹人生
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/4f229096fe264ea3a27ba8d0724d83b3/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",车站奇遇
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/c464dc81ae6d42e4895a7ae4002365be/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",谈判专家
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/c03eeb6c16184e598ab93ce09bf5c5cd/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",谈判专家
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/5f0013e12aa742e5b196030fdcdd6702/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",最好的爱是陪伴
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/fb863d173f3b451b90587caab4e9fb24/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",金秋榛情
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/67456ba0a99b4033a0731aaeb76856e1/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",老伴
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/771c2fa867004cc1badb3b7896f721d2/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",裙带关系
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/17bcb8deebef4f688c9ee7b2da6f360b/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",小品-送货
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/3393aa1aefc644b8b02dfdee9a36fa1e/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",小品-人小鬼大
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/88b76208fb114b0a801f2bda7210e66a/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",小品-病床快婿
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/ee69187f9432492abdd928f1d8d004c5/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",后来的我们
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/75d59420b44f404abcb10797a7dd3f8e/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",那老头真帅
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/9efa194b4faf4d9093b732afe5549fef/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",洗脚
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/2ed338fd3e934a4d982f05ef64e77a90/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",想跳就跳
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/291055eaaee4493aa31b9082d3a4219e/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",阴阳差错
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/2063bea356ab4b55bd8242925a7ce9bd/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",父女换位假说
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/b329c72a1fd14d87b3db0b7f2771f404/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",拯救爱情
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/c9366c6c7ec04aca99461b7bd34f0706/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",老爸的心愿
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/dc3e801ff5a24738af79314566e821a3/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",老潘的爱情故事
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/7364068ac5224e938c71efb7e2c1049e/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",特殊女友
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/bf21c536d3394235a32fc47dc0f20453/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",谁动了我的奶酪
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/7d27f3b0e80b4addab2ced1b63cf7a94/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",落户
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/293345c412504283a4696ff0ba3e6d93/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",说句话的事
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/d62c2ed88aa64aa792938e8ced75924a/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",顺手推舟
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/a76607f83ed8433ba58b4527040615e8/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",投其所好
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/6a66110efdc44697a9f7dfb009e1c09b/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",原来如此
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/544f14ad2dff466da81970342c9082fe/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",小棉袄
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/632b07b9871340f99011d6f0334b96e6/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",放心吧
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/ec5414eade2c4591b5e31d51150ef5b7/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",毛驴县令
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/dadd6c94883e439b9e1e8c323148c5f5/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",大圣抢亲
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/965d715c72134d0bba31c1fcb42b5ee2/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",楼道风云
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/15cf9e9d9d9f416b9fcf178a26fb1022/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",决战地铁口
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/60050e0fa111490099b4137a44b3053d/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",冰心依旧
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/0331a0f25f9d4ebd83c79e4d4eb16343/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",好久不见
+https://hls.cntv.myalicdn.com/asp/hls/main/0303000a/3/default/95fcda8f047f4fb6a7241102dc04a787/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",一辆自行车
+https://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/7a16166371d2477b9bc7eeb8c6bfd899/main.m3u8?maxbr=2048&minbr=400
+#EXTINF:-1 group-title="YY直播",欧美电影
+http://47.240.60.73/yy.php?t=14503914
+#EXTINF:-1 group-title="YY直播",鹿鼎记
+http://47.240.60.73/yy.php?t=29708338
+#EXTINF:-1 group-title="YY直播",海外剧场
+http://47.240.60.73/yy.php?t=14503914
+#EXTINF:-1 group-title="YY直播",林正英
+http://47.240.60.73/yy.php?t=24066336
+#EXTINF:-1 group-title="YY直播",重案六组
+http://47.240.60.73/yy.php?t=33567888
+#EXTINF:-1 group-title="YY直播",林正英1
+http://47.240.60.73/yy.php?t=1351505899
+#EXTINF:-1 group-title="YY直播",香港赌片
+http://47.240.60.73/yy.php?t=29900720
+#EXTINF:-1 group-title="YY直播",林正英3
+http://47.240.60.73/yy.php?t=22039779
+#EXTINF:-1 group-title="YY直播",经典电影
+http://47.240.60.73/yy.php?t=1349575181
+#EXTINF:-1 group-title="YY直播",港片
+http://47.240.60.73/yy.php?t=30532977
+#EXTINF:-1 group-title="YY直播",林正英4
+http://47.240.60.73/yy.php?t=34229877
+#EXTINF:-1 group-title="YY直播",港片经典
+http://47.240.60.73/yy.php?t=37758710
+#EXTINF:-1 group-title="YY直播",玄幻电影
+http://47.240.60.73/yy.php?t=1353860021
+#EXTINF:-1 group-title="YY直播",甄嬛传
+http://47.240.60.73/yy.php?t=1351074342
+#EXTINF:-1 group-title="YY直播",新三国
+http://47.240.60.73/yy.php?t=1382646395
+#EXTINF:-1 group-title="YY直播",战狼
+http://47.240.60.73/yy.php?t=1352894520
+#EXTINF:-1 group-title="YY直播",铁齿铜牙纪晓岚
+http://47.240.60.73/yy.php?t=22039119
+#EXTINF:-1 group-title="YY直播",纪晓岚
+http://47.240.60.73/yy.php?t=63826933
+#EXTINF:-1 group-title="YY直播",纪晓岚
+http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_jixiaolan_1080p_t10/c16_lb_jixiaolan_1080p_t10.m3u8
+#EXTINF:-1 group-title="YY直播",港台恐怖
+http://47.240.60.73/yy.php?t=1352687906
+#EXTINF:-1 group-title="YY直播",僵尸恐怖
+http://47.240.60.73/yy.php?t=23120006
+#EXTINF:-1 group-title="YY直播",恐怖
+http://47.240.60.73/yy.php?t=35285823
+#EXTINF:-1 group-title="YY直播",周星驰
+http://47.240.60.73/yy.php?t=1353758166
+#EXTINF:-1 group-title="YY直播",亮剑
+http://47.240.60.73/yy.php?t=27321535
+#EXTINF:-1 group-title="YY直播",电影
+http://47.240.60.73/yy.php?t=1351496216
+#EXTINF:-1 group-title="YY直播",电影
+http://47.240.60.73/yy.php?t=1351496216
+#EXTINF:-1 group-title="YY直播",赌片
+http://47.240.60.73/yy.php?t=1352216562
+#EXTINF:-1 group-title="YY直播",赌片
+http://47.240.60.73/yy.php?t=1352216562
+#EXTINF:-1 group-title="YY直播",赌片
+http://47.240.60.73/yy.php?t=1352216562
+#EXTINF:-1 group-title="YY直播",赌片
+http://47.240.60.73/yy.php?t=1352216562
+#EXTINF:-1 group-title="YY直播",赌片
+http://47.240.60.73/yy.php?t=1352216562
+#EXTINF:-1 group-title="YY直播",赌片
+http://47.240.60.73/yy.php?t=1352216562
+#EXTINF:-1 group-title="YY直播",赌片1
+http://47.240.60.73/yy.php?t=77869868
+#EXTINF:-1 group-title="YY直播",赌片1
+http://47.240.60.73/yy.php?t=77869868
+#EXTINF:-1 group-title="YY直播",赌片1
+http://47.240.60.73/yy.php?t=77869868
+#EXTINF:-1 group-title="YY直播",战狼2
+http://47.240.60.73/yy.php?t=37228835
+#EXTINF:-1 group-title="YY直播",盗墓系列
+http://47.240.60.73/yy.php?t=1382651025
+#EXTINF:-1 group-title="YY直播",欧美电影1
+http://47.240.60.73/yy.php?t=1331053117
+#EXTINF:-1 group-title="YY直播",发哥赌神
+http://47.240.60.73/yy.php?t=39589923
+#EXTINF:-1 group-title="YY直播",发哥赌片2
+http://47.240.60.73/yy.php?t=30426630
+#EXTINF:-1 group-title="YY直播",科幻电影
+http://47.240.60.73/yy.php?t=35133142
+#EXTINF:-1 group-title="YY直播",欧美科幻
+http://47.240.60.73/yy.php?t=29460894
+#EXTINF:-1 group-title="YY直播",延禧攻略
+http://47.240.60.73/yy.php?t=21881901
+#EXTINF:-1 group-title="YY直播",亮剑2
+http://47.240.60.73/yy.php?t=32110908
+#EXTINF:-1 group-title="YY直播",盗墓笔记
+http://47.240.60.73/yy.php?t=38338029
+#EXTINF:-1 group-title="YY直播",少年包青天
+http://47.240.60.73/yy.php?t=23055599
+#EXTINF:-1 group-title="YY直播",乡村爱情2
+http://47.240.60.73/yy.php?t=56312932
+#EXTINF:-1 group-title="YY直播",高分好电影
+http://47.240.60.73/yy.php?t=38650266
+#EXTINF:-1 group-title="YY直播",封神榜
+http://47.240.60.73/yy.php?t=35032226
+#EXTINF:-1 group-title="YY直播",狄仁杰
+http://47.240.60.73/yy.php?t=1351755386
+#EXTINF:-1 group-title="YY直播",灌篮高手
+http://47.240.60.73/yy.php?t=1351417866
+#EXTINF:-1 group-title="YY直播",柯南
+http://47.240.60.73/yy.php?t=37708809
+#EXTINF:-1 group-title="YY直播",新水浒
+http://47.240.60.73/yy.php?t=31750505
+#EXTINF:-1 group-title="YY直播",燕双鹰
+http://47.240.60.73/yy.php?t=1352227153
+#EXTINF:-1 group-title="YY直播",雪豹
+http://47.240.60.73/yy.php?t=21180667
+#EXTINF:-1 group-title="YY直播",成龙
+http://47.240.60.73/yy.php?t=34460526
+#EXTINF:-1 group-title="YY直播",海外
+http://47.240.60.73/yy.php?t=1353426319
+#EXTINF:-1 group-title="YY直播",康熙微服私访
+http://47.240.60.73/yy.php?t=34811100
+#EXTINF:-1 group-title="YY直播",荒野求生2
+http://47.240.60.73/yy.php?t=36949900
+#EXTINF:-1 group-title="YY直播",坏蛋是怎么炼成
+http://47.240.60.73/yy.php?t=33323673
+#EXTINF:-1 group-title="YY直播",蜗居
+http://47.240.60.73/yy.php?t=1382649912
+#EXTINF:-1 group-title="YY直播",荒野求生3
+http://47.240.60.73/yy.php?t=35407333
+#EXTINF:-1 group-title="YY直播",终极系统
+http://47.240.60.73/yy.php?t=26870427
+#EXTINF:-1 group-title="YY直播",还珠格格
+http://47.240.60.73/yy.php?t=1349625785
+#EXTINF:-1 group-title="YY直播",欧美专场
+http://47.240.60.73/yy.php?t=29170933
+#EXTINF:-1 group-title="YY直播",鬼神捉妖
+http://47.240.60.73/yy.php?t=28882933
+#EXTINF:-1 group-title="YY直播",电影2
+http://47.240.60.73/yy.php?t=29945997
+#EXTINF:-1 group-title="YY直播",经典怀旧
+http://47.240.60.73/yy.php?t=63226637
+#EXTINF:-1 group-title="YY直播",欧美科幻3
+http://47.240.60.73/yy.php?t=32140089
+#EXTINF:-1 group-title="YY直播",周星驰3
+http://47.240.60.73/yy.php?t=30633499
+#EXTINF:-1 group-title="YY直播",经典系列
+http://47.240.60.73/yy.php?t=30804490
+#EXTINF:-1 group-title="YY直播",盗墓笔记2
+http://47.240.60.73/yy.php?t=38338029
+#EXTINF:-1 group-title="YY直播",荒野求生4
+http://47.240.60.73/yy.php?t=1393651005
+#EXTINF:-1 group-title="YY直播",二龙湖浩哥
+http://47.240.60.73/yy.php?t=28205255
+#EXTINF:-1 group-title="YY直播",荒野求生5
+http://47.240.60.73/yy.php?t=21831828
+#EXTINF:-1 group-title="YY直播",盗墓笔记3
+http://47.240.60.73/yy.php?t=33386733
+#EXTINF:-1 group-title="YY直播",炊事班
+http://47.240.60.73/yy.php?t=78361511
+#EXTINF:-1 group-title="YY直播",雪豹2
+http://47.240.60.73/yy.php?t=1352800839
+#EXTINF:-1 group-title="YY直播",荒野求生6
+http://47.240.60.73/yy.php?t=1353850051
+#EXTINF:-1 group-title="YY直播",人民的名义
+http://47.240.60.73/yy.php?t=26106124
+#EXTINF:-1 group-title="YY直播",人民的名义
+http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_renmindemingyi_1080p_t10/c16_lb_renmindemingyi_1080p_t10.m3u8
+#EXTINF:-1 group-title="YY直播",动作枪战
+http://47.240.60.73/yy.php?t=24929887
+#EXTINF:-1 group-title="YY直播",燕双鹰2
+http://47.240.60.73/yy.php?t=1353396018
+#EXTINF:-1 group-title="YY直播",刺激片
+http://47.240.60.73/yy.php?t=1353314294
+#EXTINF:-1 group-title="YY直播",宰相刘罗锅
+http://47.240.60.73/yy.php?t=1350955746
+#EXTINF:-1 group-title="YY直播",搞笑电影
+http://47.240.60.73/yy.php?t=1346997359
+#EXTINF:-1 group-title="YY直播",欧美科幻4
+http://47.240.60.73/yy.php?t=1353281165
+#EXTINF:-1 group-title="YY直播",经典
+http://47.240.60.73/yy.php?t=27744544
+#EXTINF:-1 group-title="YY直播",利刃出击
+http://47.240.60.73/yy.php?t=1352917533
+#EXTINF:-1 group-title="YY直播",征服
+http://47.240.60.73/yy.php?t=1352952473
+#EXTINF:-1 group-title="YY直播",抗战
+http://47.240.60.73/yy.php?t=1351058483
+#EXTINF:-1 group-title="YY直播",杰森斯坦森
+http://47.240.60.73/yy.php?t=35292562
+#EXTINF:-1 group-title="YY直播",鬼吹灯
+http://47.240.60.73/yy.php?t=38338029
+#EXTINF:-1 group-title="YY直播",张子健
+http://47.240.60.73/yy.php?t=22059534
+#EXTINF:-1 group-title="YY直播",案发现场
+http://47.240.60.73/yy.php?t=31542198
+#EXTINF:-1 group-title="YY直播",正阳门下
+http://47.240.60.73/yy.php?t=31128566
+#EXTINF:-1 group-title="YY直播",康熙王朝
+http://47.240.60.73/yy.php?t=1353419002
+#EXTINF:-1 group-title="YY直播",父母爱情
+http://47.240.60.73/yy.php?t=1352279670
+#EXTINF:-1 group-title="YY直播",小五当官
+http://47.240.60.73/yy.php?t=31809939
+#EXTINF:-1 group-title="YY直播",海外精品影院
+http://47.240.60.73/yy.php?t=88009971
+#EXTINF:-1 group-title="YY直播",火蓝刀锋
+http://47.240.60.73/yy.php?t=39204655
+#EXTINF:-1 group-title="YY直播",搬山盗墓
+http://47.240.60.73/yy.php?t=33177777
+#EXTINF:-1 group-title="YY直播",李连杰
+http://47.240.60.73/yy.php?t=10513900
+#EXTINF:-1 group-title="YY直播",大宅门
+http://47.240.60.73/yy.php?t=33519757
+#EXTINF:-1 group-title="YY直播",乡村爱情3
+http://47.240.60.73/yy.php?t=41194803
+#EXTINF:-1 group-title="YY直播",速度与激情
+http://47.240.60.73/yy.php?t=22937730
+#EXTINF:-1 group-title="YY直播",高清电影
+http://47.240.60.73/yy.php?t=1351053003
+#EXTINF:-1 group-title="YY直播",张子健2
+http://47.240.60.73/yy.php?t=1353490041
+#EXTINF:-1 group-title="YY直播",所隋唐英雄
+http://47.240.60.73/yy.php?t=1352475619
+#EXTINF:-1 group-title="YY直播",特种兵
+http://47.240.60.73/yy.php?t=1345843681
+#EXTINF:-1 group-title="YY直播",射雕英雄传
+http://47.240.60.73/yy.php?t=1350925304
+#EXTINF:-1 group-title="YY直播",喜剧
+http://47.240.60.73/yy.php?t=95017956
+#EXTINF:-1 group-title="YY直播",新白娘子传奇
+http://47.240.60.73/yy.php?t=1382650232
+#EXTINF:-1 group-title="YY直播",经典影视
+http://47.240.60.73/yy.php?t=1350012909
+#EXTINF:-1 group-title="YY直播",闯关东
+http://47.240.60.73/yy.php?t=30667538
+#EXTINF:-1 group-title="YY直播",大杂烩
+http://47.240.60.73/yy.php?t=26584882
+#EXTINF:-1 group-title="YY直播",楚汉传奇
+http://47.240.60.73/yy.php?t=25372903
+#EXTINF:-1 group-title="YY直播",大D传媒
+http://47.240.60.73/yy.php?t=1351468919
+#EXTINF:-1 group-title="YY直播",鬼吹灯系列
+http://47.240.60.73/yy.php?t=1353874407
+#EXTINF:-1 group-title="YY直播",芈月传
+http://47.240.60.73/yy.php?t=1382650380
+#EXTINF:-1 group-title="YY直播",经典剧场
+http://47.240.60.73/yy.php?t=29736162
+#EXTINF:-1 group-title="YY直播",自驾探险
+http://47.240.60.73/yy.php?t=81438239
+#EXTINF:-1 group-title="YY直播",林正英鬼片500部
+http://sousou2.top/dl/yy1.php?t=1353059120
+#EXTINF:-1 group-title="YY直播",甑子丹专场经典动作片
+http://sousou2.top/dl/yy1.php?t=1353314294
+#EXTINF:-1 group-title="YY直播",YY鸭-海外剧场
+http://sousou2.top/dl/yy1.php?t=29249921
+#EXTINF:-1 group-title="YY直播",林正英
+http://sousou2.top/dl/yy1.php?t=1351505899
+#EXTINF:-1 group-title="YY直播",林正英女鬼相亲
+http://sousou2.top/dl/yy1.php?t=24066336
+#EXTINF:-1 group-title="YY直播",港片赌片狱片喜剧动作
+http://sousou2.top/dl/yy1.php?t=28751126
+#EXTINF:-1 group-title="YY直播",僵尸鬼片港片恐怖搞笑
+http://sousou2.top/dl/yy1.php?t=23120006
+#EXTINF:-1 group-title="YY直播",电影-鬼片女鬼来了
+http://sousou2.top/dl/yy1.php?t=22006255
+#EXTINF:-1 group-title="YY直播",动作经典合集成龙
+http://sousou2.top/dl/yy1.php?t=27377999
+#EXTINF:-1 group-title="YY直播",鬼片24h精彩
+http://sousou2.top/dl/yy1.php?t=1353446734
+#EXTINF:-1 group-title="YY直播",林正英-僵尸女鬼艳鬼
+http://sousou2.top/dl/yy1.php?t=30262199
+#EXTINF:-1 group-title="YY直播",科幻电影24h
+http://sousou2.top/dl/yy1.php?t=35133142
+#EXTINF:-1 group-title="YY直播",欧美科幻电影
+http://sousou2.top/dl/yy1.php?t=37988782
+#EXTINF:-1 group-title="YY直播",港片经典动作枪战恩仇
+http://sousou2.top/dl/yy1.php?t=37758710
+#EXTINF:-1 group-title="YY直播",林正英经典鬼片
+http://sousou2.top/dl/yy1.php?t=1353018737
+#EXTINF:-1 group-title="YY直播",周星驰星爷喜剧之王
+http://sousou2.top/dl/yy1.php?t=21090129
+#EXTINF:-1 group-title="YY直播",国产精选电影
+http://sousou2.top/dl/yy1.php?t=27772604
+#EXTINF:-1 group-title="YY直播",速9抢先看
+http://sousou2.top/dl/yy1.php?t=1382632937
+#EXTINF:-1 group-title="YY直播",盗墓经典
+http://sousou2.top/dl/yy1.php?t=27744544
+#EXTINF:-1 group-title="YY直播",九妹欧美科幻
+http://sousou2.top/dl/yy1.php?t=1353281165
+#EXTINF:-1 group-title="YY直播",欧美大片
+http://sousou2.top/dl/yy1.php?t=35292562
+#EXTINF:-1 group-title="YY直播",8倍镜的世界.....
+http://sousou2.top/dl/yy1.php?t=1331053117
+#EXTINF:-1 group-title="YY直播",鬼片-女鬼来了
+http://sousou2.top/dl/yy1.php?t=27866918
+#EXTINF:-1 group-title="YY直播",恐怖专频超清重口
+http://sousou2.top/dl/yy1.php?t=35285823
+#EXTINF:-1 group-title="YY直播",动作喜剧片苏喜电影
+http://sousou2.top/dl/yy1.php?t=29391217
+#EXTINF:-1 group-title="YY直播",24h鬼片精彩不间断
+http://sousou2.top/dl/yy1.php?t=37859000
+#EXTINF:-1 group-title="YY直播",林正英僵尸猛鬼24H
+http://sousou2.top/dl/yy1.php?t=1393837072
+#EXTINF:-1 group-title="YY直播",二龙湖浩哥
+http://sousou2.top/dl/yy1.php?t=31809939
+#EXTINF:-1 group-title="YY直播",阿祖华语经典电影
+http://sousou2.top/dl/yy1.php?t=25560981
+#EXTINF:-1 group-title="YY直播",经典一代枭雄
+http://sousou2.top/dl/yy1.php?t=23870569
+#EXTINF:-1 group-title="YY直播",成龙经典系列电影
+http://sousou2.top/dl/yy1.php?t=1353219593
+#EXTINF:-1 group-title="YY直播",经典玄幻电影僵尸女鬼
+http://sousou2.top/dl/yy1.php?t=28882933
+#EXTINF:-1 group-title="YY直播",二龙湖浩哥经典搞笑
+http://sousou2.top/dl/yy1.php?t=28205255
+#EXTINF:-1 group-title="YY直播",僵尸恶鬼疯狂高清
+http://sousou2.top/dl/yy1.php?t=1350998397
+#EXTINF:-1 group-title="YY直播",科幻动作灾难战争
+http://sousou2.top/dl/yy1.php?t=42932063
+#EXTINF:-1 group-title="YY直播",香港鬼片24小时连播
+http://sousou2.top/dl/yy1.php?t=1393958857
+#EXTINF:-1 group-title="YY直播",好莱坞动作科幻战争
+http://sousou2.top/dl/yy1.php?t=35325313
+#EXTINF:-1 group-title="YY直播",欧美大片科幻动作恐怖
+http://sousou2.top/dl/yy1.php?t=26472224
+#EXTINF:-1 group-title="YY直播",经典终极电影24陪你
+http://sousou2.top/dl/yy1.php?t=1349575181
+#EXTINF:-1 group-title="YY直播",电影高分好电影
+http://sousou2.top/dl/yy1.php?t=38650266
+#EXTINF:-1 group-title="YY直播",恐怖片胆小勿入
+http://sousou2.top/dl/yy1.php?t=29911777
+#EXTINF:-1 group-title="YY直播",港台恐怖僵尸鬼片国语中字
+http://sousou2.top/dl/yy1.php?t=1352687906
+#EXTINF:-1 group-title="YY直播",赌片动作片古惑仔
+http://sousou2.top/dl/yy1.php?t=1352469735
+#EXTINF:-1 group-title="YY直播",林正英鬼片人鬼本殊途
+http://sousou2.top/dl/yy1.php?t=21803064
+#EXTINF:-1 group-title="YY直播",相声级神剧爆笑喜剧交通站
+http://sousou2.top/dl/yy1.php?t=1353428972
+#EXTINF:-1 group-title="YY直播",电影动作经典
+http://sousou2.top/dl/yy1.php?t=38381068
+#EXTINF:-1 group-title="YY直播",荒野求生
+http://sousou2.top/dl/yy1.php?t=1353312849
+#EXTINF:-1 group-title="YY直播",恐怖片经典系列
+http://sousou2.top/dl/yy1.php?t=28740444
+#EXTINF:-1 group-title="YY直播",娱乐排行刘德华系列电影
+http://sousou2.top/dl/yy1.php?t=30484669
+#EXTINF:-1 group-title="YY直播",幻象经典惊悚动作
+http://sousou2.top/dl/yy1.php?t=1393832183
+#EXTINF:-1 group-title="YY直播",科幻女鬼丧尸僵尸
+http://sousou2.top/dl/yy1.php?t=1353426319
+#EXTINF:-1 group-title="YY直播",僵尸艳鬼四千部经典刺激
+http://sousou2.top/dl/yy1.php?t=1450388008
+#EXTINF:-1 group-title="YY直播",乡村爱情剧场
+http://sousou2.top/dl/yy1.php?t=41194803
+#EXTINF:-1 group-title="YY直播",经典武侠剧场
+http://sousou2.top/dl/yy1.php?t=63226637
+#EXTINF:-1 group-title="YY直播",蓝光海外精品影院
+http://sousou2.top/dl/yy1.php?t=88009971
+#EXTINF:-1 group-title="YY直播",海外剧场-动作战争科幻
+http://sousou2.top/dl/yy1.php?t=32140089
+#EXTINF:-1 group-title="YY直播",随风勇敢的心
+http://sousou2.top/dl/yy1.php?t=30667538
+#EXTINF:-1 group-title="YY直播",香港经典搞笑鬼片
+http://sousou2.top/dl/yy1.php?t=1352227227
+#EXTINF:-1 group-title="YY直播",新水浒传超清电视剧
+http://sousou2.top/dl/yy1.php?t=1353580294
+#EXTINF:-1 group-title="YY直播",经典影片武打科幻
+http://sousou2.top/dl/yy1.php?t=40915353
+#EXTINF:-1 group-title="YY直播",港片经典全天不间断！
+http://sousou2.top/dl/yy1.php?t=22047140
+#EXTINF:-1 group-title="YY直播",经典搞笑大电影
+http://sousou2.top/dl/yy1.php?t=1352661771
+#EXTINF:-1 group-title="YY直播",畅聊情感剧场等你呦
+http://sousou2.top/dl/yy1.php?t=1352055900
+#EXTINF:-1 group-title="YY直播",蓝光»僵尸»鬼片»林正英
+http://sousou2.top/dl/yy1.php?t=33988588
+#EXTINF:-1 group-title="YY直播",僵尸女鬼
+http://sousou2.top/dl/yy1.php?t=1353587611
+#EXTINF:-1 group-title="YY直播",这剧要逆天主角挂了
+http://sousou2.top/dl/yy1.php?t=57084183
+#EXTINF:-1 group-title="YY直播",盗墓奇幻彭禺厶网剧电影
+http://sousou2.top/dl/yy1.php?t=1353177492
+#EXTINF:-1 group-title="YY直播",科幻大片
+http://sousou2.top/dl/yy1.php?t=28938411
+#EXTINF:-1 group-title="YY直播",24小时影厅华语外华经典
+http://sousou2.top/dl/yy1.php?t=1353085648
+#EXTINF:-1 group-title="YY直播",爱情公寓高清
+http://sousou2.top/dl/yy1.php?t=38525272
+#EXTINF:-1 group-title="YY直播",全屏看甄嬛传超爽
+http://sousou2.top/dl/yy1.php?t=1351074342
+#EXTINF:-1 group-title="YY直播",还珠格格
+http://sousou2.top/dl/yy1.php?t=33365087
+#EXTINF:-1 group-title="YY直播",纪晓岚专属
+http://sousou2.top/dl/yy1.php?t=63826933
+#EXTINF:-1 group-title="YY直播",琪琪陪你看→新水浒
+http://sousou2.top/dl/yy1.php?t=31750505
+#EXTINF:-1 group-title="YY直播",喜剧神剧交通站
+http://sousou2.top/dl/yy1.php?t=29907996
+#EXTINF:-1 group-title="YY直播",亮剑超清全屏
+http://sousou2.top/dl/yy1.php?t=32110908
+#EXTINF:-1 group-title="YY直播",公益直播小二影视甄嬛
+http://sousou2.top/dl/yy1.php?t=1350309222
+#EXTINF:-1 group-title="YY直播",[新三国]萌儿陪看
+http://sousou2.top/dl/yy1.php?t=29216766
+#EXTINF:-1 group-title="YY直播",24H大宅门
+http://sousou2.top/dl/yy1.php?t=33519757
+#EXTINF:-1 group-title="YY直播",封神榜
+http://sousou2.top/dl/yy1.php?t=35032226
+#EXTINF:-1 group-title="YY直播",帝艺港剧破案悬疑
+http://sousou2.top/dl/yy1.php?t=1350670730
+#EXTINF:-1 group-title="YY直播",「全网首播」战狼三
+http://sousou2.top/dl/yy1.php?t=36377960
+#EXTINF:-1 group-title="YY直播",经典系列欢乐颂
+http://sousou2.top/dl/yy1.php?t=30804490
+#EXTINF:-1 group-title="YY直播",破案神剧，元芳你怎么看
+http://sousou2.top/dl/yy1.php?t=1351755386
+#EXTINF:-1 group-title="YY直播",战争频道，燕双鹰专场
+http://sousou2.top/dl/yy1.php?t=1352227153
+#EXTINF:-1 group-title="YY直播",全球首播战狼三
+http://sousou2.top/dl/yy1.php?t=1352894520
+#EXTINF:-1 group-title="YY直播",荒野求生德爷贝爷超清
+http://sousou2.top/dl/yy1.php?t=36949900
+#EXTINF:-1 group-title="YY直播",铁齿铜牙纪晓岚
+http://sousou2.top/dl/yy1.php?t=22039119
+#EXTINF:-1 group-title="YY直播",喜剧炊事班全集
+http://sousou2.top/dl/yy1.php?t=78361511
+#EXTINF:-1 group-title="YY直播",好先生孙红雷好先生2
+http://sousou2.top/dl/yy1.php?t=1351059494
+#EXTINF:-1 group-title="YY直播",火蓝刀锋
+http://sousou2.top/dl/yy1.php?t=39204655
+#EXTINF:-1 group-title="YY直播",亮剑电影版
+http://sousou2.top/dl/yy1.php?t=1352216562
+#EXTINF:-1 group-title="YY直播",喜剧李卫当官独播
+http://sousou2.top/dl/yy1.php?t=24686090
+#EXTINF:-1 group-title="YY直播",天龙八部
+http://sousou2.top/dl/yy1.php?t=1351814644
+#EXTINF:-1 group-title="YY直播",康熙微服私访记-全集
+http://sousou2.top/dl/yy1.php?t=34811100
+#EXTINF:-1 group-title="YY直播",西游记
+http://sousou2.top/dl/yy1.php?t=1352906405
+#EXTINF:-1 group-title="YY直播",24H神探胖胖
+http://sousou2.top/dl/yy1.php?t=1351428836
+#EXTINF:-1 group-title="YY直播",盗墓笔记
+http://sousou2.top/dl/yy1.php?t=33386733
+#EXTINF:-1 group-title="YY直播",电视剧杨光快乐生活
+http://sousou2.top/dl/yy1.php?t=21972881
+#EXTINF:-1 group-title="YY直播",荒野求生德爷贝爷专辑
+http://sousou2.top/dl/yy1.php?t=25519088
+#EXTINF:-1 group-title="YY直播",亮剑超清全屏速进！
+http://sousou2.top/dl/yy1.php?t=27289502
+#EXTINF:-1 group-title="YY直播",亮剑超清全屏速进！
+http://sousou2.top/dl/yy1.php?t=27289502
+#EXTINF:-1 group-title="YY直播",玖玖武侠玄幻不重播
+http://sousou2.top/dl/yy1.php?t=28099939
+#EXTINF:-1 group-title="YY直播",电影盗墓鬼吹灯系列
+http://sousou2.top/dl/yy1.php?t=1331686180
+#EXTINF:-1 group-title="YY直播",鹿鼎记
+http://sousou2.top/dl/yy1.php?t=38511588
+#EXTINF:-1 group-title="YY直播",神雕侠侣
+http://sousou2.top/dl/yy1.php?t=1351762426
+#EXTINF:-1 group-title="YY直播",无法超越的经典
+http://sousou2.top/dl/yy1.php?t=1352356194
+#EXTINF:-1 group-title="YY直播",家花与野花
+http://sousou2.top/dl/yy1.php?t=21362090
+#EXTINF:-1 group-title="YY直播",天地争霸美猴王
+http://sousou2.top/dl/yy1.php?t=22023858
+#EXTINF:-1 group-title="YY直播",天地争霸美猴王
+http://sousou2.top/dl/yy1.php?t=78939373
+#EXTINF:-1 group-title="YY直播",回忆83经典《射雕英雄传
+http://sousou2.top/dl/yy1.php?t=1351398055
+#EXTINF:-1 group-title="YY直播",24H-鬼吹灯系列
+http://sousou2.top/dl/yy1.php?t=1351496216
+#EXTINF:-1 group-title="YY直播",宫斗延禧-美人-甄嬛
+http://sousou2.top/dl/yy1.php?t=31292828
+#EXTINF:-1 group-title="YY直播",甄嬛传
+http://sousou2.top/dl/yy1.php?t=1351844200
+#EXTINF:-1 group-title="YY直播",甄嬛传
+http://sousou2.top/dl/yy1.php?t=1351844200
+#EXTINF:-1 group-title="YY直播",盗墓玄幻24h
+http://sousou2.top/dl/yy1.php?t=1352875014
+#EXTINF:-1 group-title="YY直播",永不磨灭的番号
+http://sousou2.top/dl/yy1.php?t=1382584524
+#EXTINF:-1 group-title="YY直播",雄霸天下小郎君陪你看
+http://sousou2.top/dl/yy1.php?t=51733637
+#EXTINF:-1 group-title="YY直播",薛仁贵薛元帅
+http://sousou2.top/dl/yy1.php?t=31313785
+#EXTINF:-1 group-title="YY直播",喜剧陪你看我爱我家
+http://sousou2.top/dl/yy1.php?t=95017956
+#EXTINF:-1 group-title="YY直播",超清金庸剧场无片头片尾
+http://sousou2.top/dl/yy1.php?t=1335509613
+#EXTINF:-1 group-title="YY直播",(新版）神雕侠侣
+http://sousou2.top/dl/yy1.php?t=1332436132
+#EXTINF:-1 group-title="YY直播",鬼吹灯系列24小时直播
+http://sousou2.top/dl/yy1.php?t=36493344
+#EXTINF:-1 group-title="YY直播",电视剧[意难忘]独播
+http://sousou2.top/dl/yy1.php?t=28151898
+#EXTINF:-1 group-title="YY直播",篮球火罗志祥
+http://sousou2.top/dl/yy1.php?t=36912445
+#EXTINF:-1 group-title="YY直播",战狼3战狼3全网首映
+http://sousou2.top/dl/yy1.php?t=1353441901
+#EXTINF:-1 group-title="YY直播",冷研24h陪你看特种兵
+http://sousou2.top/dl/yy1.php?t=43373779
+#EXTINF:-1 group-title="YY直播",24h鬼片-精彩不间断
+http://sousou2.top/dl/yy1.php?t=37587300
+#EXTINF:-1 group-title="YY直播",亮剑经典电视剧
+http://sousou2.top/dl/yy1.php?t=49259936
+#EXTINF:-1 group-title="YY直播",战狼三电影版
+http://sousou2.top/dl/yy1.php?t=30510265
+#EXTINF:-1 group-title="YY直播",新三国蓝光全屏
+http://sousou2.top/dl/yy1.php?t=25055036
+#EXTINF:-1 group-title="YY直播",丫头-雪豹
+http://sousou2.top/dl/yy1.php?t=18971688
+#EXTINF:-1 group-title="YY直播",战狼三开播了
+http://sousou2.top/dl/yy1.php?t=1352917533
+#EXTINF:-1 group-title="YY直播",24H怀旧剧场
+http://sousou2.top/dl/yy1.php?t=1350562684
+#EXTINF:-1 group-title="YY直播",高清亮剑
+http://sousou2.top/dl/yy1.php?t=1352475619
+#EXTINF:-1 group-title="YY直播",[吴京全场]妹子陪你看
+http://sousou2.top/dl/yy1.php?t=24407222
+#EXTINF:-1 group-title="YY直播",张子健专场的燕双鹰
+http://sousou2.top/dl/yy1.php?t=22059534
+#EXTINF:-1 group-title="YY直播",[连续剧新版包青天
+http://sousou2.top/dl/yy1.php?t=21621189
+#EXTINF:-1 group-title="YY直播",4000部欧美〈电影〉
+http://sousou2.top/dl/yy1.php?t=39899693
+#EXTINF:-1 group-title="YY直播",陪你看:我和僵尸有个约会
+http://sousou2.top/dl/yy1.php?t=36320236
+#EXTINF:-1 group-title="YY直播",24h陪你看纪晓岚
+http://sousou2.top/dl/yy1.php?t=29736162
+#EXTINF:-1 group-title="YY直播",电视剧《终极系列》
+http://sousou2.top/dl/yy1.php?t=26870427
+#EXTINF:-1 group-title="YY直播",喜剧经典/港片/僵尸
+http://sousou2.top/dl/yy1.php?t=19737922
+#EXTINF:-1 group-title="YY直播",倚天不出，谁与争锋
+http://sousou2.top/dl/yy1.php?t=1349198735
+#EXTINF:-1 group-title="YY直播",停车枫林晚陪你看水浒
+http://sousou2.top/dl/yy1.php?t=1352856718
+#EXTINF:-1 group-title="YY直播",虐心情感剧
+http://sousou2.top/dl/yy1.php?t=1353455515
+#EXTINF:-1 group-title="YY直播",怀旧83版《射雕英雄传》
+http://sousou2.top/dl/yy1.php?t=1350925304
+#EXTINF:-1 group-title="YY直播",赌片赌片赌片赌赌赌
+http://sousou2.top/dl/yy1.php?t=1352487950
+#EXTINF:-1 group-title="YY直播",闯入大森林求生法则
+http://sousou2.top/dl/yy1.php?t=33453966
+#EXTINF:-1 group-title="YY直播",经典回忆济公游记
+http://sousou2.top/dl/yy1.php?t=36171593
+#EXTINF:-1 group-title="YY直播",特种兵影院
+http://sousou2.top/dl/yy1.php?t=1353329334
+#EXTINF:-1 group-title="YY直播",经典琅琊榜
+http://sousou2.top/dl/yy1.php?t=30603885
+#EXTINF:-1 group-title="YY直播",经典怀旧电视剧
+http://sousou2.top/dl/yy1.php?t=1353518742
+#EXTINF:-1 group-title="YY直播",电视剧最经典的古装剧
+http://sousou2.top/dl/yy1.php?t=38473666
+#EXTINF:-1 group-title="YY直播",荒野全集小马哥
+http://sousou2.top/dl/yy1.php?t=21126994
+#EXTINF:-1 group-title="YY直播",动漫斗罗斗破
+http://sousou2.top/dl/yy1.php?t=24208878
+#EXTINF:-1 group-title="YY直播",经典动漫斗罗斗破
+http://sousou2.top/dl/yy1.php?t=1353098382
+#EXTINF:-1 group-title="YY直播",斗罗斗破
+http://sousou2.top/dl/yy1.php?t=1420843376
+#EXTINF:-1 group-title="YY直播",斗罗斗破
+http://sousou2.top/dl/yy1.php?t=1351052509
+#EXTINF:-1 group-title="YY直播",动漫电影龙珠
+http://sousou2.top/dl/yy1.php?t=26664495
+#EXTINF:-1 group-title="YY直播",小祖斗罗斗破蓝光
+http://sousou2.top/dl/yy1.php?t=1351066072
+#EXTINF:-1 group-title="YY直播",斗罗斗破全职高手
+http://sousou2.top/dl/yy1.php?t=24180320
+#EXTINF:-1 group-title="YY直播",动漫龙珠电影
+http://sousou2.top/dl/yy1.php?t=31259777
+#EXTINF:-1 group-title="YY直播",名侦探柯南
+http://sousou2.top/dl/yy1.php?t=37708809
+#EXTINF:-1 group-title="YY直播",动漫电影网球王子
+http://sousou2.top/dl/yy1.php?t=22777075
+#EXTINF:-1 group-title="YY直播",精彩动漫斗罗斗破全职
+http://sousou2.top/dl/yy1.php?t=1351086880
+#EXTINF:-1 group-title="YY直播",足球小将
+http://sousou2.top/dl/yy1.php?t=69304980
+#EXTINF:-1 group-title="YY直播",热漫专场
+http://sousou2.top/dl/yy1.php?t=1353103539
+#EXTINF:-1 group-title="YY直播",名侦探柯南直播间
+http://sousou2.top/dl/yy1.php?t=1353600699
+#EXTINF:-1 group-title="YY直播",附近100米，猫和老鼠
+http://sousou2.top/dl/yy1.php?t=1382609850
+#EXTINF:-1 group-title="YY直播",搞笑的星爷
+http://sousou2.top/dl/yy1.php?t=1353392400
+#EXTINF:-1 group-title="YY直播",舞帝?娛樂圈出品必属精品
+http://sousou2.top/dl/yy1.php?t=1353594050
+#EXTINF:-1 group-title="YY直播",大D经典动漫陪你看
+http://sousou2.top/dl/yy1.php?t=1349469149
+#EXTINF:-1 group-title="YY直播",陈翔六点半
+http://sousou2.top/dl/yy1.php?t=31058047
+#EXTINF:-1 group-title="YY直播",喵嗷污萌妹子影视解说
+http://sousou2.top/dl/yy1.php?t=1351459730
+#EXTINF:-1 group-title="YY直播",冬粮说故事
+http://sousou2.top/dl/yy1.php?t=88229675
+#EXTINF:-1 group-title="YY直播",麦绿素带你7分钟看电影
+http://sousou2.top/dl/yy1.php?t=1351433593
+#EXTINF:-1 group-title="YY直播",羞羞的影评大神级解说
+http://sousou2.top/dl/yy1.php?t=1351461341
+#EXTINF:-1 group-title="YY直播",菊椒男孩影视解说大神
+http://sousou2.top/dl/yy1.php?t=1351494949
