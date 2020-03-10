@@ -35,6 +35,42 @@ http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺CCTV",CCTV4k
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-1 HD
+http://[2001:250:4814:1::200]/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-2 HD
+http://[2001:250:4814:1::200]/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-3 HD
+http://[2001:250:4814:1::200]/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-4 HD
+http://[2001:250:4814:1::200]/hls/cctv4hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-5 HD
+http://[2001:250:4814:1::200]/hls/cctv5hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-6 HD
+http://[2001:250:4814:1::200]/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-7 HD
+http://[2001:250:4814:1::200]/hls/cctv7hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-8 HD
+http://[2001:250:4814:1::200]/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-9 HD
+http://[2001:250:4814:1::200]/hls/cctv9hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-10 HD
+http://[2001:250:4814:1::200]/hls/cctv10hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-11
+http://[2001:250:4814:1::200]/hls/cctv11.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-12
+http://[2001:250:4814:1::200]/hls/cctv12.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-12 HD
+http://[2001:250:4814:1::200]/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-13
+http://[2001:250:4814:1::200]/hls/cctv13.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-14 HD
+http://[2001:250:4814:1::200]/hls/cctv14hd.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-14
+http://[2001:250:4814:1::200]/hls/cctv14.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-15
+http://[2001:250:4814:1::200]/hls/cctv15.m3u8
+#EXTINF:-1 group-title="①📺CCTV [IPV6]",CCTV-5+ HD
+http://[2001:250:4814:1::200]/hls/cctv5phd.m3u8
 #EXTINF:-1 group-title="②📺CGTN&数字频道",法治天地
 http://111.20.33.69/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 group-title="②📺CGTN&数字频道",法治天地
@@ -119,6 +155,32 @@ http://live.cgtn.com/1000/prog_index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1 group-title="②📺CGTN&数字频道",CNN Live Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",CGTN
+http://[2001:250:4814:1::200]/hls/cctv16.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",CCTV-第一剧场
+http://[2001:250:4814:1::200]/hls/dyjctv.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",CCTV-风云剧场
+http://[2001:250:4814:1::200]/hls/fyjctv.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",CCTV-风云音乐
+http://[2001:250:4814:1::200]/hls/fyyytv.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",CCTV-风云足球
+http://[2001:250:4814:1::200]/hls/fyzqtv.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",CCTV-兵器科技
+http://[2001:250:4814:1::200]/hls/gfjstv.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",CCTV-怀旧剧场
+http://[2001:250:4814:1::200]/hls/hjjctv.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",CCTV-世界地理
+http://[2001:250:4814:1::200]/hls/sjdltv.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",CETV-1
+http://[2001:250:4814:1::200]/hls/cetv1.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",CETV-3
+http://[2001:250:4814:1::200]/hls/cetv3.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",CETV-4
+http://[2001:250:4814:1::200]/hls/cetv4.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",金鹰卡通
+http://[2001:250:4814:1::200]/hls/jykttv.m3u8
+#EXTINF:-1 group-title="②📺CGTN数字频道 [IPV6]",山东教育卫视
+http://[2001:250:4814:1::200]/hls/sdetv.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="③📺卫视直播",湖南卫视
 http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000296203.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="③📺卫视直播",浙江卫视
@@ -181,6 +243,136 @@ http://118.123.60.12:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_h
 http://118.123.60.6:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=009&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="③📺卫视直播",西藏卫视
 http://118.123.60.8:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=018&Provider_id=&Pcontent_id=index.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京卫视 HD
+http://[2001:250:4814:1::200]/hls/btv1hd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京文艺 HD
+http://[2001:250:4814:1::200]/hls/btv2hd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京影视 HD
+http://[2001:250:4814:1::200]/hls/btv4hd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京新闻 HD
+http://[2001:250:4814:1::200]/hls/btv9hd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京冬奥纪实 HD
+http://[2001:250:4814:1::200]/hls/btv11hd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",湖南卫视 HD
+http://[2001:250:4814:1::200]/hls/hunanhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",浙江卫视 HD
+http://[2001:250:4814:1::200]/hls/zjhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",江苏卫视 HD
+http://[2001:250:4814:1::200]/hls/jshd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",东方卫视 HD
+http://[2001:250:4814:1::200]/hls/dfhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",安徽卫视 HD
+http://[2001:250:4814:1::200]/hls/ahhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",黑龙江卫视 HD
+http://[2001:250:4814:1::200]/hls/hljhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",辽宁卫视 HD
+http://[2001:250:4814:1::200]/hls/lnhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",深圳卫视 HD
+http://[2001:250:4814:1::200]/hls/szhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",广东卫视 HD
+http://[2001:250:4814:1::200]/hls/gdhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",天津卫视 HD
+http://[2001:250:4814:1::200]/hls/tjhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",湖北卫视 HD
+http://[2001:250:4814:1::200]/hls/hbhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",山东卫视 HD
+http://[2001:250:4814:1::200]/hls/sdhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",重庆卫视 HD
+http://[2001:250:4814:1::200]/hls/cqhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",上海纪实 HD
+http://[2001:250:4814:1::200]/hls/docuchina.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",四川卫视 HD
+http://[2001:250:4814:1::200]/hls/schd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",金鹰纪实 HD
+http://[2001:250:4814:1::200]/hls/gedocu.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",东南卫视 HD
+http://[2001:250:4814:1::200]/hls/dnhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",河北卫视 HD
+http://[2001:250:4814:1::200]/hls/hebhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",江西卫视 HD
+http://[2001:250:4814:1::200]/hls/jxhd.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京卫视
+http://[2001:250:4814:1::200]/hls/btv1.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京文艺
+http://[2001:250:4814:1::200]/hls/btv2.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京科教
+http://[2001:250:4814:1::200]/hls/btv3.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京影视
+http://[2001:250:4814:1::200]/hls/btv4.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京财*
+http://[2001:250:4814:1::200]/hls/btv5.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京生活
+http://[2001:250:4814:1::200]/hls/btv7.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京青年
+http://[2001:250:4814:1::200]/hls/btv8.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京新闻
+http://[2001:250:4814:1::200]/hls/btv9.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",北京卡酷少儿
+http://[2001:250:4814:1::200]/hls/btv10.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",浙江卫视
+http://[2001:250:4814:1::200]/hls/zjtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",湖南卫视
+http://[2001:250:4814:1::200]/hls/hunantv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",江苏卫视
+http://[2001:250:4814:1::200]/hls/jstv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",东方卫视
+http://[2001:250:4814:1::200]/hls/dftv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",深圳卫视
+http://[2001:250:4814:1::200]/hls/sztv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",安徽卫视
+http://[2001:250:4814:1::200]/hls/ahtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",河南卫视
+http://[2001:250:4814:1::200]/hls/hntv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",陕西卫视
+http://[2001:250:4814:1::200]/hls/sxtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",吉林卫视
+http://[2001:250:4814:1::200]/hls/jltv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",广东卫视
+http://[2001:250:4814:1::200]/hls/gdtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",山东卫视
+http://[2001:250:4814:1::200]/hls/sdtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",湖北卫视
+http://[2001:250:4814:1::200]/hls/hbtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",广西卫视
+http://[2001:250:4814:1::200]/hls/gxtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",河北卫视
+http://[2001:250:4814:1::200]/hls/hebtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",西藏卫视
+http://[2001:250:4814:1::200]/hls/xztv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",内蒙古卫视
+http://[2001:250:4814:1::200]/hls/nmtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",青海卫视
+http://[2001:250:4814:1::200]/hls/qhtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",四川卫视
+http://[2001:250:4814:1::200]/hls/sctv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",天津卫视
+http://[2001:250:4814:1::200]/hls/tjtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",山西卫视
+http://[2001:250:4814:1::200]/hls/sxrtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",辽宁卫视
+http://[2001:250:4814:1::200]/hls/lntv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",厦门卫视
+http://[2001:250:4814:1::200]/hls/xmtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",新疆卫视
+http://[2001:250:4814:1::200]/hls/xjtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",黑龙江卫视
+http://[2001:250:4814:1::200]/hls/hljtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",云南卫视
+http://[2001:250:4814:1::200]/hls/yntv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",江西卫视
+http://[2001:250:4814:1::200]/hls/jxtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",东南卫视
+http://[2001:250:4814:1::200]/hls/dntv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",贵州卫视
+http://[2001:250:4814:1::200]/hls/gztv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",宁夏卫视
+http://[2001:250:4814:1::200]/hls/nxtv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",甘肃卫视
+http://[2001:250:4814:1::200]/hls/gstv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",兵团卫视
+http://[2001:250:4814:1::200]/hls/bttv.m3u8
+#EXTINF:-1 group-title="③📺卫视直播 [IPV6]",海南卫视
+http://[2001:250:4814:1::200]/hls/lytv.m3u8
 #EXTINF:-1 group-title="④📺省市-电视台", 广东新闻
 http://nclive.grtn.cn/xwpd/sd/live.m3u8
 #EXTINF:-1 group-title="④📺省市-电视台", 广东国际
@@ -2071,6 +2263,28 @@ http://tv1.wanfudaluye.com/live/live.m3u8
 https://tv2.wanfudaluye.com/live/live.m3u8
 #EXTINF:-1 group-title="⑥📺台湾", 大愛海外
 https://tv3.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",CHC-高清电影 HD
+http://[2001:250:4814:1::200]/hls/chchd.m3u8
+#EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",CHC-动作电影
+http://[2001:250:4814:1::200]/hls/chcatv.m3u8
+#EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",CHC-家庭影院
+http://[2001:250:4814:1::200]/hls/chctv.m3u8
+#EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",凤凰中文
+http://[2001:250:4814:1::200]/hls/fhzw.m3u8
+#EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",凤凰资讯
+http://[2001:250:4814:1::200]/hls/fhzx.m3u8
+#EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",凤凰电影
+http://[2001:250:4814:1::200]/hls/fhdy.m3u8
+#EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",探索频道
+http://[2001:250:4814:1::200]/hls/discovery.m3u8
+#EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",国家地理频道
+http://[2001:250:4814:1::200]/hls/natlgeo.m3u8
+#EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",星空卫视
+http://[2001:250:4814:1::200]/hls/startv.m3u8
+#EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",Channel V
+http://[2001:250:4814:1::200]/hls/channelv.m3u8
+#EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",卫视体育
+http://[2001:250:4814:1::200]/hls/starsports.m3u8
 #EXTINF:-1 group-title="⑦📺Overseas海外🌏",亚洲NANG2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="⑦📺Overseas海外🌏",美国中文电视
