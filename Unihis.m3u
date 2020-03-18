@@ -135,11 +135,11 @@ http://baiducdncmn.inter.iqiyi.com/tslive/c20_lb_qinziqimeng_high_t10/c20_lb_qin
 http://stream.guihet.com/tv/cibn.php?id=12
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台-儿歌",华数_睡前故事
 http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-儿歌",倒霉熊
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台-儿歌",倒霉熊
 http://baiducdncmn.inter.iqiyi.com/tslive/c17_lb_daomeixiong_high_t10/c17_lb_daomeixiong_high_t10.m3u8?key=78e6758f&qd_sc=c66008a292f4769b1da9fb7635030142&qd_scc=5b05939eeb42ac4b440c66ebb28f3873&qd_src=01012001020000000000&qd_tm=1582728143297&qd_tvid=2906546423&qd_uid=0&qd_vip=0&qd_vipres=0&qyid=atkmj4zb56pizgocnk5mvphqaozxck6k
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-儿歌",倒霉熊
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台-儿歌",倒霉熊
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_daomeixiong&ostype=android&hwtype=nubia&tm=1579955249&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-儿歌",爆笑虫子
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台-儿歌",爆笑虫子
 http://baiducdncmn.inter.iqiyi.com/tslive/c20_lb_baoxiaochongzi_high_t10/c20_lb_baoxiaochongzi_high_t10.m3u8?key=78e6758f&qd_sc=b01ae9ecd1fee672cf2522263c872196&qd_scc=473492c636993ea8e539b1c75622b2f5&qd_src=01012001020000000000&qd_tm=1582727954293&qd_tvid=2906603823&qd_uid=0&qd_vip=0&qd_vipres=0&qyid=atkmj4zb56pizgocnk5mvphqaozxck6k
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台-儿歌",北京教学广播 FM99.4
 http://ls.qingting.fm/live/338.m3u8
