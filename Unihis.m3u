@@ -152,19 +152,19 @@ http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台-儿歌",国教台CEC TV-3
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台-儿歌",国教台CEC TV-4
-http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+http://iptv.pdsu.edu.cn/hls/cetv4.m3u8#http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/education.jpg" group-title="②📺少儿益智💯‍‍教育台-儿歌",北京教学广播 FM99.4
 http://123.56.16.201:1935/live/fm994/96K/tzwj_video.m3u8
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-儿歌",百事教育
 http://112.17.40.140/PLTV/88888888/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-1
-http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8#http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8#http://player.paymigu.com/migu.php?id=649531772
+http://iptv.pdsu.edu.cn/hls/cetv1.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8#http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8#http://player.paymigu.com/migu.php?id=649531772
 #EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-1 HD
 http://player.paymigu.com/migu.php?id=649531734
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-2
 http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8#http://player.paymigu.com/migu.php?id=649532169#http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-3
-http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8#http://player.paymigu.com/migu.php?id=649531756
+http://iptv.pdsu.edu.cn/hls/cetv3.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8#http://player.paymigu.com/migu.php?id=649531756
 #EXTINF:-1 tvg-id="76" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-4
 http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8#http://player.paymigu.com/migu.php?id=649531725
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-儿歌",山东教育卫视
