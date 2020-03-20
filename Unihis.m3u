@@ -647,8 +647,8 @@ http://cctv.v.kcdnvip.com/live/cctv15_1/index.m3u8?adapt=0&BR=audio
 http://aldirect.rtmp.huya.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1/20200305171234.jpg" group-title="④📡电视剧Series-现代-轮播",人民的名义-B
 http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_renmindemingyi_1080p_t10/c16_lb_renmindemingyi_1080p_t10.m3u8
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1/20200305171153.jpg" group-title="④📡电视剧Series-现代-轮播",伪装者
-https://aldirect.rtmp.huya.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1/20200320120223.jpg" group-title="④📡电视剧Series-现代-轮播",伪装者
+http://aldirect.rtmp.huya.com/backsrc/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1/20200305171236.jpg" group-title="④📡电视剧Series-现代-轮播",咱们结婚吧
 http://aldirect.rtmp.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2689675904-11552070044519235584-3049003156-10057-A-0-1/20200302221757.jpg" group-title="④📡电视剧Series-现代-轮播",都挺好
@@ -707,12 +707,16 @@ http://aldirect.rtmp.huya.com/huyalive/30765679-2475862720-10633749411785605120-
 http://aldirect.rtmp.huya.com/huyalive/94525224-2604793662-11187503591118077952-3048991612-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29106097-2747014526-11798337550806941696-3048991670-10057-A-0-1/20200305171226.jpg" group-title="④📡电视剧Series-现代-轮播",血色浪漫
 http://aldirect.rtmp.huya.com/src/29106097-2747014526-11798337550806941696-3048991670-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1/20200320120151.jpg" group-title="④📡电视剧Series-现代-轮播",【奋斗】马伊琍文章李小璐青涩之作
+http://aldirect.rtmp.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-0-1/20200302221937.jpg" group-title="④📡电视剧Series-现代-轮播",【征服】
 http://aldirect.rtmp.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="④📡电视剧Series-现代-轮播",情深深雨蒙蒙
 http://aldirect.rtmp.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="④📡电视剧Series-现代-轮播",一起来看流星雨
 http://aldirect.flv.huya.com/huyalive/94525224-2744288080-11786627554402631680-3048959678-10057-A-0-1.m3u8?wsSecret=48be5c8c591abd61dce4f469805e7149&wsTime=5e1984d6&txyp=o:q6;&fs=bgct
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1/20200320120231.jpg" group-title="④📡电视剧Series-现代-轮播",【蜜汁炖鱿鱼】小鱿鱼与gan神的甜蜜爱情
+http://aldirect.rtmp.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="④📡电视剧Series-现代-轮播",一仆二主
 http://aldirect.flv.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8?wsSecret=99a13369f1a3014b662ac70e75926a21&wsTime=5e198632&txyp=o:q5;&fs=bgct
 #EXTINF:-1 group-title="④📡电视剧Series-现代-轮播",王子变青蛙
@@ -815,12 +819,20 @@ http://47.240.60.73/migu.php?id=625521420
 https://aldirect.rtmp.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="④📡电视剧Series-古装-轮播",步步惊心
 http://aldirect.rtmp.huya.com/huyalive/29169025-2686221544-11537233681290625024-2847687612-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/28466698-2689664584-11552021425489444864-3049003112-10057-A-0-1/20200320120129.jpg" group-title="④📡电视剧Series-古装-轮播",知否知否应是绿肥红瘦
+http://aldirect.rtmp.huya.com/backsrc/28466698-2689664584-11552021425489444864-3049003112-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2484192604-10669525991145078784-3049003162-10057-A-0-1/20200320120247.jpg" group-title="④📡电视剧Series-古装-轮播",三生三世十里桃花
+http://aldirect.rtmp.huya.com/huyalive/30765679-2484192604-10669525991145078784-3049003162-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29141112-2689671100-11552049411496345600-3048959608-10057-A-0-1/20200320120235.jpg" group-title="④📡电视剧Series-古装-轮播",笑傲江湖【霍建华陈乔恩】令狐冲&amp;东方不败
+http://aldirect.rtmp.huya.com/huyalive/29141112-2689671100-11552049411496345600-3048959608-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29106097-2689451738-11551107258880360448-2789274592-10057-A-0-1/20200224160146.jpg" group-title="④📡电视剧Series-古装-轮播",神雕侠侣古天乐版
 http://aldirect.rtmp.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29106097-2689451738-11551107258880360448-2789274592-10057-A-0-1/20200224160146.jpg" group-title="④📡电视剧Series-古装-轮播",射雕英雄传[1280*720]
 http://v.iam7.cn/iptv/migu/?id=625681367
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29106097-2689451738-11551107258880360448-2789274592-10057-A-0-1/20200224160146.jpg" group-title="④📡电视剧Series-古装-轮播",【射雕英雄传朱茵版】
 http://aldirect.rtmp.huya.com/huyalive/29106097-2689451738-11551107258880360448-2789274592-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29359996-2689638862-11551910950340657152-2847687568-10057-A-0-1/20200320120233.jpg" group-title="④📡电视剧Series-古装-轮播",【香蜜沉沉】杨紫 邓伦 罗云熙
+http://aldirect.rtmp.huya.com/backsrc/29359996-2689638862-11551910950340657152-2847687568-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1/20200224160255.jpg" group-title="④📡电视剧Series-古装-轮播",神探狄仁杰A
 http://aldirect.rtmp.huya.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/28466698-2689651522-11551965324626624512-2847699166-10057-A-0-1/20200224160255.jpg" group-title="④📡电视剧Series-古装-轮播",神探狄仁杰B
@@ -873,6 +885,8 @@ http://aldirect.rtmp.huya.com/huyalive/29141112-2691519968-11559990239090966528-
 http://aldirect.rtmp.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="④📡电视剧Series-古装-轮播",楚汉传奇
 http://aldirect.rtmp.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2479065308-10647504422508167168-2847699154-10057-A-0-1/20200320120234.jpg" group-title="④📡电视剧Series-古装-轮播",【汉武大帝】国号成了一个民族永远的名字
+http://aldirect.rtmp.huya.com/huyalive/30765679-2479065308-10647504422508167168-2847699154-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="④📡电视剧Series-古装-轮播",风云
 http://aldirect.rtmp.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1.m3u8
 #EXTINF:-1 group-title="④📡电视剧Series-古装-轮播",八大豪侠
@@ -931,6 +945,8 @@ http://aldirect.rtmp.huya.com/huyalive/29359996-2689475864-11551210879261343744-
 http://aldirect.flv.huya.com/huyalive/29169025-2686221544-11537233681290625024-2847687612-10057-A-0-1.m3u8?wsSecret=1056275f9752e5a23ce5db36579d301b&wsTime=5e23f388&txyp=o:q6;&fs=bgct
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1/20200224160200.jpg" group-title="⑤📡喜剧综艺Comedy-喜剧",生活大爆炸
 https://aldirect.rtmp.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1/20200320120053.jpg" group-title="⑤📡喜剧综艺Comedy-喜剧",笑傲帮
+http://aldirect.rtmp.huya.com/backsrc/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑤📡喜剧综艺Comedy-喜剧",春晚相声
 http://aldirect.flv.huya.com/backsrc/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8?wsSecret=e0a67cbc87dee1a181dca3c2feb5d15e&wsTime=5e23f73b&txyp=o:q5;&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&ratio=500
 #EXTINF:-1 group-title="⑤📡喜剧综艺Comedy-喜剧",爆笑精选
@@ -1009,6 +1025,8 @@ http://47.240.60.73/aqy.php?id=3801893
 http://aldirect.flv.huya.com/huyalive/57834294-57834294-248396401317249024-3195292260-10057-A-0-1.m3u8?wsSecret=159f5999333520ef4afcf38357f0f6e7&wsTime=5e198a10&fs=bgct
 #EXTINF:-1 group-title="⑤📡喜剧综艺Comedy-综艺",台湾偶像剧
 http://aldirect.flv.huya.com/huyalive/94525224-2469517548-10606497105558110208-2847699176-10057-A-0-1.m3u8?wsSecret=97603df92f33bee5e800ed0f274b5c34&wsTime=5e1985eb&txyp=o:q5;&fs=bgct
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1/20200320120104.jpg" group-title="⑤📡喜剧综艺Comedy-综艺",沈腾贾玲黄渤综艺大pk
+http://aldirect.rtmp.huya.com/huyalive/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑤📡喜剧综艺Comedy-综艺",卫视东方
 http://47.240.60.73/aqy.php?id=3801653
 #EXTINF:-1 group-title="⑤📡喜剧综艺Comedy-综艺",我是歌手
@@ -1061,8 +1079,12 @@ http://47.240.60.73/migu.php?id=659315648
 http://47.240.60.73/migu.php?id=627198610#http://v.iam7.cn/iptv/migu/?id=627198610
 #EXTINF:-1 group-title="⑥📡明星 影集Star",刘涛作品集[1280*720]
 http://v.iam7.cn/iptv/migu/?id=625514969
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1448686620-1448686620-6222061655052779520-2789253878-10057-A-0-1/20200320120134.jpg" group-title="⑥📡明星 影集Star",【释小龙臭屁文】卖萌闯天下
+http://aldirect.rtmp.huya.com/src/1448686620-1448686620-6222061655052779520-2789253878-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583148175236&di=bbc18d18cc4a77a674e35e7772d1ce4f&imgtype=0&src=http%3A%2F%2Fh.hiphotos.baidu.com%2Fzhidao%2Fwh%3D450%2C600%2Fsign%3D24d8a74b8c44ebf86d246c3becc9fb1c%2F8b82b9014a90f6033c35020f3212b31bb151edf5.jpg" group-title="⑥📡明星 影集Star",沈腾
 http://aldirect.rtmp.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29141112-2689676026-11552070568505245696-2847699238-10057-A-0-1/20200320120054.jpg" group-title="⑥📡明星 影集Star",【任达华系列】大佬抽雪茄
+http://aldirect.rtmp.huya.com/huyalive/29141112-2689676026-11552070568505245696-2847699238-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583147606359&di=03b64510efbe423b94faf636853617fa&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fw%3D580%2Fsign%3D5dbf4abab41c8701d6b6b2ee177e9e6e%2F086c9af40ad162d9811f964216dfa9ec8b13cd64.jpg" group-title="⑥📡明星 影集Star",黄渤
 http://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e5cc16298271cb2b8a7e4bc.png" group-title="⑥📡明星 影集Star",徐峥
@@ -1077,6 +1099,8 @@ https://aldirect.rtmp.huya.com/huyalive/29169025-2686219938-11537226783573147648
 http://47.240.60.73/migu.php?id=659315456
 #EXTINF:-1 group-title="⑥📡明星 影集Star",风云/高圆圆作品集
 http://47.240.60.73/migu.php?id=617432495
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29141112-2689675788-11552069546303029248-2847687634-10057-A-0-1/20200320120131.jpg" group-title="⑥📡明星 影集Star",梁家辉&张家辉
+http://aldirect.rtmp.huya.com/huyalive/29141112-2689675788-11552069546303029248-2847687634-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑥📡明星 影集Star",胡歌
 http://47.240.60.73/aqy.php?id=3807164
 #EXTINF:-1 group-title="⑥📡明星 影集Star",王凯
@@ -1151,6 +1175,8 @@ http://47.240.60.73/migu.php?id=627198191
 http://aldirect.rtmp.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1/20200305170959.jpg" group-title="⑦📡Genre-主题",臥底警匪
 http://aldirect.rtmp.huya.com/huyalive/29169025-2686220598-11537229618251563008-2847687556-10057-A-1524043048-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2475807952-10633514185016737792-3048959672-10057-A-0-1/20200320120210.jpg" group-title="⑦📡Genre-主题",雷霆扫毒专项行动
+http://aldirect.rtmp.huya.com/huyalive/30765679-2475807952-10633514185016737792-3048959672-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑦📡Genre-主题",赌片
 http://aldirect.rtmp.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1420752082-1420752082-6102083727913910272-3049003134-10057-A-0-1/20200302221707.jpg" group-title="⑦📡Genre-主题",红色经典
@@ -1165,6 +1191,8 @@ http://aldirect.rtmp.huya.com/huyalive/29106097-2689451738-11551107258880360448-
 http://47.240.60.73/migu.php?id=625525181
 #EXTINF:-1 group-title="⑦📡Genre-主题",盗墓探险
 http://aldirect.rtmp.huya.com/huyalive/29169025-2686221436-11537233217434157056-2847699210-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1/20200320120156.jpg" group-title="⑦📡Genre-主题",【盗墓】木乃伊？没在怕的
+http://aldirect.rtmp.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
 #EXTINF:-1 group-title="⑦📡Genre-主题",电影-盗墓
 https://aldirect.rtmp.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="⑦📡Genre-主题",盗墓
@@ -1189,6 +1217,8 @@ https://aldirect.rtmp.huya.com/huyalive/29359996-2689645314-11551938661469650944
 http://47.240.60.73/migu.php?id=625774640#http://v.iam7.cn/iptv/migu/?id=625774640
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29169025-2686220986-11537231284698873856-2847687616-10057-A-0-1/20200224160214.jpg" group-title="⑦📡Genre-系列",【霸王花+皇家师姐】
 http://aldirect.rtmp.huya.com/huyalive/29169025-2686220986-11537231284698873856-2847687616-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1/20200320120145.jpg" group-title="⑦📡Genre-系列",陆小凤x花满楼·推理破案系列
+http://aldirect.rtmp.huya.com/backsrc/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑦📡Genre-系列",哈利波特
 http://aldirect.flv.huya.com/huyalive/1448731738-1448731738-6222255435387240448-2847687610-10057-A-0-1.m3u8?wsSecret=9e467a2afe142db2e7d5aa4b6b2cdbea&wsTime=5e198690&txyp=o:q5;&fs=bgct
 #EXTINF:-1 group-title="⑦📡Genre-系列",聊斋志异
@@ -1419,6 +1449,22 @@ http://aldirect.rtmp.huya.com/huyalive/94525224-2705821608-11621415315170131968-
 http://aldirect.rtmp.huya.com/backsrc/28466698-2689661800-11552009468300492800-3048991590-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1421220430-1421220430-6104095267257057280-2847687666-10057-A-0-1/20200320115845.jpg" group-title="⑨📀剧场-解说",在春天：名导畅议导演“复工”计划
 http://aldirect.rtmp.huya.com/src/1421220430-1421220430-6104095267257057280-2847687666-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1/20200320120235.jpg" group-title="⑨📀剧场-解说",粑粑帮你搓丸子！——火影忍者博人传剧场版
+http://aldirect.rtmp.huya.com/huyalive/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1/20200320120139.jpg" group-title="⑨📀剧场-解说",【科幻5分钟】用心讲好每一个科幻故事！
+http://aldirect.rtmp.huya.com/backsrc/94525224-2682536056-11521404630860824576-3512313440-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1/20200320120201.jpg" group-title="⑨📀剧场-解说",电影最TOP 127: 有一种电影，叫银河映像（独家全盘点）
+http://aldirect.rtmp.huya.com/huyalive/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1444492216-1444492216-6204046827046567936-4666044768-10057-A-0-1/20200320120250.jpg" group-title="⑨📀剧场-解说",恐怖片：一群人扮鬼吓新招的保安，谁知不知情的保安掏出了枪
+http://aldirect.rtmp.huya.com/huyalive/1444492216-1444492216-6204046827046567936-4666044768-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2499070088-10733424298371842048-2789274548-10057-A-0-1/20200320120149.jpg" group-title="⑨📀剧场-解说",【港产搞笑】有内味了
+http://aldirect.rtmp.huya.com/backsrc/30765679-2499070088-10733424298371842048-2789274548-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2711961022-11647783897516736512-3195245956-10057-A-0-1/20200320120044.jpg" group-title="⑨📀剧场-解说",胖子想进魔法箱，结果被卡住了，这辈子注定是只麻鸡
+http://aldirect.rtmp.huya.com/huyalive/94525224-2711961022-11647783897516736512-3195245956-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2699462070-11594101307442462720-2966491422-10057-A-0-1/20200320115852.jpg" group-title="⑨📀剧场-解说",一家人出游被困荒岛，渔民趁机勒索百万赎金
+http://aldirect.rtmp.huya.com/huyalive/94525224-2699462070-11594101307442462720-2966491422-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1/20200320120222.jpg" group-title="⑨📀剧场-解说",《超验骇客》！德普变身超级电脑拯救地球
+http://aldirect.rtmp.huya.com/huyalive/94525224-2705821608-11621415315170131968-986759016-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑩📡爱奇艺@影集",爱奇艺-重磅综艺
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_rebozongyi_1080p_t10/c15_lb_rebozongyi_1080p_t10.m3u8
 #EXTINF:-1 group-title="⑩📡爱奇艺@影集",爱奇艺-家庭剧场
