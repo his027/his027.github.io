@@ -155,12 +155,18 @@ http://123.56.16.201:1935/live/fm994/96K/tzwj_video.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-1
 http://iptv.pdsu.edu.cn/hls/cetv1.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8#http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8#http://player.paymigu.com/migu.php?id=649531772
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-1
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-1 HD
 http://player.paymigu.com/migu.php?id=649531734
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-2
 http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8#http://player.paymigu.com/migu.php?id=649532169#http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-2
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-3
 http://iptv.pdsu.edu.cn/hls/cetv3.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8#http://player.paymigu.com/migu.php?id=649531756
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-3
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
 #EXTINF:-1 tvg-id="76" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-4
 http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8#http://player.paymigu.com/migu.php?id=649531725
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-儿歌",山东教育卫视
@@ -317,6 +323,24 @@ http://112.17.40.140/PLTV/88888888/224/3221226172/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",北京卡酷
 http://112.17.40.140/PLTV/88888888/224/3221226184/index.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",北京少儿【00:00】
+http://ivi.bupt.edu.cn/hls/btv10.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="②📺少儿益智💯‍‍教育台-动漫",卡酷少儿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="②📺少儿益智💯‍‍教育台-动漫",卡酷少儿
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",动漫电影
+http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",云南少儿
+http://edge2.yntv.cn/channels/yntv/ynse/flv:sd/live
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",重庆少儿
+http://219.153.252.50/PLTV/88888888/224/3221225646/1.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",广东少儿
+http://nclive.grtn.cn/tvs5/sd/live.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",FZTV少儿
+http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",哈哈卡通
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="②📺少儿益智💯‍‍教育台-动漫",金鹰卡通
 http://112.17.40.140/PLTV/88888888/224/3221226190/index.m3u8
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",嘉佳卡通
@@ -325,6 +349,8 @@ http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226745/index.m3u8#http://101.71.255.229:6610/zjhs/2/10051/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="62" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="②📺少儿益智💯‍‍教育台-动漫",哈哈炫动
 http://47.240.60.73/migu.php?id=651638619
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xuandong.png" group-title="②📺少儿益智💯‍‍教育台-动漫",哈哈炫动
+http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
 #EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="②📺少儿益智💯‍‍教育台-动漫",优优宝贝
 http://112.17.40.140/PLTV/88888888/224/3221226829/index.m3u8
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",动画
@@ -973,6 +999,8 @@ http://47.240.60.73/aqy.php?id=3801919
 http://47.240.60.73/aqy.php?id=3801155
 #EXTINF:-1 group-title="⑤📡喜剧综艺Comedy-综艺",金牌调解
 http://47.240.60.73/aqy.php?id=4013113
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="⑤📡喜剧综艺Comedy-综艺",欢笑剧场蓝光
+http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
 #EXTINF:-1 group-title="⑤📡喜剧综艺Comedy-综艺",第三调解室
 http://47.240.60.73/aqy.php?id=3807226
 #EXTINF:-1 group-title="⑤📡喜剧综艺Comedy-综艺",经典纪实
@@ -1013,27 +1041,27 @@ http://aldirect.rtmp.huya.com/huyalive/94525224-2469517548-10606497105558110208-
 http://aldirect.rtmp.huya.com/huyalive/94525224-2469517548-10606497105558110208-2847699176-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑤📡喜剧综艺Comedy-综艺",导演我太难了
 http://aldirect.rtmp.huya.com/backsrc/1099531740256-1099531740256-86382443841454080-2199063603968-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1/20200302221950.jpg" group-title="⑥📡明星 影集Star",电影-周星驰
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1/20200302221950.jpg" group-title="⑥📡明星 影集Star",周星驰
 https://aldirect.rtmp.huya.com/backsrc/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e5cc1d198271cb2b8a81e00.png" group-title="⑥📡明星 影集Star",周星驰作品集
 http://47.240.60.73/migu.php?id=623338112#http://v.iam7.cn/iptv/migu/?id=623338112
-#EXTINF:-1 group-title="⑥📡明星 影集Star",电影-林正英
+#EXTINF:-1 group-title="⑥📡明星 影集Star",林正英
 https://aldirect.rtmp.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e5dd6a898271cb2b8103f1b.png" group-title="⑥📡明星 影集Star",电影-李连杰
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e5dd6a898271cb2b8103f1b.png" group-title="⑥📡明星 影集Star",李连杰
 https://aldirect.rtmp.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1/20200302221851.jpg" group-title="⑥📡明星 影集Star",电影-成龙
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1/20200302221851.jpg" group-title="⑥📡明星 影集Star",成龙
 http://aldirect.rtmp.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e5cc24198271cb2b8a84cc9.png" group-title="⑥📡明星 影集Star",成龙作品集
 http://47.240.60.73/migu.php?id=639528181#http://v.iam7.cn/iptv/migu/?id=639528181
-#EXTINF:-1 group-title="⑥📡明星 影集Star",电影-黄渤
+#EXTINF:-1 group-title="⑥📡明星 影集Star",黄渤
 https://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1/20200302221923.jpg" group-title="⑥📡明星 影集Star",电影-吴京
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1/20200302221923.jpg" group-title="⑥📡明星 影集Star",吴京
 https://aldirect.rtmp.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e5cc16298271cb2b8a7e4b7.png" group-title="⑥📡明星 影集Star",吴京作品集
 http://47.240.60.73/migu.php?id=625681368#http://v.iam7.cn/iptv/migu/?id=625681368
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1/20200224160321.jpg" group-title="⑥📡明星 影集Star",电影-周润发
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1/20200224160321.jpg" group-title="⑥📡明星 影集Star",周润发
 https://aldirect.rtmp.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1/20200305171321.jpg" group-title="⑥📡明星 影集Star",电影-刘德华
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1/20200305171321.jpg" group-title="⑥📡明星 影集Star",刘德华
 https://aldirect.rtmp.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
 #EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e5cc16298271cb2b8a7e4b4.png" group-title="⑥📡明星 影集Star",刘德华作品集
 http://47.240.60.73/migu.php?id=659315648
@@ -1043,11 +1071,13 @@ http://47.240.60.73/migu.php?id=627198610#http://v.iam7.cn/iptv/migu/?id=6271986
 http://aldirect.rtmp.huya.com/backsrc/1448731738-1448731738-6222255435387240448-2847687610-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑥📡明星 影集Star",刘涛作品集[1280*720]
 http://v.iam7.cn/iptv/migu/?id=625514969
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1448686620-1448686620-6222061655052779520-2789253878-10057-A-0-1/20200320120134.jpg" group-title="⑥📡明星 影集Star",【释小龙臭屁文】卖萌闯天下
+#EXTINF:-1 group-title="⑥📡明星 影集Star",刘   涛
+http://aldirect.rtmp.huya.com/src/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1448686620-1448686620-6222061655052779520-2789253878-10057-A-0-1/20200320120134.jpg" group-title="⑥📡明星 影集Star",释小龙
 http://aldirect.rtmp.huya.com/src/1448686620-1448686620-6222061655052779520-2789253878-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583148175236&di=bbc18d18cc4a77a674e35e7772d1ce4f&imgtype=0&src=http%3A%2F%2Fh.hiphotos.baidu.com%2Fzhidao%2Fwh%3D450%2C600%2Fsign%3D24d8a74b8c44ebf86d246c3becc9fb1c%2F8b82b9014a90f6033c35020f3212b31bb151edf5.jpg" group-title="⑥📡明星 影集Star",沈腾
 http://aldirect.rtmp.huya.com/huyalive/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29141112-2689676026-11552070568505245696-2847699238-10057-A-0-1/20200320120054.jpg" group-title="⑥📡明星 影集Star",【任达华系列】大佬抽雪茄
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29141112-2689676026-11552070568505245696-2847699238-10057-A-0-1/20200320120054.jpg" group-title="⑥📡明星 影集Star",任达华系列
 http://aldirect.rtmp.huya.com/huyalive/29141112-2689676026-11552070568505245696-2847699238-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1583147606359&di=03b64510efbe423b94faf636853617fa&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fw%3D580%2Fsign%3D5dbf4abab41c8701d6b6b2ee177e9e6e%2F086c9af40ad162d9811f964216dfa9ec8b13cd64.jpg" group-title="⑥📡明星 影集Star",黄渤
 http://aldirect.rtmp.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
@@ -1065,6 +1095,34 @@ http://47.240.60.73/migu.php?id=659315456
 http://47.240.60.73/migu.php?id=617432495
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/29141112-2689675788-11552069546303029248-2847687634-10057-A-0-1/20200320120131.jpg" group-title="⑥📡明星 影集Star",梁家辉&张家辉
 http://aldirect.rtmp.huya.com/huyalive/29141112-2689675788-11552069546303029248-2847687634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",王   晶
+http://aldirect.rtmp.huya.com/huyalive/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",胡   军
+http://aldirect.rtmp.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",唐国强
+http://aldirect.rtmp.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",陈道明
+http://aldirect.rtmp.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",苏有朋
+http://aldirect.rtmp.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",张卫健
+http://aldirect.rtmp.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",陈小春
+http://aldirect.rtmp.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",黄百鸣
+http://aldirect.rtmp.huya.com/huyalive/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",古天乐
+http://aldirect.rtmp.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",郑伊健
+http://aldirect.rtmp.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",陈浩民
+http://aldirect.rtmp.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",李云龙
+http://aldirect.rtmp.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",易中天
+http://aldirect.rtmp.huya.com/backsrc/28466698-2689661800-11552009468300492800-3048991590-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑥📡明星 影集Star",吴亦凡
+http://aldirect.rtmp.huya.com/huyalive/29359996-2689638862-11551910950340657152-2847687568-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑥📡明星 影集Star",胡歌
 http://47.240.60.73/aqy.php?id=3807164
 #EXTINF:-1 group-title="⑥📡明星 影集Star",靳东
@@ -1263,6 +1321,16 @@ http://aldirect.rtmp.huya.com/huyalive/1299518216864-1299518216864-1047153172683
 http://47.240.60.73/migu.php?id=631095330
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",求索纪录
 http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000144
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",求索纪录
+http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",求索科学
+http://125.210.152.18:9090/live/QSKX_1200.m3u8
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",求索动物
+http://125.210.152.18:9090/live/QSDW_1200.m3u8
+#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",求索生活
+http://125.210.152.18:9090/live/QSSH_1200.m3u8
+#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",动物世界
+http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",自然地理
 http://47.240.60.73/aqy.php?id=3801158
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",Discovery王牌节目展播
@@ -1291,6 +1359,8 @@ http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738
 http://47.240.60.73/aqy.php?id=3801160
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",高清娱乐
 http://47.240.60.73/migu.php?id=615809851
+#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",广州时尚周
+http://hls-ott-zhibo.wasu.tv/live/303/index.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",生活时尚
 http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000141
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",科学探索
@@ -1323,6 +1393,16 @@ http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fe
 http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
 #EXTINF:-1 group-title="⑨📀剧场-影集",黑莓动画
 http://112.17.40.145/PLTV/88888888/224/3221226654/index.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",峨眉电影蓝光
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",动漫秀场蓝光
+http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",黑莓动画蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",黑莓电竞蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",黑莓电影蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 #EXTINF:-1 group-title="⑨📀剧场-影集",家庭剧场
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
 #EXTINF:-1 group-title="⑨📀剧场-影集",家庭影院
@@ -1357,10 +1437,22 @@ http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 http://baiducdnct.inter.ptqy.gitv.tv/tslive/c19_lb_jingdianguangpian_720p_t10/c19_lb_jingdianguangpian_720p_t10.m3u8
 #EXTINF:-1 group-title="⑨📀剧场-影集",【经典影院】
 http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
-#EXTINF:-1 group-title="⑨📀剧场-影集",海爷TV3
-https://cn-zjwz-dx-live-03.live-play.acgvideo.com/live-bvc/603598/live_268522326_2538218_1500.m3u8
 #EXTINF:-1 group-title="⑨📀剧场-影集",海爷TV1
 https://cn-jsnt-dx-live-05.live-play.acgvideo.com/live-bvc/315078/live_52370715_1734265_1500.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",海爷TV 2号厅
+https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_52370715_1734265.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",海爷TV3
+https://cn-zjwz-dx-live-03.live-play.acgvideo.com/live-bvc/603598/live_268522326_2538218_1500.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",海爷TV 4号厅
+https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_189986442_7728008.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",海爷TV 6号厅
+https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_255137759_7132099.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",海爷TV 7号厅
+https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_261831479_8429255.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",海爷TV 8号厅
+https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_280698572_9101071.m3u8
+#EXTINF:-1 group-title="⑨📀剧场-影集",海爷TV 9号厅
+https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_82436982_2406441.m3u8
 #EXTINF:-1 group-title="⑨📀剧场-影集",邵氏电影
 https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="⑨📀剧场-影集",湖南潇湘电影HD
@@ -1969,6 +2061,52 @@ http://121.31.30.91:8081/ysten-business/live/jingpinjl/1.m3u8
 http://121.31.30.91:8081/ysten-business/live/junshipl/1.m3u8
 #EXTINF:-1 group-title="⑭📡NewTV@影集",农业致富
 http://121.31.30.91:8081/ysten-business/live/nongyezf/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",超级电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",超级综艺
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",超级体育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",超级剧集
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",中国功夫
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",金牌综艺
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",农业致富
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",潮妈辣婆
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",炫舞未来
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",明星大片
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",自由搏击
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",海外综合
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",惊梀悬疑
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",爱情喜剧
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",精品记录
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",精品体育
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",精品大剧
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",古装剧场
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",军旅剧场
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",军事评论
+http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",健康有约
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",家庭剧场
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+#EXTINF:-1 group-title="⑭📡NewTV@影集-高清",动作电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
 #EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="⑮📡IHOT@影集",IHOT爱历史
 http://101.71.255.229:6610/zjhs/2/10120/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230100/01.m3u8
 #EXTINF:-1 group-title="⑮📡IHOT@影集",IHOT爱影院
@@ -2019,6 +2157,30 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/01.m3u8
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/01.m3u8
 #EXTINF:-1 group-title="⑮📡IHOT@影集",IHOT爱猎奇
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/01.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱青春
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱家庭
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/index.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱探索
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230112/index.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱科学
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230106/index.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱猎奇
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230097/index.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱谍战
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱娱乐
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230077/index.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱旅行
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230052/index.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱怀旧
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/index.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱体育
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230034/index.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱赛车
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
+#EXTINF:-1 group-title="⑮📡IHOT@影集",爱浪漫
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="⑯📺IPTV剧场-A",IPTV5+
 http://117.156.28.119/270000001111/1110000054/index.m3u8
 #EXTINF:-1 tvg-id="96" tvg-name="IPTV8+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV8+.png" group-title="⑯📺IPTV剧场-A",IPTV8+
@@ -2107,10 +2269,46 @@ http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8
 #EXTINF:-1 group-title="⑯📺IPTV剧场-B",CHC动作电影262
 http://117.156.28.57/PLTV/88888888/224/3221225847/1.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视1台
+http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视2台
+http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视3台
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视4台
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视5台
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视6台
+http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视7台
+http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视8台
+http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视9台
+http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视10台
+http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视11台
+http://stream.guihet.com/migu/index.php?id=625542369
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视12台
+http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",00蓝光动画13台
+http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",00蓝光动画14台
+http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",00蓝光动漫15台
+http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场-B",蓝光影视16台
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",一起学健身
 http://aldirect.rtmp.huya.com/huyalive/1199526253101-1199526253101-5284431197248684032-2399052629658-10057-A-0-1.m3u8?wsSecret=2db11f89a10fe06e30fab33661fc0183&wsTime=5e23f413&fs=bgct&ratio=2500
 #EXTINF:-1 tvg-id="17" tvg-name="Olympic Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="⑰⚽体育健康🏋️",Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-id="17" group-title="⑰⚽体育健康🏋️",奥林匹克高清
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="17" group-title="⑰⚽体育健康🏋️",奥铃匹克蓝光
+http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",武林风
 http://aldirect.rtmp.huya.com/huyalive/1099531627794-1099531627794-85899423229411328-2199063379044-10057-A-0-1.m3u8?wsSecret=631d1923cb525ff4f348fef2d5639cb6&wsTime=5e23f557&txyp=o:q5;&fs=bgct&ratio=2500
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",中二 赛车
@@ -2131,6 +2329,8 @@ http://112.17.40.140/PLTV/88888888/224/3221226724/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226726/index.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="⑰⚽体育健康🏋️",北京纪实
 http://112.17.40.140/PLTV/88888888/224/3221226746/index.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="⑰⚽体育健康🏋️",极速汽车蓝光
+http://112.50.243.8/PLTV/88888888/224/3221226140/1.m3u8
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",劲爆体育
 http://111.20.33.69/PLTV/88888888/224/3221225648/index.m3u8
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",劲爆体育
@@ -2359,376 +2559,512 @@ http://cn1.kankia.com/hls/20191220/bd636dc3c84dfbb218639f91199fabba/1576776144/i
 http://cn1.kankia.com/hls/20191220/c046cf9b2ab8e24014fb66256c8a1486/1576775998/index.m3u8
 #EXTINF:-1 group-title="⑱📀单剧@【庆余年】",第46集
 http://cn1.kankia.com/hls/20191220/596ff11e1db2c3969da01367fc41d3b0/1576776716/index.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",全国风景总览
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",美丽中国-虎牙
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",美丽中国-虎牙
 http://aldirect.rtmp.huya.com/huyalive/1199524471627-1199524471627-5276779824680009728-2399049066710-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",直播中国精编直播
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",直播中国精编直播
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",景区|精编直播中国
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",景区|精编直播中国
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001&_res_tag_=video
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",乌镇-乌镇全景
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",乌镇-乌镇全景
 http://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",乌镇-蓝印花布
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",乌镇-蓝印花布
 http://gcalic.v.myalicdn.com/gc/zjwzlyhb_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",乌镇-龙形田
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",乌镇-龙形田
 http://gctxyc.liveplay.myqcloud.com/gc/zjwzlxt_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",乌镇-西市河
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",乌镇-西市河
 http://gccncc.v.wscdns.com/gc/zjwzbblh_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",乌镇-白莲塔
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",乌镇-白莲塔
 http://gcalic.v.myalicdn.com/gc/zjwzblt_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",丹霞山-丹梯铁锁
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",丹霞山-丹梯铁锁
 http://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",深圳世界之窗
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",深圳世界之窗
 http://gcbsc.v.live.baishancdnx.cn/gc/sjzc01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",海上观音
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",海上观音
 http://gctxyc.liveplay.myqcloud.com/gc/syns01_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",玉龙雪山
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",玉龙雪山
 http://gctxyc.liveplay.myqcloud.com/gc/ylxs11_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",丽江-大研花巷观景
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",丽江-大研花巷观景
 http://gcksc.v.kcdnvip.com/gc/ljgcdyhxgjt_1/index.m3u8?BR=md&region=shanghai
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",丽江-大水车
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",丽江-大水车
 http://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",丽江-万古楼遥望玉龙雪山
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",丽江-万古楼遥望玉龙雪山
 http://gctxyc.liveplay.myqcloud.com/gc/ljgcwglytylxs_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",丽江-狮子山鸟瞰丽江古城
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",丽江-狮子山鸟瞰丽江古城
 http://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",杭州千岛湖
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",杭州千岛湖
 http://gcbsc.v.live.baishancdnx.cn/gc/caqdh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",杭州云栖小镇
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",杭州云栖小镇
 http://gcksc.v.kcdnvip.com/gc/wygjt2_1/index.m3u8?BR=md&region=shanghai
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",桂林漓江景区
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",桂林漓江景区
 http://gcbsc.v.live.baishancdnx.cn/gc/gllj01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",仙都风景区
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",仙都风景区
 http://gccncc.v.wscdns.com/gc/xdfjq01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",宁夏黄河大峡谷
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",宁夏黄河大峡谷
 http://gcdnc.v.dwion.com/gc/hhdxg01_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",少林寺广场
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",少林寺广场
 http://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",金丝猴01
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",金丝猴01
 http://gccncc.v.wscdns.com/gc/jshhd01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",多依树景点
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",多依树景点
 http://gcbsc.v.live.baishancdnx.cn/gc/hnttdysjd_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",武夷山玉女峰
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",武夷山玉女峰
 http://gccncc.v.wscdns.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",天山（海西平台）
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",天山（海西平台）
 http://gcalic.v.myalicdn.com/gc/xjtchxpt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",南京玄武湖公园
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",南京玄武湖公园
 http://gccncc.v.wscdns.com/gc/xwh01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",黄河漂流
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",黄河漂流
 http://gcbsc.v.live.baishancdnx.cn/gc/nxspthhpl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",四姑娘山幺妹峰
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",四姑娘山幺妹峰
 http://gcbsc.v.live.baishancdnx.cn/gc/sgns01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",四川黄龙-五彩池
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",四川黄龙-五彩池
 http://gcksc.v.kcdnvip.com/gc/hlwcc_1/index.m3u8?BR=md&region=shanghai
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",四川黄龙-黄龙
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",四川黄龙-黄龙
 http://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",四川黄龙-望乡台
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",四川黄龙-望乡台
 http://gcksc.v.kcdnvip.com/gc/hlwxt_1/index.m3u8?BR=md&region=shanghai
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",四川黄龙-洗身洞
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",四川黄龙-洗身洞
 http://gccncc.v.wscdns.com/gc/hlxsd_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",凤凰古城-南华山
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",凤凰古城-南华山
 http://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",凤凰古城-东关门
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",凤凰古城-东关门
 http://gctxyc.liveplay.myqcloud.com/gc/fhgcdgm_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",湘西十八洞村
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",湘西十八洞村
 http://gcbsc.v.live.baishancdnx.cn/gc/sbd01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",江西龙虎山-中间水泡
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",江西龙虎山-中间水泡
 http://gctxyc.liveplay.myqcloud.com/gc/lhszjsp_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",江西龙虎山-山涧栈道
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",江西龙虎山-山涧栈道
 http://gcksc.v.kcdnvip.com/gc/lhssjzd_1/index.m3u8?BR=md&region=shanghai
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",婺源01
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",婺源01
 http://gctxyc.liveplay.myqcloud.com/gc/wygjt1_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",云台山-小寨沟
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",云台山-小寨沟
 http://gctxyc.liveplay.myqcloud.com/gc/ytsxzg_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",云台山-百家岩
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",云台山-百家岩
 http://gcbsc.v.live.baishancdnx.cn/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",云台山-红石峡
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",云台山-红石峡
 http://gcbsc.v.live.baishancdnx.cn/gc/ytshsx_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",牡丹江雪乡-梦幻家园
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",牡丹江雪乡-梦幻家园
 http://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",牡丹江雪乡-观景台
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",牡丹江雪乡-观景台
 http://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjygjt_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",牡丹江雪乡-大石碑
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",牡丹江雪乡-大石碑
 http://gctxyc.liveplay.myqcloud.com/gc/mdjxxdsb_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",厦门鼓浪屿
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",厦门鼓浪屿
 http://gctxyc.liveplay.myqcloud.com/gc/gly01_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",玉林山莲花
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",玉林山莲花
 http://gcksc.v.kcdnvip.com/gc/drs01_1/index.m3u8?BR=md&region=shanghai
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",云台山-云梦仙顶
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",云台山-云梦仙顶
 http://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",云台山-天空步道
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",云台山-天空步道
 http://gcdnc.v.dwion.com/gc/tms02_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",云台山-天门洞
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",云台山-天门洞
 http://gcdnc.v.dwion.com/gc/tmstmd01_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",云台山-西线玻璃栈道
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",云台山-西线玻璃栈道
 http://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",新疆天山-海西平台
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",新疆天山-海西平台
 http://gctxyc.liveplay.myqcloud.com/gc/xjtchxpt_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",新疆天山-定海神针
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",新疆天山-定海神针
 http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",新疆天山-马牙山
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",新疆天山-马牙山
 http://gctxyc.liveplay.myqcloud.com/gc/xjtcmys_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",国家游泳中心（水立方）
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",国家游泳中心（水立方）
 http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",峨眉山-云海日出
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",峨眉山-云海日出
 http://gcksc.v.kcdnvip.com/gc/emsarm_1/index.m3u8?BR=md&region=shanghai
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",峨眉山-远眺贡嘎雪山
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",峨眉山-远眺贡嘎雪山
 http://gctxyc.liveplay.myqcloud.com/gc/emsyh_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",峨眉山-普贤菩萨铜像
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",峨眉山-普贤菩萨铜像
 http://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",峨眉山-远眺万佛顶
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",峨眉山-远眺万佛顶
 http://gcbsc.v.live.baishancdnx.cn/gc/emswfs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",张家界-阿凡达悬浮山
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",张家界-阿凡达悬浮山
 http://gcbsc.v.live.baishancdnx.cn/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",张家界-迷魂台
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",张家界-迷魂台
 http://gctxyc.liveplay.myqcloud.com/gc/zjjmht_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",张家界-将军列队
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",张家界-将军列队
 http://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1_md.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",张家界-水绕四门
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",张家界-水绕四门
 http://gcksc.v.kcdnvip.com/gc/zjjsrsm_1/index.m3u8?BR=md&region=shanghai
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",上海-陆家嘴
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",上海-陆家嘴
 http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8?wsSession=c4cdcdd87d05e6f2203db30e-陆家嘴158151665094817&wsIPSercert=275b5b7d98c62a45a042fa78d4b0d7dd&wsMonitor=0
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",黟县宏村月沼
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",黟县宏村月沼
 https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",黟县宏村南湖
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",黟县宏村南湖
 https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",黟县西递牌坊
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",黟县西递牌坊
 https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",黟县西递半山亭俯瞰
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",黟县西递半山亭俯瞰
 https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",黄山卧云峰
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",黄山卧云峰
 https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",黄山排云亭
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",黄山排云亭
 https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",黄山西海大峡谷
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",黄山西海大峡谷
 https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",黄山平天矼
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",黄山平天矼
 https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",云台山红石硖
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",云台山红石硖
 https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",泰山主峰
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",泰山主峰
 https://gctxyc.liveplay.myqcloud.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",泰山迎客松
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",泰山迎客松
 https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",泰山大观峰
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",泰山大观峰
 https://gctxyc.liveplay.myqcloud.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",泰山拱北石
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",泰山拱北石
 https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",泰山十八盘
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",泰山十八盘
 https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",泰山玉皇顶
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",泰山玉皇顶
 https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",印象大红袍
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",印象大红袍
 https://gctxyc.liveplay.myqcloud.com/gc/wysyxdhp_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",武夷山大红袍茶园
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",武夷山大红袍茶园
 https://gctxyc.liveplay.myqcloud.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",张家界将军列队
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",张家界将军列队
 https://gctxyc.liveplay.myqcloud.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",张家界阿凡达悬浮山
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",张家界阿凡达悬浮山
 https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",水长城镜头一
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",水长城镜头一
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",水长城镜头二
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",水长城镜头二
 https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",大研花巷景观台
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",大研花巷景观台
 https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",峨眉云海日出
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",峨眉云海日出
 https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",贡嘎雪山
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",贡嘎雪山
 https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",远眺万佛顶
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",远眺万佛顶
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",普贤菩萨像
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",普贤菩萨像
 https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",悬空寺全景
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",悬空寺全景
 https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",恒宗
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",恒宗
 https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",悬空寺侧景
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",悬空寺侧景
 https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",天涯鸟瞰
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",天涯鸟瞰
 https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",南天一柱
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",南天一柱
 https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",雪乡大石碑
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",雪乡大石碑
 https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",雪乡梦幻家园
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",雪乡梦幻家园
 https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-A]🌄",嘉峪关长城
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",嘉峪关长城
 https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|八达岭北十楼
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|八达岭北十楼
 http://gcalic.v.myalicdn.com/gc/bgwn10_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|八达岭南七楼
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|八达岭南七楼
 http://gccncc.v.wscdns.com/gc/bgws7_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|坝达观景台
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|坝达观景台
 http://gcalic.v.myalicdn.com/gc/hnttbdjd_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|北戴河鸽子窝
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|北戴河鸽子窝
 http://m.qhdxdzy.com:2998/hls/beidaihegeziwo/playlist.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|北戴河湿地
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|北戴河湿地
 http://m.qhdxdzy.com:2998/hls/beidaiheshidimeijing/playlist.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|大红袍茶园
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|大红袍茶园
 http://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8?contentid=2820180516001&_res_tag_=video
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|丽江大水车
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|丽江大水车
 http://gcalic.v.myalicdn.com/gc/ljgcdsc_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|丹霞山哨音亭
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|丹霞山哨音亭
 http://gcalic.v.myalicdn.com/gc/dxssyt_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|丹梯铁索
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|丹梯铁索
 http://gccncc.v.wscdns.com/gc/dxsdtts_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|敦煌月牙泉山门
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|敦煌月牙泉山门
 http://gcalic.v.myalicdn.com/gc/dhyyqsm_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|月牙泉沙滩
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|月牙泉沙滩
 http://gccncc.v.wscdns.com/gc/dhyyqst_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|月牙泉鸣沙山
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|月牙泉鸣沙山
 http://gctxyc.liveplay.myqcloud.com/gc/dhyyqyyq_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|多一树景点
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|多一树景点
 http://gcalic.v.myalicdn.com/gc/hnttdysjd_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|峨眉山云海日出
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|峨眉山云海日出
 http://gcalic.v.myalicdn.com/gc/emsarm_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|远眺万佛顶
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|远眺万佛顶
 http://gctxyc.liveplay.myqcloud.com/gc/emswfs_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|贡嘎雪山
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|贡嘎雪山
 http://gccncc.v.wscdns.com/gc/emsyh_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|普贤菩萨像
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|普贤菩萨像
 http://gctxyc.liveplay.myqcloud.com/gc/emspxps_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|都江堰鱼嘴
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|都江堰鱼嘴
 http://gccncc.v.wscdns.com/gc/djyqyl1_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|飞沙堰
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|飞沙堰
 http://gcalic.v.myalicdn.com/gc/djyewm_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|离堆
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|离堆
 http://gccncc.v.wscdns.com/gc/djyqyl2_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|凤凰古城东关门
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|凤凰古城东关门
 http://gcalic.v.myalicdn.com/gc/fhgcdgm_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|凤凰古城南华山
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|凤凰古城南华山
 http://gcalic.v.myalicdn.com/gc/fhgcdnhs_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|桂林象山公园
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|桂林象山公园
 http://gcalic.v.myalicdn.com/gc/glxs01_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|海南南海观音
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|海南南海观音
 http://gccncc.v.wscdns.com/gc/syns01_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|恒山悬空寺
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|恒山悬空寺
 http://gcalic.v.myalicdn.com/gc/hsxksqj_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|悬空寺侧景
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|悬空寺侧景
 http://gcalic.v.myalicdn.com/gc/hsxkscj_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|红石峡
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|红石峡
 http://gcalic.v.myalicdn.com/gc/ytshsx_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|宏村月沼
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|宏村月沼
 http://gcalic.v.myalicdn.com/gc/yxhcyz_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄果树银链坠潭
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄果树银链坠潭
 http://gcalic.v.myalicdn.com/gc/hgsylztpb_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄河漂流
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄河漂流
 http://gcalic.v.myalicdn.com/gc/nxspthhpl_1/index.m3u8?contentid=2820180516001&_res_tag_=video
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄花城水长城
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄花城水长城
 http://gcalic.v.myalicdn.com/gc/wgw01_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄龙五彩池
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄龙五彩池
 http://gcalic.v.myalicdn.com/gc/hlwcc_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄龙洗身洞
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄龙洗身洞
 http://gcalic.v.myalicdn.com/gc/hlxsd_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄龙争艳彩池
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄龙争艳彩池
 http://gctxyc.liveplay.myqcloud.com/gc/hlzycc_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄龙望乡台
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄龙望乡台
 http://gctxyc.liveplay.myqcloud.com/gc/hlwxt_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄山飞来石
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄山飞来石
 http://gcalic.v.myalicdn.com/gc/hsptgy_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄山光明顶
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄山光明顶
 http://gcalic.v.myalicdn.com/gc/hsgmd_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄山梦笔生花
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄山梦笔生花
 http://gcalic.v.myalicdn.com/gc/hsmbsh_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄山排云亭
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄山排云亭
 http://gcalic.v.myalicdn.com/gc/hspyt_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄山平天矼
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄山平天矼
 http://gcalic.v.myalicdn.com/gc/hsptgz_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黄山卧云峰
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黄山卧云峰
 http://gcalic.v.myalicdn.com/gc/hswlf_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|嘉峪关
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|嘉峪关
 http://gctxyc.liveplay.myqcloud.com/gc/jyg01_1/index.m3u8?contentid=2820180516001&_res_tag_=video
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|嘉峪关2
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|嘉峪关2
 http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8?contentid=2820180516001&_res_tag_=video
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|嘉峪关3
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|嘉峪关3
 http://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001&_res_tag_=video
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|九华山
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|九华山
 http://gccncc.v.wscdns.com/gc/jhs02_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|六盘山景区
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|六盘山景区
 http://gccncc.v.wscdns.com/gc/lpsgmjng01_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|龙虎山中间水泡
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|龙虎山中间水泡
 http://gcalic.v.myalicdn.com/gc/lhszjsp_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|芦村远眺
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|芦村远眺
 http://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001&_res_tag_=video
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|张家界迷魂台
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|张家界迷魂台
 http://gcalic.v.myalicdn.com/gc/zjjmht_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|阿凡达悬浮山
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|阿凡达悬浮山
 http://gcalic.v.myalicdn.com/gc/zjjafdxfs_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|将军列队
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|将军列队
 http://gccncc.v.wscdns.com/gc/zjjjjdl_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|水绕四门
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|水绕四门
 http://gctxyc.liveplay.myqcloud.com/gc/zjjsrsm_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|南京玄武湖
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|南京玄武湖
 http://gcalic.v.myalicdn.com:80/gc/xwh01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|宁夏沙坡头大漠孤烟
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|宁夏沙坡头大漠孤烟
 http://gcalic.v.myalicdn.com/gc/nxsptdmgy_1/index.m3u8?contentid=2820180516001&_res_tag_=video
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|千岛湖风景区
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|千岛湖风景区
 http://gcalic.v.myalicdn.com:80/gc/caqdh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|青岛崂山
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|青岛崂山
 http://gccncc.v.wscdns.com/gc/qdls01_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|厦门鼓浪屿
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|厦门鼓浪屿
 http://gccncc.v.wscdns.com/gc/gly01_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|上海外滩
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|上海外滩
 http://bililive.kksmg.com/hls/sdi7000/playlist.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|北京水长城2
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|北京水长城2
 http://gcalic.v.myalicdn.com/gc/wgw02_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|北京水长城4
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|北京水长城4
 http://gcalic.v.myalicdn.com/gc/wgw04_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|四川乐山大佛
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|四川乐山大佛
 http://gcalic.v.myalicdn.com/gc/lsdfgfl_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|泰山大观峰
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|泰山大观峰
 http://gcalic.v.myalicdn.com/gc/taishan03_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|泰山拱北石
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|泰山拱北石
 http://gcalic.v.myalicdn.com/gc/taishan04_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|泰山望人松
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|泰山望人松
 http://gcalic.v.myalicdn.com/gc/taishan02_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|泰山玉皇顶
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|泰山玉皇顶
 http://gcalic.v.myalicdn.com/gc/taishan06_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|泰山主峰
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|泰山主峰
 http://gcalic.v.myalicdn.com/gc/taishan01_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|泰山天街
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|泰山天街
 http://gccncc.v.wscdns.com/gc/taishan07_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|汶川映秀新城
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|汶川映秀新城
 http://gccncc.v.wscdns.com/gc/wcyxxc01_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|白莲塔
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|白莲塔
 http://gcalic.v.myalicdn.com/gc/zjwzblt_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|乌镇蓝印花布
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|乌镇蓝印花布
 http://gcalic.v.myalicdn.com/gc/zjwzlyhb_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|龙行田
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|龙行田
 http://gcalic.v.myalicdn.com/gc/zjwzlxt_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|乌镇西市河
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|乌镇西市河
 http://gccncc.v.wscdns.com/gc/zjwzbblh_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|黟县远眺
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|黟县远眺
 http://gcalic.v.myalicdn.com/gc/yxlcyt_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|中央电视塔北
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|中央电视塔北
 http://gcalic.v.myalicdn.com/gc/ztb_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|中央电视塔东
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|中央电视塔东
 http://gcalic.v.myalicdn.com/gc/ztd_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|中央电视塔南
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|中央电视塔南
 http://gcalic.v.myalicdn.com/gc/ztn_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|中央电视塔西
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|中央电视塔西
 http://gcalic.v.myalicdn.com/gc/ztx_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|塔东
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|塔东
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|塔北
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|塔北
 https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|朱鹮2
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|朱鹮2
 http://gcalic.v.myalicdn.com/gc/zh02_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|朱鹮3
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|朱鹮3
 http://gcalic.v.myalicdn.com/gc/zh03_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|朱鹮d
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|朱鹮d
 http://gcalic.v.myalicdn.com/gc/zh04_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|三亚天涯石
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|三亚天涯石
 http://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|南天一柱
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|南天一柱
 http://gccncc.v.wscdns.com/gc/tyhjntyz_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|日月石
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|日月石
 http://gctxyc.liveplay.myqcloud.com/gc/tyhjrys_1.flv
-#EXTINF:-1 group-title="⑲🌴[全国景区-B]🌄",景区|天涯鸟瞰
+#EXTINF:-1 group-title="⑲🌴[全国景区-B实景]🌄",景区|天涯鸟瞰
 http://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1.flv
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",悬念上海:尘土拥抱尘土
+http://vr.v.ipanda.com/video/201603/xnsh_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",上海全景:锦江游乐园摩天轮
+http://vr.v.ipanda.com/video/201602/ipanda_mtl.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",上海全景:锦江游乐园垂吊过山车
+http://vr.v.ipanda.com/video/201602/ipanda_gsc.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",上海全景:锦江游乐园过山车
+http://vr.v.ipanda.com/video/201602/ipanda_gsc.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",朱家角：江南水乡 千年古镇
+http://vr.v.ipanda.com/video/201604//shzjj_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",上海陆家嘴
+http://vr.v.ipanda.com/video/201602/ipanda_shljzdlcps.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",天津蓟县：漫山梨花香雪海
+http://vr.v.ipanda.com/video/201604/tjjx_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",三峡：重岩叠嶂 隐天蔽日
+http://vr.v.ipanda.com/vrvod/video/2016/06/02/9d893769164449218f26205ce7608d61_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",红松故乡：黑龙江伊春
+http://vr.v.ipanda.com/vrvod/video/2016/05/24/hljyc_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",大庆阿木塔草原蒙古大营旅游景区
+http://vr.v.ipanda.com/video/201602/ipanda_dqamtcymgdylyjq.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",大庆鹤鸣湖旅游度假村
+http://vr.v.ipanda.com/video/201602/ipanda_dqhmhlvdjc.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",大庆石油广场
+http://vr.v.ipanda.com/video/201602/ipanda_dqsygc.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",大庆龙凤湿地：碧水长天 苇林似海
+http://vr.v.ipanda.com/video/201602/ipanda_dqlfsdzrbhq.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",吉林前郭春色
+http://vr.v.ipanda.com/vrvod/video/2016/06/01/5730e6a991394f9db3795b4f3a9b60d4_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",丹东：桃花漫山 江水荡漾
+http://vr.v.ipanda.com/vrvod/video/2016/05/10/lndd_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",内蒙古：沙之磷磷 草之幂幂
+http://vr.v.ipanda.com/vrvod/video/2016/08/11/52b99cef5f3c48a8b84677321f246baf_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",鄂尔多斯国际那达慕大会
+http://vr.v.ipanda.com/vrvod/video/2016/09/05/350f13017d6e4cb2a532ddf8cbcfb499_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",银川：塞上明珠 文化古城
+http://vr.v.ipanda.com/vrvod/video/2016/06/01/4106730e7f8744258436224ba4cc50cb_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",甘肃：花海与麦田
+http://vr.v.ipanda.com/vrvod/video/2016/07/11/eb4099c979d54796983ad2857875425c_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",青海门源：蓝天白云 林海草原
+http://vr.v.ipanda.com/vrvod/video/2016/08/08/e8ca11f47f004ed39aa402a2b6ccd937_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",青海湖湟鱼艰辛洄游路
+http://vr.v.ipanda.com/vrvod/video/2016/06/11/ccb2c3f30efd410bb003c74ff6bcb069_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",汉中：湖光山色 汉水之源
+http://vr.v.ipanda.com/video/201604/sxhz_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",壶口瀑布：黄河奇观
+http://vr.v.ipanda.com/video/201603/hkpb_qjsp5.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",承德：中国历史文化名城
+http://vr.v.ipanda.com/video/201604//hbcd_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",阜平顾家台：元旦佳节感受温暖
+http://vr.v.ipanda.com/video/201603/bdfp_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",临汾：东倚太岳 西临黄河
+http://vr.v.ipanda.com/video/201604/sxfh_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",烟台渔民秋捕
+http://vr.v.ipanda.com/vrvod/video/2016/10/19/6288ea8a4755449abb839ac5134e3ab1_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",山东潍坊：国际风筝会
+http://vr.v.ipanda.com/video/201604//sdwf_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",洛阳：千年帝都 牡丹花城
+http://vr.v.ipanda.com/video/201604//hnly_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",湖北天门：状元之乡
+http://vr.v.ipanda.com/video/201604/hbtm-qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",丙申年世界华人拜谒大典
+http://vr.v.ipanda.com/vrvod/video/2016/06/13/4346b48093c045a1b1a86759ff982b4a_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",随州博物馆：青铜器王国
+http://vr.v.ipanda.com/vrvod/video/2016/06/14/ac9a4b02101647538313ee49e50d7f1b_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",神农架林区：天然动物园
+http://vr.v.ipanda.com/video/201603/snj_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",张家界：三千奇峰 八百秀水
+http://vr.v.ipanda.com/video/201604/hnzjj_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",汨罗：龙舟竞渡 跃浪争先
+http://vr.v.ipanda.com/vrvod/video/2016/06/09/e9ccb460a6df4de8adfd8d30c5a556c8_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",上红点睛祭龙舟
+http://vr.v.ipanda.com/vrvod/video/2016/06/09/70ac24a7e7e44665ac1d0ee4cc89075e_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",湖南湘西吉首矮寨特大悬索桥
+http://vr.v.ipanda.com/video/201603/azdq_qjspzz.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",湘西十八洞：分类指导 精准扶贫
+http://vr.v.ipanda.com/video/201603/18d_mzfjm.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",江西三清山：西太平洋边缘最美丽的花岗岩
+http://vr.v.ipanda.com/vrvod/video/2016/10/02/a52a104231fe46eb8bcc1f11e5876ac0_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",江西抚州：汤显祖逝世400周年
+http://vr.v.ipanda.com/vrvod/video/2016/10/12/0f8bedb883474b0792684e7bd3d2f3b3_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",无锡鼋头渚：阳春三月 樱花满园
+http://vr.v.ipanda.com/video/201604/jsytz_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",大美杭州千岛湖
+http://vr.v.ipanda.com/vrvod/video/2016/10/31/1267e8eeee5e4dfdb3c65a7ba61f8ab5_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",杭州梅家坞：十里梅坞 风景如画
+http://vr.v.ipanda.com/video/201604/hzmjw_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",跨海连岛：舟山连岛大桥
+http://vr.v.ipanda.com/video/201603/zsldq_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",浙江滕头村：生态农业 立体农业
+http://vr.v.ipanda.com/video/201603/ttc_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",乌镇：鱼米之乡 丝绸之府
+http://vr.v.ipanda.com/video/201603/wz_qjsp02.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",武夷山：碧水丹山 奇绝神秀
+http://vr.v.ipanda.com/video/201604/wys_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",广东开平碉楼
+http://vr.v.ipanda.com/video/201604/gdkp_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",广西：秋色美 醉人心
+http://vr.v.ipanda.com/vrvod/video/2016/10/19/8881a8790c5d4400882b213f8d66bf14_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",桂林：山水甲天下
+http://vr.v.ipanda.com/video/201604/gxgl_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",云南西双版纳：以水祝福
+http://vr.v.ipanda.com/video/201604/xsbn_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",云南元阳：红河梯田
+http://vr.v.ipanda.com/video/201604/ynhh_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",黄果树瀑布：蛟龙翻腾 声如雷鸣
+http://vr.v.ipanda.com/video/201602/ipanda_gzhgspb.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",苗族原始生态：贵州千户苗寨
+http://vr.v.ipanda.com/video/201602/ipanda_gzqhmz.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",贵州绥阳：双河洞奇景
+http://vr.v.ipanda.com/vrvod/video/2016/05/27/3d7cd0d547e04288aa87c9344e18cc42_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",贵州青岩古镇
+http://vr.v.ipanda.com/video/201602/ipanda_gzttqygz.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",贵州天田智慧产业园区
+http://vr.v.ipanda.com/video/201602/ipanda_gztzhcyyq.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",成都：问道青城山 拜水都江堰
+http://vr.v.ipanda.com/video/201604/scqcs_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",西昌：照天祈年 除秽求吉
+http://vr.v.ipanda.com/vrvod/video/2016/08/12/c28a5037c69a4438ad46e9ea27b56d3a_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",卧龙基地：中华大熊猫园
+http://vr.v.ipanda.com/video/201603/xm_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",2016熊猫宝宝闹新春
+http://vr.v.ipanda.com/video/201602/ipanda_XMYEY.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",雅西高速：云端上的高速公路
+http://vr.v.ipanda.com/video/201603/yxgs_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",霍尔果斯：游牧文化 民族风情
+http://vr.v.ipanda.com/video/201604//xj_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",西藏：神奇而充满灵性的土地
+http://vr.v.ipanda.com/vrvod/video/2016/06/01/7f083614c9224c948a5b52220d9455c9_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",海南博鳌：人与自然的和谐
+http://vr.v.ipanda.com/video/201604/hnba_qjsp.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",香港：天然良港 东方之珠
+http://vr.v.ipanda.com/vrvod/video/2016/06/01/939bacfa6bff4e4489cf28ed2a7ead41_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",澳门:东西方风格共存建筑群
+http://vr.v.ipanda.com/vrvod/video/2016/06/01/2a55f913ad6240838782b687faf476f4_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",台湾:多样生态 独特人文
+http://vr.v.ipanda.com/vrvod/video/2016/05/31/994416a22f1b4f59b2b1cc70465bcabf_H264_4500_AAC128.mp4
 #EXTINF:-1 group-title="⑳🎵MTV-MV🎤-A",音乐石榴
 http://aldirect.rtmp.huya.com/huyalive/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://anchorpost.msstatic.com/cdnimage/anchorpost/1019/31/2aeb3c95d8f4bcb0502cd468c0fb77_2633_1564044279.jpg" group-title="⑳🎵MTV-MV🎤-A",华乐纪 2019国风音乐盛典
