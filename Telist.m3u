@@ -5037,28 +5037,134 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 group-title="⑤📺港澳",莲花卫视
 http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",寰宇新聞台灣台
-http://ms003.happytv.com.tw:80/live/fkFeyYT8fwboq8Db/index.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",壹新聞
-https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",中天新聞
-http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",東森新聞
-http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",年代新聞
-http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",52中天新聞
-http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",51東森新聞
-http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",50年代新聞
-http://192.200.120.82:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",49壹新聞
-https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="⑥📺台湾",国家地理
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="⑥📺台湾",动物星球
+http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",动物世界
+http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",亚洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+#EXTINF:-1 group-title="⑥📺台湾",华纳电视
+http://104.250.154.42:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",经典频道
+http://stream.guihet.com/migu/index.php?id=625542369
+#EXTINF:-1 group-title="⑥📺台湾",大众影视
+http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
+#EXTINF:-1 group-title="⑥📺台湾",居家幸福
+http://61.58.60.230:9319/live/125.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",国会频道
+http://61.58.60.230:9319/live/123.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",靖天娱乐
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",宝贝第一
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",歐美影院
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+#EXTINF:-1 group-title="⑥📺台湾",亞洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+#EXTINF:-1 group-title="⑥📺台湾",国家地理
+http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",FOX动作
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",Bestv live
+http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",香港卫视
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="⑥📺台湾",MTV 音乐
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="⑥📺台湾",福克斯动作
+http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="⑥📺台湾",福克斯动作
+http://192.154.103.75:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 group-title="⑥📺台湾", HBO family
 http://58.215.133.185:5021/live/181?pid=VMRIIUOWUJRA@5021BKW&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
 #EXTINF:-1 group-title="⑥📺台湾", HBO hit
 http://58.215.133.185:5021/live/238?pid=HHQEGROJIVJW@5082QPD&begblock=0&startdelay=40&blocknum=0&needkeyframeinfo=1
+#EXTINF:-1 group-title="⑥📺台湾",HBO2台
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",大众影视
+http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
+#EXTINF:-1 group-title="⑥📺台湾",寰宇新聞台灣台
+http://ms003.happytv.com.tw:80/live/fkFeyYT8fwboq8Db/index.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",壹新聞
+https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",49壹新聞
+https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="⑥📺台湾",东森新闻
+http://192.154.103.75:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="⑥📺台湾",东森新闻
+http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="⑥📺台湾",东森电影
+http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="⑥📺台湾",东森洋片
+http://192.154.103.75:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="⑥📺台湾",东森洋片
+http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="⑥📺台湾",中天新闻
+http://104.250.154.42:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="⑥📺台湾",中天新闻
+http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="⑥📺台湾",中天新闻
+http://iptv.52qdg.com/iptv.php?id=tw&pamid=004
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="⑥📺台湾",中天综合
+http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="⑥📺台湾",中天综合
+http://192.154.103.75:8080//ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="⑥📺台湾",中天娱乐
+http://192.154.103.75:8080//ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="⑥📺台湾",中天娱乐
+http://104.250.154.42:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="⑥📺台湾",年代新闻
+http://192.154.103.75:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="⑥📺台湾",年代新闻
+http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
+#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="⑥📺台湾",八大综合
+http://192.154.103.75:8080//ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="⑥📺台湾",八大综合
+http://104.250.154.42:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
+#EXTINF:-1 tvg-id="6100" tvg-name="信吉电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" group-title="⑥📺台湾",信吉电视
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 tvg-id="6100" tvg-name="信吉电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" group-title="⑥📺台湾",信吉电视
+http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="6150" tvg-name="靖天欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天欢乐.png" group-title="⑥📺台湾",靖天欢乐
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 tvg-id="6099" tvg-name="靖天资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天资讯.png" group-title="⑥📺台湾",靖天资讯
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 tvg-id="6101" tvg-name="靖洋戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋戏剧.png" group-title="⑥📺台湾",靖洋戏剧
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 tvg-id="7187" tvg-name="靖天国际" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天国际.png" group-title="⑥📺台湾",靖天国际
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 tvg-id="6191" tvg-name="靖洋卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖洋卡通.png" group-title="⑥📺台湾",靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="⑥📺台湾",靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 tvg-id="6116" tvg-name="靖天映画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天映画.png" group-title="⑥📺台湾",靖天映画
+http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",靖天歡樂
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",靖天资讯
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",靖天娱乐
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",靖洋戏剧
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",靖天国际
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",靖天映画
+http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",中视综合
+http://192.154.103.75:8080//ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",中视综合
+http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",华视综合
+http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 group-title="⑥📺台湾",华视综合
+http://192.154.103.75:8080//ZZ_huashi/ZZ_huashi.m3u8
 #EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="⑥📺台湾",CTV中视HD（解码HW+）
 http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
 #EXTINF:-1 group-title="⑥📺台湾",华视CTS（解码HW+）
@@ -5071,8 +5177,6 @@ http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 tvg-id="6100" tvg-name="信吉电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" group-title="⑥📺台湾",信吉电视
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="⑥📺台湾",三立新闻
-http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:-1 group-title="⑥📺台湾", 中华卫视台湾
 http://pull.leshantangjt.com/live/playlist.m3u8
 #EXTINF:-1 group-title="⑥📺台湾", 亞美卫视
@@ -5085,8 +5189,6 @@ http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
 #EXTINF:-1 group-title="⑥📺台湾", 原住民族電視
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="⑥📺台湾", 台灣藝術
-http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
 #EXTINF:-1 group-title="⑥📺台湾", 台視財經
 https://usb.bozztv.com/ssh101/TTVHD/TTVHD/index.m3u8
 #EXTINF:-1 group-title="⑥📺台湾", 唯心電視
@@ -5105,94 +5207,34 @@ http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8
 http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8
 #EXTINF:-1 group-title="⑥📺台湾",中天综合
 http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",中天新闻
-http://192.200.120.82:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",中天亚洲台
-http://192.200.120.82:8080/ZZ_zhongtianyazhou/ZZ_zhongtianyazhou.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",中视无线
-http://192.200.120.82:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",华视无线
-http://192.200.120.82:8080/ZZ_huashi/ZZ_huashi.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",中天综合
-http://192.200.120.82:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",星空卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=233&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="⑥📺台湾",TVB翡翠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-#EXTINF:-1 group-title="⑥📺台湾",明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 group-title="⑥📺台湾",阳光卫视
 http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",台湾艺术
-http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720?dsjtv.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",台灣藝術
-http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
-#EXTINF:-1 group-title="⑥📺台湾",信吉电视
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",信吉电视
-http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",大爱一台
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="⑥📺台湾",大爱1台
+http://tv1.wanfudaluye.com/live/live.m3u8
+#EXTINF:-1 tvg-id="6027" group-title="⑥📺台湾",大爱1台
 http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
-#EXTINF:-1 group-title="⑥📺台湾",大爱二台
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="⑥📺台湾",大爱1台
+http://iptv.52qdg.com/iptv.php?id=tw&pamid=001
+#EXTINF:-1 tvg-id="6142" tvg-name="大爱二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png" group-title="⑥📺台湾",大爱2台
 http://iptv.52qdg.com/iptv.php?id=tw&pamid=002
-#EXTINF:-1 group-title="⑥📺台湾",中天新闻
-http://iptv.52qdg.com/iptv.php?id=tw&pamid=004
-#EXTINF:-1 group-title="⑥📺台湾",中天综合
-http://iptv.52qdg.com/iptv.php?id=tw&pamid=005
-#EXTINF:-1 group-title="⑥📺台湾",中天娱乐
-http://iptv.52qdg.com/iptv.php?id=tw&pamid=006
-#EXTINF:-1 group-title="⑥📺台湾",歐美影院
-http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-#EXTINF:-1 group-title="⑥📺台湾",亞洲影院
-http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:-1 group-title="⑥📺台湾",国家地理
-http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",FOX动作
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",Bestv live
-http://112.17.40.145/PLTV/88888888/224/3221226596/index.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",香港卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="⑥📺台湾",MTV 音乐
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="⑥📺台湾",HBO 2
-http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",好莱坞电影
-http://192.200.120.82:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",动物星球
-http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",华纳电影
-http://192.200.120.82:8080/ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",福克斯电影
-http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",衛星劇場
-http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",大众影视
-http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
 #EXTINF:-1 group-title="⑥📺台湾",居家幸福
 http://61.58.60.230:9319/live/125.m3u8
 #EXTINF:-1 group-title="⑥📺台湾",世纪综合
 http://61.58.60.230:9319/live/49.m3u8
 #EXTINF:-1 group-title="⑥📺台湾",国会频道
 http://61.58.60.230:9319/live/123.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",靖天歡樂
-http://61.58.60.230:9319/live/201.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",靖天资讯
-http://61.58.60.230:9319/live/202.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",靖天娱乐
-http://61.58.60.230:9319/live/204.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",靖洋戏剧
-http://61.58.60.230:9319/live/203.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",靖天国际
-http://61.58.60.230:9319/live/205.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",靖洋卡通
-http://61.58.60.230:9319/live/206.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",靖天卡通
-http://61.58.60.230:9319/live/207.m3u8
-#EXTINF:-1 group-title="⑥📺台湾",靖天映画
-http://61.58.60.230:9319/live/244.m3u8
 #EXTINF:-1 group-title="⑥📺台湾",点掌财经
 http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="⑦📺Overseas海外🌏",日本NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="⑦📺Overseas海外🌏",韩国阿里郎
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="⑦📺Overseas海外🌏",日本天気预报
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+#EXTINF:-1 group-title="⑦📺Overseas海外🌏",俄罗斯RU音乐
+http://rutv.gcdn.co/streams/1410_1272/720n/index.m3u8
+#EXTINF:-1 group-title="⑦📺Overseas海外🌏",美国之音
+https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 group-title="⑦📺Overseas海外🌏",亚洲NANG2
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="⑦📺Overseas海外🌏",韩国YTN DMB
