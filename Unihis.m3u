@@ -3,6 +3,18 @@
 
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="①📺广东★电视台",广东珠江
 http://nclive.grtn.cn/zjpd/sd/live.m3u8?_upt=eb0777611586269534
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzzh.jpg" group-title="①📺广东★电视台",广州综合台
+http://player.200877926.top/17/gd/gztvm3u8.php?id=gzzh
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzys.jpg" group-title="①📺广东★电视台",广州影视台
+http://player.200877926.top/17/gd/gztvm3u8.php?id=gzys
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzxw.jpg" group-title="①📺广东★电视台",广州新闻台
+http://player.200877926.top/17/gd/gztvm3u8.php?id=gzxw
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzsh.jpg" group-title="①📺广东★电视台",广州生活台
+http://player.200877926.top/17/gd/gztvm3u8.php?id=gzsh
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzse.jpg" group-title="①📺广东★电视台",广州少儿台
+http://player.200877926.top/17/gd/gztvm3u8.php?id=gzse
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzfz.jpg" group-title="①📺广东★电视台",广州法治台
+http://player.200877926.top/17/gd/gztvm3u8.php?id=gzfz
 #EXTINF:-1 group-title="①📺广东★电视台",火神山医院
 http://gctxyc.liveplay.myqcloud.com/gc/jyg02_1_md.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",雷神山实时画面1

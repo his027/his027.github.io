@@ -617,17 +617,17 @@ http://nclive.grtn.cn/tvs2/sd/live.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="③📺卫视直播-蓝光高清",金鹰卡通
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
-#EXTINF:-1 group-title="④📺省市-电视台",广东 Ⅰ 广州综合台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzzh.jpg" group-title="④📺省市-电视台",广州综合台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzzh
-#EXTINF:-1 group-title="④📺省市-电视台",广东 Ⅰ 广州影视台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzys.jpg" group-title="④📺省市-电视台",广州影视台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzys
-#EXTINF:-1 group-title="④📺省市-电视台",广东 Ⅰ 广州新闻台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzxw.jpg" group-title="④📺省市-电视台",广州新闻台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzxw
-#EXTINF:-1 group-title="④📺省市-电视台",广东 Ⅰ 广州生活台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzsh.jpg" group-title="④📺省市-电视台",广州生活台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzsh
-#EXTINF:-1 group-title="④📺省市-电视台",广东 Ⅰ 广州少儿台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzse.jpg" group-title="④📺省市-电视台",广州少儿台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzse
-#EXTINF:-1 group-title="④📺省市-电视台",广东 Ⅰ 广州法治台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzfz.jpg" group-title="④📺省市-电视台",广州法治台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzfz
 #EXTINF:-1 group-title="④📺省市-电视台",广东 Ⅰ 韶关综合台
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
@@ -659,6 +659,16 @@ http://nclive.grtn.cn/gjpd/sd/live.m3u8
 http://u6.gg/fgfhu
 #EXTINF:-1 group-title="④📺省市-电视台", 广东公共HD
 http://nclive.grtn.cn/ggpd/sd/live.m3u8?_upt=4fbd1f881529467585
+#EXTINF:-1 group-title="④📺省市-电视台", 广东体育
+http://nclive.grtn.cn/typd/sd/live.m3u8
+#EXTINF:-1 group-title="④📺省市-电视台", 广东公共
+http://nclive.grtn.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 group-title="④📺省市-电视台", 广东房产
+http://nclive.grtn.cn/fcpd/sd/live.m3u8
+#EXTINF:-1 group-title="④📺省市-电视台", 广东科教
+http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+#EXTINF:-1 group-title="④📺省市-电视台", 广东少儿
+http://nclive.grtn.cn/tvs5/sd/live.m3u8
 #EXTINF:-1 group-title="④📺省市-电视台", 广东影视
 http://nclive.grtn.cn/tvs4/sd/live.m3u8
 #EXTINF:-1 group-title="④📺省市-电视台", 福州影视
@@ -689,16 +699,6 @@ http://218.17.99.211:5080/hls/ttsw6ccn.m3u8
 https://www.wxhftv.com/hls/test.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="④📺省市-电视台", 嘉佳卡通
 http://nclive.grtn.cn/jjkt/sd/live.m3u8
-#EXTINF:-1 group-title="④📺省市-电视台", 广东体育
-http://nclive.grtn.cn/typd/sd/live.m3u8
-#EXTINF:-1 group-title="④📺省市-电视台", 广东公共
-http://nclive.grtn.cn/ggpd/sd/live.m3u8
-#EXTINF:-1 group-title="④📺省市-电视台", 广东房产
-http://nclive.grtn.cn/fcpd/sd/live.m3u8
-#EXTINF:-1 group-title="④📺省市-电视台", 广东科教
-http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
-#EXTINF:-1 group-title="④📺省市-电视台", 广东少儿
-http://nclive.grtn.cn/tvs5/sd/live.m3u8
 #EXTINF:-1 group-title="④📺省市-电视台", 高尔夫
 http://nclive.grtn.cn/grfpd/sd/live.m3u8
 #EXTINF:-1 group-title="④📺省市-电视台", 汕尾综合
@@ -2015,16 +2015,6 @@ http://117.158.206.60:9080/kaifeng/kftv2.m3u8
 http://117.158.206.60:9080/kaifeng/kftv1.m3u8
 #EXTINF:-1 group-title="④📺省市-电视台", 九寨沟旅游资讯
 http://111.231.194.231:85/live/lyzx.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="④📺省市-电视台", CCTV4
-http://61.58.60.230:9319/live/220.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="④📺省市-电视台", CGTN
-http://61.58.60.230:9319/live/221.m3u8
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="④📺省市-电视台", CGTN
-http://61.58.60.230:9319/live/222.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="④📺省市-电视台", CCTV戏曲
-http://61.58.60.230:9319/live/223.m3u8
-#EXTINF:-1 tvg-id="6565" tvg-name="CCTV-娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVyule.png" group-title="④📺省市-电视台", CCTV娱乐
-http://61.58.60.230:9319/live/224.m3u8
 #EXTINF:-1 group-title="④📺省市-电视台", 中国电影
 http://61.58.60.230:9319/live/225.m3u8
 #EXTINF:-1 group-title="④📺省市-电视台", 北京国际
