@@ -5225,6 +5225,276 @@ http://61.58.60.230:9319/live/49.m3u8
 http://61.58.60.230:9319/live/123.m3u8
 #EXTINF:-1 group-title="⑥📺台湾",点掌财经
 http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 group-title="⑥📺台湾台HD",民視HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_5_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",CNN國際新聞
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_6_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",台視HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_7_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",人間衛視
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_8_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",中視HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_9_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",大愛電視HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_10_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",華視HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_11_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",動物星球
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_12_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",公視HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_13_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",好消息
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_15_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",原住民電視台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_16_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",客家電視台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_17_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",國家地理頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_18_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",探索頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_19_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",中台灣生活網
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_20_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",TLC 旅遊生活
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_21_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",CN卡通
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_22_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",迪士尼頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_23_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",MOMO親子
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_24_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",東森幼幼台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_25_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",緯來綜合台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_26_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",八大第1台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_27_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",八大綜合台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_28_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",三立台灣台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_29_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",三立都會台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_30_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",衛視中文台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_31_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",東森綜合台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_32_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",東森超視
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_33_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",東森購物2台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_34_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",MOMO2台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_35_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",中天綜合
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_36_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",東風37台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_37_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",年代MUCH-HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_38_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",東森戲劇台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_40_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",八大戲劇台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_41_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",TVBS歡樂台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_42_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",緯來戲劇台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_43_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",高點綜合台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_44_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",JET綜合台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_45_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",MOMO1台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_48_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",壹新聞
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_49_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",年代新聞台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_50_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",東森新聞台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_51_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",中天新聞台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_52_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",民視新聞台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_53_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",三立新聞台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_54_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",TVBS新聞台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_55_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",TVBS
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_56_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",東森財經新聞台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_57_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",非凡新聞台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_58_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",VIVA1台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_59_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",衛視電影台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_61_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",東森電影台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_62_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",緯來電影台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_63_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",冠軍台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_64_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",HBO
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_65_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",東森洋片台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_66_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",中天娛樂台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_67_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",好萊塢電影
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_68_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",衛視西片台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_69_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",四季台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_70_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",CINEMAX電影
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_71_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",緯來體育台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_72_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",FOX體育台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_73_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",FOX體育2台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_74_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",緯來日本台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_75_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",國興衛視
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_76_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",海豚綜合台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_77_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",民俗才藝
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_78_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",纬来日本HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_79_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",MOMO综合
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_80_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",VIVA2台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_81_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",信吉衛星
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_82_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",桐瑛電視
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_83_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",AXN
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_84_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",Z頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_85_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",信大電視
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_86_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",緯來育樂台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_87_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",三立財經台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_88_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",凱亞綜合台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_89_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",台灣藝術台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_90_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",台灣綜合台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_91_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",天良綜合台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_92_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",龍祥時代
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_93_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",誠心電視
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_94_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",非凡商業
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_95_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",霹靂台灣
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_96_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",運通財經
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_97_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",NHK
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_98_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",新增頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_99_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",MTV
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_100_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",FOX
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_101_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",華視新聞資訊
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_108_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",番薯電視台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_110_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",國家地理HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_113_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",國家地理野生HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_114_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",FOX家庭電影
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_115_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",FOX HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_116_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",TVN
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_117_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",公視3台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_118_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",台灣交通台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_120_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",台視新聞
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_121_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",華視綜合娛樂
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_123_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",探索世界HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_129_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",探索科學
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_130_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",探索DMAX
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_131_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",探索eve
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_132_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",BBC Earth HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_133_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",BBC Entertainment Channel
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_134_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",BBC life style
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_135_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",居家生活電視台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_136_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",Warner TV
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_137_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",大愛2台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_201_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",DMAX
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_202_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",亞洲新聞台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_205_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",BBC World News
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_207_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",國家地理音樂
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_210_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",台股資訊頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_222_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",HBO HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_220_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",HBO 原創鉅獻
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_221_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",HBO 溫馨家庭
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_222_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",HBO 強檔鉅獻
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_223_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",玩家頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_401_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",Happy 頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_402_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",HOT 頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_403_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",松視4台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_404_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",松視1台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",松視2台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",松視3台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_407_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",彩虹
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",叮噹CR電視台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_409_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",樂活頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_410_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",潘朵拉玩美台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_411_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",潘朵拉粉紅台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="⑥📺台湾台HD",驚艷CR電視台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 #EXTINF:-1 group-title="⑦📺Overseas海外🌏",日本NHK华语
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png" group-title="⑦📺Overseas海外🌏",韩国阿里郎
@@ -6153,273 +6423,3 @@ http://[2001:250:5405:13::47]/hls/channelv.m3u8
 http://[2001:250:4814:1::200]/hls/starsports.m3u8
 #EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",STAR SPORTS
 http://[2001:250:5405:13::47]/hls/starsports.m3u8
-#EXTINF:-1 group-title="⑥📺台湾台HD",民視HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_5_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",CNN國際新聞
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_6_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",台視HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_7_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",人間衛視
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_8_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",中視HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_9_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",大愛電視HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_10_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",華視HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_11_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",動物星球
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_12_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",公視HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_13_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",好消息
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_15_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",原住民電視台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_16_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",客家電視台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_17_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",國家地理頻道
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_18_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",探索頻道
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_19_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",中台灣生活網
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_20_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",TLC 旅遊生活
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_21_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",CN卡通
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_22_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",迪士尼頻道
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_23_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",MOMO親子
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_24_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",東森幼幼台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_25_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",緯來綜合台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_26_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",八大第1台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_27_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",八大綜合台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_28_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",三立台灣台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_29_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",三立都會台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_30_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",衛視中文台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_31_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",東森綜合台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_32_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",東森超視
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_33_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",東森購物2台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_34_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",MOMO2台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_35_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",中天綜合
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_36_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",東風37台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_37_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",年代MUCH-HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_38_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",東森戲劇台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_40_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",八大戲劇台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_41_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",TVBS歡樂台HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_42_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",緯來戲劇台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_43_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",高點綜合台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_44_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",JET綜合台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_45_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",MOMO1台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_48_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",壹新聞
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_49_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",年代新聞台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_50_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",東森新聞台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_51_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",中天新聞台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_52_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",民視新聞台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_53_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",三立新聞台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_54_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",TVBS新聞台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_55_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",TVBS
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_56_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",東森財經新聞台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_57_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",非凡新聞台HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_58_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",VIVA1台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_59_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",衛視電影台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_61_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",東森電影台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_62_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",緯來電影台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_63_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",冠軍台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_64_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",HBO
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_65_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",東森洋片台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_66_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",中天娛樂台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_67_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",好萊塢電影
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_68_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",衛視西片台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_69_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",四季台HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_70_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",CINEMAX電影
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_71_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",緯來體育台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_72_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",FOX體育台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_73_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",FOX體育2台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_74_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",緯來日本台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_75_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",國興衛視
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_76_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",海豚綜合台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_77_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",民俗才藝
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_78_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",纬来日本HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_79_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",MOMO综合
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_80_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",VIVA2台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_81_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",信吉衛星
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_82_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",桐瑛電視
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_83_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",AXN
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_84_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",Z頻道
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_85_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",信大電視
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_86_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",緯來育樂台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_87_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",三立財經台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_88_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",凱亞綜合台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_89_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",台灣藝術台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_90_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",台灣綜合台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_91_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",天良綜合台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_92_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",龍祥時代
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_93_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",誠心電視
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_94_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",非凡商業
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_95_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",霹靂台灣
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_96_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",運通財經
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_97_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",NHK
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_98_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",新增頻道
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_99_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",MTV
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_100_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",FOX
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_101_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",華視新聞資訊
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_108_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",番薯電視台HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_110_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",國家地理HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_113_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",國家地理野生HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_114_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",FOX家庭電影
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_115_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",FOX HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_116_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",TVN
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_117_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",公視3台HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_118_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",台灣交通台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_120_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",台視新聞
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_121_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",華視綜合娛樂
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_123_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",探索世界HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_129_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",探索科學
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_130_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",探索DMAX
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_131_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",探索eve
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_132_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",BBC Earth HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_133_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",BBC Entertainment Channel
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_134_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",BBC life style
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_135_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",居家生活電視台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_136_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",Warner TV
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_137_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",大愛2台HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_201_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",DMAX
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_202_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",亞洲新聞台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_205_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",BBC World News
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_207_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",國家地理音樂
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_210_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",台股資訊頻道
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_222_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",HBO HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_220_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",HBO 原創鉅獻
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_221_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",HBO 溫馨家庭
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_222_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",HBO 強檔鉅獻
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_223_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",玩家頻道
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_401_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",Happy 頻道
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_402_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",HOT 頻道
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_403_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",松視4台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_404_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",松視1台HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",松視2台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",松視3台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_407_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",彩虹
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",叮噹CR電視台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_409_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",樂活頻道
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_410_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",潘朵拉玩美台HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_411_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",潘朵拉粉紅台HD
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
-#EXTINF:-1 group-title="⑥📺台湾台HD",驚艷CR電視台
-http://58.99.33.2:1935/liveedge2/bJkTZGfd_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
