@@ -3749,46 +3749,32 @@ http://videotiantian.gslawyerunion.com/20191222/nUWoZerg/hls/index.m3u8?wsSecret
 http://videotiantian.gslawyerunion.com/20191222/G79gaQ3p/hls/index.m3u8?wsSecret=2564fae30ab3cd93606ccb5c149b7d24&wsTime=1581157253395
 #EXTINF:-1 group-title="RANK 3 CN2", 美味的生活
 http://videotiantian.gslawyerunion.com/20191221/tL9rs8KS/hls/index.m3u8?wsSecret=db1e0c11fc701d177e02263b3a982009&wsTime=1581157343181
-#EXTINF:-1 group-title="Guochan", 国产1
-http://mmys.funessay.com/20200201/QhwfGCHQ/QhwfGCHQ.m3u8
-#EXTINF:-1 group-title="Guochan", 国产2
-http://mmys.funessay.com/20200201/YQHendBp/YQHendBp.m3u8
-#EXTINF:-1 group-title="Guochan", 国产3
-http://mmys.funessay.com/20200201/VJhJFFGt/VJhJFFGt.m3u8
-#EXTINF:-1 group-title="Guochan", 国产4
-http://mmys.funessay.com/20200201/SudRMkVn/SudRMkVn.m3u8
-#EXTINF:-1 group-title="Guochan", 国产5
-http://mmys.funessay.com/20200201/axupxvbm/axupxvbm.m3u8
-#EXTINF:-1 group-title="Guochan", 国产6
-http://mmys.funessay.com/20200201/JaUSgpKm/JaUSgpKm.m3u8
-#EXTINF:-1 group-title="Guochan", 国产7
-http://mmys.funessay.com/20200201/RGBaDhLc/RGBaDhLc.m3u8
-#EXTINF:-1 group-title="Guochan", 国产8
-http://mmys.funessay.com/20200201/JsVKEbtg/JsVKEbtg.m3u8
-#EXTINF:-1 group-title="Guochan", 国产9
-http://mmys.funessay.com/20200201/TMSLQwnt/TMSLQwnt.m3u8
-#EXTINF:-1 group-title="Guochan", 国产10
-http://mmys.funessay.com/20200201/kVbFRbAK/kVbFRbAK.m3u8
-#EXTINF:-1 group-title="Guochan", 国产11
-http://mmys.funessay.com/20200201/YQNYNrAt/YQNYNrAt.m3u8
-#EXTINF:-1 group-title="Guochan", 国产12
-http://mmys.funessay.com/20200201/TBSpwfXX/TBSpwfXX.m3u8
-#EXTINF:-1 group-title="Guochan", 国产13
-http://mmys.funessay.com/20200201/CGvQNYGF/CGvQNYGF.m3u8
-#EXTINF:-1 group-title="Guochan", 国产14
-http://mmys.funessay.com/20200201/QxhpsdgL/QxhpsdgL.m3u8
-#EXTINF:-1 group-title="Guochan", 国产15
-http://mmys.funessay.com/20191101/wfTsMdYUP/wfTsMdYUP.m3u8
-#EXTINF:-1 group-title="Guochan", 国产16
-http://mmys.funessay.com/20191101/DjADBqnbH/DjADBqnbH.m3u8
-#EXTINF:-1 group-title="Guochan", 国产17
-http://mmys.funessay.com/20191101/vvBfwqTaF/vvBfwqTaF.m3u8
-#EXTINF:-1 group-title="Guochan", 国产18
-http://mmys.funessay.com/20191101/UwxvYWBTn/UwxvYWBTn.m3u8
-#EXTINF:-1 group-title="Guochan", 国产19
-http://mmys.funessay.com/20191101/DdHQnWfuP/DdHQnWfuP.m3u8
-#EXTINF:-1 group-title="Guochan", 国产20
-http://mmys.funessay.com/20191101/caPJLHDWV/caPJLHDWV.m3u8
+#EXTINF:-1 group-title="Guochan",玩家頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_401_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",Happy 頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_402_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",HOT 頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_403_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",松視4台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_404_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",松視1台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_405_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",松視2台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_406_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",松視3台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_407_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",彩虹
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_408_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",叮噹CR電視台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_409_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",樂活頻道
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_410_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",潘朵拉玩美台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_411_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",潘朵拉粉紅台HD
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_412_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
+#EXTINF:-1 group-title="Guochan",驚艷CR電視台
+http://58.99.33.2:1935/liveedge2/bJkTZGfd_413_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 #EXTINF:-1 group-title="Jp & KoreaHD",日韩高清1
 https://www.800-cdn.com/20191104/E1HxL2k9/index.m3u8
 #EXTINF:-1 group-title="Jp & KoreaHD",日韩高清2
