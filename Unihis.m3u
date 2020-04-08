@@ -5,26 +5,34 @@
 http://nclive.grtn.cn/zjpd/sd/live.m3u8?_upt=eb0777611586269534
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzzh.jpg" group-title="①📺广东★电视台",广州综合台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzzh
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzzh.jpg" group-title="①📺广东★电视台",广州综合台2
+https://aplays.gztv.com/sec/zhonghe.m3u8?auth_key=1586358232-0-0-f62cf0cd307cf74dbe8764dbdb93cb44
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzys.jpg" group-title="①📺广东★电视台",广州影视台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzys
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzys.jpg" group-title="①📺广东★电视台",广州影视台2
+https://aplays.gztv.com/sec/yingshi.m3u8?auth_key=1586358375-0-0-00072d51bf27626cf0b0398bb8e230c3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzxw.jpg" group-title="①📺广东★电视台",广州新闻台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzxw
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzxw.jpg" group-title="①📺广东★电视台",广州新闻台2
+https://aplays.gztv.com/sec/xinwen.m3u8?auth_key=1586358329-0-0-06a620a7e9748b3c7195528aae3d4132
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzsh.jpg" group-title="①📺广东★电视台",广州生活台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzsh
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzsh.jpg" group-title="①📺广东★电视台",广州生活台2
+https://aplays.gztv.com/sec/shenghuo.m3u8?auth_key=1586358393-0-0-a6eebf00a4acb04f181bc56104f82dbe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzse.jpg" group-title="①📺广东★电视台",广州少儿台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzse
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzse.jpg" group-title="①📺广东★电视台",广州少儿台2
+https://aplays.gztv.com/sec/shaoer.m3u8?auth_key=1586358411-0-0-7ae8771d2d6b248d74859aceef000d5b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzfz.jpg" group-title="①📺广东★电视台",广州法治台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzfz
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzfz.jpg" group-title="①📺广东★电视台",广州法治台2
+https://aplays.gztv.com/sec/jingji.m3u8?auth_key=1586358359-0-0-c1e22df6d9c536961a9b130cc420d7ea
 #EXTINF:-1 group-title="①📺广东★电视台",火神山医院
 http://gctxyc.liveplay.myqcloud.com/gc/jyg02_1_md.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",雷神山实时画面1
 http://mobilelive-play.ysp.cctv.cn/ysp/2F8F27AD68E55BA753424A26D761EDB3774A6AC710DA1748E615946B40CB75B5B9811AF231BAA804BFB1F2EAC9CA2A9270EC84643CF22D36B65EF2B647B1ADBE6F5E89482C3DEC18C8CCCB8B0A72520B7A78CF05501B0C3F8141DC0D9780CAB2/2001893301_hd.m3u8#http://mobilelive-play.ysp.cctv.cn/ysp/2F8F27AD68E55BA753424A26D761EDB3774A6AC710DA1748E615946B40CB75B5B9811AF231BAA804BFB1F2EAC9CA2A9270EC84643CF22D36B65EF2B647B1ADBE6F5E89482C3DEC18C8CCCB8B0A72520B7A78CF05501B0C3F8141DC0D9780CAB2/2001893301_hd.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",雷神山实时画面2
-http://mobilelive-play.ysp.cctv.cn/ysp/6D1BEA7FBEBBF86FFA845A6E219B85D14EA63007318AE095203B779F8C6E433BEA5CCCFD6371D2AB113C2440CBECA07DDCF1FCCE2170A53B8E0AE8CF1D340631B3C3BFE4E458884DB784FAE85AB4E4AF3EA653F2220E32124961162DE5A35FC9/2001893201_hd.m3u8#http://mobilelive-play.ysp.cctv.cn/ysp/6D1BEA7FBEBBF86FFA845A6E219B85D14EA63007318AE095203B779F8C6E433BEA5CCCFD6371D2AB113C2440CBECA07DDCF1FCCE2170A53B8E0AE8CF1D340631B3C3BFE4E458884DB784FAE85AB4E4AF3EA653F2220E32124961162DE5A35FC9/2001893201_hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgqx.jpg" group-title="①📺广东★电视台",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdxw.png" group-title="①📺广东★电视台",广东新闻
-http://nclive.grtn.cn/xwpd/sd/live.m3u8?_upt=1a8a40791586180166
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/xhzw.png" group-title="①📺广东★电视台",新华中文
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="①📺广东★电视台",纯享4K
@@ -51,6 +59,8 @@ http://nclive.grtn.cn/4K/sd/live.m3u8
 http://nclive.grtn.cn:80/4K/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺4K
 http://nclive.grtn.cn:80/4K/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdxw.png" group-title="①📺广东★电视台",广东新闻
+http://nclive.grtn.cn/xwpd/sd/live.m3u8?_upt=1a8a40791586180166
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdgj.png" group-title="①📺广东★电视台",广东国际
 http://nclive.grtn.cn/gjpd/sd/live.m3u8?_upt=46c7f2d81586180253
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdgg.png" group-title="①📺广东★电视台",广东公共
