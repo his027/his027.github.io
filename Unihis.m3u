@@ -5,28 +5,16 @@
 http://nclive.grtn.cn/zjpd/sd/live.m3u8?_upt=eb0777611586269534
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzzh.jpg" group-title="①📺广东★电视台",广州综合台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzzh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzzh.jpg" group-title="①📺广东★电视台",广州综合台2
-https://aplays.gztv.com/sec/zhonghe.m3u8?auth_key=1586358232-0-0-f62cf0cd307cf74dbe8764dbdb93cb44
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzys.jpg" group-title="①📺广东★电视台",广州影视台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzys
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzys.jpg" group-title="①📺广东★电视台",广州影视台2
-https://aplays.gztv.com/sec/yingshi.m3u8?auth_key=1586358375-0-0-00072d51bf27626cf0b0398bb8e230c3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzxw.jpg" group-title="①📺广东★电视台",广州新闻台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzxw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzxw.jpg" group-title="①📺广东★电视台",广州新闻台2
-https://aplays.gztv.com/sec/xinwen.m3u8?auth_key=1586358329-0-0-06a620a7e9748b3c7195528aae3d4132
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzsh.jpg" group-title="①📺广东★电视台",广州生活台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzsh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzsh.jpg" group-title="①📺广东★电视台",广州生活台2
-https://aplays.gztv.com/sec/shenghuo.m3u8?auth_key=1586358393-0-0-a6eebf00a4acb04f181bc56104f82dbe
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzse.jpg" group-title="①📺广东★电视台",广州少儿台
-http://player.200877926.top/17/gd/gztvm3u8.php?id=gzse
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzse.jpg" group-title="①📺广东★电视台",广州少儿台2
-https://aplays.gztv.com/sec/shaoer.m3u8?auth_key=1586358411-0-0-7ae8771d2d6b248d74859aceef000d5b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzfz.jpg" group-title="①📺广东★电视台",广州法治台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzfz
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzfz.jpg" group-title="①📺广东★电视台",广州法治台2
-https://aplays.gztv.com/sec/jingji.m3u8?auth_key=1586358359-0-0-c1e22df6d9c536961a9b130cc420d7ea
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzse.jpg" group-title="①📺广东★电视台",广州少儿台
+http://player.200877926.top/17/gd/gztvm3u8.php?id=gzse
 #EXTINF:-1 group-title="①📺广东★电视台",火神山医院
 http://gctxyc.liveplay.myqcloud.com/gc/jyg02_1_md.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",雷神山实时画面1
@@ -889,25 +877,25 @@ http://aldirect.rtmp.huya.com/huyalive/30765679-2523417567-10837995924416888832-
 http://aldirect.rtmp.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1/20200224160409.jpg" group-title="④📡电视剧Series-古装-轮播",【新三国】滚滚长江东逝水
 http://aldirect.rtmp.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="④📡  YY 古装（有广告）",新白娘子传奇
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",新白娘子传奇
 http://47.240.60.73/yy.php?t=1382650232
-#EXTINF:-1 group-title="④📡  YY 古装（有广告）",还珠格格
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",还珠格格
 http://47.240.60.73/yy.php?t=1349625785
-#EXTINF:-1 group-title="④📡  YY 古装（有广告）",芈月传
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",芈月传
 http://47.240.60.73/yy.php?t=1382650380
-#EXTINF:-1 group-title="④📡  YY 古装（有广告）",甄嬛传1
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",甄嬛传1
 http://47.240.60.73/yy.php?t=1351074342
-#EXTINF:-1 group-title="④📡  YY 古装（有广告）",甄嬛传2
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",甄嬛传2
 http://sousou2.top/dl/yy1.php?t=1350309222
-#EXTINF:-1 group-title="④📡  YY 古装（有广告）",延禧攻略
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",延禧攻略
 http://47.240.60.73/yy.php?t=21881901
-#EXTINF:-1 group-title="④📡  YY 古装（有广告）",宫斗延禧
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",宫斗延禧
 http://sousou2.top/dl/yy1.php?t=31292828
-#EXTINF:-1 group-title="④📡  YY 古装（有广告）",燕双鹰
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",燕双鹰
 http://47.240.60.73/yy.php?t=1353396018
-#EXTINF:-1 group-title="④📡  YY 古装（有广告）",燕双鹰2
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",燕双鹰2
 http://47.240.60.73/yy.php?t=1352227153
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1/20200224160354.jpg" group-title="④📡  YY 古装（有广告）",九岁县太爷
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1/20200224160354.jpg" group-title="④📡 YY 直播 （有广告）",九岁县太爷
 http://aldirect.rtmp.huya.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="④📡电视剧Series-古装-剧场",传奇剧场
 http://47.240.60.73/migu.php?id=625526423
@@ -1285,6 +1273,44 @@ http://aldirect.rtmp.huya.com/backsrc/30765679-2499070088-10733424298371842048-2
 http://aldirect.rtmp.huya.com/huyalive/28466698-2689655956-11551984368511614976-2847699190-10057-A-0-1.m3u8?wsSecret=9a7ebd280ca1369cbcbe27c2b4dfedfa&wsTime=5e1988e7&txyp=o:q5;&fs=bgct
 #EXTINF:-1 group-title="⑦📡Genre-系列",魅影特工
 http://aldirect.rtmp.huya.com/backsrc/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",周星驰经典轮播
+http://3954.liveplay.myqcloud.com/live/3954_382995145.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",经典+科幻+动作+灾难
+http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",电影Ⅰ你想看的这里都有！24小时
+http://3954.liveplay.myqcloud.com/live/3954_535854350.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",电影Ⅰ24小时 喜剧 经典电影
+http://3954.liveplay.myqcloud.com/live/3954_199681168.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",爱情公寓
+http://3954.liveplay.myqcloud.com/live/3954_322842111.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",名侦探柯南 24H
+http://3954.liveplay.myqcloud.com/live/3954_616512747.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",动漫
+http://tx2play1.douyucdn.cn/live/206858rtestxjl.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",奥特曼合集
+http://3954.liveplay.myqcloud.com/live/3954_10848286.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",宇宙英雄奥特曼
+http://3954.liveplay.myqcloud.com/live/3954_161415327.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",恐怖 惊悚 动作 科幻 喜剧
+http://3954.liveplay.myqcloud.com/live/3954_504525571.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",僵尸鬼片动作搞笑武侠
+http://3954.liveplay.myqcloud.com/live/3954_157023183.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",林正英鬼片
+https://flv-qqplay.inter.71edge.com/liveugc/rqy_u2a2xsn4.flv
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",僵尸鬼片
+http://3954.liveplay.myqcloud.com/live/3954_363783415.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",德云社相声专场
+http://3954.liveplay.myqcloud.com/live/3954_468780224.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",传统相声专场24
+http://3954.liveplay.myqcloud.com/live/3954_616289265.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",德云社郭德纲相声
+http://3954.liveplay.myqcloud.com/live/3954_202452345.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",小品、相声
+http://3954.liveplay.myqcloud.com/live/3954_164540838.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",荒野求生-德哥贝爷夫妻档
+http://3954.liveplay.myqcloud.com/live/3954_577368917.xs
+#EXTINF:-1 group-title="⑦📡 qq企鹅直播（有广告）",高分超清纪录片集锦
+http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",小贝食记
 http://aldirect.rtmp.huya.com/huyalive/1445282059-1445282059-6207439176900542464-2990957820-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",美食厨房
