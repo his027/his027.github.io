@@ -43,6 +43,8 @@ http://nclive.grtn.cn/gjpd/sd/live.m3u8?_upt=46c7f2d81586180253
 http://nclive.grtn.cn/ggpd/sd/live.m3u8?_upt=208152021586180300
 #EXTINF:-1 group-title="①📺广东★电视台",广东房产
 http://nclive.grtn.cn/fcpd/sd/live.m3u8?_upt=ebe0dc471586180331
+#EXTINF:-1 group-title="①📺广东★电视台",广东体育
+http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
 #EXTINF:-1 group-title="①📺广东★电视台",广东科教
 http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",广东少儿
