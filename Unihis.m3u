@@ -2,19 +2,7 @@
 #EXTINF:-1 tvg-logo="111" group-title="Unihis",
 
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="①📺广东★电视台",广东珠江
-http://nclive.grtn.cn/zjpd/sd/live.m3u8?_upt=eb0777611586269534
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzzh.jpg" group-title="①📺广东★电视台",广州综合台
-http://player.200877926.top/17/gd/gztvm3u8.php?id=gzzh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzys.jpg" group-title="①📺广东★电视台",广州影视台
-http://player.200877926.top/17/gd/gztvm3u8.php?id=gzys
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzxw.jpg" group-title="①📺广东★电视台",广州新闻台
-http://player.200877926.top/17/gd/gztvm3u8.php?id=gzxw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzsh.jpg" group-title="①📺广东★电视台",广州生活台
-http://player.200877926.top/17/gd/gztvm3u8.php?id=gzsh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzfz.jpg" group-title="①📺广东★电视台",广州法治台
-http://player.200877926.top/17/gd/gztvm3u8.php?id=gzfz
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzse.jpg" group-title="①📺广东★电视台",广州少儿台
-http://player.200877926.top/17/gd/gztvm3u8.php?id=gzse
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=20&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",火神山医院
 http://gctxyc.liveplay.myqcloud.com/gc/jyg02_1_md.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",雷神山实时画面1
@@ -1219,8 +1207,6 @@ http://aldirect.rtmp.huya.com/huyalive/28466698-2689654812-11551979455069028352-
 https://aldirect.rtmp.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8
 #EXTINF:-1 group-title="⑦📡Genre-主题",盗墓
 http://aldirect.rtmp.huya.com/huyalive/28466698-2689654812-11551979455069028352-2847687626-10057-A-1525510268-1.m3u8
-#EXTINF:-1 group-title="⑦📡Genre-主题",鬼吹灯-盗墓笔记
-http://aldirect.rtmp.huya.com/backsrc/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://tx-live-cover.msstatic.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1/20200328214726.jpg?sign=xG3gK5zKoL8TbX/Gbykp1A7x4aZhPTEyNTM0OTg3MDEmaz1BS0lEeG56NjRXQTU3eGQ4VUVxVXlIT0tuQUxRTEN1UkN6NTUmZT0xNTkzMTc5MjQ3JnQ9MTU4NTQwMzI0NyZyPTEyMzQ1Njc4JmY9L2h1eWFsaXZlLzMwNzY1Njc5LTI1NTQ0MTQ4MDgtMTA5NzExMjgwNjA3NzgxMTkxNjgtMzA0ODk1OTYzNi0xMDA1Ny1BLTAtMS8yMDIwMDMyODIxNDcyNi5qcGcmYj1odXlhLXNjcmVlbnNob3RzLXJldmlldy0xMjUzNDk4NzAx" group-title="⑦📡Genre-主题",【惊悚 悬疑 玄幻 动作】播不停
 http://aldirect.rtmp.huya.com/backsrc/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑦📡Genre-主题",僵尸剧场
@@ -1365,6 +1351,8 @@ http://aldirect.rtmp.huya.com/backsrc/1099531739995-1099531739995-86381322854989
 http://aldirect.rtmp.huya.com/huyalive/1099531740249-1099531740249-86382413776683008-2199063603954-10057-A-0-1.m3u8?wsSecret=3121ad03217b9fa745e14c36b2c655dd&wsTime=5e23f5d1&txyp=o:q5;&fs=bgct&ratio=2500
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",花式台球
 http://aldirect.rtmp.huya.com/huyalive/1099531740248-1099531740248-86382409481715712-2199063603952-10057-A-0-1.m3u8?wsSecret=9b14fdc329774af31084edb090f61163&wsTime=5e23f54d&fs=bgct&ratio=2500
+#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",高分超清纪录片集锦
+http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",短的发布会
 http://aldirect.rtmp.huya.com/huyalive/1445190547-1445190547-6207046135853350912-1418039432-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",辉煌中国
@@ -2569,6 +2557,8 @@ http://youku.com-l-youku.com/20181226/6782_109710cd/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",美丽中国-虎牙
 http://aldirect.rtmp.huya.com/huyalive/1199524471627-1199524471627-5276779824680009728-2399049066710-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",高分超清纪录片集锦
+http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 #EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",直播中国精编直播
 http://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",景区|精编直播中国
