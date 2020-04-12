@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 tvg-logo="111" group-title="Unihis",
+#EXTINF:-1 tvg-logo="111" group-title="  00U nihis",
 
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
 http://sttv.aote.xyz/gdtv/?id=CHTVB26
@@ -17,10 +17,6 @@ http://sttv.aote.xyz/gdtv/?id=CHTVB27
 http://sttv.aote.xyz/gdtv/?id=CHTVPtvs5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdnfws.png" group-title="①📺广东★电视台",广东南方卫视
 http://sttv.aote.xyz/gdtv/?id=CHTVPtvs2
-#EXTINF:-1 group-title="①📺广东★电视台",火神山医院
-http://gctxyc.liveplay.myqcloud.com/gc/jyg02_1_md.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",雷神山实时画面
-http://mobilelive-play.ysp.cctv.cn/ysp/2F8F27AD68E55BA753424A26D761EDB3774A6AC710DA1748E615946B40CB75B5B9811AF231BAA804BFB1F2EAC9CA2A9270EC84643CF22D36B65EF2B647B1ADBE6F5E89482C3DEC18C8CCCB8B0A72520B7A78CF05501B0C3F8141DC0D9780CAB2/2001893301_hd.m3u8#http://mobilelive-play.ysp.cctv.cn/ysp/2F8F27AD68E55BA753424A26D761EDB3774A6AC710DA1748E615946B40CB75B5B9811AF231BAA804BFB1F2EAC9CA2A9270EC84643CF22D36B65EF2B647B1ADBE6F5E89482C3DEC18C8CCCB8B0A72520B7A78CF05501B0C3F8141DC0D9780CAB2/2001893301_hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgqx.jpg" group-title="①📺广东★电视台",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgqx.jpg" group-title="①📺广东★电视台",中国气象
@@ -29,13 +25,11 @@ http://gzyx.rhiptv.xyz/gz.php?id=zgqx
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="①📺广东★电视台",第一财经
 http://183.207.255.190/live/program/live/dycj/1300000/mnf.m3u8#http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
-#EXTINF:-1 tvg-id="1985" group-title="①📺广东★电视台",第一财经
-http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",东方财经
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/dfcj.png" group-title="①📺广东★电视台",东方财经
 http://itv.ahau.edu.cn/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000115.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",点掌财经
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/dzcj.png" group-title="①📺广东★电视台",点掌财经
 http://cclive.aniu.tv/live/anzb.m3u8#http://47.240.60.73/migu.php?id=638028966
-#EXTINF:-1 group-title="①📺广东★电视台",点掌财经
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/dzcj.png" group-title="①📺广东★电视台",点掌财经
 http://cclive2.aniu.tv/live/anzb.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",留学世界
 http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=HMG3A7AA4UURM6UM0CDY9FJWNG57&ts=1550812456
@@ -45,16 +39,14 @@ http://nclive.grtn.cn/xwpd/sd/live.m3u8?_upt=1a8a40791586180166
 http://nclive.grtn.cn/gjpd/sd/live.m3u8?_upt=46c7f2d81586180253
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdgg.png" group-title="①📺广东★电视台",广东公共
 http://nclive.grtn.cn/ggpd/sd/live.m3u8?_upt=208152021586180300
-#EXTINF:-1 group-title="①📺广东★电视台",广东房产
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdfc.png" group-title="①📺广东★电视台",广东房产
 http://nclive.grtn.cn/fcpd/sd/live.m3u8?_upt=ebe0dc471586180331
-#EXTINF:-1 group-title="①📺广东★电视台",广东岭南戏曲
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdlnxq.png" group-title="①📺广东★电视台",广东岭南戏曲
 http://szlive.grtn.cn/lnxq/sd/live.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",广东移动
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdyd.png" group-title="①📺广东★电视台",广东移动
 http://szlive.grtn.cn/ydpd/sd/live.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",广东高尔夫
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdgef.png" group-title="①📺广东★电视台",广东高尔夫
 http://szlive.grtn.cn/grfpd/sd/live.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",中国交通-广东
-http://tv.lanjingfm.com/cctbn/guangdong.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="①📺广东★电视台",珠江电影
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=7&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="①📺广东★电视台",珠江电影
@@ -69,10 +61,12 @@ http://111.40.205.87/PLTV/88888888/224/3221225699/index.m3u8
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="①📺广东★电视台",金鹰纪实
 http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",河源综合
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/hydst.png" group-title="①📺广东★电视台",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",河源公共
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/hydst.png" group-title="①📺广东★电视台",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/hyzj.png" group-title="①📺广东★电视台",紫金电视台
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="①📺广东★电视台",广州40年时代巨变
 http://hls.cntv.baishancdnx.cn/asp/hls/main/0303000a/3/default/b41b61822aac47c1b9cd2dc6352648c7/main.m3u8?maxbr=2048
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ChannelV.png" group-title="①📺广东★电视台",江边古城-赤壁
@@ -120,9 +114,7 @@ http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K 鉴赏",CCTV4K
 http://gzyx.rhiptv.xyz/gz.php?id=cctv4k
 #EXTINF:-1 group-title="①📺HD-4K 鉴赏",BesTV4K
-http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="①📺HD-4K 鉴赏",BesTV4K
-http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
+http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 group-title="①📺HD-4K 鉴赏",咪咕直播4K超清
 http://39.134.52.153/PLTV/88888888/224/3221226158/1.m3u8
 #EXTINF:-1 group-title="①📺HD-4K 鉴赏",咪咕体育4K超清
