@@ -1,7 +1,7 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-logo="111" group-title="Unihis",
 
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="①📺广东★电视台",广东珠江
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
 http://sttv.aote.xyz/gdtv/?id=CHTVB26
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺
 http://sttv.aote.xyz/gdtv/?id=CHTVP4K
@@ -13,6 +13,8 @@ http://sttv.aote.xyz/gdtv/?id=CHTVPtvs1hd
 http://sttv.aote.xyz/gdtv/?id=CHTVB27
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdse.png" group-title="①📺广东★电视台",广东少儿
 http://sttv.aote.xyz/gdtv/?id=CHTVPtvs5
+#EXTINF:-1 group-title="①📺广东★电视台",广东南方卫视
+http://sttv.aote.xyz/gdtv/?id=CHTVPtvs2
 #EXTINF:-1 group-title="①📺广东★电视台",火神山医院
 http://gctxyc.liveplay.myqcloud.com/gc/jyg02_1_md.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",雷神山实时画面1
@@ -43,6 +45,14 @@ http://nclive.grtn.cn/gjpd/sd/live.m3u8?_upt=46c7f2d81586180253
 http://nclive.grtn.cn/ggpd/sd/live.m3u8?_upt=208152021586180300
 #EXTINF:-1 group-title="①📺广东★电视台",广东房产
 http://nclive.grtn.cn/fcpd/sd/live.m3u8?_upt=ebe0dc471586180331
+#EXTINF:-1 group-title="①📺广东★电视台",广东岭南戏曲
+http://szlive.grtn.cn/lnxq/sd/live.m3u8
+#EXTINF:-1 group-title="①📺广东★电视台",广东移动
+http://szlive.grtn.cn/ydpd/sd/live.m3u8
+#EXTINF:-1 group-title="①📺广东★电视台",广东高尔夫
+http://szlive.grtn.cn/grfpd/sd/live.m3u8
+#EXTINF:-1 group-title="①📺广东★电视台",中国交通-广东
+http://tv.lanjingfm.com/cctbn/guangdong.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="①📺广东★电视台",珠江电影
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=7&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="①📺广东★电视台",珠江电影
@@ -83,37 +93,37 @@ http://hbcb.chinashadt.com:1936/live/tv2.stream/chunklist_w68703164.m3u8
 http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hubei_2_hd.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="①📺广东★电视台",湖北卫视HD
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 group-title="①HD-4K 鉴赏",高分超清纪录片集锦
+#EXTINF:-1 group-title="①📺HD-4K 鉴赏",超清纪录片集锦
 http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
-#EXTINF:-1 group-title="①HD-4K 鉴赏",全国风景总览
+#EXTINF:-1 group-title="①📺HD-4K 鉴赏",全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="①HD-4K 鉴赏",美丽中国-虎牙
+#EXTINF:-1 group-title="①📺HD-4K 鉴赏",美丽中国-虎牙
 http://aldirect.rtmp.huya.com/huyalive/1199524471627-1199524471627-5276779824680009728-2399049066710-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="①HD-4K 鉴赏",纯享4K
+#EXTINF:-1 tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="①📺HD-4K 鉴赏",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 group-title="①HD-4K 鉴赏",4K导视频道
+#EXTINF:-1 group-title="①📺HD-4K 鉴赏",4K导视频道
 http://cbnlive.cbchot.com/live/4klocal_1.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv4k.jpg" group-title="①HD-4K 鉴赏",CCTV4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①HD-4K 鉴赏",CCTV4K
-http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
-#EXTINF:-1 tvg-id="106" tvg-logo="http://tv.sason.xyz/logo/cctv4k.png" group-title="①HD-4K 鉴赏",CCTV4K
-http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①HD-4K 鉴赏",CCTV-4K
-http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①HD-4K 鉴赏",CCTV-4K
-http://hwltc.tv.cdn.zj.chinamobile.com/pltv/88888888/224/3221229373/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①HD-4K 鉴赏",CCTV-4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K 鉴赏",CCTV-4K
 http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/3221226758/1.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①HD-4K 鉴赏",CCTV4K
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K 鉴赏",CCTV-4K
+http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K 鉴赏",CCTV-4K
+http://hwltc.tv.cdn.zj.chinamobile.com/pltv/88888888/224/3221229373/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K 鉴赏",CCTV4K
+http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K 鉴赏",CCTV4K
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K 鉴赏",CCTV4K
+http://live-wcloud-cdn.ysp.cctv.cn/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K 鉴赏",CCTV4K
 http://gzyx.rhiptv.xyz/gz.php?id=cctv4k
-#EXTINF:-1 group-title="①HD-4K 鉴赏",BesTV4K
-http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="①HD-4K 鉴赏",BesTV4K
+#EXTINF:-1 group-title="①📺HD-4K 鉴赏",BesTV4K
 http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 group-title="①HD-4K 鉴赏",咪咕直播4K超清
+#EXTINF:-1 group-title="①📺HD-4K 鉴赏",BesTV4K
+http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 group-title="①📺HD-4K 鉴赏",咪咕直播4K超清
 http://39.134.52.153/PLTV/88888888/224/3221226158/1.m3u8
-#EXTINF:-1 group-title="①HD-4K 鉴赏",咪咕体育4K超清
+#EXTINF:-1 group-title="①📺HD-4K 鉴赏",咪咕体育4K超清
 http://39.134.52.180/PLTV/88888888/224/3221226162/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/sejy.jpg" group-title="②📺少儿益智💯‍‍教育台-儿歌",儿歌大全
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_ergedaquan&ostype=android&hwtype=nubia&tm=1579958333&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
@@ -2623,7 +2633,7 @@ http://youku.com-l-youku.com/20181226/6782_109710cd/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",美丽中国-虎牙
 http://aldirect.rtmp.huya.com/huyalive/1199524471627-1199524471627-5276779824680009728-2399049066710-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",高分超清纪录片集锦
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",高分超清纪录片集
 http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 #EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",乌镇-乌镇全景
 http://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
