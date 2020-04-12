@@ -15,9 +15,11 @@ http://sttv.aote.xyz/gdtv/?id=CHTVB27
 http://sttv.aote.xyz/gdtv/?id=CHTVPtvs5
 #EXTINF:-1 group-title="①📺广东★电视台",广东南方卫视
 http://sttv.aote.xyz/gdtv/?id=CHTVPtvs2
+#EXTINF:-1 group-title="①📺广东★电视台",中国交通-广东
+http://tv.lanjingfm.com/cctbn/guangdong.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",火神山医院
 http://gctxyc.liveplay.myqcloud.com/gc/jyg02_1_md.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",雷神山实时画面1
+#EXTINF:-1 group-title="①📺广东★电视台",雷神山实时画面
 http://mobilelive-play.ysp.cctv.cn/ysp/2F8F27AD68E55BA753424A26D761EDB3774A6AC710DA1748E615946B40CB75B5B9811AF231BAA804BFB1F2EAC9CA2A9270EC84643CF22D36B65EF2B647B1ADBE6F5E89482C3DEC18C8CCCB8B0A72520B7A78CF05501B0C3F8141DC0D9780CAB2/2001893301_hd.m3u8#http://mobilelive-play.ysp.cctv.cn/ysp/2F8F27AD68E55BA753424A26D761EDB3774A6AC710DA1748E615946B40CB75B5B9811AF231BAA804BFB1F2EAC9CA2A9270EC84643CF22D36B65EF2B647B1ADBE6F5E89482C3DEC18C8CCCB8B0A72520B7A78CF05501B0C3F8141DC0D9780CAB2/2001893301_hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgqx.jpg" group-title="①📺广东★电视台",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
@@ -93,7 +95,7 @@ http://hbcb.chinashadt.com:1936/live/tv2.stream/chunklist_w68703164.m3u8
 http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hubei_2_hd.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="①📺广东★电视台",湖北卫视HD
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 group-title="①📺HD-4K 鉴赏",超清纪录片集锦
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gqjl.jpg" group-title="①📺HD-4K 鉴赏",超清纪录片集锦
 http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 #EXTINF:-1 group-title="①📺HD-4K 鉴赏",全国风景总览
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
@@ -2633,8 +2635,6 @@ http://youku.com-l-youku.com/20181226/6782_109710cd/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",美丽中国-虎牙
 http://aldirect.rtmp.huya.com/huyalive/1199524471627-1199524471627-5276779824680009728-2399049066710-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",高分超清纪录片集
-http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 #EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",乌镇-乌镇全景
 http://gctxyc.liveplay.myqcloud.com/gc/zjwzblt_1_md.m3u8
 #EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",乌镇-蓝印花布
