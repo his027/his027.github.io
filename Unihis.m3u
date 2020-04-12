@@ -3,8 +3,10 @@
 
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
 http://sttv.aote.xyz/gdtv/?id=CHTVB26
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺4K
 http://sttv.aote.xyz/gdtv/?id=CHTVP4K
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgjt.png" group-title="①📺广东★电视台",中国交通-广东
+http://tv.lanjingfm.com/cctbn/guangdong.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdys.png" group-title="①📺广东★电视台",广东影视
 http://sttv.aote.xyz/gdtv/?id=CHTVPtvs4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdjjkj.png" group-title="①📺广东★电视台",广东经济科教
@@ -13,10 +15,8 @@ http://sttv.aote.xyz/gdtv/?id=CHTVPtvs1hd
 http://sttv.aote.xyz/gdtv/?id=CHTVB27
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdse.png" group-title="①📺广东★电视台",广东少儿
 http://sttv.aote.xyz/gdtv/?id=CHTVPtvs5
-#EXTINF:-1 group-title="①📺广东★电视台",广东南方卫视
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdnfws.png" group-title="①📺广东★电视台",广东南方卫视
 http://sttv.aote.xyz/gdtv/?id=CHTVPtvs2
-#EXTINF:-1 group-title="①📺广东★电视台",中国交通-广东
-http://tv.lanjingfm.com/cctbn/guangdong.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",火神山医院
 http://gctxyc.liveplay.myqcloud.com/gc/jyg02_1_md.m3u8
 #EXTINF:-1 group-title="①📺广东★电视台",雷神山实时画面
