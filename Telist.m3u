@@ -6525,6 +6525,8 @@ http://[2001:250:4814:1::200]/hls/cctv3hd.m3u8#http://[2001:250:5405:13::47]/hls
 http://[2001:250:4814:1::200]/hls/cctv4hd.m3u8#http://[2001:250:5405:13::47]/hls/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="①📺CCTV [IPV6]",CCTV-5 HD
 http://[2001:250:4814:1::200]/hls/cctv5hd.m3u8#http://[2001:250:5405:13::47]/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="①📺CCTV [IPV6]",CCTV-5+ HD
+http://[2001:250:4814:1::200]/hls/cctv5phd.m3u8#http://[2001:250:5405:13::47]/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺CCTV [IPV6]",CCTV-6 HD
 http://[2001:250:4814:1::200]/hls/cctv6hd.m3u8#http://[2001:250:5405:13::47]/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="①📺CCTV [IPV6]",CCTV-7 HD
@@ -6539,7 +6541,7 @@ http://[2001:250:4814:1::200]/hls/cctv10hd.m3u8#http://[2001:250:5405:13::47]/hl
 http://[2001:250:4814:1::200]/hls/cctv11hd.m3u8#http://[2001:250:5405:13::47]/hls/cctv11.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="①📺CCTV [IPV6]",CCTV-12 HD
 http://[2001:250:4814:1::200]/hls/cctv12hd.m3u8#http://[2001:250:5405:13::47]/hls/cctv12hd.m3u8
-#EXTINF:-1 tvg-id="14" tvg-logo="http://tv.sason.xyz/logo/cctv13.png" group-title="①📺CCTV [IPV6]",CCTV13 HD
+#EXTINF:-1 tvg-id="14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="①📺CCTV [IPV6]",CCTV-13 HD
 http://[2001:250:4814:1::200]/hls/cctv13.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="①📺CCTV [IPV6]",CCTV-13HD
 http://[2001:250:5405:13::47]/hls/cctv13.m3u8
@@ -6549,8 +6551,6 @@ http://[2001:250:4814:1::200]/hls/cctv14hd.m3u8#http://[2001:250:5405:13::47]/hl
 http://[2001:250:4814:1::200]/hls/cctv15hd.m3u8#http://[2001:250:5405:13::47]/hls/cctvhd.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="①📺CCTV [IPV6]",CCTV-17HD
 http://[2001:250:5405:13::47]/hls/cctv17hd.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="①📺CCTV [IPV6]",CCTV-5+ HD
-http://[2001:250:4814:1::200]/hls/cctv5phd.m3u8#http://[2001:250:5405:13::47]/hls/cctv5phd.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="①📺CCTV [IPV6]",CCTV-1综合
 http://[2001:250:5405:13::47]/hls/cctv1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="①📺CCTV [IPV6]",CCTV-2财经
