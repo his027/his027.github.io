@@ -1411,8 +1411,6 @@ http://125.210.152.18:9090/live/QSKX_1200.m3u8
 http://125.210.152.18:9090/live/QSDW_1200.m3u8
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",求索生活
 http://125.210.152.18:9090/live/QSSH_1200.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",动物世界
-http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",自然地理
 http://47.240.60.73/aqy.php?id=3801158
 #EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="⑧♥️[文娱精选]♥️-科技人文",国家地理
@@ -1893,8 +1891,6 @@ http://stream.guihet.com/tv/cibn.php?id=164
 http://stream.guihet.com/tv/cibn.php?id=212
 #EXTINF:-1 group-title="⑪📡CIBN@影集",CIBNCIBN
 http://stream.guihet.com/tv/cibn.php?id=217
-#EXTINF:-1 group-title="⑫📡华数@影集",华数_BBC系列
-http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 #EXTINF:-1 group-title="⑫📡华数@影集",华数_军事纪实
 http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
 #EXTINF:-1 group-title="⑫📡华数@影集",华数_科教人文
@@ -1939,8 +1935,6 @@ http://hls-ott-zhibo.wasu.tv/live/384/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/386/index.m3u8
 #EXTINF:-1 group-title="⑫📡华数@影集",392号[768*576]
 http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
-#EXTINF:-1 group-title="⑫📡华数@影集",395号[1280*720]
-http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 #EXTINF:-1 group-title="⑫📡华数@影集",393号[768*576]
 http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
 #EXTINF:-1 group-title="⑫📡华数@影集",391号[1280*720]
