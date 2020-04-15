@@ -99,6 +99,10 @@ http://aldirect.rtmp.huya.com/huyalive/1199524471627-1199524471627-5276779824680
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="①📺HD-4K 鉴赏",纯享4K
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="①📺HD-4K 鉴赏",Olympic Channel
+https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-id="17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="①📺HD-4K 鉴赏",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K 鉴赏",CCTV-4K
 http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K 鉴赏",CCTV-4K
@@ -2389,12 +2393,6 @@ http://117.156.28.119/270000001111/1110000110/index.m3u8
 http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",一起学健身
 http://aldirect.rtmp.huya.com/huyalive/1199526253101-1199526253101-5284431197248684032-2399052629658-10057-A-0-1.m3u8?wsSecret=2db11f89a10fe06e30fab33661fc0183&wsTime=5e23f413&fs=bgct&ratio=2500
-#EXTINF:-1 tvg-id="17" tvg-name="Olympic Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Olympic_Channel_logo.png" group-title="⑰⚽体育健康🏋️",Olympic Channel 1
-https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 tvg-id="17" group-title="⑰⚽体育健康🏋️",奥林匹克高清
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="17" group-title="⑰⚽体育健康🏋️",奥铃匹克蓝光
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",武林风
 http://aldirect.rtmp.huya.com/huyalive/1099531627794-1099531627794-85899423229411328-2199063379044-10057-A-0-1.m3u8?wsSecret=631d1923cb525ff4f348fef2d5639cb6&wsTime=5e23f557&txyp=o:q5;&fs=bgct&ratio=2500
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",亚旅卫视
