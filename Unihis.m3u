@@ -91,8 +91,6 @@ http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="①📺广东★电视台",湖北卫视HD
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqjl.jpg" group-title="①📺HD-4K 鉴赏",超清纪录片集锦
-http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/mlzg.jpg" group-title="①📺HD-4K 鉴赏",美丽中国-虎牙
 http://aldirect.rtmp.huya.com/huyalive/1199524471627-1199524471627-5276779824680009728-2399049066710-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/qgfj.jpg" group-title="①📺HD-4K 鉴赏",全国风景总览
@@ -121,12 +119,14 @@ http://gzyx.rhiptv.xyz/gz.php?id=cctv4k
 http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/xbsj.jpg" group-title="①📺HD-4K 鉴赏",小贝食记Channel
 http://aldirect.rtmp.huya.com/huyalive/1445282059-1445282059-6207439176900542464-2990957820-10057-A-0-1_2500.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/dwsj.jpg" group-title="①📺HD-4K 鉴赏",动物世界Channel
-http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/dmxc.jpg" group-title="①📺HD-4K 鉴赏",动漫秀场
 http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/3dpd.jpg" group-title="①📺HD-4K 鉴赏",3D Channel
+#EXTINF:-1 tvg-id="63" tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/3dpd.jpg" group-title="①📺HD-4K 鉴赏",3D Channel
 http://112.17.40.140/PLTV/88888888/224/3221226475/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/dwsj.jpg" group-title="①📺HD-4K 鉴赏",动物世界Channel
+http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqjl.jpg" group-title="①📺HD-4K 鉴赏",超清纪录片集锦
+http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zggd.png" group-title="①📺HD-4K 鉴赏",4K导视频道
 http://cbnlive.cbchot.com/live/4klocal_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/mgzb.png" group-title="①📺HD-4K 鉴赏",咪咕直播4K超清
