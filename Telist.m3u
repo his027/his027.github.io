@@ -6515,6 +6515,88 @@ http://59.25.202.81:1935/live/UBCstream/chunklist_w1495115977.m3u8
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:-1 group-title="⑦📺Overseas海外🌏",蒙古国 I MNB
 http://103.14.38.107:1935/live/mnb.stream/master.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-1
+http://sk.live.otvcloud.com/otv/skcc/live/channel1/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-2
+http://sk.live.otvcloud.com/otv/skcc/live/channel2/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-3
+http://sk.live.otvcloud.com/otv/skcc/live/channel3/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-4
+http://sk.live.otvcloud.com/otv/skcc/live/channel4/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-5
+http://sk.live.otvcloud.com/otv/skcc/live/channel5/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-5+
+http://sk.live.otvcloud.com/otv/skcc/live/channel13/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-6
+http://sk.live.otvcloud.com/otv/skcc/live/channel6/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-7
+http://sk.live.otvcloud.com/otv/skcc/live/channel7/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-8
+http://sk.live.otvcloud.com/otv/skcc/live/channel8/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-9
+http://sk.live.otvcloud.com/otv/skcc/live/channel9/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-10
+http://sk.live.otvcloud.com/otv/skcc/live/channel10/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-11
+http://sk.live.otvcloud.com/otv/skcc/live/channel41/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-12
+http://sk.live.otvcloud.com/otv/skcc/live/channel11/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-13
+http://sk.live.otvcloud.com/otv/skcc/live/channel39/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-14
+http://sk.live.otvcloud.com/otv/skcc/live/channel12/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="📺📺亦非云 -卫视(备用)",CCTV-17
+http://sk.live.otvcloud.com/otv/skcc/live/channel90/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 group-title="📺📺亦非云 -卫视(备用)",CGTN-Document
+http://sk.live.otvcloud.com/otv/skcc/live/channel14/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="📺📺亦非云 -卫视(备用)",CGTN-News
+http://sk.live.otvcloud.com/otv/skcc/live/channel15/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 group-title="📺📺亦非云 -卫视(备用)",CETV-1
+http://sk.live.otvcloud.com/otv/skcc/live/channel33/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="📺📺亦非云 -卫视(备用)",广东卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel16/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="📺📺亦非云 -卫视(备用)",深圳卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel17/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="📺📺亦非云 -卫视(备用)",江苏卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel18/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="📺📺亦非云 -卫视(备用)",浙江卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel19/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="📺📺亦非云 -卫视(备用)",吉林卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel20/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="📺📺亦非云 -卫视(备用)",湖北卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel21/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="📺📺亦非云 -卫视(备用)",江西卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel22/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="📺📺亦非云 -卫视(备用)",安徽卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel23/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="📺📺亦非云 -卫视(备用)",北京卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel24/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="📺📺亦非云 -卫视(备用)",湖南卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel25/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="📺📺亦非云 -卫视(备用)",东方卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel26/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="📺📺亦非云 -卫视(备用)",黑龙江卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel27/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="📺📺亦非云 -卫视(备用)",天津卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel28/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="📺📺亦非云 -卫视(备用)",山东卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel29/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="📺📺亦非云 -卫视(备用)",四川卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel31/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="📺📺亦非云 -卫视(备用)",辽宁卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel32/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 group-title="📺📺亦非云 -卫视(备用)",广东体育
+http://sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="📺📺亦非云 -卫视(备用)",重庆卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel56/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="📺📺亦非云 -卫视(备用)",河南卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel78/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="📺📺亦非云 -卫视(备用)",河北卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel79/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="📺📺亦非云 -卫视(备用)",东南卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel80/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="📺📺亦非云 -卫视(备用)",内蒙古卫视
+http://sk.live.otvcloud.com/otv/skcc/live/channel93/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="①📺CCTV [IPV6]",CCTV-1 HD
 http://[2001:250:4814:1::200]/hls/cctv1hd.m3u8#http://[2001:250:5405:13::47]/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="①📺CCTV [IPV6]",CCTV-2 HD
