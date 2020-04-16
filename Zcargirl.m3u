@@ -3789,6 +3789,8 @@ http://videotiantian.gslawyerunion.com/20191222/nUWoZerg/hls/index.m3u8?wsSecret
 http://videotiantian.gslawyerunion.com/20191222/G79gaQ3p/hls/index.m3u8?wsSecret=2564fae30ab3cd93606ccb5c149b7d24&wsTime=1581157253395
 #EXTINF:-1 group-title="RANK 3 CN2", 美味的生活
 http://videotiantian.gslawyerunion.com/20191221/tL9rs8KS/hls/index.m3u8?wsSecret=db1e0c11fc701d177e02263b3a982009&wsTime=1581157343181
+#EXTINF:-1 group-title="Guochan",松视台
+http://pulltest.aircourses.com/live/5be077a334aa566fbf7ba27e48056760/playlist.m3u8?wsSession=373860683625fde422cfe465-158681407807988&wsIPSercert=9ce1fe8ca4db1aedd59ee6324ba2ffca&wsMonitor=0
 #EXTINF:-1 group-title="Guochan",玩家頻道
 http://58.99.33.2:1935/liveedge2/bJkTZGfd_401_1/playlist.m3u8?checkCode=37050688asdfsdfsadf&aa=as
 #EXTINF:-1 group-title="Guochan",Happy 頻道
