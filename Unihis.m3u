@@ -3,6 +3,8 @@
 
 #EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
 http://sttv.aote.xyz/gdtv/?id=CHTVB26
+#EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
+http://gdhj.chinashadt.com:2035/live/6.stream/chunklist_w2139490375.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺4K
 http://sttv.aote.xyz/gdtv/?id=CHTVP4K
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视HD
@@ -19,6 +21,8 @@ http://tv.lanjingfm.com/cctbn/hubei.m3u8
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgqx.jpg" group-title="①📺广东★电视台",中国气象
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="①📺广东★电视台",CCTV电视指南
+http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/xhzw.png" group-title="①📺广东★电视台",新华中文
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="①📺广东★电视台",第一财经
@@ -1335,20 +1339,36 @@ http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
 http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",CHC家庭影院
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV1号厅
-https://cn-jsnt-dx-live-05.live-play.acgvideo.com/live-bvc/315078/live_52370715_1734265_1500.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV 2号厅
-https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_52370715_1734265.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV3号厅
-https://cn-zjwz-dx-live-03.live-play.acgvideo.com/live-bvc/603598/live_268522326_2538218_1500.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV 4号厅
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV动漫
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV动漫
 https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_189986442_7728008.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV 6号厅
-https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_255137759_7132099.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV 7号厅
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV动作
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV海外
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/471169/live_27444411_4287972.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV国产
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV国产
+https://cn-zjwz-dx-live-03.live-play.acgvideo.com/live-bvc/603598/live_268522326_2538218_1500.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV国外
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/211012/live_52370715_1734265.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV国外
+https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_52370715_1734265.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV科幻
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/243318/live_261831479_8429255.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV科幻
 https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_261831479_8429255.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV 8号厅
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV恐怖
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV恐怖
 https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_280698572_9101071.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV小新
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/293317/live_255137759_7132099.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV小新
+https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_255137759_7132099.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV9号厅
+https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV 9号厅
 https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_82436982_2406441.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",都市剧场
@@ -1421,6 +1441,26 @@ http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/hunanxiaoxiang2003
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",浙江-浙江影视
 http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8#http://yf.m.l.cztv.com/channels/lantian/channel005/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",河北影视 标清[655*480]
+http://weblive.hebtv.com/live/hbys_bq/index.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",周口影视
+http://dlhdl-cdn.zhanqi.tv/zqlive/80918_cr4oy.flv
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",齐影视港剧台
+http://dlhdl-cdn.zhanqi.tv/zqlive/291236_97IGR.flv
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",齐影视神话台
+http://dlhdl-cdn.zhanqi.tv/zqlive/295519_JkFS8.flv
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",齐影视电视剧
+http://dlhdl-cdn.zhanqi.tv/zqlive/295803_fLcJv.flv
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",终南山影视
+http://dlhdl-cdn.zhanqi.tv/zqlive/288547_qSJ5f.flv
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",终南山影视
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/288547_qSJ5f.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",周口电视剧
+http://dlhdl-cdn.zhanqi.tv/zqlive/194839_XtiBg.flv
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",淮阳影视
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/199301_y2bWG.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",齐影视卡式台
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
 #EXTINF:-1 group-title="⑨📀剧场-解说",国外电影解说
 http://aldirect.rtmp.huya.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑨📀剧场-解说",科幻5分钟
