@@ -21,7 +21,7 @@ http://tv.lanjingfm.com/cctbn/hubei.m3u8
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgqx.jpg" group-title="①📺广东★电视台",中国气象
 http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="①📺广东★电视台",CCTV电视指南
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/cctvdszn.png" group-title="①📺广东★电视台",CCTV电视指南
 http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/xhzw.png" group-title="①📺广东★电视台",新华中文
 http://livecdn1.news.cn/cnccn/manifest.m3u8
@@ -33,9 +33,9 @@ http://itv.ahau.edu.cn/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U
 http://cclive.aniu.tv/live/anzb.m3u8#http://47.240.60.73/migu.php?id=638028966
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/dzcj.png" group-title="①📺广东★电视台",点掌财经
 http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",家庭理财
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/jtlc.jpg" group-title="①📺广东★电视台",家庭理财
 http://hdtv.lzu6.edu.cn/hls/hls15.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",家庭理财
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/jtlc.jpg" group-title="①📺广东★电视台",家庭理财
 http://hdtv.lzu6.edu.cn/hls/hls19.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/lxsj.png" group-title="①📺广东★电视台",留学世界
 http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=HMG3A7AA4UURM6UM0CDY9FJWNG57&ts=1550812456
