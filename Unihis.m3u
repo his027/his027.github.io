@@ -157,37 +157,35 @@ http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视8台
 http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视8台
+http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视9台
 http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视9台
+http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视10台
 http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视11台
 http://stream.guihet.com/migu/index.php?id=625542369
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视12台
-http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光动画13台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光动画12台
 http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光动画14台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光动画13台
 http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光动漫15台
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光动漫14台
 http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.jpg" group-title="①📺HD-蓝光 影院",1HD 科教
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.png" group-title="①📺HD-蓝光 影院",1HD 科教
 http://112.17.40.140/PLTV/88888888/224/3221226179/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.jpg" group-title="①📺HD-蓝光 影院",2HD 电影
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.png" group-title="①📺HD-蓝光 影院",2HD 电影
 http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.jpg" group-title="①📺HD-蓝光 影院",3HD 电视剧
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.png" group-title="①📺HD-蓝光 影院",3HD 电视剧
 http://112.17.40.140/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.jpg" group-title="①📺HD-蓝光 影院",4HD 日本剧场
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.png" group-title="①📺HD-蓝光 影院",4HD 日本剧场
 http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.jpg" group-title="①📺HD-蓝光 影院",5HD 记录
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.png" group-title="①📺HD-蓝光 影院",5HD 记录
 http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.jpg" group-title="①📺HD-蓝光 影院",6HD 美食
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.png" group-title="①📺HD-蓝光 影院",6HD 美食
 http://112.17.40.140/PLTV/88888888/224/3221226479/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.jpg" group-title="①📺HD-蓝光 影院",8FHD 家庭
-http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.jpg" group-title="①📺HD-蓝光 影院",9FHD 科技
-http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.jpg" group-title="①📺HD-蓝光 影院",10FHD 记录
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqdy.png" group-title="①📺HD-蓝光 影院",7FHD 记录
 http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD大众影视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
@@ -211,10 +209,6 @@ http://hdtv.lzu6.edu.cn/hls/hls77a30.m3u8
 http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺HD-蓝光 影院",CCTV-6 HD
 http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺HD-蓝光 影院",CCTV-6 HD
-http://223.110.245.173/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺HD-蓝光 影院",CCTV-6 HD
-http://223.110.245.139/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺HD-蓝光 影院",CCTV-6 HD
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺HD-蓝光 影院",CCTV-6 HD
