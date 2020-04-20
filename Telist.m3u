@@ -1599,17 +1599,17 @@ http://ruijian.52yi.vip/proxy.php?vid=migu&id=651642156
 http://ruijian.52yi.vip/proxy.php?vid=migu&id=631094827
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="③📺卫视直播 (备用)",湖南卫视
 http://baiducdnct.inter.iqiyi.com/tslive/c20_lb_songzhongji_1080p_t10/c20_lb_songzhongji_1080p_t10.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzzh.jpg" group-title="④📺地方-电视台",广州综合台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzzh.jpg" group-title="④📺地方-电视台",广州综合台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzzh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzys.jpg" group-title="④📺地方-电视台",广州影视台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzys.jpg" group-title="④📺地方-电视台",广州影视台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzys
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzxw.jpg" group-title="④📺地方-电视台",广州新闻台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzxw.jpg" group-title="④📺地方-电视台",广州新闻台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzxw
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzsh.jpg" group-title="④📺地方-电视台",广州生活台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzsh.jpg" group-title="④📺地方-电视台",广州生活台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzsh
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzse.jpg" group-title="④📺地方-电视台",广州少儿台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzse.jpg" group-title="④📺地方-电视台",广州少儿台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzse
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/gzfz.png" group-title="④📺地方-电视台",广州法治台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzfz.png" group-title="④📺地方-电视台",广州法治台
 http://player.200877926.top/17/gd/gztvm3u8.php?id=gzfz
 #EXTINF:-1 group-title="④📺地方-电视台",广东 Ⅰ 韶关综合台
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
