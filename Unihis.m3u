@@ -11,11 +11,11 @@ http://sttv.aote.xyz/gdtv/?id=CHTVP4K
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视HD
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgjt.png" group-title="①📺广东★电视台",中国交通（广东）
+#EXTINF:-1 tvg-id="1994" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="①📺广东★电视台",中国交通（广东）
 http://tv.lanjingfm.com/cctbn/guangdong.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgjt.png" group-title="①📺广东★电视台",中国交通（北京）
+#EXTINF:-1 tvg-id="1994" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="①📺广东★电视台",中国交通（北京）
 http://tv.lanjingfm.com/cctbn/beijing.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgjt.png" group-title="①📺广东★电视台",中国交通（湖北）
+#EXTINF:-1 tvg-id="1994" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="①📺广东★电视台",中国交通（湖北）
 http://tv.lanjingfm.com/cctbn/hubei.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/his027/mo/master/tvlogo/tv/zgqx.jpg" group-title="①📺广东★电视台",中国气象
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
@@ -2325,6 +2325,8 @@ http://youku.com-l-youku.com/20181226/6782_109710cd/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",熊猫频道
 http://hdtv.lzu6.edu.cn/hls/hls148.m3u8
+#EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",熊猫频道
+https://gccnchwc.v.cdn20.com/gc/xiongmao23_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",美丽中国-虎牙
 http://aldirect.rtmp.huya.com/huyalive/1199524471627-1199524471627-5276779824680009728-2399049066710-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑲🌴[全国景区-A实景]🌄",乌镇-乌镇全景
