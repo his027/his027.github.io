@@ -5964,6 +5964,8 @@ rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv
 #EXTINF:-1 tvg-id="72" group-title="⑤📺港澳",CHC 动作电影
 http://192.200.120.82:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="⑤📺港澳",翡翠台
+https://pl0-hls.live.huajiao.com/live_huajiao_v2/0b35946cb77b8e0f3e430ca06310d6c5/playlist.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="⑤📺港澳",翡翠台
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="⑤📺港澳",翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -6072,6 +6074,8 @@ http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
 #EXTINF:-1 group-title="⑤📺港澳",加美東
 http://tvbilive9-i.akamaihd.net/hls/live/494661/CJCA5E/CJCA5E-04.m3u8
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="⑤📺港澳",明珠台
+https://pl0-hls.live.huajiao.com/live_huajiao_v2/b1da26cb8ef06a3e3d5f3320eeea881f/playlist.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="⑤📺港澳",明珠台
 http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=12?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=0&Pcontent_id=8114.m3u8&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="⑤📺港澳",明珠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -6090,11 +6094,13 @@ http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.m3u8
 #EXTINF:-1 group-title="⑤📺港澳",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="⑤📺港澳",有线新闻
+https://pl0-hls.live.huajiao.com/live_huajiao_v2/e822adc1512650392a7943ecb21747c3/playlist.m3u8
+#EXTINF:-1 group-title="⑤📺港澳",有线新闻
 https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 #EXTINF:-1 group-title="⑤📺港澳",无线新闻
-http://www.liveviptv.xyz/tv/tvb.php
+https://pl0-hls.live.huajiao.com/live_huajiao_v2/6cdb8dd7ca6da746a55e41f18ac2e8de/playlist.m3u8
 #EXTINF:-1 group-title="⑤📺港澳",无线新闻
-http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
+http://www.liveviptv.xyz/tv/tvb.php
 #EXTINF:-1 group-title="⑤📺港澳",无线新闻
 http://cczylive.chuangwanghulian.cn/live/zy_1531983996445.flv?auth_key=1593500458-57590819-0-3bc1f0bf55895038da448c64a71d09f1
 #EXTINF:-1 group-title="⑤📺港澳",无线新闻
