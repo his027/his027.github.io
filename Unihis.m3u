@@ -153,10 +153,10 @@ http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视7台
 http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视8台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视8台-原来如此
 http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视8台
-http://112.17.40.140/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视8台-原来如此
+http://39.134.176.148/PLTV/88888888/224/3221226608/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视9台
 http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lgdy.jpg" group-title="①📺HD-蓝光 影院",蓝光影视9台
@@ -183,8 +183,10 @@ http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226360/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqdy.png" group-title="①📺HD-蓝光 影院",6HD 美食
 http://112.17.40.140/PLTV/88888888/224/3221226479/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqdy.png" group-title="①📺HD-蓝光 影院",7FHD 记录
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqdy.png" group-title="①📺HD-蓝光 影院",7FHD 求索动物
 http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqdy.png" group-title="①📺HD-蓝光 影院",8HD唔知
+http://112.17.40.145/PLTV/88888888/224/3221226751/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD大众影视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD大众影视
@@ -1209,6 +1211,8 @@ http://baiducdncmn.inter.iqiyi.com/tslive/c19_lb_shoushennannv_high_t10/c19_lb_s
 http://aldirect.rtmp.huya.com/huyalive/1199514161081-1199514161081-5232496366806106112-2399028445618-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",美食纪录片
 http://aldirect.rtmp.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1.m3u8
+#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",美食李子柒
+http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",厨神驾到
 http://aldirect.rtmp.huya.com/backsrc/1099531739647-1099531739647-86379828206370816-2199063602750-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",毛骗

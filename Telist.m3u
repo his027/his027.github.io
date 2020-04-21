@@ -2925,6 +2925,8 @@ http://hbdg.chinashadt.com:1936/live/stream:dgtv1.stream/playlist.m3u8
 http://hbcb.chinashadt.com:1936/live/tv2.stream/playlist.m3u8
 #EXTINF:-1 group-title="④📺地方-电视台", 赤壁一套
 http://hbcb.chinashadt.com:1936/live/tv1.stream/playlist.m3u8
+#EXTINF:-1 group-title="④📺地方-电视台",咸宁公共
+http://xianning.live.cjyun.org/video/s10140-XNTV-1/index.m3u8
 #EXTINF:-1 group-title="④📺地方-电视台", 广水新闻频道
 http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
 #EXTINF:-1 group-title="④📺地方-电视台", 电白视窗
