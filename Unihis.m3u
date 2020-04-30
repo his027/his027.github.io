@@ -3,6 +3,8 @@
 
 #EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
 http://sttv.aote.xyz/gdtv/?id=CHTVB26
+#EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=zjpd&pl=sd
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺4K
 http://sttv.aote.xyz/gdtv/?id=CHTVP4K
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视HD
@@ -41,6 +43,10 @@ http://hdtv.lzu6.edu.cn/hls/hls15.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls19.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/lxsj.png" group-title="①📺广东★电视台",留学世界
 http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=HMG3A7AA4UURM6UM0CDY9FJWNG57&ts=1550812456
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/sxxcly.png" group-title="①📺广东★电视台",沙县小吃旅游
+https://35498.hlsplay.aodianyun.com/guangdianyun_35498/tv_channel_426.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/hqqg.png" group-title="①📺广东★电视台",环球奇观
+http://live3.nty.tv189.com/live/tm-yg1hqqg-512k.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/TITV.jpg" group-title="①📺广东★电视台",原住民族电视台
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdxw.png" group-title="①📺广东★电视台",广东新闻
@@ -473,6 +479,18 @@ https://aldirect.rtmp.huya.com/huyalive/29106097-2689405806-11550909982442520576
 http://47.240.60.73/aqy.php?id=3801584
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",名侦探柯南
 http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_mingzhentankenan_1080p_t10/c15_lb_mingzhentankenan_1080p_t10.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",动画轮播1
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/264569/live_26390633_7977540.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",动画轮播2
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/692655/live_79654173_1205242.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",动画轮播3
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/691088/live_27977562_5364248.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",动画轮播4
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/131616/live_614703_2648616.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",动画轮播5
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/707634/live_90549890_3567031.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",动画轮播7
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/847033/live_404829870_57159787.m3u8
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",黑莓动画
 http://112.17.40.140/PLTV/88888888/224/3221226654/index.m3u8
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-动漫",优漫卡通
@@ -1281,6 +1299,8 @@ http://aldirect.rtmp.huya.com/huyalive/1099531728259-1099531728259-8633091711880
 https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/03.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",广场舞
 http://47.240.60.73/aqy.php?id=3801863#http://baiducdncmn.inter.iqiyi.com/tslive/c19_lb_guangchangwudaquan_high_t10/c19_lb_guangchangwudaquan_high_t10.m3u8?key=78e6758f&qd_sc=8a3d33a5bab14a1c99e0efbd76f89bca&qd_scc=8c2c92a7fd4fbe41fb1c2cee6b88a39a&qd_src=01012001020000000000&qd_tm=1582729639672&qd_tvid=2907072523&qd_uid=0&qd_vip=0&qd_vipres=0&qyid=atkmj4zb56pizgocnk5mvphqaozxck6k
+#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",广场舞
+http://gslb.dianshihome.com/gslb/live?stream_id=iqiyilb_guangchangwudaquan
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",养生堂
 http://47.240.60.73/aqy.php?id=3802162
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",伍阿哥视频

@@ -491,6 +491,64 @@ http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=a2c9779e2a6ab0f02c23e0f
 http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=5bae33b00a427486c52b14a4e7c077b9
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="①📺CCTV （备用101）",CCTV17高清
 http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=ac0f356fa919179dc1a7e270e3e550f5
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="📺📺ioiozCCTV(备用)",CCTV1
+http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="📺📺ioiozCCTV(备用)",CCTV2
+http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="📺📺ioiozCCTV(备用)",CCTV2
+http://live-temp-litchi-hls-yf.jstv.com/live/zhibo-cctv2/online.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="📺📺ioiozCCTV(备用)",CCTV3
+http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="📺📺ioiozCCTV(备用)",CCTV3
+http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="📺📺ioiozCCTV(备用)",CCTV4
+http://cctvalih5ca.v.myalicdn.com/live/cctv4_2/index.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="📺📺ioiozCCTV(备用)",CCTV7
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="📺📺ioiozCCTV(备用)",CCTV9
+http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="📺📺ioiozCCTV(备用)",CCTV11
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="📺📺ioiozCCTV(备用)",CCTV12
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="📺📺ioiozCCTV(备用)",CCTV13
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="📺📺ioiozCCTV(备用)",CCTV14
+http://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="📺📺ioiozCCTV(备用)",CCTV15
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="📺📺ioiozCCTV(备用)",CCTV17
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="📺📺ioiozCCTV(备用)",CCTV1
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv1
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="📺📺ioiozCCTV(备用)",CCTV2
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv2
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="📺📺ioiozCCTV(备用)",CCTV3
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv3
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="📺📺ioiozCCTV(备用)",CCTV4
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv4
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="📺📺ioiozCCTV(备用)",CCTV5
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv5
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="📺📺ioiozCCTV(备用)",CCTV6
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv6
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="📺📺ioiozCCTV(备用)",CCTV7
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv7
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="📺📺ioiozCCTV(备用)",CCTV8
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="📺📺ioiozCCTV(备用)",CCTV9
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv9
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="📺📺ioiozCCTV(备用)",CCTV10
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv10
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="📺📺ioiozCCTV(备用)",CCTV11
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv11
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="📺📺ioiozCCTV(备用)",CCTV12
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv12
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="📺📺ioiozCCTV(备用)",CCTV13
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv13
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="📺📺ioiozCCTV(备用)",CCTV15
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cctv15
+#EXTINF:-1 group-title="📺📺ioiozCCTV(备用)",CETV1
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cetv1
 #EXTINF:-1 group-title="②📺CGTN&数字频道",法治天地
 http://111.20.33.69/PLTV/88888888/224/3221225651/index.m3u8
 #EXTINF:-1 group-title="②📺CGTN&数字频道",法治天地
@@ -6125,6 +6183,40 @@ http://gzyx.rhiptv.xyz/gz.php?id=sq
 http://gzyx.rhiptv.xyz/gz.php?id=sn
 #EXTINF:-1 group-title="④📺地方-电视台-GuizhouIPTV",德江
 http://gzyx.rhiptv.xyz/gz.php?id=dj
+#EXTINF:-1 group-title="④📺地方-备用",广东卫视HD
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=gdws&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",南方卫视
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=tvs2&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",广东新闻
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=xwpd&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",广东公共
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=ggpd&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",广东综艺4K
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=4K&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",广东体育
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=typd&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",广东教育
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=sz&id=jypd&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",广东房产
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=fcpd&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",广东影视
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=tvs4&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",广东国际
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=gjpd&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",高尔夫
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=grfpd&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",广东珠江
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=zjpd&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",广东科教
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=tvs1hd&pl=hd
+#EXTINF:-1 group-title="④📺地方-备用",广东少儿
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=tvs5&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",佳佳卡通
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=jjkt&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",岭南戏曲
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=sz&id=lnxq&pl=sd
+#EXTINF:-1 group-title="④📺地方-备用",广东移动
+http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=gdws&pl=sd
 #EXTINF:-1 tvg-id="70" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="⑤📺港澳",CHC高清电影
 rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
 #EXTINF:-1 tvg-id="70" group-title="⑤📺港澳",CHC 高清电影
@@ -7343,6 +7435,64 @@ http://sk.live.otvcloud.com/otv/skcc/live/channel79/2300.m3u8?k=114bff4e30d57d79
 http://sk.live.otvcloud.com/otv/skcc/live/channel80/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="📺📺亦非云 -卫视(备用)",内蒙古卫视
 http://sk.live.otvcloud.com/otv/skcc/live/channel93/2300.m3u8?k=114bff4e30d57d79d8da912dbfa2dac1&t=5D32BA5A&UID=1563605703
+#EXTINF:-1 group-title="📺📺ioioz卫视(备用)",动漫秀场
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=dmxc
+#EXTINF:-1 group-title="📺📺ioioz卫视(备用)",都市剧场
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=dsjc
+#EXTINF:-1 group-title="📺📺ioioz卫视(备用)",东方财经
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=dfcj
+#EXTINF:-1 group-title="📺📺ioioz卫视(备用)",炫动卡通
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=xdkt
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="📺📺ioioz卫视(备用)",重庆卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=cqws
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="📺📺ioioz卫视(备用)",河北卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=hews
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="📺📺ioioz卫视(备用)",山西卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=sxws
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="📺📺ioioz卫视(备用)",吉林卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=jlws
+#EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="📺📺ioioz卫视(备用)",厦门卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=xmws
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="📺📺ioioz卫视(备用)",河南卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=haws
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="📺📺ioioz卫视(备用)",海南卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=lyws
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="📺📺ioioz卫视(备用)",四川卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=scws
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="📺📺ioioz卫视(备用)",贵州卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=gzws
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="📺📺ioioz卫视(备用)",云南卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=ynws
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="📺📺ioioz卫视(备用)",陕西卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=snws
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="📺📺ioioz卫视(备用)",甘肃卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=gsws
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="📺📺ioioz卫视(备用)",青海卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=qhws
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="📺📺ioioz卫视(备用)",内蒙古卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=nmgws
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="📺📺ioioz卫视(备用)",广西卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=gxws
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="📺📺ioioz卫视(备用)",西藏卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=xzws
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="📺📺ioioz卫视(备用)",宁夏卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=nxws
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="📺📺ioioz卫视(备用)",新疆卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=xjws
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="📺📺ioioz卫视(备用)",兵团卫视
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=btws
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="📺📺ioioz卫视(备用)",游戏风云
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=yxfy
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="📺📺ioioz卫视(备用)",极速汽车
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=jsqc
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="📺📺ioioz卫视(备用)",七彩戏剧
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=qcxj
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="📺📺ioioz卫视(备用)",上海新闻
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=shxw
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="📺📺ioioz卫视(备用)",劲爆体育
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=jbty
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="📺📺ioioz卫视(备用)",全纪实
+http://player.ioioz.com/18/tv.php?tv=shydbst&id=qjs
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="①📺CCTV [IPV6]",CCTV-1 HD
 http://[2001:250:4814:1::200]/hls/cctv1hd.m3u8#http://[2001:250:5405:13::47]/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="①📺CCTV [IPV6]",CCTV-2 HD
