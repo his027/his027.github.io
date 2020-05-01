@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="111" group-title="  00U nihis",
 
 #EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
-http://sttv.aote.xyz/gdtv/?id=CHTVB26
-#EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
 http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=zjpd&pl=sd
+#EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
+http://sttv.aote.xyz/gdtv/?id=CHTVB26
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺4K
 http://sttv.aote.xyz/gdtv/?id=CHTVP4K
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视HD
@@ -37,9 +37,9 @@ http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=8cf630f23bff2ae8f62ab3f
 http://cclive.aniu.tv/live/anzb.m3u8#http://47.240.60.73/migu.php?id=638028966
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/dzcj.png" group-title="①📺广东★电视台",点掌财经
 http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/jtlc.jpg" group-title="①📺广东★电视台",家庭理财
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/jtlc.png" group-title="①📺广东★电视台",家庭理财
 http://hdtv.lzu6.edu.cn/hls/hls15.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/jtlc.jpg" group-title="①📺广东★电视台",家庭理财
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/jtlc.png" group-title="①📺广东★电视台",家庭理财
 http://hdtv.lzu6.edu.cn/hls/hls19.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/lxsj.png" group-title="①📺广东★电视台",留学世界
 http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=HMG3A7AA4UURM6UM0CDY9FJWNG57&ts=1550812456
@@ -47,7 +47,7 @@ http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.z
 https://35498.hlsplay.aodianyun.com/guangdianyun_35498/tv_channel_426.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/hqqg.png" group-title="①📺广东★电视台",环球奇观
 http://live3.nty.tv189.com/live/tm-yg1hqqg-512k.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/TITV.jpg" group-title="①📺广东★电视台",原住民族电视台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/TITV.png" group-title="①📺广东★电视台",原住民族电视台
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdxw.png" group-title="①📺广东★电视台",广东新闻
 http://sttv.aote.xyz/gdtv/?id=CHTVB28
@@ -83,7 +83,7 @@ http://111.40.205.87/PLTV/88888888/224/3221225641/index.m3u8
 http://111.40.205.87/PLTV/88888888/224/3221225699/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视
 http://sttv.aote.xyz/gdtv/?id=CHTVB25
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkac.jpg" group-title="①📺广东★电视台",海看爱宠
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkac.png" group-title="①📺广东★电视台",海看爱宠
 http://120.221.44.101:8089/PLTV/88888888/224/3221226071/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/hydst.png" group-title="①📺广东★电视台",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
@@ -143,9 +143,9 @@ http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=53cf770b94cbfbc70b6f74f
 http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=52a440143e2891e1f963f1f46e1145da
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/4K.png" group-title="①📺HD-4K   鉴赏",4K影院
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/296155_gui3i.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/dmxc.jpg" group-title="①📺HD-4K   鉴赏",动漫秀场
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/dmxc.png" group-title="①📺HD-4K   鉴赏",动漫秀场
 http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
-#EXTINF:-1 tvg-id="63" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/3dpd.jpg" group-title="①📺HD-4K   鉴赏",3D Channel
+#EXTINF:-1 tvg-id="63" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/3dpd.png" group-title="①📺HD-4K   鉴赏",3D Channel
 http://112.17.40.140/PLTV/88888888/224/3221226475/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/dwsj.jpg" group-title="①📺HD-4K   鉴赏",动物世界Channel
 http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
@@ -213,23 +213,23 @@ http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动漫3台
 http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD大众影视
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD大众影视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD大众影视
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD大众影视
 http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD大众影视
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD大众影视
 http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD家庭剧场
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD家庭剧场
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD家庭剧场
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD家庭剧场
 http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD家庭影院
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD家庭影院
 http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD家庭影院
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD家庭影院
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD卡通剧场
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD卡通剧场
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.jpg" group-title="①📺HD-蓝光 影院",高清HD卡通剧场
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD卡通剧场
 http://hdtv.lzu6.edu.cn/hls/hls77a30.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺HD-蓝光 影院",CCTV-6 HD
 http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
@@ -1443,6 +1443,16 @@ https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_255137759_71320
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV 9号厅
 https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_82436982_2406441.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",kk金马影院
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",kk娱乐影院
+http://hpull.kktv8.com/livekktv/100213155/playlist.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",kk开心影院
+http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",粤语影片1
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/614163/live_342827840_74242052.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",粤语影片2
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/933996/live_88547185_8335137.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",都市剧场
 http://112.17.40.145/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",都市剧场
