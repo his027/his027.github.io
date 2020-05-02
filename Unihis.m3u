@@ -137,6 +137,8 @@ http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/xbsj.jpg" group-title="①📺HD-4K   鉴赏",小贝食记Channel
 http://aldirect.rtmp.huya.com/huyalive/1445282059-1445282059-6207439176900542464-2990957820-10057-A-0-1_2500.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/xbsj.jpg" group-title="①📺HD-4K   鉴赏",李子漆美食
+http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/4K.png" group-title="①📺HD-4K   鉴赏",湖南蜗牛慢直播
 http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=53cf770b94cbfbc70b6f74f998fafb74
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/4K.png" group-title="①📺HD-4K   鉴赏",湖南蜗牛慢直播
@@ -147,12 +149,14 @@ https://dlhls-cdn-mp.zhanqi.tv/zqlive/296155_gui3i.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
 #EXTINF:-1 tvg-id="63" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/3dpd.png" group-title="①📺HD-4K   鉴赏",3D Channel
 http://112.17.40.140/PLTV/88888888/224/3221226475/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/dwsj.jpg" group-title="①📺HD-4K   鉴赏",动物世界Channel
-http://hls-ott-zhibo.wasu.tv/live/394/index.m3u8
+#EXTINF:-1 tvg-id="6242" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/dwsj.jpg" group-title="①📺HD-4K   鉴赏",动物世界Channel 求索动物
+http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqjl.jpg" group-title="①📺HD-4K   鉴赏",超清纪录片集锦
 http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/zggd.png" group-title="①📺HD-4K   鉴赏",4K导视频道
 http://cbnlive.cbchot.com/live/4klocal_1.m3u8
+#EXTINF:-1 group-title="①📺HD-4K   鉴赏",珠江测试
+http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/zjpd/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/bestv.png" group-title="①📺HD-蓝光 影院",BesTV4K
 http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/bestv.png" group-title="①📺HD-蓝光 影院",BesTV电影频道
@@ -177,18 +181,14 @@ http://112.17.40.145/PLTV/88888888/224/3221226751/index.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视7台
 http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视8台-求索科学
+#EXTINF:-1 tvg-id="6240" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视8台-求索科学
 http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视8台-求索科学
+#EXTINF:-1 tvg-id="6240" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视8台-求索科学
 http://39.134.176.148/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="①📺HD-蓝光 影院",求索科学
-http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=89b907dabf9b456ca3bb0c0bb20d4bb5
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视9台-求索生活
+#EXTINF:-1 tvg-id="6243" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视9台-求索生活
 http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视9台-求索生活
+#EXTINF:-1 tvg-id="6243" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视9台-求索生活
 http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
-#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="①📺HD-蓝光 影院",求索生活
-http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=7cce16b5197764082d118dfeec570c70
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视10台-记录
 http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视11台- 科教
@@ -201,12 +201,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226181/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视15台 -美食
 http://112.17.40.140/PLTV/88888888/224/3221226479/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视16台- 求索动物
-http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="①📺HD-蓝光 影院",求索动物
-http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=f2b324bf60a1d02a94648af35347a33a
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="①📺HD-蓝光 影院",求索记录
-http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=c11b84772427f3ea7b921f537de5db58
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动画1台
 http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动画2台
@@ -1853,8 +1847,6 @@ http://hls-ott-zhibo.wasu.tv/live/428/index.m3u8
 http://hls-ott-zhibo.wasu.tv/live/436/index.m3u8
 #EXTINF:-1 group-title="⑫📡华数@影集",443号[1280*720]
 http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
-#EXTINF:-1 group-title="⑫📡华数@影集",444号[1280*720]
-http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 #EXTINF:-1 group-title="⑫📡华数@影集",453号[1280*720]
 http://hls-ott-zhibo.wasu.tv/live/452/index.m3u8
 #EXTINF:-1 group-title="⑫📡华数@影集",462号[1920*1080]
