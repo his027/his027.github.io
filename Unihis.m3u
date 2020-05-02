@@ -137,7 +137,7 @@ http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/xbsj.jpg" group-title="①📺HD-4K   鉴赏",小贝食记Channel
 http://aldirect.rtmp.huya.com/huyalive/1445282059-1445282059-6207439176900542464-2990957820-10057-A-0-1_2500.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/xbsj.jpg" group-title="①📺HD-4K   鉴赏",李子漆美食
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/xbsj.jpg" group-title="①📺HD-4K   鉴赏",美食李子柒
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/4K.png" group-title="①📺HD-4K   鉴赏",湖南蜗牛慢直播
 http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=53cf770b94cbfbc70b6f74f998fafb74
@@ -155,8 +155,6 @@ http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
 http://3954-f.liveplay.myqcloud.com/live/3954_417299409.xs
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/zggd.png" group-title="①📺HD-4K   鉴赏",4K导视频道
 http://cbnlive.cbchot.com/live/4klocal_1.m3u8
-#EXTINF:-1 group-title="①📺HD-4K   鉴赏",珠江测试
-http://live.grtn.cn/drm.php?url=http://nclive.grtn.cn/zjpd/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/bestv.png" group-title="①📺HD-蓝光 影院",BesTV4K
 http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/bestv.png" group-title="①📺HD-蓝光 影院",BesTV电影频道
@@ -201,6 +199,10 @@ http://112.17.40.140/PLTV/88888888/224/3221226181/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视15台 -美食
 http://112.17.40.140/PLTV/88888888/224/3221226479/index.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="①📺HD-蓝光 影院",CHC高清电影
+http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/SITV.png" group-title="①📺HD-蓝光 影院",都市剧场
+http://112.17.40.145/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动画1台
 http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动画2台
@@ -1281,8 +1283,6 @@ http://baiducdncmn.inter.iqiyi.com/tslive/c19_lb_shoushennannv_high_t10/c19_lb_s
 http://aldirect.rtmp.huya.com/huyalive/1199514161081-1199514161081-5232496366806106112-2399028445618-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",美食纪录片
 http://aldirect.rtmp.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",美食李子柒
-http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",厨神驾到
 http://aldirect.rtmp.huya.com/backsrc/1099531739647-1099531739647-86379828206370816-2199063602750-10057-A-0-1_2500.m3u8
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",毛骗
@@ -1397,14 +1397,50 @@ http://aldirect.rtmp.huya.com/huyalive/59768972-59768972-6769782383193341193-155
 http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="⑨📺剧场-影视📀 TV ",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="⑨📺剧场-影视📀 TV ",CHC高清电影
-http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="⑨📺剧场-影视📀 TV ",CHC动作电影
 http://hdtv.lzu6.edu.cn/hls/chcatv.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="⑨📺剧场-影视📀 TV ",CHC家庭影院
 http://hdtv.lzu6.edu.cn/hls/chctv.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",CHC家庭影院
 http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",粤语影片1
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/614163/live_342827840_74242052.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",粤语影片2
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/933996/live_88547185_8335137.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",星影
+http://hdtv.lzu6.edu.cn/hls/hls59.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",精选
+http://hdtv.lzu6.edu.cn/hls/hls102.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",劲爆电影
+http://hdtv.lzu6.edu.cn/hls/hls155.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",喜剧电影
+http://hdtv.lzu6.edu.cn/hls/hls147.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",古装剧场
+http://hdtv.lzu6.edu.cn/hls/hls54.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",怀旧电影
+http://hdtv.lzu6.edu.cn/hls/hls48.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",家庭影院
+http://hdtv.lzu6.edu.cn/hls/hls39.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",生活剧场
+http://hdtv.lzu6.edu.cn/hls/hls37.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",经典剧场
+http://hdtv.lzu6.edu.cn/hls/hls89.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",周末影院
+http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",歐美影院
+http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",亚洲影院
+http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",亚洲影院
+http://112.17.40.145/PLTV/88888888/224/3221226245/index.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",电影
+http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=DX5VIJZTDI4ZCN5K4S663GCPBBML&ts=1550812417
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",电影2
+http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=U0L14XNX2GN19M0APIZKBZ1WC41Q&ts=1550812411
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="⑨📺剧场-影视📀 TV ",潇湘电影
+http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",潇湘电影
+http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/hunanxiaoxiang200323.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV动漫
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",海爷TV动漫
@@ -1443,12 +1479,6 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://hpull.kktv8.com/livekktv/100213155/playlist.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",kk开心影院
 http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",粤语影片1
-https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/614163/live_342827840_74242052.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",粤语影片2
-https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/933996/live_88547185_8335137.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",都市剧场
-http://112.17.40.145/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",都市剧场
 http://111.20.33.71/PLTV/88888888/224/3221225650/index.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",都市剧场
@@ -1461,44 +1491,12 @@ http://111.20.33.70/PLTV/88888888/224/3221225649/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225997/index.m3u8
 #EXTINF:-1 tvg-id="2060" tvg-name="峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SCTV8.png" group-title="⑨📺剧场-影视📀 TV ",峨嵋电影
 http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 tvg-id="6087" tvg-name="FOXMOVIES" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXMOVIES.png" group-title="⑨📺剧场-影视📀 TV ",FOX Movies
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",星影
-http://hdtv.lzu6.edu.cn/hls/hls59.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",精选
-http://hdtv.lzu6.edu.cn/hls/hls102.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",劲爆电影
-http://hdtv.lzu6.edu.cn/hls/hls155.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",喜剧电影
-http://hdtv.lzu6.edu.cn/hls/hls147.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",古装剧场
-http://hdtv.lzu6.edu.cn/hls/hls54.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",怀旧电影
-http://hdtv.lzu6.edu.cn/hls/hls48.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",家庭影院
-http://hdtv.lzu6.edu.cn/hls/hls39.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",生活剧场
-http://hdtv.lzu6.edu.cn/hls/hls37.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",经典剧场
-http://hdtv.lzu6.edu.cn/hls/hls89.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",周末影院
-http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",香港电影
 http://itv.ahau.edu.cn/hls/fhdy.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",精彩影视
 http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000149
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",TVB亚视连续剧
 http://47.240.60.73/163cc.php?id=244746189
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",歐美影院
-http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",亚洲影院
-http://112.17.40.145/PLTV/88888888/224/3221226245/index.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",亚洲影院
-http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",电影
-http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=DX5VIJZTDI4ZCN5K4S663GCPBBML&ts=1550812417
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",电影2
-http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=U0L14XNX2GN19M0APIZKBZ1WC41Q&ts=1550812411
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",邵氏电影
 https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",邵氏电影-恐怖
@@ -1509,12 +1507,22 @@ http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.xs
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",动漫
 http://tx2play1.douyucdn.cn/live/206858rtestxjl.xs
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="⑨📺剧场-影视📀 TV ",潇湘电影
-http://124.232.231.246:6610/000000001001/201600020006/1400.m3u8?zte_auth=ae0fcdac&ztecid=201600020005&version=v1.0&IASHttpSessionId=SLB2046220190906022827233263&AuthInfo=LPjne9%2Bz7%2B%2F905ByFWbN5McknogfJXrVwjUFLaeEL29vpHGrk2l%2FUHYgN1aASj376oO1xLnnHQM%2BvUxQhm38dnHm1eSuY7vi6YzamvW6l8OtgHpq%2BKs%2Bl9QddsFpnz4k&m3u8_level=2&terminal_flag=0&ispcode=8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",潇湘电影
-http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/hunanxiaoxiang200323.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",欧美影院1
+http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",电影动画
+http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",恐怖电影台
+http://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_416544064_58389145.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",淮阳影视
+http://dlhdl-cdn.zhanqi.tv/zqlive/199301_y2bWG.flv
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",最美影院
+http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",经典电影
+http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",高清欧美影院轮播
+https://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/428808/live_1465616_3696069_1500.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",浙江-浙江影视
 http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8#http://yf.m.l.cztv.com/channels/lantian/channel005/1080p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",河北影视 标清[655*480]
@@ -1528,8 +1536,6 @@ http://dlhdl-cdn.zhanqi.tv/zqlive/295519_JkFS8.flv
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",齐影视电视剧
 http://dlhdl-cdn.zhanqi.tv/zqlive/295803_fLcJv.flv
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",终南山影视
-http://dlhdl-cdn.zhanqi.tv/zqlive/288547_qSJ5f.flv
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",终南山影视
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/288547_qSJ5f.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",周口电视剧
 http://dlhdl-cdn.zhanqi.tv/zqlive/194839_XtiBg.flv
@@ -1537,8 +1543,48 @@ http://dlhdl-cdn.zhanqi.tv/zqlive/194839_XtiBg.flv
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/289465_rFaoH.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",淮阳影视
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/199301_y2bWG.m3u8
-#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",齐影视卡式台
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",电影轮播
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",周星驰 刘德华 成龙 洪金宝 林正英电影
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/258076/live_1465616_3696069_1500.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",科幻喜剧黑色幽默)
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/403471/live_530176_7508880.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",经典 动作 搞笑
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/623339/live_1465616_3696069_1500.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",老顽童影视厅1号
+https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/986975/live_100403280_38861036.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",超清爆笑喜剧 动作 惊悚电影
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/161661/live_1465616_3696069_1500.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",搞笑武林外传经典动画
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/255852/live_327956762_9517783.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",亚视经典电视剧
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/391569/live_21183636_1123140.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",粤语残片电影
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/403103/live_88547185_8335137.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",励志 热血 治愈 搞笑 动漫轮番放
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/478611/live_90549890_3567031.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",经典番剧动漫剧场版
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/502050/live_26390633_7977540.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",怀旧影视悬疑推理
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/514913/live_2325595_4547598.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",好莱坞漫威DC与国产佳片
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/525613/live_334056_8894439.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",哆啦A梦国语
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/588988/live_85965595_4160847.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",国外恐怖丧尸电影
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/617887/live_416544064_58389145_1500.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",国语喜剧武侠动作剧情
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/634653/live_195404279_88732876.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",港恐怖片 鬼片电影
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/663301/live_102569357_4797059.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",哆啦A梦新番
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/744912/live_25684379_7674498_1500.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",超清电影电视剧映评馆轮播
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/766675/live_15772226_4720269.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",tbb电影动画综艺粤语
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/808707/live_2809908_2574327.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",粤语配音日剧
+https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/941651/live_13968204_1723089.m3u8
 #EXTINF:-1 group-title="⑨📀剧场-解说",国外电影解说
 http://aldirect.rtmp.huya.com/huyalive/94525224-2702136290-11605586994884771840-4573721796-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="⑨📀剧场-解说",科幻5分钟
