@@ -6185,17 +6185,43 @@ http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=jjkt&pl=sd
 http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=sz&id=lnxq&pl=sd
 #EXTINF:-1 group-title="④📺地方-备用 广东",广东移动
 http://iptv.inewya.com/QQ:494937337/guangdong/gdws2.php?ch=nc&id=gdws&pl=sd
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzzh.jpg" group-title="④📺地方-备用 广东",广州综合台
+#EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="④📺地方-备用 广东",广东珠江
+http://sttv.aote.xyz/gdtv/?id=CHTVB26
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzy.png" group-title="④📺地方-备用 广东",广东综艺4K
+http://sttv.aote.xyz/gdtv/?id=CHTVP4K
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdxw.png" group-title="④📺地方-备用 广东",广东新闻
+http://sttv.aote.xyz/gdtv/?id=CHTVB28
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdys.png" group-title="④📺地方-备用 广东",广东影视
+http://sttv.aote.xyz/gdtv/?id=CHTVPtvs4
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdjjkj.png" group-title="④📺地方-备用 广东",广东经济科教
+http://sttv.aote.xyz/gdtv/?id=CHTVPtvs1hd
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdty.png" group-title="④📺地方-备用 广东",广东体育
+http://sttv.aote.xyz/gdtv/?id=CHTVB27
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdse.png" group-title="④📺地方-备用 广东",广东少儿
+http://sttv.aote.xyz/gdtv/?id=CHTVPtvs5
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdnfws.png" group-title="④📺地方-备用 广东",广东南方卫视
+http://sttv.aote.xyz/gdtv/?id=CHTVPtvs2
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdgj.png" group-title="④📺地方-备用 广东",广东国际
+http://sttv.aote.xyz/gdtv/?id=CHTVB30
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdgg.png" group-title="④📺地方-备用 广东",广东公共
+http://sttv.aote.xyz/gdtv/?id=CHTVB31
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdfc.png" group-title="④📺地方-备用 广东",广东房产
+http://sttv.aote.xyz/gdtv/?id=CHTVB33
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdgef.png" group-title="④📺地方-备用 广东",广东高尔夫
+http://sttv.aote.xyz/gdtv/?id=CHTVB32
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="④📺地方-备用 广东",广东卫视
+http://sttv.aote.xyz/gdtv/?id=CHTVB25
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzzh.png" group-title="④📺地方-备用 广东",广州综合台
 http://www.dszbdq.cn/play/gztv.php?id=gzzh
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzys.jpg" group-title="④📺地方-备用 广东",广州影视台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzys.png" group-title="④📺地方-备用 广东",广州影视台
 http://www.dszbdq.cn/play/gztv.php?id=gzys
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzxw.jpg" group-title="④📺地方-备用 广东",广州新闻台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzxw.png" group-title="④📺地方-备用 广东",广州新闻台
 http://www.dszbdq.cn/play/gztv.php?id=gzxw
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzsh.jpg" group-title="④📺地方-备用 广东",广州生活台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzsh.png" group-title="④📺地方-备用 广东",广州生活台
 http://www.dszbdq.cn/play/gztv.php?id=gzsh
-#EXTINF:-1 group-title="④📺地方-备用 广东",广州竞赛高清
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzjs.png" group-title="④📺地方-备用 广东",广州竞赛高清
 http://www.dszbdq.cn/play/gztv.php?id=gzjs
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzse.jpg" group-title="④📺地方-备用 广东",广州少儿台
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzse.png" group-title="④📺地方-备用 广东",广州少儿台
 http://www.dszbdq.cn/play/gztv.php?id=gzse
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzfz.png" group-title="④📺地方-备用 广东",广州法治台
 http://www.dszbdq.cn/play/gztv.php?id=gzfz

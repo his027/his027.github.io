@@ -6,12 +6,16 @@ http://www.dszbdq.cn/play/gd.php?id=26
 #EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
 http://sttv.aote.xyz/gdtv/?id=CHTVB26
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺4K
-http://sttv.aote.xyz/gdtv/?id=CHTVP4K
+http://www.dszbdq.cn/play/gd.php?id=166
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视HD
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视HD
-http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227249/index.m3u8
-#EXTINF:-1 group-title="①📺广东★电视台",广东IPTV影视推荐
+http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzzh.png" group-title="①📺广东★电视台",广州综合台
+http://www.dszbdq.cn/play/gztv.php?id=gzzh
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gzxw.png" group-title="①📺广东★电视台",广州新闻台
+http://www.dszbdq.cn/play/gztv.php?id=gzxw
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdiptv.png" group-title="①📺广东★电视台",广东IPTV影视推荐
 http://www.dszbdq.cn/play/gd.php?id=66
 #EXTINF:-1 tvg-id="177" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="①📺广东★电视台",中国交通（广东）
 http://tv.lanjingfm.com/cctbn/guangdong.m3u8
@@ -45,6 +49,8 @@ http://hdtv.lzu6.edu.cn/hls/hls15.m3u8
 http://hdtv.lzu6.edu.cn/hls/hls19.m3u8
 #EXTINF:-1 tvg-id="97" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/lxsj.png" group-title="①📺广东★电视台",留学世界
 http://101.71.255.229:6610/zjhs/2/10033/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=HMG3A7AA4UURM6UM0CDY9FJWNG57&ts=1550812456
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkac.png" group-title="①📺广东★电视台",海看爱宠
+http://120.221.44.101:8089/PLTV/88888888/224/3221226071/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/sxxcly.png" group-title="①📺广东★电视台",沙县小吃旅游
 https://35498.hlsplay.aodianyun.com/guangdianyun_35498/tv_channel_426.m3u8
 #EXTINF:-1 tvg-id="109" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/hqqg.png" group-title="①📺广东★电视台",环球奇观
@@ -53,40 +59,12 @@ http://live3.nty.tv189.com/live/tm-yg1hqqg-512k.m3u8
 https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_1/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="①📺广东★电视台",珠江电影
 http://www.dszbdq.cn/play/zjkp52.php?id=7
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdxw.png" group-title="①📺广东★电视台",广东新闻
-http://sttv.aote.xyz/gdtv/?id=CHTVB28
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdys.png" group-title="①📺广东★电视台",广东影视
-http://sttv.aote.xyz/gdtv/?id=CHTVPtvs4
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdjjkj.png" group-title="①📺广东★电视台",广东经济科教
-http://sttv.aote.xyz/gdtv/?id=CHTVPtvs1hd
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdty.png" group-title="①📺广东★电视台",广东体育
-http://sttv.aote.xyz/gdtv/?id=CHTVB27
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdse.png" group-title="①📺广东★电视台",广东少儿
-http://sttv.aote.xyz/gdtv/?id=CHTVPtvs5
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdnfws.png" group-title="①📺广东★电视台",广东南方卫视
-http://sttv.aote.xyz/gdtv/?id=CHTVPtvs2
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdgj.png" group-title="①📺广东★电视台",广东国际
-http://sttv.aote.xyz/gdtv/?id=CHTVB30
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdgg.png" group-title="①📺广东★电视台",广东公共
-http://sttv.aote.xyz/gdtv/?id=CHTVB31
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdfc.png" group-title="①📺广东★电视台",广东房产
-http://sttv.aote.xyz/gdtv/?id=CHTVB33
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdlnxq.png" group-title="①📺广东★电视台",广东岭南戏曲
-http://szlive.grtn.cn/lnxq/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdyd.png" group-title="①📺广东★电视台",广东移动
-http://szlive.grtn.cn/ydpd/sd/live.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdgef.png" group-title="①📺广东★电视台",广东高尔夫
-http://sttv.aote.xyz/gdtv/?id=CHTVB32
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225670/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视
 http://111.40.205.87/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视
 http://111.40.205.87/PLTV/88888888/224/3221225699/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视
-http://sttv.aote.xyz/gdtv/?id=CHTVB25
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkac.png" group-title="①📺广东★电视台",海看爱宠
-http://120.221.44.101:8089/PLTV/88888888/224/3221226071/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/hydst.png" group-title="①📺广东★电视台",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/hydst.png" group-title="①📺广东★电视台",河源公共
@@ -239,7 +217,7 @@ http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/xbsj.jpg" group-title="①📺HD-4K   鉴赏",小贝食记Channel
 http://aldirect.rtmp.huya.com/huyalive/1445282059-1445282059-6207439176900542464-2990957820-10057-A-0-1_2500.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/xbsj.jpg" group-title="①📺HD-4K   鉴赏",美食李子柒
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/mslzq.jpg" group-title="①📺HD-4K   鉴赏",美食李子柒
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/4K.png" group-title="①📺HD-4K   鉴赏",湖南蜗牛慢直播
 http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=53cf770b94cbfbc70b6f74f998fafb74
