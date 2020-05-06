@@ -93,106 +93,366 @@ http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="①📺广东★电视台",湖北卫视HD
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="①📺港澳台★",凤凰卫视
+http://47.240.60.73/xaors/mlxy.php?channel=b87f678640708da14c8bbe45ef43e51f
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="①📺港澳台★",凤凰资讯
+http://47.240.60.73/xaors/mlxy.php?channel=fbded000af54f1a4ee0847712298893b
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="①📺港澳台★",凤凰香港
+http://47.240.60.73/xaors/mlxy.php?channel=44ca88e2d2844038cdb169e25ac5fbbf
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="①📺港澳台★",CHC动作
+http://47.240.60.73/xaors/mlxy.php?channel=4524caa72ac564cc6ce9631b7289b9a5
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="①📺港澳台★",CHC家庭
+http://47.240.60.73/xaors/mlxy.php?channel=a55031d6dc37de6cd3e72ce9a2046d46
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="①📺港澳台★",珠江电影
+http://47.240.60.73/xaors/mlxy.php?channel=79f8f7f358fd28ee3862367bc9ea1fd2
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="①📺港澳台★",TVB翡翠
-http://bd.228888888.xyz:8081/hls/ch101.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="①📺港澳台★",J2
-http://bd.228888888.xyz:8081/hls/ch102.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",无线财*
-http://bd.228888888.xyz:8081/hls/ch103.m3u8
+http://47.240.60.73/xaors/mlxy.php?channel=f9c0fc853c9dd0b6be92eacc07943460
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="①📺港澳台★",TVB明珠
-http://bd.228888888.xyz:8081/hls/ch104.m3u8
+http://47.240.60.73/xaors/mlxy.php?channel=d21fc46e7be754c79ba69a4098151b0b
 #EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="①📺港澳台★",TVB星河
-http://bd.228888888.xyz:8081/hls/ch105.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",星河国语
-http://bd.228888888.xyz:8081/hls/ch108.m3u8
-#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="①📺港澳台★",有线新闻
-http://bd.228888888.xyz:8081/hls/ch109.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",凤凰电影
-http://bd.228888888.xyz:8081/hls/ch110.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",卫视国际电影
-http://bd.228888888.xyz:8081/hls/ch111.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",thrill
-http://bd.228888888.xyz:8081/hls/ch112.m3u8
+http://47.240.60.73/xaors/mlxy.php?channel=47b66f36d3fdce6ef682a8d8f5fb47b8
 #EXTINF:-1 tvg-id="129" tvg-name="TVB经典台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBclassic.png" group-title="①📺港澳台★",TVB经典
-http://bd.228888888.xyz:8081/hls/ch113.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",NOW新闻
-http://bd.228888888.xyz:8081/hls/ch114.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="①📺港澳台★",VIUTV
-http://bd.228888888.xyz:8081/hls/ch115.m3u8
-#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="①📺港澳台★",VIUTV6
-http://bd.228888888.xyz:8081/hls/ch116.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",有线财*
-http://bd.228888888.xyz:8081/hls/ch117.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",有线娱乐
-http://bd.228888888.xyz:8081/hls/ch118.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",有线18
-http://bd.228888888.xyz:8081/hls/ch119.m3u8
+http://47.240.60.73/xaors/mlxy.php?channel=f7dd2e78b8eb4f8991d442314c00431d
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="①📺港澳台★",TVB J2
+http://47.240.60.73/xaors/mlxy.php?channel=4e2a008fe0f5173222b99f03c1560d7b
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" group-title="①📺港澳台★",VIU tv
+http://47.240.60.73/xaors/mlxy.php?channel=067582cf579161f572cdbb61e66566a7
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="①📺港澳台★",无线财经
+http://47.240.60.73/xaors/mlxy.php?channel=2f65e491386884782472699bcc1efef7
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="①📺港澳台★",无线新闻
-http://bd.228888888.xyz:8081/hls/ch201.m3u8
-#EXTINF:-1 tvg-id="6028" tvg-name="中视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视.png" group-title="①📺港澳台★",中视
-http://bd.228888888.xyz:8081/hls/ch202.m3u8
+http://47.240.60.73/xaors/mlxy.php?channel=c401bb84625c372236da993f643d5674
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="①📺港澳台★",有线新闻
+http://47.240.60.73/xaors/mlxy.php?channel=ede1d83bf1194048d44db9ae3d8f504b
 #EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="①📺港澳台★",华视
-http://bd.228888888.xyz:8081/hls/ch203.m3u8
-#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="①📺港澳台★",民视
-http://bd.228888888.xyz:8081/hls/ch204.m3u8
-#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="①📺港澳台★",台视
-http://bd.228888888.xyz:8081/hls/ch205.m3u8
-#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="①📺港澳台★",八大综合
-http://bd.228888888.xyz:8081/hls/ch206.m3u8
-#EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="①📺港澳台★",八大第一
-http://bd.228888888.xyz:8081/hls/ch207.m3u8
-#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="①📺港澳台★",八大戏剧
-http://bd.228888888.xyz:8081/hls/ch208.m3u8
-#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="①📺港澳台★",三立新闻
-http://bd.228888888.xyz:8081/hls/ch210.m3u8
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="①📺港澳台★",寰宇新闻
-http://bd.228888888.xyz:8081/hls/ch211.m3u8
-#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="①📺港澳台★",寰宇新闻2
-http://bd.228888888.xyz:8081/hls/ch212.m3u8
-#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="①📺港澳台★",台视新闻
-http://bd.228888888.xyz:8081/hls/ch213.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",华视新闻
-http://bd.228888888.xyz:8081/hls/ch214.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="①📺港澳台★",TVBS新闻
-http://bd.228888888.xyz:8081/hls/ch215.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="①📺港澳台★",民视新闻
-http://bd.228888888.xyz:8081/hls/ch216.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="①📺港澳台★",东森新闻
-http://bd.228888888.xyz:8081/hls/ch217.m3u8
+http://47.240.60.73/xaors/mlxy.php?channel=61ea04402fef3b5b882cbbfff520f88f
+#EXTINF:-1 tvg-id="6031" tvg-name="公视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/PublicTV.png" group-title="①📺港澳台★",公视
+http://47.240.60.73/xaors/mlxy.php?channel=22135c0a31d3ab68940e6b9cc7104a51
+#EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="①📺港澳台★",中视经典
+http://47.240.60.73/xaors/mlxy.php?channel=2b7ed237c2191c454f4d5e1ab4017d32
 #EXTINF:-1 tvg-id="7176" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png" group-title="①📺港澳台★",中视新闻
-http://bd.228888888.xyz:8081/hls/ch218.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",龙翔电影
-http://bd.228888888.xyz:8081/hls/ch301.m3u8
-#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="①📺港澳台★",纬来电影
-http://bd.228888888.xyz:8081/hls/ch302.m3u8
-#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="①📺港澳台★",东森洋片
-http://bd.228888888.xyz:8081/hls/ch303.m3u8
-#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="①📺港澳台★",卫视电影
-http://bd.228888888.xyz:8081/hls/ch304.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",星卫电影
-http://bd.228888888.xyz:8081/hls/ch305.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="①📺港澳台★",美亚电影
-http://bd.228888888.xyz:8081/hls/ch306.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",卫视洋片
-http://bd.228888888.xyz:8081/hls/ch307.m3u8
-#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="①📺港澳台★",东森电影
-http://bd.228888888.xyz:8081/hls/ch308.m3u8
-#EXTINF:-1 tvg-id="7132" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" group-title="①📺港澳台★",龙华洋片
-http://bd.228888888.xyz:8081/hls/ch309.m3u8
-#EXTINF:-1 tvg-id="6152" tvg-name="HBOHD" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHD.png" group-title="①📺港澳台★",HBOHD
-http://bd.228888888.xyz:8081/hls/ch310.m3u8
-#EXTINF:-1 tvg-id="6153" tvg-name="HBOHits" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOHits.png" group-title="①📺港澳台★",HBOHITS
-http://bd.228888888.xyz:8081/hls/ch311.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",HBOignature
-http://bd.228888888.xyz:8081/hls/ch312.m3u8
-#EXTINF:-1 group-title="①📺港澳台★",HBOfamlly
-http://bd.228888888.xyz:8081/hls/ch313.m3u8
-#EXTINF:-1 tvg-id="6023" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="①📺港澳台★",CNN
-http://bd.228888888.xyz:8081/hls/ch315.m3u8
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="①📺港澳台★",国家地理
-http://bd.228888888.xyz:8081/hls/ch316.m3u8
+http://47.240.60.73/xaors/mlxy.php?channel=7dbb820b9ccb1180885eb2ed0c231bb8
+#EXTINF:-1 tvg-id="7135" tvg-name="民视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民视.png" group-title="①📺港澳台★",民视
+http://47.240.60.73/xaors/mlxy.php?channel=dbc824c04b4200f92e3b85cbc59f434e
+#EXTINF:-1 tvg-id="7134" tvg-name="民视台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="①📺港澳台★",民视台湾
+http://47.240.60.73/xaors/mlxy.php?channel=2d60e9c2bff00c37e90006cd4935ccd7
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="①📺港澳台★",民视新闻
+http://47.240.60.73/xaors/mlxy.php?channel=8f0cfe02045f163efbf510131233ef38
+#EXTINF:-1 tvg-id="6026" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视.png" group-title="①📺港澳台★",台视
+http://47.240.60.73/xaors/mlxy.php?channel=2ddfaf5fa08619bf48c2246c25147689
+#EXTINF:-1 tvg-id="6143" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png" group-title="①📺港澳台★",台视新闻
+http://47.240.60.73/xaors/mlxy.php?channel=18393f7cd51e6291f7ca8b6af98d1744
+#EXTINF:-1 tvg-id="6068" tvg-name="年代新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="①📺港澳台★",年代新闻
+http://47.240.60.73/xaors/mlxy.php?channel=6795e9568e22c046981992cb582d44d8
+#EXTINF:-1 tvg-id="6076" tvg-name="非凡新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png" group-title="①📺港澳台★",非凡新闻
+http://47.240.60.73/xaors/mlxy.php?channel=6f055fbefdf8e2fd280146a9d2594292
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="①📺港澳台★",寰宇新闻
+http://47.240.60.73/xaors/mlxy.php?channel=fe4e088a8d8e10cc20a012c17cf1c3a6
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="①📺港澳台★",中天综合
+http://47.240.60.73/xaors/mlxy.php?channel=02f108bdfea98407fde2f64d0160b458
 #EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="①📺港澳台★",中天新闻
-http://bd.228888888.xyz:8081/hls/zhongtianxw.m3u8
+http://47.240.60.73/xaors/mlxy.php?channel=9cc23cfaa77c63bbdf5c25b427c89837
+#EXTINF:-1 tvg-id="6070" tvg-name="中天新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="①📺港澳台★",中天新闻
+http://47.240.60.73/xaors/mlxy.php?channel=efbd809fffc18733f2385aee2597858a
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="①📺港澳台★",中天娱乐
+http://47.240.60.73/xaors/mlxy.php?channel=e4d8bdda673322f73ad81a85dbd729e3
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="①📺港澳台★",TVBS HD
+http://47.240.60.73/xaors/mlxy.php?channel=8978865d3550043580868e20104181db
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="①📺港澳台★",TVBS新闻
+http://47.240.60.73/xaors/mlxy.php?channel=7bfd061991d40f48a4741a9e2daf1723
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS欢乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS欢乐.png" group-title="①📺港澳台★",TVBS欢乐
+http://47.240.60.73/xaors/mlxy.php?channel=e0d80357ddd31b626f9f7c57566a72fb
+#EXTINF:-1 tvg-id="608" tvg-name="壹电视综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NEXTTVZonghe.png" group-title="①📺港澳台★",壹综合
+http://47.240.60.73/xaors/mlxy.php?channel=388e757f4aeb9da2d38a1f2540e4cb8b
+#EXTINF:-1 tvg-id="6067" tvg-name="壹电视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="①📺港澳台★",壹新闻
+http://47.240.60.73/xaors/mlxy.php?channel=285c2cf3320aaff19b951d813fa63834
+#EXTINF:-1 tvg-id="7196" tvg-name="寰宇HD综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyuzonghe.png" group-title="①📺港澳台★",寰宇综合
+http://47.240.60.73/xaors/mlxy.php?channel=57100713ac18ccf8c1366a09306bfbdd
+#EXTINF:-1 tvg-id="7204" tvg-name="寰宇财经" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huanyucaijing.png" group-title="①📺港澳台★",寰宇财经
+http://47.240.60.73/xaors/mlxy.php?channel=8f80724de483598e8fab2871d4c28f84
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="①📺港澳台★",寰宇新闻
+http://47.240.60.73/xaors/mlxy.php?channel=edfd39a1986a9e16a2b71d295b01a098
+#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="①📺港澳台★",八大综合
+http://47.240.60.73/xaors/mlxy.php?channel=ffd34946005d0cf063d7b0ba8a8f045c
+#EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="①📺港澳台★",八大第一
+http://47.240.60.73/xaors/mlxy.php?channel=8b59ed131b528b3e56daaa199c6b714b
+#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="①📺港澳台★",八大戏剧
+http://47.240.60.73/xaors/mlxy.php?channel=7af5f3913325a66c0b2c559e6548ff78
+#EXTINF:-1 tvg-id="7221" tvg-name="三立戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" group-title="①📺港澳台★",三立戏剧
+http://47.240.60.73/xaors/mlxy.php?channel=cb27886b8839dba819242a88b0ab1599
+#EXTINF:-1 tvg-id="6239" tvg-name="三立综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="①📺港澳台★",三立综合
+http://47.240.60.73/xaors/mlxy.php?channel=51241aa0d30f4b642e5b5eb89d060d21
+#EXTINF:-1 tvg-id="6048" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="①📺港澳台★",三立都会
+http://47.240.60.73/xaors/mlxy.php?channel=01da95d007e8a749c11a8ec64ee2ee11
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="①📺港澳台★",三立新闻
+http://47.240.60.73/xaors/mlxy.php?channel=00f6b3c7fb8b9bc7f55cb0127151ad1f
+#EXTINF:-1 tvg-id="6050" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="①📺港澳台★",东森综合
+http://47.240.60.73/xaors/mlxy.php?channel=3a2618e29e13b13000b4789abba54d08
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="①📺港澳台★",东森新闻
+http://47.240.60.73/xaors/mlxy.php?channel=ea86a6a22ddb41a1622626f8078b6c55
+#EXTINF:-1 tvg-id="6075" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="①📺港澳台★",东森财经
+http://47.240.60.73/xaors/mlxy.php?channel=e2a11612c82cf150c8725bae8ab843e8
+#EXTINF:-1 tvg-id="6084" tvg-name="东森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="①📺港澳台★",东森洋片
+http://47.240.60.73/xaors/mlxy.php?channel=5c0f418e22d1024e445292edaba5dd1a
+#EXTINF:-1 tvg-id="6058" tvg-name="东森戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCDrama.png" group-title="①📺港澳台★",东森戏剧
+http://47.240.60.73/xaors/mlxy.php?channel=4e3800d0982ae64e861ee2166741a6ba
+#EXTINF:-1 tvg-id="6080" tvg-name="东森电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="①📺港澳台★",东森电影
+http://47.240.60.73/xaors/mlxy.php?channel=d824ce205aeb94733357f1c0a2e87609
+#EXTINF:-1 tvg-id="6043" tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="①📺港澳台★",东森幼幼
+http://47.240.60.73/xaors/mlxy.php?channel=9b9a4881bc69e6d251e6388972878d38
+#EXTINF:-1 tvg-id="7131" tvg-name="龙华影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华影剧.png" group-title="①📺港澳台★",龙华影剧
+http://47.240.60.73/xaors/mlxy.php?channel=4dd740b40b59997fcfec996e6a069353
+#EXTINF:-1 tvg-id="7132" tvg-name="龙华洋片" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华洋片.png" group-title="①📺港澳台★",龙华洋片
+http://47.240.60.73/xaors/mlxy.php?channel=66805d198a13a7845dd8e06073e51c4e
+#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="①📺港澳台★",龙华戏剧
+http://47.240.60.73/xaors/mlxy.php?channel=7473874dba9fead1b9c66f9219fe13fc
+#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="①📺港澳台★",龙华偶像
+http://47.240.60.73/xaors/mlxy.php?channel=1a78bb703e89fc979b466177d660e150
+#EXTINF:-1 tvg-id="7188" tvg-name="龙华动画" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/longhuadonghua.png" group-title="①📺港澳台★",龙华动画
+http://47.240.60.73/xaors/mlxy.php?channel=debd7ef6eedd4dc6b763f3aac4e9786f
+#EXTINF:-1 tvg-id="7130" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华经典.png" group-title="①📺港澳台★",龙华经典
+http://47.240.60.73/xaors/mlxy.php?channel=c864b11fc51c7963e888f973757fc2bb
+#EXTINF:-1 tvg-id="6044" tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="①📺港澳台★",纬来综合
+http://47.240.60.73/xaors/mlxy.php?channel=5cdbf943fe29fe91c29e3569a7dfc5fc
+#EXTINF:-1 tvg-id="6061" tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="①📺港澳台★",纬来戏剧
+http://47.240.60.73/xaors/mlxy.php?channel=b217ef42ba783fb2ca531c03e55d8f86
+#EXTINF:-1 tvg-id="6090" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="①📺港澳台★",纬来体育
+http://47.240.60.73/xaors/mlxy.php?channel=37d9ff55a922b1323745e47283690f68
+#EXTINF:-1 tvg-id="6081" tvg-name="纬来电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="①📺港澳台★",纬来电影
+http://47.240.60.73/xaors/mlxy.php?channel=6f555bb0622bc526cb7d547885944033
+#EXTINF:-1 tvg-id="6088" tvg-name="纬来育乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="①📺港澳台★",纬来育乐
+http://47.240.60.73/xaors/mlxy.php?channel=cabcd9f2d630d96923a6c07fdeff4333
+#EXTINF:-1 tvg-id="6192" tvg-name="靖天卡通台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/靖天卡通.png" group-title="①📺港澳台★",靖天卡通
+http://47.240.60.73/xaors/mlxy.php?channel=edc80996aacba3d2cae4c52cec64414d
+#EXTINF:-1 tvg-id="7217" tvg-name="EYE旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyelvyou.png" group-title="①📺港澳台★",EYE旅游
+http://47.240.60.73/xaors/mlxy.php?channel=2a77d1913e4d8a41827e76786b832ab6
+#EXTINF:-1 tvg-id="7222" tvg-name="EYE戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eyexiju.png" group-title="①📺港澳台★",EYE戏剧
+http://47.240.60.73/xaors/mlxy.php?channel=e9667ddf17f95b74b285eb85c4d50cda
+#EXTINF:-1 tvg-id="7219" tvg-name="爱尔达综合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png" group-title="①📺港澳台★",爱尔达综合
+http://47.240.60.73/xaors/mlxy.php?channel=354ed3925bd14313878d114aad53bfc2
+#EXTINF:-1 tvg-id="7201" tvg-name="爱尔达影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="①📺港澳台★",爱尔达影剧
+http://47.240.60.73/xaors/mlxy.php?channel=45f870e195159e30535edb6c91850c8e
+#EXTINF:-1 tvg-id="7227" tvg-name="华艺影剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/huayi_yingju.png" group-title="①📺港澳台★",华艺影剧台
+http://47.240.60.73/xaors/mlxy.php?channel=5635af28bf3c1ff93171e5e2d8250d2e
+#EXTINF:-1 tvg-id="6123" tvg-name="佛卫慈悲台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BudddhaCompassionTV.png" group-title="①📺港澳台★",佛卫慈悲台
+http://47.240.60.73/xaors/mlxy.php?channel=2618b6994e7895e3a6b6ca4480fed12d
+#EXTINF:-1 tvg-id="578" tvg-name="GoodTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoodTV2.png" group-title="①📺港澳台★",好消息 2台
+http://47.240.60.73/xaors/mlxy.php?channel=2904da3fb4c63224270150d77484f4b9
+#EXTINF:-1 tvg-id="6079" tvg-name="卫视电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/StarChineseMovies.png" group-title="①📺港澳台★",卫视电影
+http://47.240.60.73/xaors/mlxy.php?channel=eae7a8daef9c53fc683016b8c2a064ca
+#EXTINF:-1 tvg-id="7203" tvg-name="星卫娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmovieyule.png" group-title="①📺港澳台★",星卫娱乐
+http://47.240.60.73/xaors/mlxy.php?channel=b2952120401fd8b4da25975b89d092ac
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="①📺港澳台★",美亚电影
+http://47.240.60.73/xaors/mlxy.php?channel=da02dd2201b7b5e4a22c60afaf7690b6
+#EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" group-title="①📺港澳台★",天映经典
+http://47.240.60.73/xaors/mlxy.php?channel=4f5f4349ee7a74fbac9e271a328c08b1
+#EXTINF:-1 tvg-id="6086" tvg-name="好莱坞电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="①📺港澳台★",好莱坞电影
+http://47.240.60.73/xaors/mlxy.php?channel=faf43ebb2a219874a85b5af58d5a1496
+#EXTINF:-1 tvg-id="6096" tvg-name="国兴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GoldSunTV.png" group-title="①📺港澳台★",国兴卫视
+http://47.240.60.73/xaors/mlxy.php?channel=919d69f9e656ed8b87c33e89978c992c
+#EXTINF:-1 tvg-id="7223" tvg-name="曼迪日本" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/mandi_japan.png" group-title="①📺港澳台★",曼迪日本
+http://47.240.60.73/xaors/mlxy.php?channel=28fb6c442b212cc16a0567cbe1bbd211
+#EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="①📺港澳台★",亚洲美食
+http://47.240.60.73/xaors/mlxy.php?channel=c24af8e5ff88a6b333483c6b9d682461
+#EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="①📺港澳台★",美食星球
+http://47.240.60.73/xaors/mlxy.php?channel=5f0f7eaada270d6845963ee5ec52907b
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="①📺港澳台★",动物星球
+http://47.240.60.73/xaors/mlxy.php?channel=05ca6854a497d7cde1e8f501fb188eef
+#EXTINF:-1 tvg-id="6178" tvg-name="博斯高球2台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-golfplus.png" group-title="①📺港澳台★",博斯高球2
+http://47.240.60.73/xaors/mlxy.php?channel=780d67dcf663d0b325b2f0cf26814905
+#EXTINF:-1 tvg-id="6176" tvg-name="博斯无限台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport_unlimited.png" group-title="①📺港澳台★",博斯无限
+http://47.240.60.73/xaors/mlxy.php?channel=060c84bdb63186d41a22dc2df295c4ec
+#EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_4gtv-4gtv112_mobile.png" group-title="①📺港澳台★",天映经典
+http://47.240.60.73/xaors/mlxy.php?channel=4f5f4349ee7a74fbac9e271a328c08b1
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="①📺港澳台★",TVB星河台
+http://47.240.60.73/xaors/mlxy.php?channel=47b66f36d3fdce6ef682a8d8f5fb47b8
+#EXTINF:-1 tvg-id="7165" tvg-name="AMC" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AMC.png" group-title="①📺港澳台★",AMC
+http://47.240.60.73/xaors/mlxy.php?channel=f1a4260739ac66d1d4495e3b130d41d3
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="①📺港澳台★",Fox HD
+http://47.240.60.73/xaors/mlxy.php?channel=0ededb4b5ae296265d2f6f424ad3263b
+#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="①📺港澳台★",Fox Crime
+http://47.240.60.73/xaors/mlxy.php?c
+#EXTINF:-1 tvg-id="7172" tvg-name="中视经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视经典.png" group-title="①📺港澳台★",中视经典台
+http://198.16.106.58:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+#EXTINF:-1 tvg-id="6027" tvg-name="大爱一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png" group-title="①📺港澳台★",大爱台
+http://198.16.106.58:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="①📺港澳台★",国家地理野生频道
+http://198.16.106.58:8278/natgeowild_twn/playlist.m3u8?tid=mc9d789e8a1bb12836354&ct=17877&tsum=82c5ce1596dc364c112c79b239c3f5e8
+#EXTINF:-1 tvg-id="283" tvg-name="国家地理悠人频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeopeople.png" group-title="①📺港澳台★",国家地理悠人频道
+http://198.16.106.58:8278/natgeopeople_twn/playlist.m3u8?tid=m276f4f18825f17790558&ct=17874&tsum=1d6b4707b3010308c5c9a9d2e8e2c556
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="①📺港澳台★",探索频道
+http://198.16.106.58:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+#EXTINF:-1 tvg-id="7178" tvg-name="CI" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CrimeInvestigation.png" group-title="①📺港澳台★",罪案侦辑台
+http://198.16.106.58:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&ct=17877&tsum=eb2ddbfed683e40621e2b023bf017892
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="①📺港澳台★",History
+http://198.16.106.58:8278/history1hd_twn/playlist.m3u8?tid=mb3c9baa1132e10632091&ct=17877&tsum=9a9c281d5d041631087798fa725ed497
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="①📺港澳台★",History 2
+http://198.16.106.58:8278/history2hd_twn/playlist.m3u8?tid=m6ee31585044116722070&ct=17877&tsum=f8c0d4c91afe878ae92670a427f15300
+#EXTINF:-1 tvg-id="6038" tvg-name="TLC旅游生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="①📺港澳台★",TLC旅游生活
+http://198.16.106.58:8278/tlcasia_twn/playlist.m3u8?tid=m4275a6300f1315825317&ct=17874&tsum=40a7698d34b5c229dcb10d0a2b876319
+#EXTINF:-1 tvg-id="6039" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="①📺港澳台★",动物星球频道
+http://198.16.106.58:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+#EXTINF:-1 tvg-id="673" tvg-name="CN卡通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNCartoon.png" group-title="①📺港澳台★",CN卡通频道
+http://198.16.106.58:8278/momo1_twn/playlist.m3u8?tid=md272f875bb6916787346&ct=17874&tsum=0c38bae20c6db7e76ad1418654c8ccd4
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="①📺港澳台★",迪士尼卡通
+http://198.16.106.58:8278/disneytwn_twn/playlist.m3u8?tid=m215093f0d3d710656413&ct=17899&tsum=cfa7cdeea67a02a00ac9b0bea4776d28
+#EXTINF:-1 tvg-id="6042" tvg-name="MOMO亲子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="①📺港澳台★",momo亲子台
+http://198.16.106.58:8278/starfamily/playlist.m3u8?tid=m35569e28d78a&ct=18335&tsum=fb0f65f17e4ceec252f8c5b8a5552119
+#EXTINF:-1 tvg-id="6043" tvg-name="东森幼幼台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png" group-title="①📺港澳台★",东森幼幼台
+http://198.16.106.58:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d
+#EXTINF:-1 tvg-id="6044" tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="①📺港澳台★",纬来综合台
+http://198.16.106.58:8278/videolandzhe_twn/playlist.m3u8?tid=me8bac156077117426124&ct=17877&tsum=f5d43c876bab3b4a886b39fc8f7fc653
+#EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="①📺港澳台★",八大第一台
+http://198.16.106.58:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+#EXTINF:-1 tvg-id="6045" tvg-name="八大第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVOneHD.png" group-title="①📺港澳台★",八大第一台(备用)
+http://198.16.106.58:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287
+#EXTINF:-1 tvg-id="6046" tvg-name="八大综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVVarietyHD.png" group-title="①📺港澳台★",八大综合台
+http://198.16.106.58:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1 tvg-id="6059" tvg-name="八大戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVDramaHD.png" group-title="①📺港澳台★",八大戏剧台
+http://198.16.106.58:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+#EXTINF:-1 tvg-id="6133" tvg-name="八大娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GTVEntertainment.png" group-title="①📺港澳台★",八大娱乐台
+http://198.16.106.58:8278/badaentertain/playlist.m3u8?tid=m46003aa2ac2617525877&ct=17874&tsum=d31212ff6fbefd5bd856f80d16bb3f27
+#EXTINF:-1 tvg-id="6047" tvg-name="三立台湾台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="①📺港澳台★",三立台湾台
+http://198.16.106.58:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+#EXTINF:-1 tvg-id="6048" tvg-name="三立都会台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETCity.png" group-title="①📺港澳台★",三立都会台
+http://198.16.106.58:8278/sanlidouhui/playlist.m3u8?tid=m47b0222064de18476599&ct=17874&tsum=e88cfc84022aafb57a0de883eb40d091
+#EXTINF:-1 tvg-id="6239" tvg-name="三立综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETZonghe.png" group-title="①📺港澳台★",三立综合台
+http://198.16.106.58:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+#EXTINF:-1 tvg-id="7221" tvg-name="三立戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/setxiju.png" group-title="①📺港澳台★",三立戏剧台
+http://198.16.106.58:8278/sanlixiju/playlist.m3u8?tid=m85bfefb25f5b15139718&ct=17874&tsum=e3f01ed537857f0814429021b438094f
+#EXTINF:-1 tvg-id="6050" tvg-name="东森综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCVariety.png" group-title="①📺港澳台★",东森综合台
+http://198.16.106.58:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+#EXTINF:-1 tvg-id="6054" tvg-name="中天综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="①📺港澳台★",中天综合台
+http://198.16.106.58:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="①📺港澳台★",中天娱乐台
+http://198.16.1
+#EXTINF:-1 group-title="①📺港澳台★",TVB功夫
+http://47.240.60.73/xaors/mlxy.php?channel=4c684528e903d15d1d98c429497e7e10
+#EXTINF:-1 group-title="①📺港澳台★",RH31
+http://47.240.60.73/xaors/mlxy.php?channel=7e747f53a7c2846d3d23f9a070dbbd1e
+#EXTINF:-1 group-title="①📺港澳台★",RH32
+http://47.240.60.73/xaors/mlxy.php?channel=814bcfd3ba242e7f6f2d3cd4287607db
+#EXTINF:-1 group-title="①📺港澳台★",VIU6 tv
+http://47.240.60.73/xaors/mlxy.php?channel=20277db4537deab325dde76751e884f7
+#EXTINF:-1 group-title="①📺港澳台★",有线电影
+http://47.240.60.73/xaors/mlxy.php?channel=3cc5fb32f48f180e4e5d1968af54619b
+#EXTINF:-1 group-title="①📺港澳台★",有线体育
+http://47.240.60.73/xaors/mlxy.php?channel=e3b1fdc17f115b62166b957b00c01f7f
+#EXTINF:-1 group-title="①📺港澳台★",中天亚洲
+http://47.240.60.73/xaors/mlxy.php?channel=4f65eafd2a2417342c1b871464351e66
+#EXTINF:-1 group-title="①📺港澳台★",龙祥时代
+http://47.240.60.73/xaors/mlxy.php?channel=2e50ce93987019d3b067a97c45a23489
+#EXTINF:-1 group-title="①📺港澳台★",纬来精彩
+http://47.240.60.73/xaors/mlxy.php?channel=51d255141eaa32bba398eba750f0abb9
+#EXTINF:-1 group-title="①📺港澳台★",晴天国际
+http://47.240.60.73/xaors/mlxy.php?channel=e188201e9365d97939005644404e91cd
+#EXTINF:-1 group-title="①📺港澳台★",晴天日本
+http://47.240.60.73/xaors/mlxy.php?channel=165e5fa8b36abd5f191e827fc5ecc472
+#EXTINF:-1 group-title="①📺港澳台★",晴天戏剧
+http://47.240.60.73/xaors/mlxy.php?channel=8a1baa853d4c1757e27c2e2746e1421c
+#EXTINF:-1 group-title="①📺港澳台★",晴天育乐
+http://47.240.60.73/xaors/mlxy.php?channel=f2d8b7926b71bdcb3d3793cbfe7ed3ce
+#EXTINF:-1 group-title="①📺港澳台★",晴天映画
+http://47.240.60.73/xaors/mlxy.php?channel=9281e5431588a180abc762656370c46b
+#EXTINF:-1 group-title="①📺港澳台★",晴天电影
+http://47.240.60.73/xaors/mlxy.php?channel=c37b64d7cffbda9356ec5fed0d199ada
+#EXTINF:-1 group-title="①📺港澳台★",晴洋戏剧
+http://47.240.60.73/xaors/mlxy.php?channel=c3d1847cad8c59c9213fbc6a040ac20f
+#EXTINF:-1 group-title="①📺港澳台★",爱尔达体育
+http://47.240.60.73/xaors/mlxy.php?channel=0c699dd1f6324a203ea65057a1e75329
+#EXTINF:-1 group-title="①📺港澳台★",CHC高清
+http://47.240.60.73/xaors/mlxy.php?channel=22719d4478979abbb10b41fa5435e754
+#EXTINF:-1 group-title="①📺港澳台★",中国电影
+http://47.240.60.73/xaors/mlxy.php?channel=c69c9de9945ce16fb7fa7313cfeec637
+#EXTINF:-1 group-title="①📺港澳台★",卫视合家
+http://47.240.60.73/xaors/mlxy.php?channel=efe958943f750e00e1dc046f89d4f936
+#EXTINF:-1 group-title="①📺港澳台★",星卫电影
+http://47.240.60.73/xaors/mlxy.php?channel=473a6f1c1e3fb49b1202fd57c11965e2
+#EXTINF:-1 group-title="①📺港澳台★",都市剧场
+http://47.240.60.73/xaors/mlxy.php?channel=7eeed326ec3b5fa56b46627d42f35c01
+#EXTINF:-1 group-title="①📺港澳台★",华纳电影
+http://47.240.60.73/xaors/mlxy.php?channel=ae2a302875427dd1a126c0affb4aa7d9
+#EXTINF:-1 group-title="①📺港澳台★",台湾卡通
+http://47.240.60.73/xaors/mlxy.php?channel=202174867eca334e8ae76ae92b873239
+#EXTINF:-1 group-title="①📺港澳台★",ELTA体育2
+http://47.240.60.73/xaors/mlxy.php?channel=0b7205cba0de91d385be221d466c351d
+#EXTINF:-1 group-title="①📺港澳台★",ELTA体育3
+http://47.240.60.73/xaors/mlxy.php?channel=d2fb8f724d3593af29f6ef1e8b077744
+#EXTINF:-1 group-title="①📺港澳台★",广东体育
+http://47.240.60.73/xaors/mlxy.php?channel=8539c9d13d384e0e976fa93196f844f3
+#EXTINF:-1 group-title="①📺港澳台★",Astro_爱奇艺
+http://47.240.60.73/xaors/mlxy.php?channel=08400975e6beeb4aa15293b803fa9879
+#EXTINF:-1 group-title="①📺港澳台★",Astro_华丽台
+http://47.240.60.73/xaors/mlxy.php?channel=e5e127c858a11f24dcce918bd5838913
+#EXTINF:-1 group-title="①📺港澳台★",Astro_欢喜台
+http://47.240.60.73/xaors/mlxy.php?channel=3de4ad6eb09f1c115ee9c260efa85942
+#EXTINF:-1 group-title="①📺港澳台★",Astro_双星台
+http://47.240.60.73/xaors/mlxy.php?channel=a8b2a54597bbcc99ea1456264b72eab7
+#EXTINF:-1 group-title="①📺港澳台★",Astro_小太阳
+http://47.240.60.73/xaors/mlxy.php?channel=5991324d95841f0c1c57578d52213b5a
+#EXTINF:-1 group-title="①📺港澳台★",Astro_Ceria
+http://47.240.60.73/xaors/mlxy.php?channel=e812a3049d85fef4f2ad37b145c9bd62
+#EXTINF:-1 group-title="①📺港澳台★",Astro_Awani
+http://47.240.60.73/xaors/mlxy.php?channel=9a751631192a8cfe27d4b49a3df79bc1
+#EXTINF:-1 group-title="①📺港澳台★",Astro_Oasis
+http://47.240.60.73/xaors/mlxy.php?channel=0f01eb1fc688a002847ce176b568afb0
+#EXTINF:-1 group-title="①📺港澳台★",Astro_Warna
+http://47.240.60.73/xaors/mlxy.php?channel=050558f5c3acc91093378ffdc2b99dc8
+#EXTINF:-1 group-title="①📺港澳台★",Astro_Ria
+http://47.240.60.73/xaors/mlxy.php?channel=21901f38d17350db577630c9d800446c
+#EXTINF:-1 group-title="①📺港澳台★",Astro_Citra
+http://47.240.60.73/xaors/mlxy.php?channel=95ba3847447d46019b41ee6b75c5ca67
+#EXTINF:-1 group-title="①📺港澳台★",Astro_Prima
+http://47.240.60.73/xaors/mlxy.php?channel=b5cfafb25c6d34582ee0a221ec43327d
+#EXTINF:-1 group-title="①📺港澳台★",astro AOD
+http://47.240.60.73/xaors/mlxy.php?channel=6b05ff89420027734710d7b1d393f59a
+#EXTINF:-1 group-title="①📺港澳台★",astro supersport1
+http://47.240.60.73/xaors/mlxy.php?channel=61916b478cbb29d6e11e8ecdec858b30
+#EXTINF:-1 group-title="①📺港澳台★",astro supersport2
+http://47.240.60.73/xaors/mlxy.php?channel=733bcd8a29fafd0ddccf357ff7e156ad
+#EXTINF:-1 group-title="①📺港澳台★",astro supersport3
+http://47.240.60.73/xaors/mlxy.php?channel=c4d1acb2343b0d257b0b33a5aafe5055
+#EXTINF:-1 group-title="①📺港澳台★",astro supersport4
+http://47.240.60.73/xaors/mlxy.php?channel=5f8971b1c8d3f734fbe0adc7c70ed332
+#EXTINF:-1 group-title="①📺港澳台★",天映频道
+http://47.240.60.73/xaors/mlxy.php?channel=2ff8f45bcc6f232c12e19a6b4c8ecdff
+#EXTINF:-1 group-title="①📺港澳台★",5TV
+http://47.240.60.73/xaors/mlxy.php?channel=1ce65ecc227d4a34bb3f4571e80ec4f0
+#EXTINF:-1 group-title="①📺港澳台★",8TV
+http://47.240.60.73/xaors/mlxy.php?channel=bb5a2c2710e283382344cf91e8a5aa57
+#EXTINF:-1 group-title="①📺港澳台★",KIX
+http://47.240.60.73/xaors/mlxy.php?channel=957d873277e54782d78c731a0d540ff5
+#EXTINF:-1 group-title="①📺港澳台★",SYFY
+http://47.240.60.73/xaors/mlxy.php?channel=c02bd4b5e5489e797fc8ea2bb4c80016
+#EXTINF:-1 group-title="①📺港澳台★",Naura
+http://47.240.60.73/xaors/mlxy.php?channel=202e7d8e894c071261c8d0b9538fc01d
+#EXTINF:-1 group-title="①📺港澳台★",Okey
+http://47.240.60.73/xaors/mlxy.php?channel=9b65b66fdb7d64b28b524bc675883fa6
+#EXTINF:-1 group-title="①📺港澳台★",Bernama
+http://47.240.60.73/xaors/mlxy.php?channel=932bd52fdb46f4edf5b2951013590a69
+#EXTINF:-1 group-title="①📺港澳台★",CI
+http://47.240.60.73/xaors/mlxy.php?channel=6f0b859f9d5d75c99d9f8b85859bfeb8
+#EXTINF:-1 group-title="①📺港澳台★",HBO_HD
+http://47.240.60.73/xaors/mlxy.php?channel=a6c3f72b41f5688a45ca4d9eec1faaf7
+#EXTINF:-1 group-title="①📺港澳台★",HBO_Hits
+http://47.240.60.73/xaors/mlxy.php?channel=5d9009f9e253bf9dbc3781072008bffd
+#EXTINF:-1 group-title="①📺港澳台★",HBO_Signature
+http://47.240.60.73/xaors/mlxy.php?channel=2035503f33bcdcba2cc138328a04f87c
+#EXTINF:-1 group-title="①📺港澳台★",FX_HD
+http://47.240.60.73/xaors/mlxy.php?channel=12015ec12e5df451deacfcf2dc298bf7
+#EXTINF:-1 group-title="①📺港澳台★",Fox_Action
+http://47.240.60.73/xaors/mlxy.php?channel=b61626c1c31f90e18e11b966b1e8852d
+#EXTINF:-1 group-title="①📺港澳台★",Fox_Family
+http://47.240.60.73/xaors/mlxy.php?channel=3ba015e8638048c187a308f0bde0ce64
+#EXTINF:-1 group-title="①📺港澳台★",国家地理国际频道
+http://198.16.106.58:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
+#EXTINF:-1 group-title="①📺港澳台★",探索亚洲台
+http://198.16.106.58:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+#EXTINF:-1 group-title="①📺港澳台★",探索动力台
+http://198.16.106.58:8278/discoveryturbo_twn/playlist.m3u8?tid=m33a70bc8259c12219783&ct=17877&tsum=b8470668b7a41d6b15a90b7aa43b3279
+#EXTINF:-1 group-title="①📺港澳台★",探索科学台
+http://198.16.106.58:8278/discoverysc_twn/playlist.m3u8?tid=mc6599c2e8abf17200438&ct=17877&tsum=04c82c404888445ec55711287ad6b21b
+#EXTINF:-1 group-title="①📺港澳台★",探索家庭台
+http://198.16.106.58:8278/discoveryeve_twn/playlist.m3u8?tid=m6376c7d24ec312573043&ct=17877&tsum=14196552a8369d8e160a34dd40b4f4bd
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/mlzg.jpg" group-title="①📺HD-4K   鉴赏",美丽中国-虎牙
 http://aldirect.rtmp.huya.com/huyalive/1199524471627-1199524471627-5276779824680009728-2399049066710-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/qgfj.jpg" group-title="①📺HD-4K   鉴赏",全国风景总览
@@ -211,6 +471,8 @@ http://39.135.97.94/wh7f454c46tw965975784_1192599104/PLTV/88888888/224/322122675
 http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8 
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K   鉴赏",CCTV-4K
 http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K   鉴赏",CCTV-4K
+http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K   鉴赏",CCTV4K
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺HD-4K   鉴赏",CCTV4K
@@ -1043,6 +1305,14 @@ http://aldirect.rtmp.huya.com/huyalive/29169025-2686221140-11537231946123837440-
 http://aldirect.rtmp.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",新白娘子传奇
 http://47.240.60.73/yy.php?t=1382650232
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",新白娘子传奇
+http://cn-zjwz-dx-live-01.bilivideo.com/live-bvc/live_234117739_9751143.m3u8
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",新白娘子传奇2
+http://cn-zjwz-dx-live-01.bilivideo.com/live-bvc/131414/live_20051598_65279225.m3u8
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",新白娘子传奇3
+http://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_24837586_3713329.m3u8
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",济公
+http://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_21084389_5381646.m3u8
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",芈月传
 http://47.240.60.73/yy.php?t=1382650380
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",甄嬛传1
@@ -1517,6 +1787,8 @@ http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",亚洲影院
 http://112.17.40.145/PLTV/88888888/224/3221226245/index.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",天映
+https://livedoomovies.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",电影
 http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=DX5VIJZTDI4ZCN5K4S663GCPBBML&ts=1550812417
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 TV ",电影2
@@ -1643,6 +1915,18 @@ https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/161661/live_1465616_3696069_15
 https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/255852/live_327956762_9517783.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",亚视经典电视剧
 https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/391569/live_21183636_1123140.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",蓉城影院
+http://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_48240701_1981056.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",超清电影
+http://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_30713935_2380765.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",林正英 女鬼 僵尸
+http://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_386725629_13296528.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",日剧连播
+http://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_30837561_1972475.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",一樂映评馆
+http://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_222243933_4338159_1500.m3u8
+#EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",《共同战“疫”》不间断直播
+http://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_456664753_32691722_1500.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",粤语残片电影
 https://cn-zjwz-dx-live-04.bilivideo.com/live-bvc/403103/live_88547185_8335137.m3u8
 #EXTINF:-1 group-title="⑨📺剧场-影视📀 Bilibili",励志 热血 治愈 搞笑 动漫轮番放
