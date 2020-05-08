@@ -527,6 +527,36 @@ http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=a2c9779e2a6ab0f02c23e0f
 http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=5bae33b00a427486c52b14a4e7c077b9
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="①📺CCTV （备用101）",CCTV17高清
 http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=ac0f356fa919179dc1a7e270e3e550f5
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="①📺CCTV-上海BST",CCTV1
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="①📺CCTV-上海BST",CCTV-1
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="①📺CCTV-上海BST",CCTV-1
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv1hd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="①📺CCTV-上海BST",CCTV-2
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv2/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="①📺CCTV-上海BST",CCTV-3
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv3/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="①📺CCTV-上海BST",CCTV-4
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv4/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="①📺CCTV-上海BST",CCTV-5
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv5/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺CCTV-上海BST",CCTV-6
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv6/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="①📺CCTV-上海BST",CCTV-7
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv7/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="①📺CCTV-上海BST",CCTV-8
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv8/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="①📺CCTV-上海BST",CCTV-10
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv10/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="①📺CCTV-上海BST",CCTV-11
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv11/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="①📺CCTV-上海BST",CCTV-12
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctv12/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="①📺CCTV-上海BST",CCTV-13
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctvxw/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="①📺CCTV-上海BST",CCTV-15
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cctvyy/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="📺📺ioiozCCTV(备用)",CCTV1
 http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="📺📺ioiozCCTV(备用)",CCTV2
@@ -1913,6 +1943,94 @@ http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=83f34ebffb3a453be323efd
 http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=52a440143e2891e1f963f1f46e1145d9
 #EXTINF:-1 group-title="③📺卫视直播 (备用101)",湖南电视剧高清
 http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=fc27b2ae500a61a42dd0c3dd9dc4ac9a
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="③📺卫视直播-上海BST",东南卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/dnws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="③📺卫视直播-上海BST",东方卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hddfws/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="③📺卫视直播-上海BST",东方卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hddfws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="③📺卫视直播-上海BST",云南卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/ynws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="③📺卫视直播-上海BST",兵团卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/btws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="③📺卫视直播-上海BST",内蒙古卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/nmgws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="③📺卫视直播-上海BST",北京卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/bjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="③📺卫视直播-上海BST",吉林卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jlws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="③📺卫视直播-上海BST",四川卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/scws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="③📺卫视直播-上海BST",安徽卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/ahws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="③📺卫视直播-上海BST",山东卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/sdwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="③📺卫视直播-上海BST",山东卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/sdwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="③📺卫视直播-上海BST",山东卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/sdwshd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="③📺卫视直播-上海BST",山西卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/shanxiws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="③📺卫视直播-上海BST",广东卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/gdwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="③📺卫视直播-上海BST",广东卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/gdwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="③📺卫视直播-上海BST",广东卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/gdwshd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="③📺卫视直播-上海BST",广西卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/gxws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="③📺卫视直播-上海BST",旅游卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/lyws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="③📺卫视直播-上海BST",江苏卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="③📺卫视直播-上海BST",江苏卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="③📺卫视直播-上海BST",江苏卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jswshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="③📺卫视直播-上海BST",江西卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jxws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="③📺卫视直播-上海BST",河北卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hbws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="③📺卫视直播-上海BST",浙江卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/zjwshd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="③📺卫视直播-上海BST",浙江卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/zjwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="③📺卫视直播-上海BST",浙江卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/zjwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="③📺卫视直播-上海BST",深圳卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/szwshd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="③📺卫视直播-上海BST",深圳卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/szwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="③📺卫视直播-上海BST",深圳卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/szwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="③📺卫视直播-上海BST",湖北卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hbwshd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="③📺卫视直播-上海BST",湖北卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hbwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="③📺卫视直播-上海BST",湖北卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hbwshd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="③📺卫视直播-上海BST",湖南卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hnwshd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="③📺卫视直播-上海BST",湖南卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hnwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="③📺卫视直播-上海BST",甘肃卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/gsws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="③📺卫视直播-上海BST",辽宁卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/lnws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="③📺卫视直播-上海BST",重庆卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/cqws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="③📺卫视直播-上海BST",金鹰卡通
+http://keonline.shanghai.liveplay.qq.com/live/program/live/jykt/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="③📺卫视直播-上海BST",陕西卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/sxws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="③📺卫视直播-上海BST",青海卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/qhws/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="③📺卫视直播-上海BST",黑龙江卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/1300000/mnf.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="③📺卫视直播-上海BST",黑龙江卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/2300000/mnf.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="③📺卫视直播-上海BST",黑龙江卫视
+http://keonline.shanghai.liveplay.qq.com/live/program/live/hljwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="④📺地方-电视台",广东 Ⅰ 韶关综合台
 https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 #EXTINF:-1 group-title="④📺地方-电视台",广东 Ⅰ 韶关公共台
