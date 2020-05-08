@@ -1585,6 +1585,8 @@ https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/03.m3u8
 http://47.240.60.73/aqy.php?id=3801863#http://baiducdncmn.inter.iqiyi.com/tslive/c19_lb_guangchangwudaquan_high_t10/c19_lb_guangchangwudaquan_high_t10.m3u8?key=78e6758f&qd_sc=8a3d33a5bab14a1c99e0efbd76f89bca&qd_scc=8c2c92a7fd4fbe41fb1c2cee6b88a39a&qd_src=01012001020000000000&qd_tm=1582729639672&qd_tvid=2907072523&qd_uid=0&qd_vip=0&qd_vipres=0&qyid=atkmj4zb56pizgocnk5mvphqaozxck6k
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",广场舞
 http://gslb.dianshihome.com/gslb/live?stream_id=iqiyilb_guangchangwudaquan
+#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",糖豆广场舞
+http://gslb.dianshihome.com/gslb/live?stream_id=iqiyilb_guangchangwudaquan
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",养生堂
 http://47.240.60.73/aqy.php?id=3802162
 #EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",伍阿哥视频
@@ -3435,6 +3437,12 @@ https://vd3.bdstatic.com/mda-kaiskhuinjf4a8m4/hd/mda-kaiskhuinjf4a8m4.mp4?pd=20&
 https://vdse.bdstatic.com/660c78b56b33dca31497de9c6921c5a6.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fb2cec293153ef7795846f08b08f8ae00825357cd0ce4d2c2977afeb31bb70540
 #EXTINF:-1 group-title="⑳🎵MTV-MV🎤-A",冯绍峰/赵丽颖 Ⅰ 知否知否
 http://vd3.bdstatic.com/mda-imnj0y8p1qrw232x/hd/mda-imnj0y8p1qrw232x.mp4?pd=19&vt=1
+#EXTINF:-1 group-title="⑳🎵MTV-MV🎤-A",名人名歌1
+https://vdept.bdstatic.com/315141724c56644674547675646c6e35/434e5a4453457361/a4186e0d5df4e9d50b6667a941f94353a85ee1aacc6abf8b892444102ede29f2b8d5056e6783d2758b51589693e79397.mp4?auth_key=1588945636-0-0-bec73d0cde0e7929bacf6a65b8388765
+#EXTINF:-1 group-title="⑳🎵MTV-MV🎤-A",名人名歌2
+https://vdept.bdstatic.com/3339776c41776d415436393263686e34/656e523467783657/dcb20757f9ddcbba0b0ab32db5b933ef93031646cfab33c6d9ffa51314d34f86769ae37c4a169bfc973308a72dcdfdc4.mp4?auth_key=1588945535-0-0-3ee99a520d8fd5d8c214568e930a7044
+#EXTINF:-1 group-title="⑳🎵MTV-MV🎤-A",民歌串烧
+https://vdept.bdstatic.com/784770436e6649413541414d724c684c/335933757876716c/cf657de8759fccdee77032f930641cf519a3085a83792548a95cc99f21cbe6bd4cb3afbf57e56ca186d407ead54e1539.mp4?auth_key=1588945452-0-0-d36c4ae47e5b1af0248ceecf0b0b7adb
 #EXTINF:-1 group-title="⑳🎵MTV-MV🎤-A",韩国女团MV1
 http://k.syasn.com/f/f211?k1=149.28.90.29&k2=csf2avzddt&k3=776f7222df19a60930dd1d9bb280961d&k4=557bb5614e7e0c065b34b52763f9715e&k5=f211&k6=f8df7f783c1150428867b35a6b9543e6_458b7f60b7435b614d1ac6719b24714c&k7=123&g=0
 #EXTINF:-1 group-title="⑳🎵MTV-MV🎤-A",韩国女团MV2
