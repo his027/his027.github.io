@@ -505,6 +505,8 @@ http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/296155_gui3i.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/dmxc.png" group-title="①📺HD-4K   鉴赏",动漫秀场
 http://112.50.243.8/PLTV/88888888/224/3221226141/1.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/ipanda.png" group-title="①📺HD-4K   鉴赏",熊猫频道高清
+http://itv.ahau.edu.cn/hls/hls148.m3u8
 #EXTINF:-1 tvg-id="63" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/3dpd.png" group-title="①📺HD-4K   鉴赏",3D Channel
 http://112.17.40.140/PLTV/88888888/224/3221226475/index.m3u8
 #EXTINF:-1 tvg-id="6242" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/dwsj.jpg" group-title="①📺HD-4K   鉴赏",动物世界Channel 求索动物
@@ -524,15 +526,15 @@ http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视1台
 http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视2台
-http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8#http://39.135.33.167/PLTV/88888888/224/3221225884/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视3台
-http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视4台
 http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视5台
-http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8?icpid=88888888&from=99&ocs=2_2409:8087:3400:20:1000::146_80&popid=99&hms_devid=523&prioritypopid=99&vqe=3
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视5台
-http://112.17.40.145/PLTV/88888888/224/3221226751/index.m3u8
+http://112.17.40.145/PLTV/88888888/224/3221226751/index.m3u8#http://39.135.33.167/PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视6台
 http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视7台
@@ -550,13 +552,15 @@ http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8#http://101.71.255.2
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视13台- 电视剧
 http://112.17.40.140/PLTV/88888888/224/3221226181/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视14台- 日本剧场
-http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226245/index.m3u8
+http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226245/index.m3u8#http://117.148.187.13/PLTV/88888888/224/3221226245/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光影视15台 -美食
 http://112.17.40.140/PLTV/88888888/224/3221226479/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",五星影院
 http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",kk金马影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",爱映画高清
+http://itv.ahau.edu.cn/hls/hls78a46.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",樱花24小时
 http://www.dszbdq.cn/play/migu.php?id=625542372
 #EXTINF:-1 tvg-id="75" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="①📺HD-蓝光 影院",CHC高清电影
@@ -1269,6 +1273,8 @@ http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_jingdianjuchang_1080p_t10/c16_lb
 http://47.240.60.73/migu.php?id=625574378
 #EXTINF:-1 group-title="④📡电视剧Series-现代-剧场",精品剧场
 http://47.240.60.73/migu.php?id=615810094
+#EXTINF:-1 group-title="④📡电视剧Series-现代-剧场",时光剧场高清
+http://itv.ahau.edu.cn/hls/hls78a48.m3u8
 #EXTINF:-1 group-title="④📡电视剧Series-现代-剧场",老戏骨
 http://47.240.60.73/aqy.php?id=3807202
 #EXTINF:-1 group-title="④📡电视剧Series-现代-剧场",深夜尤物剧场
@@ -2773,6 +2779,22 @@ http://120.221.5.165:8089/PLTV/88888888/224/3221225629/index.m3u8
 http://120.221.5.101:8089/PLTV/88888888/224/3221225943/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看少儿蓝光
 http://120.221.5.113:8089/PLTV/88888888/224/3221225943/index.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD大众影视
+http://itv.ahau.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD大众影视
+http://itv.ahau.edu.cn/hls/hls164.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD家庭剧场
+http://itv.ahau.edu.cn/hls/hls75a28.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD家庭剧场
+http://itv.ahau.edu.cn/hls/hls165.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD家庭影院
+http://itv.ahau.edu.cn/hls/hls75a29.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD家庭影院
+http://itv.ahau.edu.cn/hls/hls166.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD卡通剧场
+http://itv.ahau.edu.cn/hls/hls77a30.m3u8
+#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD卡通剧场
+http://itv.ahau.edu.cn/hls/hls167.m3u8
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",一起学健身
 http://aldirect.rtmp.huya.com/huyalive/1199526253101-1199526253101-5284431197248684032-2399052629658-10057-A-0-1.m3u8?wsSecret=2db11f89a10fe06e30fab33661fc0183&wsTime=5e23f413&fs=bgct&ratio=2500
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",亚旅卫视
@@ -2781,6 +2803,8 @@ http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 http://120.221.5.102:8089/PLTV/88888888/224/3221225996/index.m3u8
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",中二 赛车
 http://aldirect.rtmp.huya.com/huyalive/1099531739996-1099531739996-86381327149957120-2199063603448-10057-A-0-1.m3u8?wsSecret=e2de970b68a65107c41fbf83657e816e&wsTime=5e23f658&txyp=o:q5;&fs=bgct&ratio=2500
+#EXTINF:-1 group-title="⑰⚽体育健康🏋️",足球频道高清
+http://itv.ahau.edu.cn/hls/zqhd.m3u8
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",路人王国际邀请赛-篮球
 http://aldirect.rtmp.huya.com/huyalive/1099531728916-1099531728916-86333738912317440-2199063581288-10057-A-0-1.m3u8?wsSecret=9795348684fc21cc0a39abd8f2ab41a5&wsTime=5e23f5a1&txyp=o:q5;&fs=bgct&ratio=2500
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2PoLaXw.png" group-title="⑰⚽体育健康🏋️",NewTV Super sports HD
