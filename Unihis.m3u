@@ -575,50 +575,26 @@ http://120.221.5.113:8089/PLTV/88888888/224/3221226053/index.m3u8
 http://120.221.5.108:8089/PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="①📺HD-蓝光 影院",黑莓电影蓝光
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
-#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="①📺HD-蓝光 影院",黑莓电影
-http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="①📺HD-蓝光 影院",黑莓电影
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD大众影视
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD大众影视
-http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD大众影视
-http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD家庭剧场
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD家庭剧场
-http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD家庭影院
-http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD家庭影院
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD卡通剧场
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD卡通剧场
-http://hdtv.lzu6.edu.cn/hls/hls77a30.m3u8
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="①📺HD-蓝光 影院",黑莓动画蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="①📺HD-蓝光 影院",黑莓电竞蓝光
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺HD-蓝光 影院",CCTV-6 HD
 http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺HD-蓝光 影院",CCTV-6 HD
-http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺HD-蓝光 影院",CCTV-6 HD
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺HD-蓝光 影院",CCTV-6 HD
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD大众影视
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD家庭剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD家庭影院
+http://hdtv.lzu6.edu.cn/hls/hls75a29.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD卡通剧场
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动画1台
 http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动画2台
 http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动漫3台
 http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
-#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="①📺HD-蓝光 影院",黑莓动画蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
-#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="①📺HD-蓝光 影院",黑莓动画
-http://112.17.40.145/PLTV/88888888/224/3221226654/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="①📺HD-蓝光 影院",黑莓动画
-http://itv.ahau.edu.cn/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="①📺HD-蓝光 影院",黑莓电竞蓝光
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/sejy.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",儿歌大全
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_ergedaquan&ostype=android&hwtype=nubia&tm=1579958333&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/sejy.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",儿歌大全
@@ -659,50 +635,6 @@ http://baiducdncmn.inter.iqiyi.com/tslive/c17_lb_wanjuleyuan_high_t10/c17_lb_wan
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_daomeixiong&ostype=android&hwtype=nubia&tm=1579955249&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/sejy.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",爆笑虫子
 http://baiducdncmn.inter.iqiyi.com/tslive/c20_lb_baoxiaochongzi_high_t10/c20_lb_baoxiaochongzi_high_t10.m3u8?key=78e6758f&qd_sc=b01ae9ecd1fee672cf2522263c872196&qd_scc=473492c636993ea8e539b1c75622b2f5&qd_src=01012001020000000000&qd_tm=1582727954293&qd_tvid=2906603823&qd_uid=0&qd_vip=0&qd_vipres=0&qyid=atkmj4zb56pizgocnk5mvphqaozxck6k
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",北京教学广播 FM99.4
-http://ls.qingting.fm/live/338.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",北京教学广播 FM99.4
-http://live.xmcdn.com/live/104/64.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",国教台CEC TV-1
-http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",国教台CEC TV-2
-http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",国教台CEC TV-3
-http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",国教台CEC TV-4
-http://iptv.pdsu.edu.cn/hls/cetv4.m3u8#http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",北京教学广播 FM99.4
-http://123.56.16.201:1935/live/fm994/96K/tzwj_video.m3u8
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-儿歌",百事教育
-http://112.17.40.140/PLTV/88888888/224/3221226582/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-1
-http://iptv.pdsu.edu.cn/hls/cetv1.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8#http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8#http://player.paymigu.com/migu.php?id=649531772
-#EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-1
-http://hdtv.lzu6.edu.cn/hls/cetv1hd.m3u8#http://hdtv.lzu6.edu.cn/hls/cetv1.m3u8#http://hdtv.lzu6.edu.cn/hls/hls67a45.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-1
-http://111.40.205.87/PLTV/88888888/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-1
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
-#EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-1 HD
-http://player.paymigu.com/migu.php?id=649531734
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-2
-http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8#http://player.paymigu.com/migu.php?id=649532169#http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
-#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-2
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226170/index.m3u8?_res_tag_=video
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-3
-http://iptv.pdsu.edu.cn/hls/cetv3.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8#http://player.paymigu.com/migu.php?id=649531756
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-3
-http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8?_res_tag_=video
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-3
-http://hdtv.lzu6.edu.cn/hls/cetv3.m3u8
-#EXTINF:-1 tvg-id="76" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-4
-http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8#http://player.paymigu.com/migu.php?id=649531725
-#EXTINF:-1 tvg-id="76" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",CETV-4
-http://hdtv.lzu6.edu.cn/hls/cetv4.m3u8
-#EXTINF:-1 tvg-id="1202" tvg-name="英语辅导频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="②📺少儿益智💯‍‍教育台-儿歌",英语辅导
-http://hdtv.lzu6.edu.cn/hls/hls107.m3u8
-#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-儿歌",山东教育卫视
-http://112.17.40.140/PLTV/88888888/224/3221226652/index.m3u8
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-儿歌",动画小天地
 http://baiducdncmn.inter.iqiyi.com/tslive/c18_lb_dishine_high_t10/c18_lb_dishine_high_t10.m3u8?key=e58224eb087707d0d74da6ac3c94c973&qd_scc=6a72e57feb0d6a072221ce8a59f1a716&qd_src=01012001020000000000&qd_tm=1582727892448&qd_tvid=2906793423&qd_uid=0&qd_vip=0&qd_vipres=0&qyid=atkmj4zb56pizgocnk5mvphqaozxck6k
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-儿歌",喜洋洋
@@ -727,6 +659,52 @@ http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_donghuadianying&ostype=an
 http://api.idianshijia.com/gslb/live?stream_id=iqiyilb_dongmanleyuan&ostype=android&hwtype=nubia&tm=1582732460&isp=telecom&region=510000&uuid=63e0ae01-df8f-3856-8542-a62b72abfb52&sign=null
 #EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-儿歌",猫和老鼠
 http://baiducdncmn.inter.iqiyi.com/tslive/c20_lb_maohelaoshu_high_t10/c20_lb_maohelaoshu_high_t10.m3u8?key=78e6758f&qd_sc=99e70c7391e3678d96b6ff6c1eed9f94&qd_scc=13fcd0a16fa866ccc3634df6a9ee313c&qd_src=01012001020000000000&qd_tm=1582729972286&qd_tvid=2905793023&qd_uid=0&qd_vip=0&qd_vipres=0&qyid=atkmj4zb56pizgocnk5mvphqaozxck6k
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/sejy.png" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV早期教育
+http://hdtv.lzu6.edu.cn/hls/hls25.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-课堂",北京教学广播 FM99.4
+http://ls.qingting.fm/live/338.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-课堂",北京教学广播 FM99.4
+http://live.xmcdn.com/live/104/64.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-课堂",国教台CEC TV-1
+http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-课堂",国教台CEC TV-2
+http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-课堂",国教台CEC TV-3
+http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-课堂",国教台CEC TV-4
+http://iptv.pdsu.edu.cn/hls/cetv4.m3u8#http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/education.png" group-title="②📺少儿益智💯‍‍教育台-课堂",北京教学广播 FM99.4
+http://123.56.16.201:1935/live/fm994/96K/tzwj_video.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-课堂",百事教育
+http://112.17.40.140/PLTV/88888888/224/3221226582/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-1
+http://iptv.pdsu.edu.cn/hls/cetv1.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8#http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227355/index.m3u8#http://player.paymigu.com/migu.php?id=649531772
+#EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-1
+http://hdtv.lzu6.edu.cn/hls/cetv1hd.m3u8#http://hdtv.lzu6.edu.cn/hls/cetv1.m3u8#http://hdtv.lzu6.edu.cn/hls/hls67a45.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-1
+http://111.40.205.87/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-1
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="中教台CETV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-1 HD
+http://player.paymigu.com/migu.php?id=649531734
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-2
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8#http://player.paymigu.com/migu.php?id=649532169#http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2/1.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-2
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226170/index.m3u8?_res_tag_=video
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-3
+http://iptv.pdsu.edu.cn/hls/cetv3.m3u8#http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8#http://player.paymigu.com/migu.php?id=649531756
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-3
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8?_res_tag_=video
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-3
+http://hdtv.lzu6.edu.cn/hls/cetv3.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-4
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8#http://player.paymigu.com/migu.php?id=649531725
+#EXTINF:-1 tvg-id="76" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="②📺少儿益智💯‍‍教育台-课堂",CETV-4
+http://hdtv.lzu6.edu.cn/hls/cetv4.m3u8
+#EXTINF:-1 tvg-id="1202" tvg-name="英语辅导频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/yingyufudao.png" group-title="②📺少儿益智💯‍‍教育台-课堂",英语辅导
+http://hdtv.lzu6.edu.cn/hls/hls107.m3u8
+#EXTINF:-1 group-title="②📺少儿益智💯‍‍教育台-课堂",山东教育卫视
+http://112.17.40.140/PLTV/88888888/224/3221226652/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="②📺少儿益智💯‍‍教育台-课堂",BesTV空中课堂一年级
 http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://www.bestv.com.cn/r/cms/www/default/images/logo.png" group-title="②📺少儿益智💯‍‍教育台-课堂",BesTV空中课堂二年级
@@ -2795,6 +2773,30 @@ http://itv.ahau.edu.cn/hls/hls166.m3u8
 http://itv.ahau.edu.cn/hls/hls77a30.m3u8
 #EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD卡通剧场
 http://itv.ahau.edu.cn/hls/hls167.m3u8
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑯📺IPTV剧场",黑莓电影
+http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑯📺IPTV剧场",黑莓电影
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑯📺IPTV剧场",高清HD大众影视
+http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑯📺IPTV剧场",高清HD大众影视
+http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑯📺IPTV剧场",高清HD家庭剧场
+http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑯📺IPTV剧场",高清HD家庭影院
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑯📺IPTV剧场",高清HD卡通剧场
+http://hdtv.lzu6.edu.cn/hls/hls77a30.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="⑯📺IPTV剧场",CCTV-6 HD
+http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="⑯📺IPTV剧场",CCTV-6 HD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="⑯📺IPTV剧场",CCTV-6 HD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑯📺IPTV剧场",黑莓动画
+http://112.17.40.145/PLTV/88888888/224/3221226654/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑯📺IPTV剧场",黑莓动画
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",一起学健身
 http://aldirect.rtmp.huya.com/huyalive/1199526253101-1199526253101-5284431197248684032-2399052629658-10057-A-0-1.m3u8?wsSecret=2db11f89a10fe06e30fab33661fc0183&wsTime=5e23f413&fs=bgct&ratio=2500
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",亚旅卫视
