@@ -5417,6 +5417,24 @@ http://szlive.grtn.cn/ydpd/sd/live.m3u8
 http://sttv.aote.xyz/gdtv/?id=CHTVB32
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="④📺地方-备用 广东",珠江电影
 http://www.dszbdq.cn/play/zjkp52.php?id=7
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="④📺地方-备用 广东",珠江电影China Unicom
+http://url.cn/0TWKM3Uu
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="④📺地方-备用 广东",广东珠江China Unicom
+http://url.cn/J0Yh4Phy
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="④📺地方-备用 广东",南方卫视China Unicom
+http://url.cn/n4Nq3JsK
+#EXTINF:-1 group-title="④📺地方-备用 广东",广东综艺4K China Unicom
+http://url.cn/rnJK3lHS
+#EXTINF:-1 group-title="④📺地方-备用 广东",广东体育China Unicom
+http://url.cn/dpDxP16U
+#EXTINF:-1 group-title="④📺地方-备用 广东",广东经济科教China Unicom
+http://url.cn/09zwBahm
+#EXTINF:-1 group-title="④📺地方-备用 广东",广东新闻China Unicom
+http://url.cn/JJLPwvDF
+#EXTINF:-1 group-title="④📺地方-备用 广东",广东少儿China Unicom
+http://url.cn/fr1w8FaY
+#EXTINF:-1 group-title="④📺地方-备用 广东",广东公共China Unicom
+http://url.cn/iWbguDcD
 #EXTINF:-1 group-title="④📺地方-备用 广东",东莞1
 http://suo.im/5ubMnF
 #EXTINF:-1 group-title="④📺地方-备用 广东",东莞2
