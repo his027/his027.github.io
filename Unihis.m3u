@@ -2,9 +2,9 @@
 #EXTINF:-1 tvg-logo="111" group-title="  00U nihis",
 
 #EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
-http://www.dszbdq.cn/play/gd.php?id=26
-#EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
 http://url.cn/J0Yh4Phy#http://sttv.aote.xyz/gdtv/?id=CHTVB26
+#EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="①📺广东★电视台",广东珠江
+http://www.dszbdq.cn/play/gd.php?id=26
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzy.png" group-title="①📺广东★电视台",广东综艺4K
 http://www.dszbdq.cn/play/gd.php?id=166
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="①📺广东★电视台",广东卫视HD
