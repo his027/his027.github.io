@@ -957,11 +957,11 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 http://itv.ahau.edu.cn/hls/hls78a46.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",樱花24小时
 http://www.dszbdq.cn/play/migu.php?id=625542372
-#EXTINF:-1 tvg-id="75" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="①📺HD-蓝光 影院",CHC高清电影
-http://hdtv.lzu6.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="①📺HD-蓝光 影院",CHC动作电影
+#EXTINF:-1 tvg-id="75" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/chchd.png" group-title="①📺HD-蓝光 影院",CHC高清电影
+http://hdtv.lzu6.edu.cn/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="79" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/chcatv.png" group-title="①📺HD-蓝光 影院",CHC动作电影
 http://125.210.152.18:9090/live/DZDYHD.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="①📺HD-蓝光 影院",CHC家庭影院
+#EXTINF:-1 tvg-id="80" tvg-name="CHC家庭电影" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/chctv.png" group-title="①📺HD-蓝光 影院",CHC家庭影院
 http://125.210.152.18:9090/live/JTYYHD.m3u8#http://[2001:250:4814:1::200]/hls/chctv.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/SITV.png" group-title="①📺HD-蓝光 影院",都市剧场HD
 http://112.17.40.145/PLTV/88888888/224/3221226825/index.m3u8
