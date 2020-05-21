@@ -7165,20 +7165,12 @@ http://[2001:250:4814:1::200]/hls/chcatv.m3u8
 http://[2001:250:5405:13::47]/hls/chcatv.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="⑤📺港澳台 【IPV6】",CHC家庭影院
 http://[2001:250:4814:1::200]/hls/chctv.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="⑤📺港澳台 【IPV6】",CHC家庭影院
-http://[2001:250:5405:13::47]/hls/chctv.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑤📺港澳台 【IPV6】",凤凰中文
 http://[2001:250:4814:1::200]/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑤📺港澳台 【IPV6】",凤凰中文
-http://[2001:250:5405:13::47]/hls/fhzw.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑤📺港澳台 【IPV6】",凤凰中文
-http://hdtv.lzu6.edu.cn/hls/fhzw.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="⑤📺港澳台 【IPV6】",凤凰资讯
 http://[2001:250:4814:1::200]/hls/fhzx.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="⑤📺港澳台 【IPV6】",凤凰资讯
 http://[2001:250:5405:13::47]/hls/fhzx.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://tv.sason.xyz/logo/fhzx.png" group-title="⑤📺港澳台 【IPV6】",凤凰资讯
-http://liveali.ifeng.com/live/FHZX.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="⑤📺港澳台 【IPV6】",凤凰资讯
 http://hdtv.lzu6.edu.cn/hls/fhzx.m3u8
 #EXTINF:-1 group-title="⑤📺港澳台 【IPV6】",凤凰电影
