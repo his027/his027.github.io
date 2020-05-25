@@ -385,7 +385,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/zggd.png" group-title="①📺HD-4K   鉴赏",4K导视频道
 http://cbnlive.cbchot.com/live/4klocal_1.m3u8
-#EXTINF:-1 group-title="①📺HD-4K   鉴赏",爱上4K
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/as4k.png" group-title="①📺HD-4K   鉴赏",爱上4K
 http://222.128.66.194:4022/udp/239.2.1.236:2000
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/bestv.png" group-title="①📺HD-蓝光 影院",BesTV4K
 http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8#http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
@@ -463,7 +463,7 @@ http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
 http://111.20.41.248/PLTV/88888888/224/3221225807/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/jcdy.png" group-title="①📺HD-蓝光 影院",精彩电影FHD
 http://111.20.41.248/PLTV/88888888/224/3221225811/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/jcdsy.png" group-title="①📺HD-蓝光 影院",精彩电视剧FHD
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/jcdsj.png" group-title="①📺HD-蓝光 影院",精彩电视剧FHD
 http://111.20.41.248/PLTV/88888888/224/3221225813/index.m3u8
 #EXTINF:-1 tvg-id="78" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="①📺HD-蓝光 影院",求索纪录
 http://39.134.185.39/PLTV/88888888/224/3221226610/index.m3u8
@@ -1527,128 +1527,326 @@ https://aldirect.rtmp.huya.com/huyalive/29169025-2686219962-11537226886652362752
 http://aldirect.rtmp.huya.com/backsrc/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1.m3u8?wsSecret=88572ed3888f90b3dbe0bc9d1f9d8997&wsTime=5e198770&txyp=o:q6;&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*
 #EXTINF:-1 group-title="⑦📡影集-Genre系列",女特工
 http://aldirect.rtmp.huya.com/backsrc/30765679-2499070088-10733424298371842048-2789274548-10057-A-0-1.m3u8?wsSecret=fc074e0937ac1dc66c31ef3720fa2b80&wsTime=5e198863&txyp=o:cp1;&fs=bgct
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",小贝食记
-http://aldirect.rtmp.huya.com/huyalive/1445282059-1445282059-6207439176900542464-2990957820-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",美食厨房
-http://baiducdncmn.inter.iqiyi.com/tslive/c19_lb_shoushennannv_high_t10/c19_lb_shoushennannv_high_t10.m3u8?key=78e6758f&qd_sc=9a26a38a6e52ec2d299265eb028bd5c4&qd_scc=896bdd1c1a262bc73ca2ef74986e935d&qd_src=01012001020000000000&qd_tm=1582730224530&qd_tvid=2907142923&qd_uid=0&qd_vip=0&qd_vipres=0&qyid=atkmj4zb56pizgocnk5mvphqaozxck6k#http://47.240.60.73/aqy.php?id=3801870
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1199514161081-1199514161081-5232496366806106112-2399028445618-10057-A-0-1/20200328214853.jpg" group-title="⑧♥️[文娱精选]♥️-生活百味",自制抖音万能蘸料
-http://aldirect.rtmp.huya.com/huyalive/1199514161081-1199514161081-5232496366806106112-2399028445618-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",美食纪录片
-http://aldirect.rtmp.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",厨神驾到
-http://aldirect.rtmp.huya.com/backsrc/1099531739647-1099531739647-86379828206370816-2199063602750-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",毛骗
-http://aldirect.rtmp.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",送流浪汉回家
-http://aldirect.rtmp.huya.com/huyalive/1099531728259-1099531728259-86330917118803968-2199063579974-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",英皇娱乐
-https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/03.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",广场舞
-http://47.240.60.73/aqy.php?id=3801863#http://baiducdncmn.inter.iqiyi.com/tslive/c19_lb_guangchangwudaquan_high_t10/c19_lb_guangchangwudaquan_high_t10.m3u8?key=78e6758f&qd_sc=8a3d33a5bab14a1c99e0efbd76f89bca&qd_scc=8c2c92a7fd4fbe41fb1c2cee6b88a39a&qd_src=01012001020000000000&qd_tm=1582729639672&qd_tvid=2907072523&qd_uid=0&qd_vip=0&qd_vipres=0&qyid=atkmj4zb56pizgocnk5mvphqaozxck6k
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",广场舞
-http://gslb.dianshihome.com/gslb/live?stream_id=iqiyilb_guangchangwudaquan
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",糖豆广场舞
-http://gslb.dianshihome.com/gslb/live?stream_id=iqiyilb_guangchangwudaquan
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",养生堂
-http://47.240.60.73/aqy.php?id=3802162
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",伍阿哥视频
-http://aldirect.rtmp.huya.com/huyalive/94525224-2695478346-11576991343146172416-4540491764-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",野食小哥
-http://aldirect.rtmp.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",山药视频享受美食
-http://aldirect.rtmp.huya.com/backsrc/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",荒野求生
-http://47.240.60.73/yy.php?t=35407333
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",快乐垂钓
-http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000143
-#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="⑧♥️[文娱精选]♥️-生活百味",四海钓鱼
-http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
-#EXTINF:-1 tvg-id="6606" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="⑧♥️[文娱精选]♥️-生活百味",四海钓鱼
-http://47.240.60.73/migu.php?id=650999610
-#EXTINF:-1 tvg-id="6606" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="⑧♥️[文娱精选]♥️-生活百味",四海钓鱼
-http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000129
-#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="⑧♥️[文娱精选]♥️-生活百味",四海钓鱼
-http://125.210.152.18:9090/live/SHDY.m3u8
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="⑧♥️[文娱精选]♥️-生活百味",茶频道
-http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",广西小雁拍农村
-http://aldirect.rtmp.huya.com/huyalive/1446740984-1446740984-6213705212062859264-4772834748-10057-A-0-1.m3u8?wsSecret=ef08b33ea7bc98c8d7f847587b9597b7&wsTime=5e2085f8&txyp=o:q5;&fs=bgct&ratio=2500
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",葬爱音乐台
-http://aldirect.rtmp.huya.com/huyalive/88281389-88281389-0-708336-10057-A-1542776680-1.m3u8?wsSecret=106aa4b50ee7f5c651b68e930bd9b88a&wsTime=5e23f3c9&txyp=o:q6;&fs=bgct
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",战斗民族作死集锦
-http://aldirect.rtmp.huya.com/backsrc/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-生活百味",花式台球
-http://aldirect.rtmp.huya.com/huyalive/1099531740248-1099531740248-86382409481715712-2199063603952-10057-A-0-1.m3u8?wsSecret=9b14fdc329774af31084edb090f61163&wsTime=5e23f54d&fs=bgct&ratio=2500
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",短的发布会
-http://aldirect.rtmp.huya.com/huyalive/1445190547-1445190547-6207046135853350912-1418039432-10057-A-0-1_2500.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",辉煌中国
-http://47.240.60.73/aqy.php?id=3807144
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1299518216864-1299518216864-10471531726831091712-2599036557184-10057-A-0-1/20200320120003.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",军武大本营
-http://aldirect.rtmp.huya.com/huyalive/1299518216864-1299518216864-10471531726831091712-2599036557184-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",法治天地
-http://47.240.60.73/migu.php?id=631095330
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",求索纪录
-http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000144
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",求索纪录
-http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",求索记录
-http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",求索科学
-http://125.210.152.18:9090/live/QSKX_1200.m3u8
-#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",求索动物
-http://125.210.152.18:9090/live/QSDW_1200.m3u8
-#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",求索生活
-http://125.210.152.18:9090/live/QSSH_1200.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",自然地理
-http://47.240.60.73/aqy.php?id=3801158
-#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="⑧♥️[文娱精选]♥️-科技人文",国家地理
-http://itv.ahau.edu.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="⑧♥️[文娱精选]♥️-科技人文",珠江电影
-http://www.dszbdq.cn/play/zjkp52.php?id=7
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",Discovery王牌节目展播
-http://47.240.60.73/migu.php?id=637483721
-#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="⑧♥️[文娱精选]♥️-科技人文",Discovery
-http://itv.ahau.edu.cn/hls/discovery.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",书法频道
-http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000125.m3u8
-#EXTINF:-1 tvg-id="1306" tvg-name="网络棋牌" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wangluoqipai.png" group-title="⑧♥️[文娱精选]♥️-科技人文",GTV网络棋牌
-http://hdtv.lzu6.edu.cn/hls/hls65.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",东北戏曲
-http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=8e67ab231584290996
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",第二节进博会-直播
-http://aldirect.rtmp.huya.com/huyalive/1099531728210-1099531728210-86330706665406464-2199063579876-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1420406442-1420406442-6100599215417720832-4563964964-10057-A-0-1/20200305165238.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",逆火行军事视频
-http://aldirect.rtmp.huya.com/huyalive/1420406442-1420406442-6100599215417720832-4563964964-10057-A-0-1.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",奇妙世界
-http://47.240.60.73/aqy.php?id=3801213
-#EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="⑧♥️[文娱精选]♥️-科技人文",车迷频道
-http://112.17.40.140/PLTV/88888888/224/3221226837/index.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",极速汽车
-http://111.20.33.71/PLTV/88888888/224/3221225644/index.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",旅游攻略
-http://47.240.60.73/aqy.php?id=3801211
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",全纪实
-http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000119
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",北京纪实
-http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000145
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="⑧♥️[文娱精选]♥️-科技人文",纪实人文
-http://itv.ahau.edu.cn/hls/docuchina.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="⑧♥️[文娱精选]♥️-科技人文",金鹰纪实
-http://itv.ahau.edu.cn/hls/gedocu.m3u8
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",陶瓷FHD
-http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000136
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",人文社会
-http://47.240.60.73/aqy.php?id=3801160
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",高清娱乐
-http://47.240.60.73/migu.php?id=615809851
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",生活时尚
-http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000141
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",科学探索
-http://47.240.60.73/aqy.php?id=3801157
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",军事观察
-http://47.240.60.73/aqy.php?id=3801212
-#EXTINF:-1 group-title="⑧♥️[文娱精选]♥️-科技人文",长沙装机
-http://aldirect.rtmp.huya.com/huyalive/59768972-59768972-6769782383193341193-1553416746-10057-A-1578456924-1_2500.m3u8
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="⑧📺IPTV剧场",IPTV5+
+http://117.156.28.119/270000001111/1110000054/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="IPTV8+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV8+.png" group-title="⑧📺IPTV剧场",IPTV8+
+http://117.156.28.119/270000001111/1110000057/index.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV军事评论
+http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV军旅剧场
+http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV动作电影
+http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV动画王国
+http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV古装剧场
+http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV海外剧场
+http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV家庭剧场
+http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV惊悚悬疑
+http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV明星大片
+http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV法治
+http://117.156.28.119/270000001111/1110000111/index.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV海外剧场
+http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV爱情喜剧
+http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV相声小品
+http://117.156.28.119/270000001111/1110000112/index.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV精品大剧
+http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV精品电影
+http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV精品综艺
+http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV精品记录
+http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV谍战剧场
+http://117.156.28.119/270000001111/1110000110/index.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV金牌综艺
+http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",IPTV少儿动画
+http://120.221.5.113:8089/PLTV/88888888/224/3221225929/index.m3u8
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="⑧📺IPTV剧场",东方影视 FHD
+http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑧📺IPTV剧场",海看大片蓝光
+http://120.221.5.165:8089/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑧📺IPTV剧场",海看剧场蓝光
+http://120.221.5.101:8089/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑧📺IPTV剧场",海看剧场蓝光
+http://120.221.5.108:8089/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑧📺IPTV剧场",海看热播蓝光
+http://120.221.5.101:8089/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑧📺IPTV剧场",海看热播蓝光
+http://120.221.5.165:8089/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑧📺IPTV剧场",海看热播蓝光
+http://120.221.5.177:8089/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑧📺IPTV剧场",海看爱宠蓝光
+http://120.221.5.113:8089/PLTV/88888888/224/3221226071/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑧📺IPTV剧场",海看爱宠蓝光
+http://120.221.5.101:8089/PLTV/88888888/224/3221226071/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑧📺IPTV剧场",海看电竞蓝光
+http://120.221.5.165:8089/PLTV/88888888/224/3221225629/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑧📺IPTV剧场",海看少儿蓝光
+http://120.221.5.101:8089/PLTV/88888888/224/3221225943/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑧📺IPTV剧场",海看少儿蓝光
+http://120.221.5.113:8089/PLTV/88888888/224/3221225943/index.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",高清HD大众影视
+http://itv.ahau.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",高清HD大众影视
+http://itv.ahau.edu.cn/hls/hls164.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",高清HD家庭剧场
+http://itv.ahau.edu.cn/hls/hls75a28.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",高清HD家庭剧场
+http://itv.ahau.edu.cn/hls/hls165.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",高清HD家庭影院
+http://itv.ahau.edu.cn/hls/hls75a29.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",高清HD家庭影院
+http://itv.ahau.edu.cn/hls/hls166.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",高清HD卡通剧场
+http://itv.ahau.edu.cn/hls/hls77a30.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV剧场",高清HD卡通剧场
+http://itv.ahau.edu.cn/hls/hls167.m3u8
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑧📺IPTV剧场",黑莓电影
+http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑧📺IPTV剧场",黑莓电影
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="⑧📺IPTV剧场",求索科学
+http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="⑧📺IPTV剧场",求索生活
+http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑧📺IPTV剧场",高清HD大众影视
+http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑧📺IPTV剧场",高清HD大众影视
+http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑧📺IPTV剧场",高清HD家庭剧场
+http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑧📺IPTV剧场",高清HD家庭影院
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑧📺IPTV剧场",高清HD卡通剧场
+http://hdtv.lzu6.edu.cn/hls/hls77a30.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="⑧📺IPTV剧场",CCTV-6 HD
+http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="⑧📺IPTV剧场",CCTV-6 HD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="⑧📺IPTV剧场",CCTV-6 HD
+http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="⑧📺IPTV剧场",蓝光影视5台
+http://112.17.40.145/PLTV/88888888/224/3221226751/index.m3u8#http://39.135.33.167/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑧📺IPTV剧场",黑莓动画
+http://112.17.40.145/PLTV/88888888/224/3221226654/index.m3u8
+#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑧📺IPTV剧场",黑莓动画
+http://itv.ahau.edu.cn/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="⑧📺IPTV剧场",广东卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225670/index.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="⑧📺IPTV剧场",广东卫视
+http://111.40.205.87/PLTV/88888888/224/3221225641/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225699/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/dfcj.png" group-title="⑧📺IPTV剧场",东方财经
+http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=8cf630f23bff2ae8f62ab3f7c1e7383a
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/dzcj.png" group-title="⑧📺IPTV剧场",点掌财经
+http://cclive2.aniu.tv/live/anzb.m3u8
+#EXTINF:-1 tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="⑧📺IPTV剧场",纯享4K
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/Olympic.png" group-title="⑧📺IPTV剧场",Olympic Channel
+http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="⑧📺IPTV剧场",CCTV-4K
+http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8 
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="⑧📺IPTV剧场",CCTV-4K
+http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="⑧📺IPTV剧场",CCTV-4K
+http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="⑧📺IPTV剧场",CCTV4K
+http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/jczy.png" group-title="⑧📺IPTV剧场",精彩综艺FHD
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/jcdy.png" group-title="⑧📺IPTV剧场",精彩电影FHD
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/jcdsy.png" group-title="⑧📺IPTV剧场",精彩电视剧FHD
+http://111.20.105.60:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="⑧📺IPTV剧场",翡翠台
+http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="⑧📺IPTV剧场",TVB明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="⑧📺IPTV剧场",星空卫视
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="⑧📺IPTV剧场",凤凰资讯台
+http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑧📺IPTV剧场",凤凰中文
+http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="⑧📺IPTV剧场",香港卫视台
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+经典剧场
+http://39.135.16.157:6610/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+谍战剧场
+http://39.135.16.157:6610/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+海外佳片
+http://39.135.16.157:6610/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+华语影院
+http://39.135.16.157:6610/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV
+http://39.135.16.157:6610/PLTV/88888888/224/3221226007/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV1
+http://39.135.16.157:6610/PLTV/88888888/224/3221226010/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV2
+http://39.135.16.157:6610/PLTV/88888888/224/3221226033/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV3
+http://39.135.16.157:6610/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV4
+http://39.135.16.157:6610/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV5
+http://39.135.16.157:6610/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV6
+http://39.135.16.157:6610/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV4K
+http://39.135.16.157:6610/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV7
+http://39.135.16.157:6610/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV8
+http://39.135.16.157:6610/PLTV/88888888/224/3221226036/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV9
+http://39.135.16.157:6610/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV10
+http://39.135.16.157:6610/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+TV11
+http://39.135.16.157:6610/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",淘Baby
+http://222.128.66.194:4022/udp/239.2.1.238:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",淘剧场
+http://222.128.66.194:4022/udp/239.2.1.95:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",淘电影
+http://222.128.66.194:4022/udp/239.2.1.250:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",淘娱乐
+http://222.128.66.194:4022/udp/239.2.1.100:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",淘京品
+http://222.128.66.194:4022/udp/239.2.1.98:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",淘体育
+http://222.128.66.194:4022/udp/239.2.1.99:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",淘军迷
+http://222.128.66.194:4022/udp/239.2.1.101:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",朝阳融媒
+http://222.128.66.194:4022/udp/239.2.1.163:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",密云HD
+http://222.128.66.194:4022/udp/239.3.1.154:8001
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",武侠剧场
+http://222.128.66.194:4022/udp/239.2.1.90:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",喜剧影院
+http://222.128.66.194:4022/udp/239.2.1.91:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",动作影院
+http://222.128.66.194:4022/udp/239.2.1.92:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",家庭影院
+http://222.128.66.194:4022/udp/239.2.1.93:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",星影
+http://222.128.66.194:4022/udp/239.2.1.94:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",4K超清
+http://222.128.66.194:4022/udp/239.2.1.249:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",纪实频道HD
+http://222.128.66.194:4022/udp/239.2.1.212:8060
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",山东教育
+http://222.128.66.194:4022/udp/239.2.1.52:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",大健康
+http://222.128.66.194:4022/udp/239.2.1.251:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",收视指南
+http://222.128.66.194:4022/udp/239.2.1.193:8012
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",热播剧场
+http://222.128.66.194:4022/udp/239.2.1.194:9020
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",经典电影
+http://222.128.66.194:4022/udp/239.2.1.195:9024
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",魅力时尚
+http://222.128.66.194:4022/udp/239.2.1.196:9012
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",少儿动画
+http://222.128.66.194:4022/udp/239.2.1.199:9000
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",文化北京
+http://222.128.66.194:4022/udp/239.2.1.97:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",城市剧场
+http://222.128.66.194:4022/udp/239.2.1.67:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",军旅剧场
+http://222.128.66.194:4022/udp/239.2.1.68:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",古装剧场
+http://222.128.66.194:4022/udp/239.2.1.69:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",音乐现场
+http://222.128.66.194:4022/udp/239.2.1.70:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",地理
+http://222.128.66.194:4022/udp/239.2.1.71:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",美妆
+http://222.128.66.194:4022/udp/239.2.1.72:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",美人
+http://222.128.66.194:4022/udp/239.2.1.73:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",精选
+http://222.128.66.194:4022/udp/239.2.1.74:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",解密
+http://222.128.66.194:4022/udp/239.2.1.75:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",军事
+http://222.128.66.194:4022/udp/239.2.1.76:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",戏曲
+http://222.128.66.194:4022/udp/239.2.1.78:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",早教
+http://222.128.66.194:4022/udp/239.2.1.79:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",动画
+http://222.128.66.194:4022/udp/239.2.1.80:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",好学生
+http://222.128.66.194:4022/udp/239.2.1.81:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",鉴赏
+http://222.128.66.194:4022/udp/239.2.1.82:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",墨宝
+http://222.128.66.194:4022/udp/239.2.1.83:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",光影
+http://222.128.66.194:4022/udp/239.2.1.84:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",台球
+http://222.128.66.194:4022/udp/239.2.1.85:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",爱生活
+http://222.128.66.194:4022/udp/239.2.1.86:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",武术
+http://222.128.66.194:4022/udp/239.2.1.87:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",高网
+http://222.128.66.194:4022/udp/239.2.1.88:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",足球
+http://222.128.66.194:4022/udp/239.2.1.89:4120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",电竞世界
+http://222.128.66.194:4022/udp/239.2.1.120:3120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",总平台测试1
+http://222.128.66.194:4022/udp/239.2.1.247:2000
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",总平台测试2
+http://222.128.66.194:4022/udp/239.2.1.248:2000
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",VSPN
+http://222.128.66.194:4022/udp/239.2.1.106:3120
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",粤荟萃
+http://222.128.66.194:4022/udp/239.2.1.162:8000
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",茶
+http://222.128.66.194:4022/udp/239.2.1.165:8000
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",熊猫频道
+http://222.128.66.194:4022/udp/239.2.1.66:8068
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",萌宠TV
+http://222.128.66.194:4022/udp/239.2.1.102:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",IPTV6+
+http://222.128.66.194:4022/udp/239.2.1.197:9016
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",IPTV8+
+http://222.128.66.194:4022/udp/239.2.1.201:8072
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",轮播频道5
+http://222.128.66.194:4022/udp/239.2.1.253:8002
+#EXTINF:-1 group-title="⑧📺IPTV-北京联通",体育赛事
+http://222.128.66.194:4022/udp/239.3.1.157:8176
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="⑧📺IPTV-北京联通",金鹰纪实HD
+http://222.128.66.194:4022/udp/239.2.1.58:8156
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="⑧📺IPTV-北京联通",IPTV5+HD
+http://222.128.66.194:4022/udp/239.2.1.237:4120
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="⑧📺IPTV-北京联通",财富天下
+http://222.128.66.194:4022/udp/239.2.1.53:9136
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="⑧📺IPTV-北京联通",嘉佳卡通
+http://222.128.66.194:4022/udp/239.2.1.147:9268
+#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="⑧📺IPTV-北京联通",国学
+http://222.128.66.194:4022/udp/239.2.1.77:4120
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="⑧📺IPTV-北京联通",天元围棋直播
+http://222.128.66.194:4022/udp/239.2.1.202:8002
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="⑧📺IPTV-北京联通",快乐垂钓
+http://222.128.66.194:4022/udp/239.2.1.164:8000
+#EXTINF:-1 tvg-id="7240" tvg-name="IPTV3+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV3+.png" group-title="⑧📺IPTV-北京联通",IPTV3+
+http://222.128.66.194:4022/udp/239.2.1.198:9004
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="⑧📺IPTV-北京联通",IPTV5+
+http://222.128.66.194:4022/udp/239.2.1.200:9008
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="⑨📺影视剧📀 TV ",CHC高清电影
 http://ivi.bupt.edu.cn/hls/chchd.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="⑨📺影视剧📀 TV ",CHC动作电影
@@ -2665,326 +2863,128 @@ http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/322123003
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 #EXTINF:-1 group-title="⑮📡IHOT@影集",爱浪漫
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="⑯📺IPTV剧场",IPTV5+
-http://117.156.28.119/270000001111/1110000054/index.m3u8
-#EXTINF:-1 tvg-id="96" tvg-name="IPTV8+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV8+.png" group-title="⑯📺IPTV剧场",IPTV8+
-http://117.156.28.119/270000001111/1110000057/index.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV军事评论
-http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV军旅剧场
-http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV动作电影
-http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV动画王国
-http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV古装剧场
-http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV海外剧场
-http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV家庭剧场
-http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV惊悚悬疑
-http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV明星大片
-http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV法治
-http://117.156.28.119/270000001111/1110000111/index.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV海外剧场
-http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV爱情喜剧
-http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV相声小品
-http://117.156.28.119/270000001111/1110000112/index.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV精品大剧
-http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV精品电影
-http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV精品综艺
-http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV精品记录
-http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV谍战剧场
-http://117.156.28.119/270000001111/1110000110/index.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV金牌综艺
-http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",IPTV少儿动画
-http://120.221.5.113:8089/PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="⑯📺IPTV剧场",东方影视 FHD
-http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看大片蓝光
-http://120.221.5.165:8089/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看剧场蓝光
-http://120.221.5.101:8089/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看剧场蓝光
-http://120.221.5.108:8089/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看热播蓝光
-http://120.221.5.101:8089/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看热播蓝光
-http://120.221.5.165:8089/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看热播蓝光
-http://120.221.5.177:8089/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看爱宠蓝光
-http://120.221.5.113:8089/PLTV/88888888/224/3221226071/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看爱宠蓝光
-http://120.221.5.101:8089/PLTV/88888888/224/3221226071/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看电竞蓝光
-http://120.221.5.165:8089/PLTV/88888888/224/3221225629/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看少儿蓝光
-http://120.221.5.101:8089/PLTV/88888888/224/3221225943/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/hkzb.png" group-title="⑯📺IPTV剧场",海看少儿蓝光
-http://120.221.5.113:8089/PLTV/88888888/224/3221225943/index.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD大众影视
-http://itv.ahau.edu.cn/hls/hls75a27.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD大众影视
-http://itv.ahau.edu.cn/hls/hls164.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD家庭剧场
-http://itv.ahau.edu.cn/hls/hls75a28.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD家庭剧场
-http://itv.ahau.edu.cn/hls/hls165.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD家庭影院
-http://itv.ahau.edu.cn/hls/hls75a29.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD家庭影院
-http://itv.ahau.edu.cn/hls/hls166.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD卡通剧场
-http://itv.ahau.edu.cn/hls/hls77a30.m3u8
-#EXTINF:-1 group-title="⑯📺IPTV剧场",高清HD卡通剧场
-http://itv.ahau.edu.cn/hls/hls167.m3u8
-#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑯📺IPTV剧场",黑莓电影
-http://112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑯📺IPTV剧场",黑莓电影
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="⑯📺IPTV剧场",求索科学
-http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="⑯📺IPTV剧场",求索生活
-http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226606/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑯📺IPTV剧场",高清HD大众影视
-http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑯📺IPTV剧场",高清HD大众影视
-http://hdtv.lzu6.edu.cn/hls/hls75a27.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑯📺IPTV剧场",高清HD家庭剧场
-http://hdtv.lzu6.edu.cn/hls/hls75a28.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑯📺IPTV剧场",高清HD家庭影院
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="⑯📺IPTV剧场",高清HD卡通剧场
-http://hdtv.lzu6.edu.cn/hls/hls77a30.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="⑯📺IPTV剧场",CCTV-6 HD
-http://223.110.245.172/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="⑯📺IPTV剧场",CCTV-6 HD
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
-#EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="⑯📺IPTV剧场",CCTV-6 HD
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="⑯📺IPTV剧场",蓝光影视5台
-http://112.17.40.145/PLTV/88888888/224/3221226751/index.m3u8#http://39.135.33.167/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑯📺IPTV剧场",黑莓动画
-http://112.17.40.145/PLTV/88888888/224/3221226654/index.m3u8
-#EXTINF:-1 tvg-logo="https://pic.downk.cc/item/5e12ed7376085c328905edd5.png" group-title="⑯📺IPTV剧场",黑莓动画
-http://itv.ahau.edu.cn/PLTV/88888888/224/3221225662/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="⑯📺IPTV剧场",广东卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225670/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="⑯📺IPTV剧场",广东卫视
-http://111.40.205.87/PLTV/88888888/224/3221225641/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225699/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/dfcj.png" group-title="⑯📺IPTV剧场",东方财经
-http://www.wshl.tv/proxys_http/hn_otv_proxy_test.html?id=8cf630f23bff2ae8f62ab3f7c1e7383a
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/dzcj.png" group-title="⑯📺IPTV剧场",点掌财经
-http://cclive2.aniu.tv/live/anzb.m3u8
-#EXTINF:-1 tvg-logo="https://i.loli.net/2019/11/26/wSAQpGh7ikfvMKq.jpg" group-title="⑯📺IPTV剧场",纯享4K
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/Olympic.png" group-title="⑯📺IPTV剧场",Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="⑯📺IPTV剧场",CCTV-4K
-http://218.98.46.179/live-cnc-cdn.ysp.cctv.cn/ysp/2000266303.m3u8 
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="⑯📺IPTV剧场",CCTV-4K
-http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="⑯📺IPTV剧场",CCTV-4K
-http://39.134.134.134:8080/119.28.164.26/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="⑯📺IPTV剧场",CCTV4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/jczy.png" group-title="⑯📺IPTV剧场",精彩综艺FHD
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001273/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/jcdy.png" group-title="⑯📺IPTV剧场",精彩电影FHD
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/jcdsy.png" group-title="⑯📺IPTV剧场",精彩电视剧FHD
-http://111.20.105.60:6060/yinhe/2/ch00000090990000001276/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="⑯📺IPTV剧场",翡翠台
-http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="⑯📺IPTV剧场",TVB明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 tvg-id="511" tvg-name="星空卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/xingkongweishi.png" group-title="⑯📺IPTV剧场",星空卫视
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="⑯📺IPTV剧场",凤凰资讯台
-http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="⑯📺IPTV剧场",凤凰中文
-http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="⑯📺IPTV剧场",香港卫视台
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="⑯📺G+剧场",G+经典剧场
-http://39.135.16.157:6610/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+谍战剧场
-http://39.135.16.157:6610/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+海外佳片
-http://39.135.16.157:6610/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+华语影院
-http://39.135.16.157:6610/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV
-http://39.135.16.157:6610/PLTV/88888888/224/3221226007/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV1
-http://39.135.16.157:6610/PLTV/88888888/224/3221226010/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV2
-http://39.135.16.157:6610/PLTV/88888888/224/3221226033/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV3
-http://39.135.16.157:6610/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV4
-http://39.135.16.157:6610/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV5
-http://39.135.16.157:6610/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV6
-http://39.135.16.157:6610/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV4K
-http://39.135.16.157:6610/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV7
-http://39.135.16.157:6610/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV8
-http://39.135.16.157:6610/PLTV/88888888/224/3221226036/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV9
-http://39.135.16.157:6610/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV10
-http://39.135.16.157:6610/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺G+剧场",G+TV11
-http://39.135.16.157:6610/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",淘Baby
-http://222.128.66.194:4022/udp/239.2.1.238:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",淘剧场
-http://222.128.66.194:4022/udp/239.2.1.95:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",淘电影
-http://222.128.66.194:4022/udp/239.2.1.250:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",淘娱乐
-http://222.128.66.194:4022/udp/239.2.1.100:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",淘京品
-http://222.128.66.194:4022/udp/239.2.1.98:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",淘体育
-http://222.128.66.194:4022/udp/239.2.1.99:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",淘军迷
-http://222.128.66.194:4022/udp/239.2.1.101:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",朝阳融媒
-http://222.128.66.194:4022/udp/239.2.1.163:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",密云HD
-http://222.128.66.194:4022/udp/239.3.1.154:8001
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",武侠剧场
-http://222.128.66.194:4022/udp/239.2.1.90:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",喜剧影院
-http://222.128.66.194:4022/udp/239.2.1.91:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",动作影院
-http://222.128.66.194:4022/udp/239.2.1.92:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",家庭影院
-http://222.128.66.194:4022/udp/239.2.1.93:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",星影
-http://222.128.66.194:4022/udp/239.2.1.94:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",4K超清
-http://222.128.66.194:4022/udp/239.2.1.249:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",纪实频道HD
-http://222.128.66.194:4022/udp/239.2.1.212:8060
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",山东教育
-http://222.128.66.194:4022/udp/239.2.1.52:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",大健康
-http://222.128.66.194:4022/udp/239.2.1.251:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",收视指南
-http://222.128.66.194:4022/udp/239.2.1.193:8012
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",热播剧场
-http://222.128.66.194:4022/udp/239.2.1.194:9020
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",经典电影
-http://222.128.66.194:4022/udp/239.2.1.195:9024
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",魅力时尚
-http://222.128.66.194:4022/udp/239.2.1.196:9012
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",少儿动画
-http://222.128.66.194:4022/udp/239.2.1.199:9000
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",文化北京
-http://222.128.66.194:4022/udp/239.2.1.97:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",城市剧场
-http://222.128.66.194:4022/udp/239.2.1.67:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",军旅剧场
-http://222.128.66.194:4022/udp/239.2.1.68:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",古装剧场
-http://222.128.66.194:4022/udp/239.2.1.69:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",音乐现场
-http://222.128.66.194:4022/udp/239.2.1.70:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",地理
-http://222.128.66.194:4022/udp/239.2.1.71:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",美妆
-http://222.128.66.194:4022/udp/239.2.1.72:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",美人
-http://222.128.66.194:4022/udp/239.2.1.73:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",精选
-http://222.128.66.194:4022/udp/239.2.1.74:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",解密
-http://222.128.66.194:4022/udp/239.2.1.75:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",军事
-http://222.128.66.194:4022/udp/239.2.1.76:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",戏曲
-http://222.128.66.194:4022/udp/239.2.1.78:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",早教
-http://222.128.66.194:4022/udp/239.2.1.79:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",动画
-http://222.128.66.194:4022/udp/239.2.1.80:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",好学生
-http://222.128.66.194:4022/udp/239.2.1.81:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",鉴赏
-http://222.128.66.194:4022/udp/239.2.1.82:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",墨宝
-http://222.128.66.194:4022/udp/239.2.1.83:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",光影
-http://222.128.66.194:4022/udp/239.2.1.84:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",台球
-http://222.128.66.194:4022/udp/239.2.1.85:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",爱生活
-http://222.128.66.194:4022/udp/239.2.1.86:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",武术
-http://222.128.66.194:4022/udp/239.2.1.87:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",高网
-http://222.128.66.194:4022/udp/239.2.1.88:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",足球
-http://222.128.66.194:4022/udp/239.2.1.89:4120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",电竞世界
-http://222.128.66.194:4022/udp/239.2.1.120:3120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",总平台测试1
-http://222.128.66.194:4022/udp/239.2.1.247:2000
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",总平台测试2
-http://222.128.66.194:4022/udp/239.2.1.248:2000
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",VSPN
-http://222.128.66.194:4022/udp/239.2.1.106:3120
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",粤荟萃
-http://222.128.66.194:4022/udp/239.2.1.162:8000
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",茶
-http://222.128.66.194:4022/udp/239.2.1.165:8000
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",熊猫频道
-http://222.128.66.194:4022/udp/239.2.1.66:8068
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",萌宠TV
-http://222.128.66.194:4022/udp/239.2.1.102:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",IPTV6+
-http://222.128.66.194:4022/udp/239.2.1.197:9016
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",IPTV8+
-http://222.128.66.194:4022/udp/239.2.1.201:8072
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",轮播频道5
-http://222.128.66.194:4022/udp/239.2.1.253:8002
-#EXTINF:-1 group-title="⑯📺IPTV-北京联通",体育赛事
-http://222.128.66.194:4022/udp/239.3.1.157:8176
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="⑯📺IPTV-北京联通",金鹰纪实HD
-http://222.128.66.194:4022/udp/239.2.1.58:8156
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="⑯📺IPTV-北京联通",IPTV5+HD
-http://222.128.66.194:4022/udp/239.2.1.237:4120
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="⑯📺IPTV-北京联通",财富天下
-http://222.128.66.194:4022/udp/239.2.1.53:9136
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="⑯📺IPTV-北京联通",嘉佳卡通
-http://222.128.66.194:4022/udp/239.2.1.147:9268
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="⑯📺IPTV-北京联通",国学
-http://222.128.66.194:4022/udp/239.2.1.77:4120
-#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="⑯📺IPTV-北京联通",天元围棋直播
-http://222.128.66.194:4022/udp/239.2.1.202:8002
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="⑯📺IPTV-北京联通",快乐垂钓
-http://222.128.66.194:4022/udp/239.2.1.164:8000
-#EXTINF:-1 tvg-id="7240" tvg-name="IPTV3+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV3+.png" group-title="⑯📺IPTV-北京联通",IPTV3+
-http://222.128.66.194:4022/udp/239.2.1.198:9004
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="⑯📺IPTV-北京联通",IPTV5+
-http://222.128.66.194:4022/udp/239.2.1.200:9008
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",小贝食记
+http://aldirect.rtmp.huya.com/huyalive/1445282059-1445282059-6207439176900542464-2990957820-10057-A-0-1_2500.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",美食厨房
+http://baiducdncmn.inter.iqiyi.com/tslive/c19_lb_shoushennannv_high_t10/c19_lb_shoushennannv_high_t10.m3u8?key=78e6758f&qd_sc=9a26a38a6e52ec2d299265eb028bd5c4&qd_scc=896bdd1c1a262bc73ca2ef74986e935d&qd_src=01012001020000000000&qd_tm=1582730224530&qd_tvid=2907142923&qd_uid=0&qd_vip=0&qd_vipres=0&qyid=atkmj4zb56pizgocnk5mvphqaozxck6k#http://47.240.60.73/aqy.php?id=3801870
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1199514161081-1199514161081-5232496366806106112-2399028445618-10057-A-0-1/20200328214853.jpg" group-title="⑯♥️[文娱精选]♥️-生活百味",自制抖音万能蘸料
+http://aldirect.rtmp.huya.com/huyalive/1199514161081-1199514161081-5232496366806106112-2399028445618-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",美食纪录片
+http://aldirect.rtmp.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",厨神驾到
+http://aldirect.rtmp.huya.com/backsrc/1099531739647-1099531739647-86379828206370816-2199063602750-10057-A-0-1_2500.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",毛骗
+http://aldirect.rtmp.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",送流浪汉回家
+http://aldirect.rtmp.huya.com/huyalive/1099531728259-1099531728259-86330917118803968-2199063579974-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",英皇娱乐
+https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/03.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",广场舞
+http://47.240.60.73/aqy.php?id=3801863#http://baiducdncmn.inter.iqiyi.com/tslive/c19_lb_guangchangwudaquan_high_t10/c19_lb_guangchangwudaquan_high_t10.m3u8?key=78e6758f&qd_sc=8a3d33a5bab14a1c99e0efbd76f89bca&qd_scc=8c2c92a7fd4fbe41fb1c2cee6b88a39a&qd_src=01012001020000000000&qd_tm=1582729639672&qd_tvid=2907072523&qd_uid=0&qd_vip=0&qd_vipres=0&qyid=atkmj4zb56pizgocnk5mvphqaozxck6k
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",广场舞
+http://gslb.dianshihome.com/gslb/live?stream_id=iqiyilb_guangchangwudaquan
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",糖豆广场舞
+http://gslb.dianshihome.com/gslb/live?stream_id=iqiyilb_guangchangwudaquan
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",养生堂
+http://47.240.60.73/aqy.php?id=3802162
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",伍阿哥视频
+http://aldirect.rtmp.huya.com/huyalive/94525224-2695478346-11576991343146172416-4540491764-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",野食小哥
+http://aldirect.rtmp.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",山药视频享受美食
+http://aldirect.rtmp.huya.com/backsrc/1199511962590-1199511962590-5223053919860555776-2399024048636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",荒野求生
+http://47.240.60.73/yy.php?t=35407333
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",快乐垂钓
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000143
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="⑯♥️[文娱精选]♥️-生活百味",四海钓鱼
+http://112.17.40.140/PLTV/88888888/224/3221226533/index.m3u8
+#EXTINF:-1 tvg-id="6606" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="⑯♥️[文娱精选]♥️-生活百味",四海钓鱼
+http://47.240.60.73/migu.php?id=650999610
+#EXTINF:-1 tvg-id="6606" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="⑯♥️[文娱精选]♥️-生活百味",四海钓鱼
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000129
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="⑯♥️[文娱精选]♥️-生活百味",四海钓鱼
+http://125.210.152.18:9090/live/SHDY.m3u8
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="⑯♥️[文娱精选]♥️-生活百味",茶频道
+http://112.17.40.140/PLTV/88888888/224/3221226744/index.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",广西小雁拍农村
+http://aldirect.rtmp.huya.com/huyalive/1446740984-1446740984-6213705212062859264-4772834748-10057-A-0-1.m3u8?wsSecret=ef08b33ea7bc98c8d7f847587b9597b7&wsTime=5e2085f8&txyp=o:q5;&fs=bgct&ratio=2500
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",葬爱音乐台
+http://aldirect.rtmp.huya.com/huyalive/88281389-88281389-0-708336-10057-A-1542776680-1.m3u8?wsSecret=106aa4b50ee7f5c651b68e930bd9b88a&wsTime=5e23f3c9&txyp=o:q6;&fs=bgct
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",战斗民族作死集锦
+http://aldirect.rtmp.huya.com/backsrc/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-生活百味",花式台球
+http://aldirect.rtmp.huya.com/huyalive/1099531740248-1099531740248-86382409481715712-2199063603952-10057-A-0-1.m3u8?wsSecret=9b14fdc329774af31084edb090f61163&wsTime=5e23f54d&fs=bgct&ratio=2500
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",短的发布会
+http://aldirect.rtmp.huya.com/huyalive/1445190547-1445190547-6207046135853350912-1418039432-10057-A-0-1_2500.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",辉煌中国
+http://47.240.60.73/aqy.php?id=3807144
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1299518216864-1299518216864-10471531726831091712-2599036557184-10057-A-0-1/20200320120003.jpg" group-title="⑯♥️[文娱精选]♥️-科技人文",军武大本营
+http://aldirect.rtmp.huya.com/huyalive/1299518216864-1299518216864-10471531726831091712-2599036557184-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",法治天地
+http://47.240.60.73/migu.php?id=631095330
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="⑯♥️[文娱精选]♥️-科技人文",求索纪录
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000144
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="⑯♥️[文娱精选]♥️-科技人文",求索纪录
+http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="⑯♥️[文娱精选]♥️-科技人文",求索记录
+http://112.17.40.145/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="⑯♥️[文娱精选]♥️-科技人文",求索科学
+http://125.210.152.18:9090/live/QSKX_1200.m3u8
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="⑯♥️[文娱精选]♥️-科技人文",求索动物
+http://125.210.152.18:9090/live/QSDW_1200.m3u8
+#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="⑯♥️[文娱精选]♥️-科技人文",求索生活
+http://125.210.152.18:9090/live/QSSH_1200.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",自然地理
+http://47.240.60.73/aqy.php?id=3801158
+#EXTINF:-1 tvg-id="691" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="⑯♥️[文娱精选]♥️-科技人文",国家地理
+http://itv.ahau.edu.cn/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="⑯♥️[文娱精选]♥️-科技人文",珠江电影
+http://www.dszbdq.cn/play/zjkp52.php?id=7
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",Discovery王牌节目展播
+http://47.240.60.73/migu.php?id=637483721
+#EXTINF:-1 tvg-id="6037" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="⑯♥️[文娱精选]♥️-科技人文",Discovery
+http://itv.ahau.edu.cn/hls/discovery.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",书法频道
+http://httpdvb.slave.homed.hrtn.net/playurl?playtype=live&protocol=hls&accesstoken=R5D22D2B7U309E0093K7735BBEDIAC2DC601PBM3187915V10453Z6B7EDWE3620470C71&&playtoken=&programid=4200000125.m3u8
+#EXTINF:-1 tvg-id="1306" tvg-name="网络棋牌" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wangluoqipai.png" group-title="⑯♥️[文娱精选]♥️-科技人文",GTV网络棋牌
+http://hdtv.lzu6.edu.cn/hls/hls65.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",东北戏曲
+http://stream1.jlntv.cn/dbxq/playlist.m3u8?_upt=8e67ab231584290996
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",第二节进博会-直播
+http://aldirect.rtmp.huya.com/huyalive/1099531728210-1099531728210-86330706665406464-2199063579876-10057-A-0-1.m3u8
+#EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/1420406442-1420406442-6100599215417720832-4563964964-10057-A-0-1/20200305165238.jpg" group-title="⑯♥️[文娱精选]♥️-科技人文",逆火行军事视频
+http://aldirect.rtmp.huya.com/huyalive/1420406442-1420406442-6100599215417720832-4563964964-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",奇妙世界
+http://47.240.60.73/aqy.php?id=3801213
+#EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="⑯♥️[文娱精选]♥️-科技人文",车迷频道
+http://112.17.40.140/PLTV/88888888/224/3221226837/index.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",极速汽车
+http://111.20.33.71/PLTV/88888888/224/3221225644/index.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",旅游攻略
+http://47.240.60.73/aqy.php?id=3801211
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",全纪实
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000119
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",北京纪实
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000145
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="⑯♥️[文娱精选]♥️-科技人文",纪实人文
+http://itv.ahau.edu.cn/hls/docuchina.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="⑯♥️[文娱精选]♥️-科技人文",金鹰纪实
+http://itv.ahau.edu.cn/hls/gedocu.m3u8
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",陶瓷FHD
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000136
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",人文社会
+http://47.240.60.73/aqy.php?id=3801160
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",高清娱乐
+http://47.240.60.73/migu.php?id=615809851
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",生活时尚
+http://stream.slave.jxtvnet.tv:14311/playurl?accesstoken=R5DC2A42FU309BB004K7738E848ICA43ED17PBM345713AV0Z57EA5W15D48CE92ED319F0&playtype=live&protocol=http&playtoken=ABCDEFGH&auth=no&programid=4200000141
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",科学探索
+http://47.240.60.73/aqy.php?id=3801157
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",军事观察
+http://47.240.60.73/aqy.php?id=3801212
+#EXTINF:-1 group-title="⑯♥️[文娱精选]♥️-科技人文",长沙装机
+http://aldirect.rtmp.huya.com/huyalive/59768972-59768972-6769782383193341193-1553416746-10057-A-1578456924-1_2500.m3u8
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",一起学健身
 http://aldirect.rtmp.huya.com/huyalive/1199526253101-1199526253101-5284431197248684032-2399052629658-10057-A-0-1.m3u8?wsSecret=2db11f89a10fe06e30fab33661fc0183&wsTime=5e23f413&fs=bgct&ratio=2500
 #EXTINF:-1 group-title="⑰⚽体育健康🏋️",亚旅卫视
@@ -3695,6 +3695,430 @@ http://vr.v.ipanda.com/vrvod/video/2016/06/01/939bacfa6bff4e4489cf28ed2a7ead41_H
 http://vr.v.ipanda.com/vrvod/video/2016/06/01/2a55f913ad6240838782b687faf476f4_H264_4500_AAC128.mp4
 #EXTINF:-1 group-title="⑲🌴[全国景区-C航拍]🌄",台湾:多样生态 独特人文
 http://vr.v.ipanda.com/vrvod/video/2016/05/31/994416a22f1b4f59b2b1cc70465bcabf_H264_4500_AAC128.mp4
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第1集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/539a3183a8a84a946e4f4197e75217ff/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第2集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/9b73de695c05424acab8a68e20019918/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第3集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/a06ac3e15ab842a1548f99ab0b721f28/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第4集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/440dbeb585f14e6e903a3bb740e355f8/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第5集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/8ba05bc59a444716017c678a63858fa8/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第6集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/0a3342ab0a134dd67987c781f5f9ea08/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第7集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/bd0955cd29914d713dbda796d45d07ee/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第8集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/eceb84efdd69422ac0d566b6e6b6add2/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第9集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/1cdd4874ce964c9c4f113eb2ad5567e1/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第10集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/320f00e7af0648c491c262a77e28de5c/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第11集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/cdd9b445fcb9477dbe4091b911c9dc48/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第12集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/994f7a1124814278102ba2978c4c12af/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第13集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/067d47c2c7dc45102feb1fb66ee1ab3a/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第14集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/cee1d03910114b0d9c63acaea2587ae9/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第15集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/6e54efb818c1494318f882abfb05cf02/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第16集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/7273d9994c114004f8d89e93307f03a6/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第17集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c510e0a2ebd5431eaeaa65829922d424/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第18集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/582abc3a9d8848eccd6063bbf1ea1988/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第19集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/700fea3cb55349e6800198a594d77d7c/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第20集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/cfe8cfec844a4ea12d002fbe6f8de0b6/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第21集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/254d44e5b2aa40481963c5a6446c5468/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第22集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/2dc3d359cff74fb2723454b1b789fbf5/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第23集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3c6c75c98a2649c5f5d714bb61279ac4/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第24集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3079ac39afff4fe1a0358292fbef0b85/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第25集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/8334dd8be6624766092d55b5587eac7a/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第26集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/fa1cf1f701804615982ab1be072d0e13/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第27集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/8567a7d387594dca09b500a42bf11ca3/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第28集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/aa2bd8541c834e3f6263d19696463903/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第29集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/b2861d8e148748f75893c9b26eaa3183/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第30集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/62e0762c7ff345eda2c7479b2a3960f0/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第31集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/698bc283fe89446efa3103826c5b7082/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第32集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/cbabdf9a439b4ac3e397fd9c4d6422f6/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第33集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/eb4873756dc542ee0a3f9fa83113b2cf/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第34集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/219d7ebe3a61414467c51882fe2ba400/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第35集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/af0d54d941c24e0ef1b0388eb8094398/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第36集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/e33184cebbb64664e909bca1a4cb292a/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第37集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/354165a545fa4e78075665a948261d1f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第38集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/642fd489eb214eb8c5b9a7aa15d9528c/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第39集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/9035882ee7534ec03c2c2f8950367501/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第40集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/43c7cebff8a445b61a0356a0c9d09d6a/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第41集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/63191e6e5dbc4cb74d2a9a891bc75353/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第42集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/9d6ca8765d654f5ebd81e0b6ef6a32f3/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第43集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/13024780da004fe2dac3e8a3283571c6/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第44集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/72168003ae6d4b2351c81faa3af7c7a6/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第45集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/5914fd89eb9f4c983c364b9cae540085/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第46集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/03bb0d174a604e9c336cd3aa10c3adbe/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第47集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/dca1291a090c4d4f5a7c8e94d237c711/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第48集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/a9d3023981714068e2aff5b7c62a77dd/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第49集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/325a8b235ae548ba273e9db41c1901cb/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第50集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/fc4f232538e746e99b20d881882e3312/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第51集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/1cb201152d07493ce7e1fcaf70cb6687/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第52集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c6adab3972814cfa10edc4a3619b7887/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第53集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c879fd1185f24daa4a09d28ee10affb2/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第54集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/9961bd57a0f34c12c8e0db938357bc7e/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第55集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/391da75833bf4b1027b8048e0f259b8f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第56集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/1ef127e30a5e47047babc2a0898ffd7e/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第57集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/1979bfff57ee49001a8283bf1f61de3f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第58集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/ea55578e236845472cdaef8e0e30870a/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第59集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/4996d19e1ab14ce8a7eaa0b44808ce97/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第60集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/823bb1d2881a46c83cd2a5b89853666f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第61集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/4d0f81da74f647ff8ae96082ffc092ee/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第62集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/6e5dd0e854e44c391d03649287842784/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第63集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/d2c98478c8164267a7370b91b9c610d9/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第64集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/2d8c4f2f7cca410d37e0c1b83256c3e4/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第65集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/d81747cc06d144a5e7e555ba85f94911/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第66集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/2e87e40d9a9141be7fcd8f952dec4425/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第67集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c1e9510eb09642ac3889129345b032f9/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第68集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/ad05bde8fb414dd6b651d58aaf7f7fbc/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第69集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/784e66336951408103cdeb8c15023865/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第70集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/7a5dd7969afa47857cb493b7b28feeb7/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第71集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/a2cf7f3fe75d4a3378dad882b47858ad/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第72集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/fa91d2abb45540befddfe681e9291605/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第73集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/ce9d517fb9e54785a9583ebc42cfd002/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第74集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/6d353c58300e4160df837880c9d59d7e/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第75集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/a74adc1934bb4fb7dcf5c2aac62862cd/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第76集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/7f5dd6b5a13a47f52d9e6b89e4e3cc92/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第77集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/aef7d5df316c43ab9613338ffea615d6/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第78集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/80b7539c5b43456746926c9a902f2f36/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第79集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/03d6bc978b024becebb23a88738ee9db/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第80集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/a133ddf6feac440315811db712778777/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第81集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/43b29f6cf3964fcefede4eb8292bfa26/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第82集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/df5fcbd64b904847458cab9d23d23f45/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第83集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/e7caf70e3d534b7702d3bbb31df7513d/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第84集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/2e2de9e454284f56df09419bb68d53ae/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第85集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/45cfb6f74754445975dbfc8ca4a86f38/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第86集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/58ffe1e05cfb43447812bba4f098b3a3/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第87集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c82f692a68814bc702d71faf8df96d09/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第88集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/085f609197044a65c1bac3bceb64d447/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第89集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/58e79671179f46716d13f0a4ad71854f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第90集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c841ecc2a7854d65b1c596949df3dca8/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第91集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/69322e28643c4262cbdac09ed78d30a5/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第92集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/DBCE08E602F2472b9E944C9FAD5596D9/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第93集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/0b9f4a596aee4ae340c919aa788239fa/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第94集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/ec23ae5607ff488363a8cfb061a81eb8/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第95集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/5874e385bdbb45b287bf058b1e971b8f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第96集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/26d776cb10544aac463748bd12e5748d/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第97集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/622a4d998b714474459a1ca8579d4bcc/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第98集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/6945dc8b4794428b793f70aa0a9372e1/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第99集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/72314345cda048070ada4ba629efce16/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-边疆行]🌄",边疆行第100集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/d8bd54a2fa5a482645bb9b8fb6852e72/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第1集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/bd2a65c1267b49f86de8b29f4236e85f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第2集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3d0f090d7e3e45b2a8ab30af13e65a54/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第3集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/baab17c4071c48b59be6f09af434ef65/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第4集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/e1558e5b966c475f29f1468fa3c49231/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第5集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/11eff28f1acb462373972db33d5eeade/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第6集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/527d93f745294acc2e5e54a527634d6a/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第7集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/ce3f9c9f5d8646a9a1d0bbb7f321a6c6/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第8集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/596600651fb7437fb8f3e8bd8c5f544e/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第9集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/ad56e39541e94d02b130349f77f6cbd2/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第10集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/2de93cec71c8462b8eaf5efdaf759161/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第11集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/e2e26e45cf3946b19616e4ebde42cad1/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第12集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/0d64a18f57354154879e3b3c41932ab8/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第13集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3136edac7fda4f648e005cb9011dca7f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第14集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/152e5eac280e446886d4adb3ef183afe/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第15集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/de6ecb5f45324a4b844df1d1c9f8b250/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第16集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/78a4ae5df11e4129ba1cfba0f70db8f9/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第17集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/bbd3a164057e4ed6baefbd4e571d7752/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第18集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/b98635cab33c4c3bb2edc9b40163517a/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第19集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/66131b4dbcf14c0084c57e19f795245c/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第20集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/a8e578d58c8f4629a85d4ea7cabe39c4/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第21集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/97ec21a41ccd42c1a0442c71237ac587/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第22集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/65bc5e37f98b4b51a155fcfdc8fb28ed/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第23集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/1bcb4f1c45ed4a04a214d5010a979f1f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第24集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/014bf48add0141b5b30d4b23681a634b/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第25集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/f979b6a4aeec44469179dcbea31cc954/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第26集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/6b38c4dd6e7a4676a44cab152cdfe14e/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第27集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/40d9ae062f6a4c59bcc93d314f191cc6/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第28集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/52111d03c388441d8768f901b1ef2462/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第29集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/5b4e6181a9474d48b6dfcab23fad5149/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第30集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/dff2315c05174638966f42df97025e2a/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第31集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c1e2cd91199841b5ab8f94cf3a6ae1a5/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第32集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/175607b387604875866cc10da1b5f851/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第33集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/f4ea952df4284b69b60d87e5d957ba84/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第34集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3fb3cf57f83c4c96a142655aaaf18170/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第35集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/f266659f202f4f95a442e933d56e727d/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第36集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/82275a882b4445a797e7cf5a69b41a0e/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第37集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/b2fbbcf8467f4a33aab91e66ea6425c6/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第38集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/66aa726e978544e3b6b9aad6364cd25b/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第39集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/d5b54b2db85943bfb31744d27285b105/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第40集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/54127e68ec1742d7b9d0cac9a99aa7e3/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第41集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/50230c19f21842b6919c63d2e6e31683/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第42集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/96a5f8d2d78e4a63bdff8d01aeb68973/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第43集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/2a83c1231003489e9ef35f8b29409cf0/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第44集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/81b19aaae3b1438a897d7c8db34f9d27/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第45集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/9bc63c832c784f1b93a84ec5df3fe94a/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第46集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/b03e5167042d47ff94d8e59bc4eab140/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第47集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3771df43480d436e8b72d0b58a6083d7/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第48集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/6f74bc9665b542ad8e659be3cf1d3777/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第49集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/4cc00bca23ef45ecb536404ad9290094/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第50集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/d42562b9463f4899899663654a0f03a9/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第51集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/dbffa7e0f9e14a56b717dfcff26ab297/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第52集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/e47bba33fd3e4771946c2506aca842dc/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第53集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/6e94efd6b222403e9339e0bd8d124870/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第54集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/2a6bac3b58ac4d93a7e75a4323732687/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第55集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/2efd35ea19d94a0093a5f9feef1ca9f0/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第56集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/55ac8d29f3fa4659b14120b72e67f355/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第57集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/15729f3afee14648810e8e226cb0b75f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第58集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c2df1b118aba41b7ae970a6d7ce29c65/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第59集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/00b14860f2b847e7923d3096a0ee8c9b/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第60集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/37c3e73500bd4d9e8f37ea8e1125ad41/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第61集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/d54e838c3efd4d4ab2d7ce14103b0a60/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第62集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c301c9c1beb04eef816db24073f3e5ed/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第63集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/b913281ca2be42dc93b81af55798ba96/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第64集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/f1bca35ffb7549669276edc2231f4113/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第65集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/8fef26f470764fe085b94d2beeaace3c/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第66集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/64fd7482993247cb8195f7d5856d2636/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第67集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c37e28ff04c44ddda8dfd8918e721e41/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第68集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/46586396ff7f47ef80a465923a71eb06/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第69集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c626fc6f717b4f29b6d8143bbe693105/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第70集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/d9a8c146100f4c1caba714f5bea56b7f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第71集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3dc015290e684f3ebf9cc2b98c9ea2b1/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第72集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/1c2cee1d5c374555a93c0b59218a29ec/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第73集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3365d52b0d5a45648fddc747d6b143cf/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第74集
+http://cntv.vod.cdn.myqcloud.com/flash/mp4video19/TMS/2012/03/16/0573333e4ca44cf39a8be3e7f8f8a1bf_h264418000nero_aac32-1.mp4
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第75集
+http://cntv.vod.cdn.myqcloud.com/flash/mp4video19/TMS/2012/03/19/731e552f4f68426cafd6e246384ca1e3_h264418000nero_aac32-1.mp4
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第76集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/5a4890678ef5502389154ec579fca2ac/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第77集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/d9a8c146100f4c1caba714f5bea56b7f/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第78集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/42de5b7953054e2cad406b7b96d9e475/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第79集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/74921971b80c49beb43cb0573d67cf82/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第80集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/7865c5a30b75466981c13187e2a08ce9/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第81集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3527114a51554d69b815b783085ec3a4/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第82集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/dfd7e83585824174a2c54c55c50c61f3/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第83集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/b140fae4b9724e0fa77ae5a245f39121/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第84集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/260711e23eea457a9f6df48b2a214e6c/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第85集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/11550eb61527403c87e8eb6a9e107629/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第86集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/14677ec277d3461f92e901b7a9ca2718/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第87集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/98b55af448474cafbf3d2d3c62d1c38a/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第88集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/dc5dbc5ae1c74aa886ddbee9e03b3e9d/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第89集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/3252f2face2f4287b5160b8bdaf30857/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第90集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/8a52029a1a394a7cbba5c89072e2b3a7/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第91集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/1ae4e655dd6b476281ff45a673431434/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第92集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c4b1b965a1f14a48a1b7743bd6b5ace1/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第93集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/6c8be7b6dea74ec5b7dc7e04fdff21f2/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第94集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/40a31fbc0a49481388926ebebb847826/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第95集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/e98712cad1f044b3ac9e8971aaa3eaf2/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第96集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/7e9a0310a188459f86e1f42ee15fe222/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第97集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/7f57a7a24ca9409f8d7864d3f36f9fca/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第98集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/de392b306a2c49d286a563c2ad802dd1/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第99集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/33861b9c3d714e68b5b67bd9290cfb2c/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第100集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/bb1a50d4e6004ff2b4a9a322153ad3ce/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第101集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/ef7b70e498114bf98403895134fd2e06/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第102集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/b7bc91970fc04e2bb324dce7f68b98eb/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第103集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/a166ddb07a0c426fbb847484a9b6ae02/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第104集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/dcb4a094809343b38535031b0d950cfc/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第105集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/f04ac754c3db4d5db607344a379e4c77/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第106集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/fdc39c85e5ee4e43a9e8c7c791ae4625/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第107集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/fdc39c85e5ee4e43a9e8c7c791ae4625/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第108集
+http://hls.cntv.baishancdnx.cn/asp/hls/850/0303000a/3/default/c6c5964af7184438ac8cca01b8d14000/850.m3u8
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第109集
+http://cntv.vod.cdn.myqcloud.com/flash/mp4video21/TMS/2012/05/04/303eb12ef0fc4cff884be21ac8f1e99d_h264418000nero_aac32-1.mp4
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第110集
+http://cntv.vod.cdn.myqcloud.com/flash/mp4video21/TMS/2012/05/07/b7d0555275df4e17a2fbdde326720423_h264418000nero_aac32-1.mp4
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第111集
+http://cntv.vod.cdn.myqcloud.com/flash/mp4video21/TMS/2012/05/08/88385ccbffde4428845f5901fc300e20_h264418000nero_aac32-1.mp4
+#EXTINF:-1 group-title="⑲🌴[CCTV远方的家-沿海行]🌄",沿海行第112集
+http://cntv.vod.cdn.myqcloud.com/flash/mp4video21/TMS/2012/05/09/4f9d60fdcc3145028be6c6b7f20ebe8f_h264418000nero_aac32-1.mp4
 #EXTINF:-1 group-title="⑳🎵MTV-MV🎤-A",音乐石榴
 http://aldirect.rtmp.huya.com/huyalive/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="https://anchorpost.msstatic.com/cdnimage/anchorpost/1019/31/2aeb3c95d8f4bcb0502cd468c0fb77_2633_1564044279.jpg" group-title="⑳🎵MTV-MV🎤-A",华乐纪 2019国风音乐盛典
