@@ -477,6 +477,30 @@ http://39.134.185.39/PLTV/88888888/224/3221226606/index.m3u8
 http://39.134.185.39/PLTV/88888888/224/3221226695/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="①📺HD-蓝光 影院",求索科学
 http://39.134.185.39/PLTV/88888888/224/3221226360/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNmryy.pngg" group-title="①📺HD-蓝光 影院",CBN每日影院
+http://sd6668.top/dl/gz168.php?id=cbnmryy
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNfssh.png" group-title="①📺HD-蓝光 影院",CBN风尚生活
+http://sd6668.top/dl/gz168.php?id=cbnfssh
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNxfjc.png" group-title="①📺HD-蓝光 影院",CBN幸福剧场
+http://sd6668.top/dl/gz168.php?id=cbnxfjc
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNxfyl.png" group-title="①📺HD-蓝光 影院",CBN幸福娱乐
+http://sd6668.top/dl/gz168.php?id=cbnxfyl
+#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="①📺HD-蓝光 影院",DOX映画HD
+http://sd6668.top/dl/gz168.php?id=doxyhhd
+#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="①📺HD-蓝光 影院",DOX剧场HD
+http://sd6668.top/dl/gz168.php?id=doxjchd
+#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="①📺HD-蓝光 影院",DOX新知HD
+http://sd6668.top/dl/gz168.php?id=doxxzhd
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="①📺HD-蓝光 影院",DOX新艺HD
+http://sd6668.top/dl/gz168.php?id=doxxyhd
+#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="①📺HD-蓝光 影院",DOX院线HD
+http://sd6668.top/dl/gz168.php?id=doxyxhd
+#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="①📺HD-蓝光 影院",DOX雅趣HD
+http://sd6668.top/dl/gz168.php?id=doxyqhd
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="①📺HD-蓝光 影院",DOX怡家HD
+http://sd6668.top/dl/gz168.php?id=doxyjhd
+#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="①📺HD-蓝光 影院",DOX英伦HD
+http://sd6668.top/dl/gz168.php?id=doxylhd
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动画1台
 http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动画2台
@@ -1691,6 +1715,12 @@ http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="⑧📺IPTV剧场",香港卫视台
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="⑧📺IPTV剧场",CHC高清电影
+http://sd6668.top/dl/gz168.php?id=chcgqdy
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="⑧📺IPTV剧场",CHC家庭影院
+http://sd6668.top/dl/gz168.php?id=chcjtyy
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="⑧📺IPTV剧场",CHC动作电影
+http://sd6668.top/dl/gz168.php?id=chcdzdy
 #EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+经典剧场
 http://39.135.16.157:6610/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+谍战剧场
