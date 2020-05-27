@@ -83,6 +83,10 @@ http://hbcb.chinashadt.com:1936/live/tv2.stream/playlist.m3u8#http://hbcb.chinas
 http://cctvtxyh5ca.liveplay.myqcloud.com/wstv/hubei_2_hd.m3u8#http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="①📺广东★电视台",湖北卫视HD
 http://ivi.bupt.edu.cn/hls/hbhd.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+#EXTINF:-1 group-title="①📺港澳台★",直播中立法會會議
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_newsevent1.smil/playlist.m3u8?hdnea=st=1590549483~exp=1590635883~acl=/newslive/smil:mobilehd_newsevent1.smil/*~hmac=2c5ded3ffbb4848420c5670d63871b7c30f76d442d546ac1a9e957ae62d47393
+#EXTINF:-1 group-title="①📺港澳台★",直播中金鐘現場
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_newsevent2.smil/playlist.m3u8?hdnea=st=1590549595~exp=1590635995~acl=/newslive/smil:mobilehd_newsevent2.smil/*~hmac=5d316fc7b2bcad57024ba8e55ef7ccf23c1ada9a51d702dfd6cb395b475a245f
 #EXTINF:-1 tvg-id="6061" tvg-name="纬来戏剧台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="①📺港澳台★",纬来戏剧
 http://live.zbjh.cc/live/ws132.m3u8
 #EXTINF:-1 tvg-id="6044" tvg-name="纬来综合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="①📺港澳台★",纬来综合
@@ -1019,28 +1023,36 @@ http://cctv.v.myalicdn.com/live/cctv13_1audio.m3u8?adapt=0&BR=audio
 http://cctv.v.myalicdn.com/live/cctvchild_1audio.m3u8?adapt=0&BR=audio
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",新白娘子传奇HD
 http://cn-zjwz-dx-live-01.bilivideo.com/live-bvc/131414/live_20051598_65279225.m3u8
-#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",新白娘子传奇1
-http://47.240.60.73/yy.php?t=1382650232
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",新白娘子传奇2
 http://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_24837586_3713329.m3u8
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",怀旧经典
 http://dlhdl-cdn.zhanqi.tv/zqlive/295519_JkFS8.flv
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",济公
 http://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_21084389_5381646.m3u8
-#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",芈月传
-http://47.240.60.73/yy.php?t=1382650380
-#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",连播1
-http://47.240.60.73/yy.php?t=1351074342
-#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",连播2
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",连播
 http://sousou2.top/dl/yy1.php?t=1350309222
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",如懿传
+http://sousou2.top/dl/yy1.php?t=31292828
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",芈月传
+http://sousou2.top/dl/yy1.php?t=1382648109
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",延禧攻略1-2部全集
+http://sousou2.top/dl/yy1.php?t=21881901
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",延禧攻略
-http://47.240.60.73/yy.php?t=21881901
+http://sousou2.top/dl/yy1.php?t=21881901
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",宫斗延禧
 http://sousou2.top/dl/yy1.php?t=31292828
-#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",燕双鹰
-http://47.240.60.73/yy.php?t=1353396018
-#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",燕双鹰2
-http://47.240.60.73/yy.php?t=1352227153
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",帝艺港剧破案悬疑
+http://sousou2.top/dl/yy1.php?t=1350670730
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",鬼吹灯系列
+http://sousou2.top/dl/yy1.php?t=1351074342
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",盗墓 鬼吹灯系列电影
+http://sousou2.top/dl/yy1.php?t=1331686180
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",【盗墓】精绝女王复活
+http://sousou2.top/dl/yy1.php?t=35221801
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",【盗墓】怒晴湘西
+http://sousou2.top/dl/yy1.php?t=33177777
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",盗墓笔记
+http://sousou2.top/dl/yy1.php?t=38338029
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1/20200305171234.jpg" group-title="④📡Series现代剧-轮播",人民的名义
 http://aldirect.rtmp.huya.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1/20200320120223.jpg" group-title="④📡Series现代剧-轮播",伪装者
