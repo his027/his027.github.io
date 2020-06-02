@@ -19,6 +19,8 @@ http://www.dszbdq.cn/play/gztv.php?id=gzxw
 http://39.134.185.39/PLTV/88888888/224/3221226368/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="①📺广东★电视台",凤凰资讯
 http://39.134.185.39/PLTV/88888888/224/3221226491/index.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="①📺广东★电视台",无线新闻
+http://520574.xyz/dl/tvb.php
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/shics.png" group-title="①📺广东★电视台",上海ICS外语频道
 http://keonline.shanghai.liveplay.qq.com/live/program/live/wypd/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="177" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="①📺广东★电视台",中国交通（广东）
@@ -371,6 +373,10 @@ http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 http://aldirect.rtmp.huya.com/huyalive/1445282059-1445282059-6207439176900542464-2990957820-10057-A-0-1_2500.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/mslzq.jpg" group-title="①📺HD-4K   鉴赏",美食李子柒
 http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/kpzg.png" group-title="①📺HD-4K   鉴赏",科普中国（G+TV8 ）
+http://39.135.16.157:6610/PLTV/88888888/224/3221226036/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/G+4K.png" group-title="①📺HD-4K   鉴赏",G+4K
+http://39.135.16.157:6610/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/4K.png" group-title="①📺HD-4K   鉴赏",4K超清电影
 http://222.128.66.194:4022/udp/239.3.1.249:8001
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/4K.png" group-title="①📺HD-4K   鉴赏",4K高清电影
@@ -453,14 +459,6 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="①📺HD-蓝光 影院",CCTV-6 HD
 http://183.207.249.9/PLTV/3/224/3221225548/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNmryy.png" group-title="①📺HD-蓝光 影院",CBN每日影院
-http://sd6668.top/dl/gz168.php?id=cbnmryy
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNxfjc.png" group-title="①📺HD-蓝光 影院",CBN幸福剧场
-http://sd6668.top/dl/gz168.php?id=cbnxfjc
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNfssh.png" group-title="①📺HD-蓝光 影院",CBN风尚生活
-http://sd6668.top/dl/gz168.php?id=cbnfssh
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNxfyl.png" group-title="①📺HD-蓝光 影院",CBN幸福娱乐
-http://sd6668.top/dl/gz168.php?id=cbnxfyl
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD大众影视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqhd.png" group-title="①📺HD-蓝光 影院",高清HD家庭剧场
@@ -483,22 +481,6 @@ http://39.134.185.39/PLTV/88888888/224/3221226606/index.m3u8
 http://39.134.185.39/PLTV/88888888/224/3221226695/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="①📺HD-蓝光 影院",求索科学
 http://39.134.185.39/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="①📺HD-蓝光 影院",DOX映画HD
-http://sd6668.top/dl/gz168.php?id=doxyhhd
-#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="①📺HD-蓝光 影院",DOX剧场HD
-http://sd6668.top/dl/gz168.php?id=doxjchd
-#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="①📺HD-蓝光 影院",DOX新知HD
-http://sd6668.top/dl/gz168.php?id=doxxzhd
-#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="①📺HD-蓝光 影院",DOX新艺HD
-http://sd6668.top/dl/gz168.php?id=doxxyhd
-#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="①📺HD-蓝光 影院",DOX院线HD
-http://sd6668.top/dl/gz168.php?id=doxyxhd
-#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="①📺HD-蓝光 影院",DOX雅趣HD
-http://sd6668.top/dl/gz168.php?id=doxyqhd
-#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="①📺HD-蓝光 影院",DOX怡家HD
-http://sd6668.top/dl/gz168.php?id=doxyjhd
-#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="①📺HD-蓝光 影院",DOX英伦HD
-http://sd6668.top/dl/gz168.php?id=doxylhd
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动画1台
 http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/lggq.png" group-title="①📺HD-蓝光 影院",蓝光动画2台
@@ -1053,12 +1035,8 @@ http://sousou2.top/dl/yy1.php?t=1350309222
 http://sousou2.top/dl/yy1.php?t=31292828
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",芈月传
 http://sousou2.top/dl/yy1.php?t=1382648109
-#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",延禧攻略1-2部全集
-http://sousou2.top/dl/yy1.php?t=21881901
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",延禧攻略
 http://sousou2.top/dl/yy1.php?t=21881901
-#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",宫斗延禧
-http://sousou2.top/dl/yy1.php?t=31292828
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",帝艺港剧破案悬疑
 http://sousou2.top/dl/yy1.php?t=1350670730
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",鬼吹灯系列
@@ -1071,6 +1049,8 @@ http://sousou2.top/dl/yy1.php?t=35221801
 http://sousou2.top/dl/yy1.php?t=33177777
 #EXTINF:-1 group-title="④📡 YY 直播 （有广告）",盗墓笔记
 http://sousou2.top/dl/yy1.php?t=38338029
+#EXTINF:-1 group-title="④📡 YY 直播 （有广告）",峨眉山影视
+http://dlhdl-cdn.zhanqi.tv/zqlive/296155_gui3i.flv
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1/20200305171234.jpg" group-title="④📡Series现代剧-轮播",人民的名义
 http://aldirect.rtmp.huya.com/huyalive/30765679-2481506528-10657989382570508288-2789274552-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://live-cover.msstatic.com/huyalive/30765679-2554414866-10971128309886222336-3049003164-10057-A-0-1/20200320120223.jpg" group-title="④📡Series现代剧-轮播",伪装者
@@ -1715,6 +1695,30 @@ http://sd6668.top/dl/gz168.php?id=chcgqdy
 http://sd6668.top/dl/gz168.php?id=chcjtyy
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="⑧📺IPTV剧场",CHC动作电影
 http://sd6668.top/dl/gz168.php?id=chcdzdy
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNmryy.png" group-title="⑧📺IPTV剧场",CBN每日影院
+http://sd6668.top/dl/gz168.php?id=cbnmryy
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNxfjc.png" group-title="⑧📺IPTV剧场",CBN幸福剧场
+http://sd6668.top/dl/gz168.php?id=cbnxfjc
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNfssh.png" group-title="⑧📺IPTV剧场",CBN风尚生活
+http://sd6668.top/dl/gz168.php?id=cbnfssh
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNxfyl.png" group-title="⑧📺IPTV剧场",CBN幸福娱乐
+http://sd6668.top/dl/gz168.php?id=cbnxfyl
+#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="⑧📺IPTV剧场",DOX映画HD
+http://sd6668.top/dl/gz168.php?id=doxyhhd
+#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="⑧📺IPTV剧场",DOX剧场HD
+http://sd6668.top/dl/gz168.php?id=doxjchd
+#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="⑧📺IPTV剧场",DOX新知HD
+http://sd6668.top/dl/gz168.php?id=doxxzhd
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="⑧📺IPTV剧场",DOX新艺HD
+http://sd6668.top/dl/gz168.php?id=doxxyhd
+#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="⑧📺IPTV剧场",DOX院线HD
+http://sd6668.top/dl/gz168.php?id=doxyxhd
+#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="⑧📺IPTV剧场",DOX雅趣HD
+http://sd6668.top/dl/gz168.php?id=doxyqhd
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="⑧📺IPTV剧场",DOX怡家HD
+http://sd6668.top/dl/gz168.php?id=doxyjhd
+#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="⑧📺IPTV剧场",DOX英伦HD
+http://sd6668.top/dl/gz168.php?id=doxylhd
 #EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+经典剧场
 http://39.135.16.157:6610/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+谍战剧场
@@ -1921,7 +1925,7 @@ http://101.71.255.229:6610/zjhs/2/10043/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
 #EXTINF:-1 group-title="⑨📺影视剧📀 TV ",亚洲影院
 http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com&tid=U0L14XNX2GN19M0APIZKBZ1WC41Q&ts=1550812411
-#EXTINF:-1 group-title="⑨📺影视剧📀 TV ",天映
+#EXTINF:-1 group-title="⑨📺影视剧📀 TV ",天映经典
 https://livedoomovies.com/02_CCM_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="⑨📺影视剧📀 TV ",潇湘电影
 http://fms.yyrtv.com:82/hls-live/livepkgr/_definst_/liveevent/hunanxiaoxiang200323.m3u8
