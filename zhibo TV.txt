@@ -7,7 +7,6 @@ http://epg.51zmt.top:8000/huya.m3u
 http://www.aihaotv.cn/mtv/wzzb.txt
 https://ys.xitaofan.com/zbtv/tv.m3u
 http://tv.boye.ml/iptv/tv.m3u
-http://120.79.171.154/xzkj.m3u
 xxx直播源   https://gg.zqq.workers.dev/TG@yylive.m3u
 https://gitee.com/kinghunki/ZBTV
 有家tv https://gitee.com/zhang_san_dao/tv/raw/master/tv/有家tv.txt
