@@ -39,6 +39,8 @@ http://101.71.255.229:6610/zjhs/2/10007/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://livecdn1.news.cn/cnccn/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/hqdst.png" group-title="①📺广东★电视台",环球电视台
 http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/sypd.png" group-title="①📺广东★电视台",摄影频道
+http://111.229.73.84/dl/gz168.php?id=sy
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/hqly.png" group-title="①📺广东★电视台",环球旅游
 http://bbs.mulu8.cn/play/gz.php?id=hqly
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/atv.png" group-title="①📺广东★电视台",亚洲卫视
@@ -377,20 +379,22 @@ http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 http://39.135.16.157:6610/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/4K.png" group-title="①📺4K-UHD   鉴赏",4K超清电影
 http://222.128.66.194:4022/udp/239.3.1.249:8001
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/as4k.png" group-title="①📺4K-UHD   鉴赏",爱上4K
+http://222.128.66.194:4022/udp/239.2.1.236:2000#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/4K.png" group-title="①📺4K-UHD   鉴赏",4K高清电影
 http://wx.tt1008.top/yfy.php?id=51024
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/Olympic.png" group-title="①📺4K-UHD   鉴赏",Olympic Channel
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/ssly.png" group-title="①📺4K-UHD   鉴赏",时尚旅游HD
+http://117.148.187.13/PLTV/88888888/224/3221226360/index.m3u8
+#EXTINF:-1 tvg-id="6242" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/dwsj.jpg" group-title="①📺4K-UHD   鉴赏",动物世界Channel 求索动物
+http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/ipanda.png" group-title="①📺4K-UHD   鉴赏",熊猫频道高清
 http://itv.ahau.edu.cn/hls/hls148.m3u8#http://hdtv.lzu6.edu.cn/hls/hls148.m3u8
 #EXTINF:-1 tvg-id="63" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/3dpd.png" group-title="①📺4K-UHD   鉴赏",3D Channel
 http://112.17.40.140/PLTV/88888888/224/3221226475/index.m3u8#http://39.134.185.39/PLTV/88888888/224/3221226475/index.m3u8
-#EXTINF:-1 tvg-id="6242" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/dwsj.jpg" group-title="①📺4K-UHD   鉴赏",动物世界Channel 求索动物
-http://112.17.40.140/PLTV/88888888/224/3221226695/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/gqjl.jpg" group-title="①📺4K-UHD   鉴赏",超清纪录片集锦
 
-#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/as4k.png" group-title="①📺4K-UHD   鉴赏",爱上4K
-http://222.128.66.194:4022/udp/239.2.1.236:2000#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="①📺4K-UHD   鉴赏",CCTV4K
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/dmxc.png" group-title="①📺4K-UHD   鉴赏",动漫秀场
@@ -1759,6 +1763,38 @@ http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyqhd
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxyjhd
 #EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="⑧📺IPTV剧场",DOX英伦HD
 http://jxiptv.xn--9kqp7k2rd.com/vip/gz.php?id=doxylhd
+#EXTINF:-1 tvg-id="75" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/chchd.png" group-title="⑧📺IPTV剧场",CHC高清电影
+http://111.229.73.84/dl/gz168.php?id=chcgqdy
+#EXTINF:-1 tvg-id="79" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/chcatv.png" group-title="⑧📺IPTV剧场",CHC动作电影
+http://111.229.73.84/dl/gz168.php?id=chcdzdy
+#EXTINF:-1 tvg-id="80" tvg-name="CHC家庭电影" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/chctv.png" group-title="⑧📺IPTV剧场",CHC家庭影院
+http://111.229.73.84/dl/gz168.php?id=chcjtyy
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNmryy.png" group-title="⑧📺IPTV剧场",CBN每日影院
+http://111.229.73.84/dl/gz168.php?id=cbnmryy
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNxfjc.png" group-title="⑧📺IPTV剧场",CBN幸福剧场
+http://111.229.73.84/dl/gz168.php?id=cbnxfjc
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNfssh.png" group-title="⑧📺IPTV剧场",CBN风尚生活
+http://111.229.73.84/dl/gz168.php?id=cbnfssh
+#EXTINF:-1 tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/pic/CBNxfyl.png" group-title="⑧📺IPTV剧场",CBN幸福娱乐
+http://111.229.73.84/dl/gz168.php?id=cbnxfyl
+#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="⑧📺IPTV剧场",DOX映画HD
+http://111.229.73.84/dl/gz168.php?id=doxyhhd
+#EXTINF:-1 tvg-id="1971" tvg-name="DOX剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_juchang.png" group-title="⑧📺IPTV剧场",DOX剧场HD
+http://111.229.73.84/dl/gz168.php?id=doxjchd
+#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="⑧📺IPTV剧场",DOX新知HD
+http://111.229.73.84/dl/gz168.php?id=doxxzhd
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="⑧📺IPTV剧场",DOX新艺HD
+http://111.229.73.84/dl/gz168.php?id=doxxyhd
+#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="⑧📺IPTV剧场",DOX院线HD
+http://111.229.73.84/dl/gz168.php?id=doxyxhd
+#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="⑧📺IPTV剧场",DOX雅趣HD
+http://111.229.73.84/dl/gz168.php?id=doxyqhd
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="⑧📺IPTV剧场",DOX怡家HD
+http://111.229.73.84/dl/gz168.php?id=doxyjhd
+#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="⑧📺IPTV剧场",DOX英伦HD
+http://111.229.73.84/dl/gz168.php?id=doxylhd
+#EXTINF:-1 tvg-name="DOX" group-title="⑧📺IPTV剧场",DOXTV
+http://111.229.73.84/dl/gz168.php?id=doxtv
 #EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+经典剧场
 http://39.135.16.157:6610/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="⑧📺IPTV-G+剧场",G+谍战剧场
@@ -2225,24 +2261,6 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jiatingjuchang_1
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_lishimiwen_1080p_t10/c15_lb_lishimiwen_1080p_t10.m3u8
 #EXTINF:-1 group-title="⑩📡爱奇艺@影集",爱奇艺_儿童乐园
 http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_dongmantiandi_1080p_t10/c15_lb_dongmantiandi_1080p_t10.m3u8
-#EXTINF:-1 group-title="⑪📡CIBN@影集",微电影
-http://47.240.60.73/Mitv/cibn.php?id=25
-#EXTINF:-1 group-title="⑪📡CIBN@影集",精品影院
-http://47.240.60.73/Mitv/cibn.php?id=4
-#EXTINF:-1 group-title="⑪📡CIBN@影集",经典剧场
-http://47.240.60.73/Mitv/cibn.php?id=15
-#EXTINF:-1 group-title="⑪📡CIBN@影集",华语影院
-http://47.240.60.73/Mitv/cibn.php?id=39
-#EXTINF:-1 group-title="⑪📡CIBN@影集",情感影院
-http://47.240.60.73/Mitv/cibn.php?id=6
-#EXTINF:-1 group-title="⑪📡CIBN@影集",骄阳剧场
-http://47.240.60.73/Mitv/cibn.php?id=13
-#EXTINF:-1 group-title="⑪📡CIBN@影集",喜剧影院
-http://47.240.60.73/Mitv/cibn.php?id=3
-#EXTINF:-1 group-title="⑪📡CIBN@影集",动作影院
-http://47.240.60.73/Mitv/cibn.php?id=9
-#EXTINF:-1 group-title="⑪📡CIBN@影集",古装剧场
-http://47.240.60.73/Mitv/cibn.php?id=26
 #EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN精品影院
 http://iptv.inewya.com/QQ:494937337/others/cibn.php?id=0
 #EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN生活
@@ -2431,6 +2449,50 @@ http://tv.boye.ml/iptv/cibn.php?id=68
 http://tv.boye.ml/iptv/cibn.php?id=DianJing
 #EXTINF:-1 tvg-id="8054" tvg-name="动作影院" tvg-logo="http://tv.boye.ml/iptv/icon/cibn.png" group-title="⑪📡CIBN@影集",CIBN-动作影院
 http://tv.boye.ml/iptv/cibn.php?id=ShengHuo
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN女团专场
+http://v.iam7.cn/iptv/cibn.php?code=208
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN巨星演唱会
+http://v.iam7.cn/iptv/cibn.php?code=135
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN流行榜单
+http://v.iam7.cn/iptv/cibn.php?code=155
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN音乐综艺
+http://v.iam7.cn/iptv/cibn.php?code=145
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN全球歌曲
+http://v.iam7.cn/iptv/cibn.php?code=338
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN经典音乐
+http://v.iam7.cn/iptv/cibn.php?code=128
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN健康
+http://v.iam7.cn/iptv/cibn.php?code=JianKang
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN军事
+http://v.iam7.cn/iptv/cibn.php?code=YinYue
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN动作影院
+http://v.iam7.cn/iptv/cibn.php?code=ShengHuo
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN古典音乐
+http://v.iam7.cn/iptv/cibn.php?code=78
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN古装剧场
+http://v.iam7.cn/iptv/cibn.php?code=ZongYi
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN喜剧影院
+http://v.iam7.cn/iptv/cibn.php?code=TongBu
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN嗨播SNH48
+http://v.iam7.cn/iptv/cibn.php?code=LvYou
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN好莱坞
+http://v.iam7.cn/iptv/cibn.php?code=ZongHe
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN微电影
+http://v.iam7.cn/iptv/cibn.php?code=WeiDianYing
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN怡家
+http://v.iam7.cn/iptv/cibn.php?code=JiaoYu
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN情感影院
+http://v.iam7.cn/iptv/cibn.php?code=QingGan
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN戏说大电影
+http://v.iam7.cn/iptv/cibn.php?code=501
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN文旅中国
+http://v.iam7.cn/iptv/cibn.php?code=MeiZhuang
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN斗牛财经
+http://v.iam7.cn/iptv/cibn.php?code=126
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN新知
+http://v.iam7.cn/iptv/cibn.php?code=FengShang
+#EXTINF:-1 group-title="⑪📡CIBN@影集",CIBN时尚生活
+http://v.iam7.cn/iptv/cibn.php?code=DongLinFaYin
 #EXTINF:-1 group-title="⑫📡华数@影集",华数_军事纪实
 http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
 #EXTINF:-1 group-title="⑫📡华数@影集",华数_科教人文
