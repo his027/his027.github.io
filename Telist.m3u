@@ -5973,6 +5973,10 @@ http://www.mgytv.top/live/gduyx.php?id=xindongman_1500
 http://www.mgytv.top/live/gduyx.php?id=xingfucai_1500
 #EXTINF:-1 group-title="④📺地方-备用 广东",高尔夫
 http://www.mgytv.top/live/gduyx.php?id=golf_1500
+#EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="④📺地方-备用 广东",广东珠江
+http://39.135.38.13/PLTV/88888888/224/3221226515/index.m3u8
+#EXTINF:-1 tvg-id="235" tvg-name="珠江频道" tvg-logo="https://gitee.com/his020/mo/raw/master/tvlogo/tv/gdzj.png" group-title="④📺地方-备用 广东",广东珠江
+http://gslb.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8?k=7076d4e2d0c6641eeb39b5b90d9047ca&t=5ED87556&UID=B599D9E2
 #EXTINF:-1 tvg-id="70" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="⑤📺港澳",CHC高清电影
 rtmp://ivi.bupt.edu.cn:1935/livetv/chchd
 #EXTINF:-1 tvg-id="70" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="⑤📺港澳",CHC高清电影(备)
