@@ -3,12 +3,29 @@ Sharerw国内2   http://www.sharerw.com/zb/1203.m3u
 虎牙源头3    https://raw.githubusercontent.com/panda-mute/iptv/master/huya-all.m3u
 http://epg.51zmt.top:8000/huya.m3u
 直播源4  http://120.79.171.154/xzkj.m3u
-直播源5  http://zhiboy.ml/tv.txt
-http://www.aihaotv.cn/mtv/wzzb.txt
 https://ys.xitaofan.com/zbtv/tv.m3u
 http://tv.boye.ml/iptv/tv.m3u
 xxx直播源   https://gg.zqq.workers.dev/TG@yylive.m3u
-https://gitee.com/kinghunki/ZBTV
 有家tv https://gitee.com/zhang_san_dao/tv/raw/master/tv/有家tv.txt
-http://epg.51zmt.top:8000/m3u/0345c8a4-8baa-11ea-8626-408d5caac48f.m3u
 
+
+
+
+
+
+http://106.13.168.120/huya/20119169
+http://shaonian123.yixuedh.com/2020/migu.php?id=625703337
+http://xunjietv.top/aqy.php?id=3801151
+http://v.iam7.cn/iptv/migu/?id=617432328
+
+http://47.240.60.73/aqy.php?id=3801701
+
+http://47.240.60.73/migu.php?id=617432328
+
+
+http://xunjietv.top/aqy.php?id=3801701
+
+http://tkhz.vip/gd234.php?id=gznews_1500#http://tv.tonyt.top/iptv/gd.php?id=5c7f6f73e4b01c17db18fbd3
+
+
+http://45.93.217.106/jiuban/gd.php?id=65
