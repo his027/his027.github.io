@@ -36,3 +36,4 @@ https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/zby/m3u%E6%BA%90/
 https://egwang186.coding.net/p/egwang186/d/iptv/git/raw/master/zby/txt%E6%BA%90/txt%E7%9B%B4%E6%92%AD.txt
 
  
+https://his020.gitee.io/ghorg/categories/animation.m3u
